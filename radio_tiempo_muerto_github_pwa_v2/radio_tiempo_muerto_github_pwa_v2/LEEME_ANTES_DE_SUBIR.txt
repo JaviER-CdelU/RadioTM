@@ -1,0 +1,31 @@
+RADIO TIEMPO MUERTO — PAQUETE COMPLETO PARA GITHUB PAGES
+
+1. Descomprimir este ZIP.
+2. Subir TODOS los archivos y carpetas al repositorio nuevo.
+3. El archivo index.html debe quedar en la raíz del repositorio.
+4. En GitHub: Ajustes > Pages > Deploy from a branch > principal/main > /(root).
+
+INCLUIDO EN ESTA ENTREGA
+- Diseño completo con HTML, CSS y JavaScript.
+- Varias páginas conectadas entre sí.
+- Diseño adaptable a celular, tablet y computadora.
+- PWA instalable con el ícono de Radio Tiempo Muerto.
+- Reproductor conectado a la dirección anterior de la radio:
+  https://miestacion.turadioonline.com.ar/8024/;stream.mp3
+- Pantalla preparada para YouTube.
+- Ayuda para usuarios.
+- Administrador visual de fuentes de noticias.
+- Administrador de publicidades preparado para Firebase.
+
+PUBLICIDADES Y FIREBASE
+La web funciona aunque Firebase todavía no esté configurado.
+Para activar la carga y guardado de publicidades, leer:
+FIREBASE_PUBLICIDADES_PASOS.txt
+
+IMPORTANTE SOBRE LA RADIO
+Si el servidor de la radio está fuera de línea, el botón no puede producir sonido.
+Cuando RadioBOSS, AutoDJ o la transmisión estén activos, el mismo botón comenzará a reproducir la señal.
+
+DATOS OFICIALES
+Correo: rtiempomuerto@gmail.com
+WhatsApp/teléfono: +54 9 3442 405972

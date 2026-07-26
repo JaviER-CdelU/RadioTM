@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#f36b16">
+  <meta name="description" content="Administrador de publicidades de Radio Tiempo Muerto.">
+  <title>Admin Publicidades | Radio Tiempo Muerto</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" type="image/png" href="assets/img/favicon-64.png">
+  <link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png">
+  <link rel="stylesheet" href="assets/css/estilos.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="header-main">
+    <a href="index.html"><img class="brand-logo" src="assets/img/logo-radio-tiempo-muerto.png" alt="Logo de Radio Tiempo Muerto"></a>
+    <div>
+      <a class="brand-title" href="index.html"><span class="radio">Radio</span><span class="tiempo">Tiempo Muerto</span></a>
+      <div class="brand-tagline">MÚSICA, DEPORTES Y NOTICIAS PARA NUESTRA GENTE</div>
+    </div>
+    <div class="header-tools">
+      <div class="socials"><span class="live-chip"><i class="live-dot"></i> ADMINISTRACIÓN</span></div>
+    </div>
+  </div>
+  <div class="nav-wrap">
+    <button class="menu-btn" type="button" aria-expanded="false">☰ Menú</button>
+    <nav class="nav">
+      <a href="index.html">⌂ Inicio</a>
+      <a href="admin-noticias.html">▤ Fuentes de noticias</a>
+      <a class="active" href="admin-publicidades.html">📣 Publicidades</a>
+      <a href="ayuda.html">? Ayuda</a>
+    </nav>
+  </div>
+</header>
+<section class="contact-strip"><div class="contact-strip-inner"><a href="mailto:rtiempomuerto@gmail.com">✉ rtiempomuerto@gmail.com</a><a href="https://wa.me/5493442405972" target="_blank" rel="noopener">💬 +54 9 3442 405972</a></div></section>
+
+<main class="page-main" data-admin-publicidades>
+  <section class="page-hero">
+    <div class="section-kicker">ADMINISTRACIÓN CON FIREBASE</div>
+    <h1>Publicidades de <span>Radio Tiempo Muerto</span></h1>
+    <p>Desde acá vas a poder guardar la imagen, el título, el enlace, la ubicación y decidir si cada publicidad está activa o inactiva.</p>
+  </section>
+
+  <div id="firebase-status" class="firebase-status" data-kind="info">Comprobando configuración de Firebase…</div>
+
+  <section class="admin-login card">
+    <div><h2 class="card-title">🔐 Acceso administrador</h2><p id="firebase-user" class="muted">No has iniciado sesión</p></div>
+    <div class="card-actions"><button id="firebase-login" class="btn btn-primary" type="button">Ingresar con Google</button><button id="firebase-logout" class="btn btn-light" type="button" hidden>Cerrar sesión</button></div>
+  </section>
+
+  <section class="two-col admin-ad-grid">
+    <article class="card">
+      <h2 class="card-title">＋ Cargar publicidad</h2>
+      <form id="publicidad-form">
+        <div class="form-grid">
+          <label>Título<input name="titulo" type="text" maxlength="80" placeholder="Nombre del comercio o campaña" required></label>
+          <label>Ubicación<select name="ubicacion"><option value="portada">Portada</option><option value="noticias">Noticias</option><option value="comunidad">Comunidad</option><option value="podcasts">Podcasts</option></select></label>
+          <label class="span-2">Descripción breve<textarea name="descripcion" maxlength="180" placeholder="Texto breve que acompañará la imagen"></textarea></label>
+          <label class="span-2">Enlace al tocar la publicidad<input name="enlace" type="url" placeholder="https://..."></label>
+          <label>Orden<input name="orden" type="number" min="1" max="99" value="1"></label>
+          <label>Imagen<input name="imagen" type="file" accept="image/png,image/jpeg,image/webp"></label>
+          <label class="span-2 form-check"><input class="form-check-input" id="publicidad-activa" name="activa" type="checkbox" checked><span class="form-check-label">Publicar como activa</span></label>
+        </div>
+        <div class="card-actions"><button class="btn btn-primary" type="submit">Guardar publicidad</button></div>
+      </form>
+    </article>
+
+    <article class="card">
+      <h2 class="card-title">📋 Publicidades guardadas</h2>
+      <p class="muted">Podrás activar, desactivar o eliminar cada aviso.</p>
+      <div id="publicidades-list" class="ads-admin-list"><p class="muted">Iniciá sesión para ver las publicidades.</p></div>
+    </article>
+  </section>
+
+  <div class="notice" style="margin-top:16px">La página ya queda preparada para Firebase. Hasta completar la configuración, la portada funciona normalmente y muestra un espacio publicitario de ejemplo.</div>
+</main>
+<footer class="site-footer"><div class="footer-inner"><span>© 2026 Radio Tiempo Muerto</span><span>Información, música y comunidad de Concepción del Uruguay.</span></div></footer>
+<div class="toast" role="status" aria-live="polite"></div>
+<script src="assets/js/principal.js"></script>
+<script type="module" src="assets/js/publicidades.js"></script>
+</body>
+</html>
