@@ -1,0 +1,36 @@
+RADIO TIEMPO MUERTO — SUBIDA LIMPIA A GITHUB
+
+IMPORTANTE: este ZIP ya está preparado SIN una carpeta exterior.
+
+1. En el repositorio RadioTM, borrar la carpeta vieja:
+   radio_tiempo_muerto_github_pwa_v2
+
+2. Podés dejar README.md o reemplazarlo por el incluido en este paquete.
+
+3. Descomprimir este ZIP en la computadora.
+
+4. Abrir la carpeta descomprimida. Allí se deben ver directamente:
+   index.html
+   noticias.html
+   comunidad.html
+   assets
+   manifest.webmanifest
+   service-worker.js
+   .github
+   .nojekyll
+   y los demás archivos.
+
+5. Seleccionar TODO lo que está dentro de la carpeta descomprimida y subirlo a la raíz del repositorio.
+   NO subir la carpeta exterior y NO subir el ZIP cerrado.
+
+6. En GitHub Pages usar:
+   Rama: main
+   Carpeta: /(root)
+
+7. Dirección esperada:
+   https://javier-cdelu.github.io/RadioTM/
+
+NOTA:
+- El reproductor usa la señal: https://miestacion.turadioonline.com.ar/8024/;stream.mp3
+- El flujo de actualización del río está en .github/workflows/actualizar-rio.yml
+- Firebase para publicidades se configura después siguiendo FIREBASE_PUBLICIDADES_PASOS.txt
