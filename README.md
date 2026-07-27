@@ -7,3 +7,8 @@ Incluye radio en vivo, noticias, comunidad, corresponsales, podcasts, clima, alt
 **Contacto**
 - Correo: rtiempomuerto@gmail.com
 - WhatsApp: +54 9 3442 405972
+
+
+## Firebase
+
+La aplicación web está conectada al proyecto Firebase. Para habilitar el administrador deben activarse Authentication con Google, Firestore y sus reglas de seguridad.
