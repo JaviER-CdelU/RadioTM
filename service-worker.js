@@ -1,4 +1,4 @@
-const CACHE = 'radio-tiempo-muerto-v5-admin';
+const CACHE = 'radio-tiempo-muerto-v6-firebase-diagnostico';
 const ASSETS = [
   './', './index.html', './noticias.html', './comunidad.html', './corresponsales.html',
   './podcasts.html', './clima-rio.html', './aportes.html', './contacto.html',

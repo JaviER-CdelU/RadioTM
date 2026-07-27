@@ -59,7 +59,8 @@
           <label class="span-2">Descripción breve<textarea name="descripcion" maxlength="180" placeholder="Texto breve que acompañará la imagen"></textarea></label>
           <label class="span-2">Enlace al tocar la publicidad<input name="enlace" type="url" placeholder="https://..."></label>
           <label>Orden<input name="orden" type="number" min="1" max="99" value="1"></label>
-          <label>Imagen<input name="imagen" type="file" accept="image/png,image/jpeg,image/webp"></label>
+          <label>Imagen desde tu equipo<input name="imagen" type="file" accept="image/png,image/jpeg,image/webp"></label>
+          <label class="span-2">URL de imagen (opcional)<input name="imagenUrl" type="url" placeholder="https://... (sirve si Storage todavía no está activado)"></label>
           <label class="span-2 form-check"><input class="form-check-input" id="publicidad-activa" name="activa" type="checkbox" checked><span class="form-check-label">Publicar como activa</span></label>
         </div>
         <div class="card-actions"><button class="btn btn-primary" type="submit">Guardar publicidad</button></div>
@@ -73,11 +74,11 @@
     </article>
   </section>
 
-  <div class="notice" style="margin-top:16px">La página ya queda preparada para Firebase. Hasta completar la configuración, la portada funciona normalmente y muestra un espacio publicitario de ejemplo.</div>
+  <div class="notice" style="margin-top:16px">Para guardar datos, las reglas de Firestore deben estar publicadas. Si Cloud Storage todavía no está activado, podés guardar el aviso sin archivo o pegar una URL de imagen.</div>
 </main>
 <footer class="site-footer"><div class="footer-inner"><span>© 2026 Radio Tiempo Muerto</span><span>Información, música y comunidad de Concepción del Uruguay.</span></div></footer>
 <div class="toast" role="status" aria-live="polite"></div>
-<script src="assets/js/principal.js?v=admin3"></script>
-<script type="module" src="assets/js/publicidades.js?v=admin3"></script>
+<script src="assets/js/principal.js?v=admin4"></script>
+<script type="module" src="assets/js/publicidades.js?v=admin4"></script>
 </body>
 </html>
