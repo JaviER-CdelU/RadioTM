@@ -15,3 +15,11 @@ La aplicación web está conectada al proyecto Firebase. Para habilitar el admin
 
 
 Versión técnica: Firebase conectado + corrección de caché v2.
+
+
+## Actualizaciones automáticas
+
+- Clima: Open-Meteo, cada 15 minutos mientras la web está abierta.
+- Río Uruguay: Prefectura Naval Argentina, consulta de GitHub Actions cada 30 minutos.
+- Noticias: fuentes activas de Firebase, consulta de GitHub Actions aproximadamente cada hora.
+- Facebook e Instagram: requieren selección manual o la integración oficial de Meta.
