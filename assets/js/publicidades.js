@@ -1,4 +1,4 @@
-import { FIREBASE_ENABLED, ADMIN_EMAIL, firebaseConfig } from './firebase-config.js';
+import { FIREBASE_ENABLED, ADMIN_EMAIL, firebaseConfig } from './firebase-config.js?v=firebase2';
 
 const publicSlot = document.querySelector('#publicidad-portada');
 const adminRoot = document.querySelector('[data-admin-publicidades]');
@@ -32,7 +32,7 @@ function renderPublicAd(ad) {
 async function initFirebase() {
   if (!FIREBASE_ENABLED || !firebaseConfig.apiKey || !firebaseConfig.projectId) {
     if (adminRoot) {
-      setStatus('Firebase está preparado, pero todavía no está conectado. Completá assets/js/firebase-config.js y activalo.', 'warning');
+      setStatus('Firebase no recibió la configuración nueva. Actualizá la página o limpiá la caché. Versión Firebase 2.', 'warning');
       adminRoot.querySelectorAll('input, select, textarea, button[type="submit"]').forEach(el => el.disabled = true);
     }
     return;

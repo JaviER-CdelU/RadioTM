@@ -1,4 +1,4 @@
-const CACHE = 'radio-tiempo-muerto-v3';
+const CACHE = 'radio-tiempo-muerto-v4-firebase';
 const ASSETS = [
   './', './index.html', './noticias.html', './comunidad.html', './corresponsales.html',
   './podcasts.html', './clima-rio.html', './aportes.html', './contacto.html',
@@ -42,7 +42,8 @@ self.addEventListener('fetch', event => {
 
   const isHtml = requestUrl.pathname.endsWith('.html') || event.request.mode === 'navigate';
   const isRiverData = requestUrl.pathname.endsWith('/assets/data/rio.json');
-  if (isHtml || isRiverData) {
+  const isCodeOrConfig = requestUrl.pathname.endsWith('.js') || requestUrl.pathname.endsWith('.css') || requestUrl.pathname.endsWith('.webmanifest');
+  if (isHtml || isRiverData || isCodeOrConfig) {
     event.respondWith(networkFirst(event.request));
     return;
   }

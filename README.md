@@ -12,3 +12,6 @@ Incluye radio en vivo, noticias, comunidad, corresponsales, podcasts, clima, alt
 ## Firebase
 
 La aplicación web está conectada al proyecto Firebase. Para habilitar el administrador deben activarse Authentication con Google, Firestore y sus reglas de seguridad.
+
+
+Versión técnica: Firebase conectado + corrección de caché v2.
