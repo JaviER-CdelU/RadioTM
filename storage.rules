@@ -8,9 +8,10 @@ service firebase.storage {
 
     match /publicidades/{allPaths=**} {
       allow read: if true;
-      allow write: if isAdmin()
+      allow create, update: if isAdmin()
         && request.resource.size < 8 * 1024 * 1024
         && request.resource.contentType.matches('image/.*');
+      allow delete: if isAdmin();
     }
   }
 }

@@ -51,7 +51,7 @@
 
   <section class="two-col admin-ad-grid">
     <article class="card">
-      <h2 class="card-title">＋ Cargar publicidad</h2>
+      <h2 id="form-publicidad-titulo" class="card-title">＋ Cargar publicidad</h2>
       <form id="publicidad-form">
         <div class="form-grid">
           <label>Título<input name="titulo" type="text" maxlength="80" placeholder="Nombre del comercio o campaña" required></label>
@@ -60,16 +60,21 @@
           <label class="span-2">Enlace al tocar la publicidad<input name="enlace" type="url" placeholder="https://..."></label>
           <label>Orden<input name="orden" type="number" min="1" max="99" value="1"></label>
           <label>Imagen desde tu equipo<input name="imagen" type="file" accept="image/png,image/jpeg,image/webp"></label>
-          <label class="span-2">URL de imagen (opcional)<input name="imagenUrl" type="url" placeholder="https://... (sirve si Storage todavía no está activado)"></label>
+          <label class="span-2">URL de imagen (opcional)<input name="imagenUrl" type="url" placeholder="https://... (podés borrarla para quitar la imagen)"></label>
+          <div id="imagen-actual-box" class="span-2 current-image-box" hidden>
+            <img id="imagen-actual-preview" alt="Imagen actual de la publicidad">
+            <div><strong>Imagen actual</strong><span id="imagen-actual-texto"></span></div>
+            <button id="quitar-imagen-actual" class="btn btn-danger" type="button">Quitar imagen</button>
+          </div>
           <label class="span-2 form-check"><input class="form-check-input" id="publicidad-activa" name="activa" type="checkbox" checked><span class="form-check-label">Publicar como activa</span></label>
         </div>
-        <div class="card-actions"><button class="btn btn-primary" type="submit">Guardar publicidad</button></div>
+        <div class="card-actions"><button id="guardar-publicidad" class="btn btn-primary" type="submit">Guardar publicidad</button><button id="cancelar-edicion" class="btn btn-light" type="button" hidden>Cancelar edición</button></div>
       </form>
     </article>
 
     <article class="card">
       <h2 class="card-title">📋 Publicidades guardadas</h2>
-      <p class="muted">Podrás activar, desactivar o eliminar cada aviso.</p>
+      <p class="muted">Podés editar, quitar la imagen, activar, desactivar o eliminar cada aviso.</p>
       <div id="publicidades-list" class="ads-admin-list"><p class="muted">Iniciá sesión para ver las publicidades.</p></div>
     </article>
   </section>
@@ -78,7 +83,7 @@
 </main>
 <footer class="site-footer"><div class="footer-inner"><span>© 2026 Radio Tiempo Muerto</span><span>Información, música y comunidad de Concepción del Uruguay.</span></div></footer>
 <div class="toast" role="status" aria-live="polite"></div>
-<script src="assets/js/principal.js?v=admin4"></script>
-<script type="module" src="assets/js/publicidades.js?v=admin4"></script>
+<script src="assets/js/principal.js?v=admin5"></script>
+<script type="module" src="assets/js/publicidades.js?v=admin5"></script>
 </body>
 </html>
