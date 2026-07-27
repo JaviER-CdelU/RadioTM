@@ -64,3 +64,8 @@ body{padding-bottom:84px}.persistent-radio{position:fixed;left:0;right:0;bottom:
 .current-image-box{display:grid;grid-template-columns:96px 1fr auto;align-items:center;gap:12px;border:1px solid var(--line);border-radius:12px;padding:10px;background:#f8fafb}.current-image-box[hidden]{display:none}.current-image-box img{width:96px;height:70px;object-fit:cover;border-radius:9px}.current-image-box strong,.current-image-box span{display:block}.current-image-box span{font-size:11px;color:var(--muted);margin-top:4px}.current-image-box.will-remove{border-color:#e0a8a8;background:#fff3f3}.current-image-box.will-remove img{opacity:.35;filter:grayscale(1)}
 .ad-admin-actions{grid-template-columns:repeat(2,minmax(94px,1fr))}.toast[data-kind="success"]{background:#1f7139}.toast[data-kind="warning"]{background:#8a5c16}.toast[data-kind="error"]{background:#a22f2f}.toast[data-kind="info"]{background:#263a52}
 @media(max-width:720px){.current-image-box{grid-template-columns:74px 1fr}.current-image-box img{width:74px;height:58px}.current-image-box .btn{grid-column:1/-1}.ad-admin-actions{grid-template-columns:1fr 1fr}}
+
+
+/* Datos automáticos: clima y noticias */
+.card-title small{margin-left:auto;font-weight:700}.news-summary{display:block;color:var(--muted);font-size:11px;line-height:1.4;margin-top:5px}.news-auto-note{margin-top:16px;display:flex;gap:10px;align-items:flex-start;justify-content:space-between}.news-auto-note span{color:var(--muted);font-size:12px;line-height:1.45}.source-card .news-list>div{padding-bottom:10px;border-bottom:1px solid var(--line)}.source-card .news-list>div:last-child{border-bottom:0;padding-bottom:0}
+@media(max-width:720px){.news-auto-note{flex-direction:column}}

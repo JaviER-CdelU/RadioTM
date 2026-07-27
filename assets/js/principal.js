@@ -160,6 +160,8 @@ async function navigateTo(route, { scroll = true } = {}) {
   if (route === currentRoute && currentMain.isConnected) {
     updateActiveNav(route);
     renderRiverData(lastRiverData, currentMain);
+    renderWeatherData(lastWeatherData, currentMain);
+    renderNewsData(lastNewsData, currentMain);
     return;
   }
   showRouteLoading();
@@ -172,6 +174,8 @@ async function navigateTo(route, { scroll = true } = {}) {
     updateActiveNav(route);
     initDynamicContent(currentMain);
     renderRiverData(lastRiverData, currentMain);
+    renderWeatherData(lastWeatherData, currentMain);
+    renderNewsData(lastNewsData, currentMain);
     if (scroll) window.scrollTo({ top: 0, behavior: 'smooth' });
   } catch (error) {
     console.error(error);
@@ -304,6 +308,219 @@ async function loadRiverData() {
   }
 }
 
+
+// -----------------------------------------------------------------------------
+// Clima real: Open-Meteo. Se consulta al abrir y cada 15 minutos.
+// -----------------------------------------------------------------------------
+const WEATHER_URL = 'https://api.open-meteo.com/v1/forecast?latitude=-32.4825&longitude=-58.2372&current=temperature_2m,relative_humidity_2m,apparent_temperature,is_day,precipitation,weather_code,wind_speed_10m&daily=weather_code,temperature_2m_max,temperature_2m_min,sunrise,sunset&timezone=America%2FArgentina%2FBuenos_Aires&forecast_days=4';
+const WEATHER_STORAGE_KEY = 'rtm-weather-last-valid';
+let lastWeatherData = null;
+
+const WEATHER_CODES = {
+  0: ['Despejado', '☀️'], 1: ['Mayormente despejado', '🌤️'], 2: ['Parcialmente nublado', '⛅'],
+  3: ['Nublado', '☁️'], 45: ['Niebla', '🌫️'], 48: ['Niebla con escarcha', '🌫️'],
+  51: ['Llovizna leve', '🌦️'], 53: ['Llovizna', '🌦️'], 55: ['Llovizna intensa', '🌧️'],
+  61: ['Lluvia leve', '🌦️'], 63: ['Lluvia', '🌧️'], 65: ['Lluvia intensa', '🌧️'],
+  71: ['Nieve leve', '🌨️'], 73: ['Nieve', '🌨️'], 75: ['Nieve intensa', '🌨️'],
+  80: ['Chaparrones leves', '🌦️'], 81: ['Chaparrones', '🌧️'], 82: ['Chaparrones fuertes', '⛈️'],
+  95: ['Tormenta', '⛈️'], 96: ['Tormenta con granizo', '⛈️'], 99: ['Tormenta fuerte con granizo', '⛈️']
+};
+
+function weatherInfo(code) {
+  return WEATHER_CODES[Number(code)] || ['Estado variable', '🌤️'];
+}
+function roundWeather(value, suffix = '') {
+  const n = Number(value);
+  return Number.isFinite(n) ? `${Math.round(n)}${suffix}` : '--';
+}
+function shortTime(value) {
+  if (!value) return '--:--';
+  const part = String(value).split('T')[1];
+  return part ? part.slice(0, 5) : String(value);
+}
+function shortDay(value, index) {
+  if (index === 0) return 'Hoy';
+  if (index === 1) return 'Mañana';
+  const date = new Date(`${value}T12:00:00`);
+  return Number.isNaN(date.getTime()) ? 'Día' : date.toLocaleDateString('es-AR', { weekday: 'short' }).replace('.', '');
+}
+function weatherAlertText(code, precipitation, wind) {
+  const c = Number(code); const p = Number(precipitation); const w = Number(wind);
+  if ([95, 96, 99].includes(c)) return 'Hay condiciones de tormenta. Seguí los avisos oficiales.';
+  if ([65, 82].includes(c) || p >= 10) return 'Se registran lluvias o chaparrones intensos.';
+  if (w >= 45) return 'Se registra viento fuerte. Tomá precauciones.';
+  return 'Sin alertas meteorológicas automáticas en este momento.';
+}
+function renderWeatherData(data, root = document) {
+  if (!data || !root) return;
+  const current = data.current || {};
+  const daily = data.daily || {};
+  const [description, icon] = weatherInfo(current.weather_code);
+  const max = daily.temperature_2m_max?.[0];
+  const min = daily.temperature_2m_min?.[0];
+
+  setText(root, '[data-weather-temperature]', roundWeather(current.temperature_2m, '°C'));
+  setText(root, '[data-weather-description]', description);
+  setText(root, '[data-weather-icon]', icon);
+  setText(root, '[data-weather-apparent]', roundWeather(current.apparent_temperature, '°C'));
+  setText(root, '[data-weather-humidity]', roundWeather(current.relative_humidity_2m, '%'));
+  setText(root, '[data-weather-wind]', roundWeather(current.wind_speed_10m, ' km/h'));
+  setText(root, '[data-weather-max]', roundWeather(max, '°C'));
+  setText(root, '[data-weather-min]', roundWeather(min, '°C'));
+  setText(root, '[data-weather-maxmin]', `${roundWeather(max, '°')} / ${roundWeather(min, '°')}`);
+  setText(root, '[data-weather-sunrise]', shortTime(daily.sunrise?.[0]));
+  setText(root, '[data-weather-sunset]', shortTime(daily.sunset?.[0]));
+  setText(root, '[data-weather-updated]', current.time ? `Actualizado: ${shortTime(current.time)}` : 'Actualizando…');
+  setText(root, '[data-weather-alert]', weatherAlertText(current.weather_code, current.precipitation, current.wind_speed_10m));
+  setText(root, '[data-weather-alert-time]', current.time ? `Dato meteorológico: ${shortTime(current.time)}` : 'Fuente: Open-Meteo');
+
+  root.querySelectorAll('[data-weather-forecast]').forEach((container) => {
+    container.innerHTML = '';
+    const days = daily.time || [];
+    days.slice(0, 4).forEach((day, index) => {
+      const [dayDescription, dayIcon] = weatherInfo(daily.weather_code?.[index]);
+      const item = document.createElement('div');
+      item.title = dayDescription;
+      const label = document.createElement('span');
+      label.textContent = `${dayIcon} ${shortDay(day, index)}`;
+      const value = document.createElement('b');
+      value.textContent = `${roundWeather(daily.temperature_2m_max?.[index], '°')}/${roundWeather(daily.temperature_2m_min?.[index], '°')}`;
+      item.append(label, value);
+      container.appendChild(item);
+    });
+  });
+}
+async function loadWeatherData() {
+  try {
+    const response = await fetch(WEATHER_URL, { cache: 'no-store' });
+    if (!response.ok) throw new Error('No respondió la fuente meteorológica.');
+    const data = await response.json();
+    if (!Number.isFinite(Number(data?.current?.temperature_2m))) throw new Error('El dato meteorológico no es válido.');
+    lastWeatherData = data;
+    localStorage.setItem(WEATHER_STORAGE_KEY, JSON.stringify(data));
+    renderWeatherData(data, document);
+  } catch (error) {
+    console.warn(error);
+    try {
+      const stored = JSON.parse(localStorage.getItem(WEATHER_STORAGE_KEY) || 'null');
+      if (stored) { lastWeatherData = stored; renderWeatherData(stored, document); }
+    } catch (_) {}
+  }
+}
+
+// -----------------------------------------------------------------------------
+// Noticias: JSON generado cada hora por GitHub Actions.
+// Las fuentes activas y la cantidad se leen desde Firebase.
+// -----------------------------------------------------------------------------
+const NEWS_URL = 'assets/data/noticias.json';
+const NEWS_STORAGE_KEY = 'rtm-news-last-valid';
+let lastNewsData = null;
+let activeNewsFilter = 'todas';
+
+function cleanNewsText(value = '') {
+  const div = document.createElement('div');
+  div.innerHTML = String(value);
+  return (div.textContent || '').replace(/\s+/g, ' ').trim();
+}
+function formatNewsDate(value) {
+  if (!value) return 'Fecha no informada';
+  const date = new Date(value);
+  if (Number.isNaN(date.getTime())) return String(value);
+  return date.toLocaleString('es-AR', { day: '2-digit', month: 'short', hour: '2-digit', minute: '2-digit', timeZone: 'America/Argentina/Buenos_Aires' });
+}
+function normalizedZone(value) {
+  return String(value || '').normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
+}
+function createNewsLink(item) {
+  const link = document.createElement('a');
+  link.className = 'source-link';
+  link.href = item.link || item.source_url || '#';
+  link.target = '_blank';
+  link.rel = 'noopener noreferrer';
+  link.textContent = 'Leer en la fuente ↗';
+  return link;
+}
+function renderNewsPage(data, root) {
+  const container = root.querySelector('[data-news-sources]');
+  if (!container) return;
+  const groups = Array.isArray(data?.groups) ? data.groups : [];
+  const visible = activeNewsFilter === 'todas' ? groups : groups.filter(group => normalizedZone(group.zone) === activeNewsFilter);
+  container.innerHTML = '';
+  if (!visible.length) {
+    container.innerHTML = '<article class="card"><h2 class="card-title">Actualizando noticias…</h2><p class="muted">El primer proceso automático puede tardar unos minutos después de subir el ZIP. Si una fuente no responde, las demás continúan.</p></article>';
+    return;
+  }
+  visible.forEach((group) => {
+    const article = document.createElement('article');
+    article.className = 'source-card';
+    const head = document.createElement('div'); head.className = 'source-head';
+    const title = document.createElement('h3'); title.textContent = group.source || 'Fuente';
+    const tag = document.createElement('span'); tag.className = 'tag'; tag.textContent = String(group.zone || 'Noticias').toUpperCase();
+    head.append(title, tag);
+    const list = document.createElement('div'); list.className = 'news-list';
+    (group.items || []).forEach((item) => {
+      const row = document.createElement('div');
+      const strong = document.createElement('strong'); strong.textContent = cleanNewsText(item.title);
+      const meta = document.createElement('p'); meta.className = 'muted';
+      meta.append(`${formatNewsDate(item.published)} · `, createNewsLink(item));
+      row.append(strong, meta);
+      if (item.summary) {
+        const summary = document.createElement('small'); summary.className = 'news-summary'; summary.textContent = cleanNewsText(item.summary).slice(0, 180);
+        row.append(summary);
+      }
+      list.append(row);
+    });
+    const actions = document.createElement('div'); actions.className = 'card-actions';
+    const source = document.createElement('a'); source.className = 'btn btn-light'; source.href = group.homepage || '#'; source.target = '_blank'; source.rel = 'noopener'; source.textContent = 'Abrir medio ↗';
+    actions.append(source);
+    article.append(head, list, actions);
+    container.append(article);
+  });
+}
+function renderHomeNews(data, root) {
+  const container = root.querySelector('[data-home-news]');
+  if (!container) return;
+  const items = (data?.groups || []).flatMap(group => (group.items || []).map(item => ({ ...item, group }))).slice(0, 3);
+  container.innerHTML = '';
+  if (!items.length) {
+    container.innerHTML = '<div><strong>Esperando la primera actualización automática</strong><p class="muted">Las noticias se revisan aproximadamente cada hora.</p></div>';
+    return;
+  }
+  items.forEach((item, index) => {
+    const row = document.createElement('div');
+    if (index > 0) row.className = 'news-item';
+    if (index > 0) { const thumb = document.createElement('div'); thumb.className = 'thumb'; row.append(thumb); }
+    const copy = document.createElement('div');
+    if (index === 0) { const kicker = document.createElement('span'); kicker.className = 'section-kicker'; kicker.textContent = String(item.group.zone || 'Noticias').toUpperCase(); copy.append(kicker); }
+    const strong = document.createElement('strong'); strong.textContent = cleanNewsText(item.title); copy.append(strong);
+    const meta = document.createElement(index === 0 ? 'p' : 'small'); meta.className = index === 0 ? 'muted' : '';
+    meta.append(`${item.group.source || item.source || 'Fuente'} · `, createNewsLink(item)); copy.append(meta);
+    row.append(copy); container.append(row);
+  });
+}
+function renderNewsData(data, root = document) {
+  if (!data || !root) return;
+  setText(root, '[data-news-updated]', data.updated_at ? `Actualizado: ${formatNewsDate(data.updated_at)}` : 'Esperando primera actualización');
+  renderNewsPage(data, root);
+  renderHomeNews(data, root);
+}
+async function loadNewsData() {
+  try {
+    const response = await fetch(NEWS_URL, { cache: 'no-store' });
+    if (!response.ok) throw new Error('No respondió el archivo de noticias.');
+    const data = await response.json();
+    lastNewsData = data;
+    localStorage.setItem(NEWS_STORAGE_KEY, JSON.stringify(data));
+    renderNewsData(data, document);
+  } catch (error) {
+    console.warn(error);
+    try {
+      const stored = JSON.parse(localStorage.getItem(NEWS_STORAGE_KEY) || 'null');
+      if (stored) { lastNewsData = stored; renderNewsData(stored, document); }
+    } catch (_) {}
+  }
+}
+
 // -----------------------------------------------------------------------------
 // Controles de cada sección cargada dinámicamente.
 // -----------------------------------------------------------------------------
@@ -326,6 +543,18 @@ function initDynamicContent(root = document) {
       if (element.tagName === 'A' && element.getAttribute('href') !== '#') return;
       event.preventDefault();
       showToast(element.dataset.demo || 'Función preparada para conectar.');
+    });
+  });
+
+  root.querySelectorAll('[data-news-filter]:not([data-ready])').forEach((button) => {
+    button.dataset.ready = 'true';
+    button.addEventListener('click', () => {
+      activeNewsFilter = button.dataset.newsFilter || 'todas';
+      root.querySelectorAll('[data-news-filter]').forEach(item => {
+        item.classList.toggle('btn-primary', item === button);
+        item.classList.toggle('btn-light', item !== button);
+      });
+      renderNewsData(lastNewsData, root);
     });
   });
 
@@ -391,7 +620,11 @@ if ('serviceWorker' in navigator) {
 // Inicio.
 initDynamicContent(document);
 loadRiverData();
+loadWeatherData();
+loadNewsData();
 setInterval(loadRiverData, 30 * 60 * 1000);
+setInterval(loadWeatherData, 15 * 60 * 1000);
+setInterval(loadNewsData, 60 * 60 * 1000);
 
 if (appShell) {
   const initialRoute = normalizeRoute(location.hash);

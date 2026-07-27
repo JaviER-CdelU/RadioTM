@@ -1,4 +1,4 @@
-const CACHE = 'radio-tiempo-muerto-v8-datos-automaticos';
+const CACHE = 'radio-tiempo-muerto-v9-automatizaciones-corregidas';
 const ASSETS = [
   './', './index.html', './noticias.html', './comunidad.html', './corresponsales.html',
   './podcasts.html', './clima-rio.html', './aportes.html', './contacto.html',
