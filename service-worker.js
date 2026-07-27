@@ -1,10 +1,10 @@
-const CACHE = 'radio-tiempo-muerto-v4-firebase';
+const CACHE = 'radio-tiempo-muerto-v5-admin';
 const ASSETS = [
   './', './index.html', './noticias.html', './comunidad.html', './corresponsales.html',
   './podcasts.html', './clima-rio.html', './aportes.html', './contacto.html',
-  './ayuda.html', './admin-noticias.html', './admin-publicidades.html',
+  './ayuda.html', './admin.html', './admin-noticias.html', './admin-publicidades.html',
   './assets/css/estilos.css', './assets/js/principal.js',
-  './assets/js/publicidades.js', './assets/js/firebase-config.js',
+  './assets/js/publicidades.js', './assets/js/firebase-config.js', './assets/js/admin-auth.js', './assets/js/admin-noticias.js',
   './assets/data/rio.json',
   './assets/img/logo-radio-tiempo-muerto.png', './assets/img/favicon-64.png',
   './assets/img/icon-192.png', './assets/img/icon-512.png', './manifest.webmanifest'

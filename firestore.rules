@@ -6,6 +6,11 @@ service cloud.firestore {
         && request.auth.token.email == 'rtiempomuerto@gmail.com';
     }
 
+    match /fuentes/{fuenteId} {
+      allow read: if resource.data.activa == true || isAdmin();
+      allow create, update, delete: if isAdmin();
+    }
+
     match /publicidades/{publicidadId} {
       allow read: if resource.data.activa == true || isAdmin();
       allow create, update, delete: if isAdmin();

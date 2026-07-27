@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="es"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#f36b16"><meta name="description" content="Administrador de Radio Tiempo Muerto.">
+<title>Administrador | Radio Tiempo Muerto</title>
+<link rel="manifest" href="manifest.webmanifest"><link rel="icon" type="image/png" href="assets/img/favicon-64.png"><link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png"><link rel="stylesheet" href="assets/css/estilos.css">
+</head><body>
+<header class="site-header">
+  <div class="header-main">
+    <a href="index.html"><img class="brand-logo" src="assets/img/logo-radio-tiempo-muerto.png" alt="Logo de Radio Tiempo Muerto"></a>
+    <div>
+      <a class="brand-title" href="index.html"><span class="radio">Radio</span><span class="tiempo">Tiempo Muerto</span></a>
+      <div class="brand-tagline">MÚSICA, DEPORTES Y NOTICIAS PARA NUESTRA GENTE</div>
+    </div>
+    <div class="header-tools"><div class="socials"><span class="live-chip"><i class="live-dot"></i> ADMINISTRACIÓN</span></div></div>
+  </div>
+  <div class="nav-wrap">
+    <button class="menu-btn" type="button" aria-expanded="false">☰ Menú</button>
+    <nav class="nav">
+      <a href="index.html">⌂ Ver página</a>
+      <a href="admin.html">⚙ Inicio administrador</a>
+      <a href="admin-noticias.html">▤ Fuentes de noticias</a>
+      <a href="admin-publicidades.html">📣 Publicidades</a>
+      <a href="ayuda.html">? Ayuda</a>
+    </nav>
+  </div>
+</header>
+<section class="contact-strip"><div class="contact-strip-inner"><a href="mailto:rtiempomuerto@gmail.com">✉ rtiempomuerto@gmail.com</a><a href="https://wa.me/5493442405972" target="_blank" rel="noopener">💬 +54 9 3442 405972</a></div></section>
+<main class="page-main" data-admin-auth>
+  <section class="page-hero"><div class="section-kicker">PANEL PRIVADO</div><h1>Administrador de <span>Radio Tiempo Muerto</span></h1><p>Ingresá con la cuenta autorizada para administrar noticias y publicidades.</p></section>
+  <div id="admin-auth-status" class="firebase-status" data-kind="info">Comprobando conexión con Firebase…</div>
+  <section class="admin-login card">
+    <div><h2 class="card-title">🔐 Acceso con Google</h2><p id="admin-auth-user" class="muted">No has iniciado sesión</p></div>
+    <div class="card-actions"><button id="admin-auth-login" class="btn btn-primary" type="button">Ingresar con Google</button><button id="admin-auth-logout" class="btn btn-light" type="button" hidden>Cerrar sesión</button></div>
+  </section>
+  <section class="admin-dashboard-grid" data-admin-protected hidden>
+    <a class="admin-dashboard-card" href="admin-noticias.html"><span class="admin-dashboard-icon">📰</span><div><strong>Fuentes de noticias</strong><small>Activar o desactivar medios, cambiar la cantidad y agregar nuevas fuentes.</small></div><span class="admin-dashboard-arrow">→</span></a>
+    <a class="admin-dashboard-card" href="admin-publicidades.html"><span class="admin-dashboard-icon">📣</span><div><strong>Publicidades</strong><small>Cargar avisos, enlaces, imágenes, orden y estado activo o inactivo.</small></div><span class="admin-dashboard-arrow">→</span></a>
+    <a class="admin-dashboard-card" href="index.html"><span class="admin-dashboard-icon">👁️</span><div><strong>Ver la página</strong><small>Abrir la portada pública para comprobar los cambios.</small></div><span class="admin-dashboard-arrow">→</span></a>
+  </section>
+</main>
+<footer class="site-footer"><div class="footer-inner"><span>© 2026 Radio Tiempo Muerto</span><span>Panel de administración privado.</span></div></footer>
+<div class="toast" role="status" aria-live="polite"></div><script src="assets/js/principal.js?v=admin3"></script><script type="module" src="assets/js/admin-auth.js?v=admin3"></script>
+</body></html>

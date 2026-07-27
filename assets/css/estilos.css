@@ -49,3 +49,13 @@ body{padding-bottom:84px}.persistent-radio{position:fixed;left:0;right:0;bottom:
 .river-card{border-left:4px solid #36a269}.river-card[data-river-level="warning"]{border-left-color:#dca600}.river-card[data-river-level="alert"]{border-left-color:#f36b16}.river-card[data-river-level="evacuation"]{border-left-color:#d92d20}.river-status{display:inline-flex;align-items:center;gap:6px;border-radius:999px;padding:5px 8px;font-size:11px;font-weight:900}.river-status:before{content:"";width:8px;height:8px;border-radius:50%;background:currentColor}.river-status.normal{background:#e8f7ee;color:#267a47}.river-status.warning{background:#fff6d8;color:#8b6800}.river-status.alert{background:#fff0e5;color:#b84606}.river-status.evacuation{background:#fee9e7;color:#b42318}.river-detail-head{display:flex;align-items:center;justify-content:space-between;gap:12px;margin:8px 0 12px}.river-detail .river-number{text-align:left}.river-stats{grid-template-columns:repeat(3,1fr)}
 
 @media(max-width:720px){body{padding-bottom:102px}.persistent-radio-inner{padding:8px 13px;grid-template-columns:38px 38px minmax(0,1fr)}.persistent-radio img{width:36px;height:36px;border-radius:9px}.persistent-play{width:36px;height:36px;font-size:16px}.persistent-copy{display:block}.persistent-copy strong,.persistent-copy span,.persistent-copy small{display:block}.persistent-copy strong{font-size:12px}.persistent-copy span{font-size:9px}.persistent-copy small{font-size:9px}.persistent-live{display:none}.river-stats{grid-template-columns:repeat(2,1fr)}}
+
+/* Panel administrador */
+.admin-dashboard-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px;margin-top:16px}
+.admin-dashboard-card{display:grid;grid-template-columns:auto 1fr auto;align-items:center;gap:14px;padding:20px;border:1px solid var(--line);border-radius:18px;background:#fff;color:var(--ink);text-decoration:none;transition:transform .15s ease,border-color .15s ease}
+.admin-dashboard-card:hover{transform:translateY(-2px);border-color:#f2b282}
+.admin-dashboard-icon{width:50px;height:50px;display:grid;place-items:center;border-radius:15px;background:#fff3e9;font-size:24px}
+.admin-dashboard-card strong,.admin-dashboard-card small{display:block}.admin-dashboard-card small{margin-top:5px;color:var(--muted);line-height:1.45}.admin-dashboard-arrow{font-size:25px;color:var(--accent)}
+.admin-row-actions{display:flex;gap:6px;flex-wrap:wrap}
+[hidden]{display:none!important}
+@media(max-width:900px){.admin-dashboard-grid{grid-template-columns:1fr}}
