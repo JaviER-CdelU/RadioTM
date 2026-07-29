@@ -1,1 +1,37 @@
+name: Actualizar datos del rio
 
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "7,37 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  actualizar_rio:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Preparar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Consultar Prefectura
+        run: python scripts/actualizar_rio.py
+
+      - name: Guardar cambios
+        run: |
+          git config user.name "Radio Tiempo Muerto Bot"
+          git config user.email "actions@github.com"
+          git add assets/data/rio.json
+          if git diff --cached --quiet; then
+            echo "No hay cambios en el dato del rio"
+          else
+            git commit -m "Actualizar altura del rio Uruguay"
+            git push
+          fi
