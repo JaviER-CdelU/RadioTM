@@ -1,0 +1,26 @@
+{
+  "radioBoss": {
+    "host": "127.0.0.1",
+    "puerto": 9000,
+    "contrasena": "CAMBIAR_ESTA_CONTRASENA"
+  },
+  "firebase": {
+    "serviceAccount": "serviceAccountKey.json"
+  },
+  "pedidos": {
+    "intervaloSegundos": 4,
+    "aprobarAutomaticamente": false
+  },
+  "musica": {
+    "carpetas": [
+      "E:\\"
+    ],
+    "extensiones": [
+      ".mp3",
+      ".wav",
+      ".flac",
+      ".m4a",
+      ".ogg"
+    ]
+  }
+}

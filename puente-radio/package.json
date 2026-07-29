@@ -1,0 +1,16 @@
+{
+  "name": "radio-tiempo-muerto-puente",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Puente entre Firebase y RadioBOSS 6.0.3.1",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "catalogo": "node catalogo.js",
+    "verificar": "node verificar.js"
+  },
+  "dependencies": {
+    "firebase-admin": "^12.3.1",
+    "music-metadata": "^10.5.0"
+  }
+}
