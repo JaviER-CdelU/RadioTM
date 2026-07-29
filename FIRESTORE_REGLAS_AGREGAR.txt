@@ -1,0 +1,8 @@
+Agregá dentro de service cloud.firestore:
+
+match /estadoRadio/{documento} {
+  allow read: if true;
+  allow write: if request.auth != null;
+}
+
+El programa puente usa la llave privada de Firebase y puede escribir aunque el navegador público no pueda hacerlo.

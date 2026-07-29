@@ -1,36 +1,51 @@
-# Radio Tiempo Muerto — Sistema profesional de pedidos
+# Radio Tiempo Muerto — Reproductor con artista, tema y duración
 
-Este proyecto conecta:
+Este ZIP es un archivo real y descargable.
 
-1. La web publicada en GitHub Pages.
-2. Firebase/Firestore.
-3. Un programa puente ejecutándose en la computadora de la radio.
-4. RadioBOSS 6.0.3.1 mediante su API local.
+## Incluye
 
-## Flujo
+- artista actual;
+- título actual;
+- duración;
+- posición aproximada;
+- barra de progreso;
+- próximo tema, cuando RadioBOSS lo informe;
+- programa local que consulta RadioBOSS y publica los datos en Firebase.
 
-Oyente → Web → Firestore → Panel del operador → Programa puente → RadioBOSS → Canciones solicitadas
+## Qué va a GitHub
 
-La conexión local con RadioBOSS ya fue comprobada con:
+Copiar:
 
-- Puerto: 9000
-- Acción: `songrequest`
-- Resultado: el pedido apareció en “Canciones solicitadas”.
+- `web/js/metadata-reproductor.js`
+- `web/css/metadata-reproductor.css`
 
-## Carpetas
+Después abrir `web/AGREGAR_AL_INDEX.html` y copiar sus tres bloques dentro del `index.html` actual.
 
-- `web/`: página pública para buscar y pedir canciones, y panel del operador.
-- `puente-radio/`: programa que corre en la PC donde está RadioBOSS.
-- `firebase/`: reglas e índices recomendados.
-- `PASO_A_PASO.md`: instrucciones completas en castellano.
-- `INTEGRAR_EN_GITHUB.md`: cómo agregarlo a la web existente.
+## Qué queda en la computadora de la radio
 
-## Seguridad importante
+Copiar dentro de la carpeta del puente:
 
-No subas jamás a GitHub:
+- `puente-radio/metadata.js`
+- `puente-radio/INICIAR_METADATA.bat`
 
-- `serviceAccountKey.json`
-- la contraseña de la API de RadioBOSS
-- `config.json` del puente
+El archivo `config.json` existente debe contener también:
 
-Esos archivos quedan únicamente en la computadora de la radio.
+```json
+"metadata": {
+  "intervaloSegundos": 5
+}
+```
+
+## Cómo probar
+
+1. Abrir RadioBOSS.
+2. Confirmar API en puerto 9000.
+3. Ejecutar `INICIAR_METADATA.bat`.
+4. Dejar esa ventana abierta.
+5. Abrir la web y actualizar con Ctrl + F5.
+
+## Importante
+
+RadioBOSS 6.0.3.1 puede devolver `playbackinfo` con nombres de campos distintos según la configuración.
+El programa incluido intenta reconocer varias variantes comunes. Si artista, duración o próximo tema aparecen vacíos,
+guardá la respuesta de `action=playbackinfo` y ajustamos el lector sin tocar el resto del proyecto.
