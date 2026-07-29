@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Pedido de prueba | Radio Tiempo Muerto</title>
+  <link rel="stylesheet" href="assets/css/pedido-prueba.css">
+</head>
+<body>
+  <main class="contenedor">
+    <header class="cabecera">
+      <div class="logo">RTM</div>
+      <div>
+        <span class="en-vivo">● RADIOBOSS CONECTADO</span>
+        <h1>Pedí tu canción</h1>
+        <p>Prueba real desde la computadora de la radio.</p>
+      </div>
+    </header>
+
+    <section class="tarjeta cancion">
+      <div>
+        <span class="etiqueta">CANCIÓN DISPONIBLE PARA LA PRUEBA</span>
+        <h2>ANGELA</h2>
+        <h3>ES POR TI</h3>
+        <p>Archivo comprobado: <strong>06_ES POR TI.mp3</strong></p>
+      </div>
+      <div class="nota">🎵</div>
+    </section>
+
+    <section class="tarjeta">
+      <form id="pedido">
+        <label>
+          Tu nombre
+          <input id="nombre" maxlength="50" value="Pablo" required>
+        </label>
+
+        <label>
+          Desde dónde escuchás
+          <input id="ciudad" maxlength="70" value="Concepción del Uruguay" required>
+        </label>
+
+        <label>
+          Saludo o dedicatoria
+          <textarea id="saludo" maxlength="180">Pedido realizado desde la página de Radio Tiempo Muerto</textarea>
+        </label>
+
+        <button type="submit">Enviar a RadioBOSS</button>
+      </form>
+
+      <div class="aviso">
+        Esta prueba funciona en la computadora donde está abierto RadioBOSS.
+        Al enviar se abrirá una pestaña que debe responder <strong>OK</strong>.
+      </div>
+    </section>
+
+    <a class="volver" href="index.html">← Volver al inicio</a>
+  </main>
+
+  <script>
+    document.getElementById("pedido").addEventListener("submit", (evento) => {
+      evento.preventDefault();
+
+      const nombre = document.getElementById("nombre").value.trim();
+      const ciudad = document.getElementById("ciudad").value.trim();
+      const saludo = document.getElementById("saludo").value.trim();
+
+      const mensaje = [
+        nombre ? `Pidió ${nombre}` : "",
+        ciudad ? `desde ${ciudad}` : "",
+        saludo
+      ].filter(Boolean).join(" — ");
+
+      const parametros = new URLSearchParams({
+        pass: "1",
+        action: "songrequest",
+        filename: "E:\\angela\\06_ES POR TI.mp3",
+        message: mensaje
+      });
+
+      window.open(`http://127.0.0.1:9000/?${parametros.toString()}`, "_blank");
+    });
+  </script>
+</body>
+</html>
