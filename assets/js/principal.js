@@ -570,11 +570,23 @@ function renderNewsData(data, root = document) {
 }
 async function loadNewsData() {
   try {
-    const response = await fetch(NEWS_URL, { cache: 'no-store' });
+    const response = await fetch(`${NEWS_URL}?v=${Date.now()}`, { cache: 'no-store' });
     if (!response.ok) throw new Error('No respondió el archivo de noticias.');
     const data = await response.json();
-    lastNewsData = data;
-    localStorage.setItem(NEWS_STORAGE_KEY, JSON.stringify(data));
+    const hasFreshNews = Array.isArray(data?.groups) && data.groups.some(group => Array.isArray(group.items) && group.items.length);
+    if (hasFreshNews) {
+      lastNewsData = data;
+      localStorage.setItem(NEWS_STORAGE_KEY, JSON.stringify(data));
+      renderNewsData(data, document);
+      return;
+    }
+    const stored = JSON.parse(localStorage.getItem(NEWS_STORAGE_KEY) || 'null');
+    const hasStoredNews = Array.isArray(stored?.groups) && stored.groups.some(group => Array.isArray(group.items) && group.items.length);
+    if (hasStoredNews) {
+      lastNewsData = stored;
+      renderNewsData(stored, document);
+      return;
+    }
     renderNewsData(data, document);
   } catch (error) {
     console.warn(error);

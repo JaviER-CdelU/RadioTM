@@ -1,4 +1,4 @@
-const CACHE = 'radio-tiempo-muerto-v12-noticias-y-redes';
+const CACHE = 'radio-tiempo-muerto-v13-noticias-clima';
 const ASSETS = [
   './', './index.html', './noticias.html', './comunidad.html', './corresponsales.html',
   './podcasts.html', './clima-rio.html', './aportes.html', './contacto.html',
