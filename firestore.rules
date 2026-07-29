@@ -26,18 +26,16 @@ service cloud.firestore {
       allow create: if
         request.resource.data.estado == "pendiente"
         && request.resource.data.nombre is string
-        && request.resource.data.nombre.size() >= 1
-        && request.resource.data.nombre.size() <= 60
         && request.resource.data.ciudad is string
-        && request.resource.data.ciudad.size() >= 1
-        && request.resource.data.ciudad.size() <= 80
         && request.resource.data.titulo is string
-        && request.resource.data.archivo is string
-        && request.resource.data.archivo.size() >= 1
-        && request.resource.data.mensaje is string
-        && request.resource.data.mensaje.size() <= 250;
+        && request.resource.data.archivo is string;
 
       allow read, update, delete: if isAdmin();
+    }
+
+    match /estadoRadio/pedidoActual {
+      allow read: if true;
+      allow write: if false;
     }
   }
 }
