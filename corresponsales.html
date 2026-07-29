@@ -1,24 +1,570 @@
-<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#f36b16"><meta name="description" content="Radio Tiempo Muerto: radio, noticias y comunidad de Concepción del Uruguay."><title>Corresponsales | Radio Tiempo Muerto</title><link rel="manifest" href="manifest.webmanifest"><link rel="icon" type="image/png" href="assets/img/favicon-64.png"><link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png"><link rel="stylesheet" href="assets/css/estilos.css"><script>if(!location.hash){location.replace("index.html#corresponsales");}</script></head><body>
-<header class="site-header">
-  <div class="header-main">
-    <a href="index.html"><img class="brand-logo" src="assets/img/logo-radio-tiempo-muerto.png" alt="Logo de Radio Tiempo Muerto"></a>
-    <div>
-      <a class="brand-title" href="index.html"><span class="radio">Radio</span><span class="tiempo">Tiempo Muerto</span></a>
-      <div class="brand-tagline">MÚSICA, DEPORTES Y NOTICIAS PARA NUESTRA GENTE</div>
-    </div>
-    <div class="header-tools">
-      <div class="socials">
-        <a class="social-link" href="#" data-demo="Falta colocar el enlace de Facebook." aria-label="Facebook">f</a>
-        <a class="social-link" href="#" data-demo="Falta colocar el enlace de Instagram." aria-label="Instagram">◎</a>
-        <a class="social-link" href="#" data-demo="Falta colocar el enlace de X." aria-label="X">X</a>
-        <a class="social-link" href="#" data-demo="Falta colocar el canal de YouTube." aria-label="YouTube">▶</a>
-        <span class="live-chip"><i class="live-dot"></i> EN VIVO</span>
-      </div>
-      <input class="search" type="search" placeholder="Buscar noticias, programas, podcasts…" aria-label="Buscar">
-    </div>
-  </div>
-  <div class="nav-wrap"><button class="menu-btn" type="button" aria-expanded="false">☰ Menú</button><nav class="nav"><a class="" href="index.html">⌂ Inicio</a><a class="" href="noticias.html">▤ Noticias</a><a class="active" href="corresponsales.html">◉ Corresponsales</a><a class="" href="comunidad.html">♧ Comunidad</a><a class="" href="podcasts.html">◉ Podcasts</a><a class="" href="clima-rio.html">≈ Clima y río</a><a class="" href="aportes.html">♡ Aportes</a><a class="" href="contacto.html">✉ Contacto</a><a class="" href="ayuda.html">? Ayuda</a><a href="admin.html">⚙ Administrador</a></nav></div>
-</header>
-<section class="contact-strip"><div class="contact-strip-inner"><a href="mailto:rtiempomuerto@gmail.com">✉ rtiempomuerto@gmail.com</a><a href="https://wa.me/5493442405972" target="_blank" rel="noopener">💬 +54 9 3442 405972</a><span>📍 Concepción del Uruguay</span></div></section>
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#c91522">
+  <meta name="description" content="Sé corresponsal de Radio Tiempo Muerto y enviá noticias, fotos, audios o videos.">
+  <title>Sé corresponsal | Radio Tiempo Muerto</title>
+  <link rel="icon" type="image/png" href="assets/img/favicon-64.png">
+  <link rel="stylesheet" href="assets/css/estilos.css">
+  <style>
+    :root{
+      --rtm-red:#c91522;
+      --rtm-red-dark:#9f0f19;
+      --rtm-red-soft:#fff1f2;
+      --rtm-ink:#131b2b;
+      --rtm-muted:#657084;
+      --rtm-line:#e5e9ef;
+      --rtm-bg:#f4f6f9;
+      --rtm-card:#ffffff;
+      --rtm-shadow:0 16px 46px rgba(20,28,45,.09);
+    }
 
-<main id="app-main" class="page-main" data-route="corresponsales"><section class="page-hero"><div class="section-kicker">TU INFORMACIÓN IMPORTA</div><h1>Sé <span>corresponsal</span></h1><p>Mandá una noticia, foto, audio o video. La radio revisará el material antes de publicarlo.</p></section><section class="two-col"><article class="card"><h2 class="card-title">📝 Enviar una noticia</h2><p class="muted">Contá qué pasó, dónde y cuándo.</p></article><article class="card"><h2 class="card-title">🎙 Mandar archivo</h2><p class="muted">Adjuntá foto, audio o video. La carga real se conectará más adelante.</p></article></section><article class="card" style="margin-top:14px"><div class="notice">Este formulario es visual. Para recibir archivos desde la web conectaremos un servicio de almacenamiento.</div><div class="form-grid" style="margin-top:14px"><label>Nombre<input type="text" placeholder="Nombre y apellido"></label><label>Barrio o localidad<input type="text" placeholder="Barrio o localidad"></label><label class="span-2">Título breve<input type="text" placeholder="Título de la noticia"></label><label class="span-2">Información<textarea placeholder="Contá qué pasó, dónde y cuándo"></textarea></label><label>Teléfono o WhatsApp<input type="tel" placeholder="Número de contacto"></label><label>Tipo de material<select><option>Texto</option><option>Foto</option><option>Audio</option><option>Video</option></select></label></div><div class="card-actions"><button class="btn btn-primary" data-demo="Para recibir el material conectaremos Firebase Storage o un servicio similar.">Enviar para revisión</button></div></article></main><footer class="site-footer"><div class="footer-inner"><span>© 2026 Radio Tiempo Muerto</span><span>Información, música y comunidad de Concepción del Uruguay.</span></div></footer><div class="toast" role="status" aria-live="polite"></div><script src="assets/js/principal.js"></script></body></html>
+    *{box-sizing:border-box}
+    body{
+      margin:0;
+      background:var(--rtm-bg);
+      color:var(--rtm-ink);
+      font-family:Inter,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+    }
+
+    .cor-page{
+      min-height:100vh;
+      overflow:hidden;
+      background:
+        radial-gradient(circle at 92% 8%,rgba(201,21,34,.10),transparent 25rem),
+        linear-gradient(180deg,#fff 0,#f5f7fa 30rem);
+    }
+
+    .cor-topbar{
+      position:sticky;
+      top:0;
+      z-index:50;
+      background:rgba(255,255,255,.96);
+      border-bottom:1px solid rgba(20,28,45,.08);
+      box-shadow:0 8px 24px rgba(20,28,45,.05);
+      backdrop-filter:blur(12px);
+    }
+
+    .cor-nav{
+      max-width:1480px;
+      min-height:74px;
+      margin:auto;
+      padding:0 24px;
+      display:flex;
+      align-items:center;
+      gap:24px;
+    }
+
+    .cor-logo{
+      display:flex;
+      align-items:center;
+      gap:10px;
+      color:var(--rtm-ink);
+      text-decoration:none;
+      margin-right:auto;
+      font-weight:900;
+      line-height:.92;
+    }
+
+    .cor-logo img{
+      width:60px;
+      height:60px;
+      object-fit:contain;
+    }
+
+    .cor-logo span{font-size:13px;letter-spacing:.03em}
+    .cor-logo strong{display:block;font-size:19px;color:var(--rtm-red)}
+
+    .cor-links{
+      display:flex;
+      align-items:center;
+      gap:6px;
+      flex-wrap:wrap;
+    }
+
+    .cor-links a{
+      padding:11px 12px;
+      border-radius:10px;
+      color:#202a3a;
+      text-decoration:none;
+      font-size:14px;
+      font-weight:800;
+      white-space:nowrap;
+    }
+
+    .cor-links a:hover{background:#f2f4f7;color:var(--rtm-red)}
+    .cor-links .admin{background:var(--rtm-red);color:#fff}
+    .cor-links .admin:hover{background:var(--rtm-red-dark);color:#fff}
+
+    .cor-hero{
+      position:relative;
+      max-width:1480px;
+      margin:auto;
+      padding:54px 30px 30px;
+      display:grid;
+      grid-template-columns:minmax(0,1.15fr) minmax(360px,.85fr);
+      gap:36px;
+      align-items:center;
+    }
+
+    .cor-kicker{
+      display:inline-flex;
+      gap:9px;
+      align-items:center;
+      color:var(--rtm-red);
+      font-size:13px;
+      font-weight:950;
+      letter-spacing:.09em;
+      text-transform:uppercase;
+    }
+
+    .cor-hero h1{
+      margin:15px 0 14px;
+      font-size:clamp(3rem,6.6vw,6.6rem);
+      line-height:.88;
+      letter-spacing:-.055em;
+      text-transform:uppercase;
+    }
+
+    .cor-hero h1 span{color:var(--rtm-red)}
+    .cor-hero p{
+      max-width:720px;
+      margin:0;
+      color:#48546a;
+      font-size:clamp(1.08rem,1.7vw,1.35rem);
+      line-height:1.55;
+    }
+
+    .cor-visual{
+      position:relative;
+      min-height:280px;
+      border-radius:34px;
+      background:
+        linear-gradient(135deg,rgba(201,21,34,.94),rgba(133,8,17,.98));
+      box-shadow:0 26px 60px rgba(159,15,25,.25);
+      overflow:hidden;
+      display:grid;
+      place-items:center;
+    }
+
+    .cor-visual:before,.cor-visual:after{
+      content:"";
+      position:absolute;
+      border-radius:50%;
+      border:2px solid rgba(255,255,255,.17);
+    }
+    .cor-visual:before{width:320px;height:320px;right:-100px;top:-130px}
+    .cor-visual:after{width:190px;height:190px;left:-70px;bottom:-90px}
+
+    .cor-media-icons{
+      position:relative;
+      z-index:2;
+      display:flex;
+      align-items:end;
+      gap:18px;
+      color:#fff;
+    }
+
+    .cor-media-icons i{
+      display:grid;
+      place-items:center;
+      width:92px;
+      height:92px;
+      border-radius:25px;
+      background:rgba(255,255,255,.14);
+      border:1px solid rgba(255,255,255,.25);
+      box-shadow:0 16px 30px rgba(0,0,0,.16);
+      font-size:43px;
+      font-style:normal;
+      backdrop-filter:blur(8px);
+    }
+
+    .cor-media-icons i:nth-child(2){width:125px;height:125px;font-size:60px}
+    .cor-visual b{
+      position:absolute;
+      left:28px;
+      bottom:22px;
+      z-index:2;
+      color:#fff;
+      font-size:15px;
+      letter-spacing:.04em;
+      text-transform:uppercase;
+    }
+
+    .cor-actions{
+      max-width:1480px;
+      margin:0 auto;
+      padding:0 30px 28px;
+      display:grid;
+      grid-template-columns:1fr 1fr;
+      gap:18px;
+    }
+
+    .cor-action{
+      display:flex;
+      align-items:center;
+      gap:18px;
+      min-height:126px;
+      padding:22px 25px;
+      border:1px solid var(--rtm-line);
+      border-radius:22px;
+      background:var(--rtm-card);
+      box-shadow:var(--rtm-shadow);
+    }
+
+    .cor-action:first-child{border-left:5px solid var(--rtm-red)}
+    .cor-action-icon{
+      flex:0 0 66px;
+      width:66px;
+      height:66px;
+      display:grid;
+      place-items:center;
+      border-radius:21px;
+      background:var(--rtm-red-soft);
+      color:var(--rtm-red);
+      font-size:31px;
+    }
+
+    .cor-action h2{margin:0 0 5px;font-size:19px;text-transform:uppercase}
+    .cor-action p{margin:0;color:var(--rtm-muted);line-height:1.45}
+    .cor-action .arrow{margin-left:auto;font-size:30px;color:#39455a}
+
+    .cor-layout{
+      max-width:1480px;
+      margin:auto;
+      padding:0 30px 64px;
+      display:grid;
+      grid-template-columns:minmax(0,1fr) 350px;
+      gap:22px;
+      align-items:start;
+    }
+
+    .cor-notice{
+      grid-column:1/-1;
+      display:flex;
+      align-items:center;
+      gap:12px;
+      padding:15px 18px;
+      border:1px solid #f3bbc0;
+      border-left:5px solid var(--rtm-red);
+      border-radius:16px;
+      background:#fff7f7;
+      color:#6e3137;
+      font-size:14px;
+    }
+
+    .cor-card{
+      background:var(--rtm-card);
+      border:1px solid var(--rtm-line);
+      border-radius:23px;
+      box-shadow:var(--rtm-shadow);
+    }
+
+    .cor-form-card{padding:28px}
+    .cor-title{
+      display:flex;
+      align-items:center;
+      gap:10px;
+      margin:0 0 23px;
+      padding-bottom:14px;
+      border-bottom:2px solid #ef3340;
+      color:var(--rtm-red);
+      font-size:20px;
+      text-transform:uppercase;
+    }
+
+    .cor-grid{
+      display:grid;
+      grid-template-columns:1fr 1fr;
+      gap:18px;
+    }
+
+    .cor-field{display:flex;flex-direction:column;gap:8px}
+    .cor-field.full{grid-column:1/-1}
+    .cor-field label{
+      font-size:12px;
+      font-weight:950;
+      letter-spacing:.025em;
+      text-transform:uppercase;
+    }
+
+    .cor-field input,.cor-field textarea,.cor-field select{
+      width:100%;
+      border:1px solid #dbe0e7;
+      border-radius:13px;
+      background:#fff;
+      color:#172033;
+      font:inherit;
+      outline:none;
+      padding:14px 15px;
+      transition:.2s ease;
+    }
+
+    .cor-field textarea{min-height:150px;resize:vertical}
+    .cor-field input:focus,.cor-field textarea:focus,.cor-field select:focus{
+      border-color:var(--rtm-red);
+      box-shadow:0 0 0 4px rgba(201,21,34,.10);
+    }
+
+    .cor-upload{
+      grid-column:1/-1;
+      position:relative;
+      padding:25px;
+      border:2px dashed #e1a6ac;
+      border-radius:17px;
+      text-align:center;
+      background:#fffafa;
+    }
+
+    .cor-upload input{
+      position:absolute;
+      inset:0;
+      width:100%;
+      height:100%;
+      opacity:0;
+      cursor:pointer;
+    }
+
+    .cor-upload b{display:block;margin-bottom:5px;color:var(--rtm-red)}
+    .cor-upload small{color:var(--rtm-muted)}
+
+    .cor-submitbar{
+      grid-column:1/-1;
+      display:flex;
+      align-items:center;
+      gap:20px;
+      margin-top:4px;
+      padding:18px 20px;
+      border-radius:16px;
+      background:linear-gradient(100deg,#e32431,#ff6b70);
+      color:#fff;
+    }
+
+    .cor-submitbar strong{display:block;font-size:17px;text-transform:uppercase}
+    .cor-submitbar span{font-size:13px;opacity:.95}
+    .cor-submit{
+      margin-left:auto;
+      border:0;
+      border-radius:12px;
+      background:#9f0f19;
+      color:#fff;
+      padding:15px 23px;
+      font-weight:950;
+      font-size:14px;
+      cursor:pointer;
+      text-transform:uppercase;
+      box-shadow:0 10px 22px rgba(90,0,5,.22);
+    }
+    .cor-submit:hover{background:#7f0911}
+
+    .cor-side{display:grid;gap:18px}
+    .cor-side-card{padding:24px}
+    .cor-side-card h3{
+      margin:0 0 20px;
+      color:var(--rtm-red);
+      font-size:18px;
+      text-transform:uppercase;
+    }
+
+    .cor-side-list{display:grid;gap:17px}
+    .cor-side-item{display:grid;grid-template-columns:38px 1fr;gap:11px}
+    .cor-side-item i{
+      width:36px;height:36px;
+      display:grid;place-items:center;
+      border-radius:10px;
+      background:var(--rtm-red-soft);
+      color:var(--rtm-red);
+      font-style:normal;
+      font-size:18px;
+    }
+    .cor-side-item b{display:block;margin-bottom:3px}
+    .cor-side-item span{color:var(--rtm-muted);font-size:13px;line-height:1.45}
+
+    .cor-tips{background:linear-gradient(145deg,#fff6f6,#fff)}
+    .cor-tips ul{padding:0;margin:0;list-style:none;display:grid;gap:12px}
+    .cor-tips li{display:flex;gap:9px;color:#424d61;font-size:14px;line-height:1.4}
+    .cor-tips li:before{content:"✓";color:var(--rtm-red);font-weight:950}
+
+    .cor-toast{
+      position:fixed;
+      right:20px;
+      bottom:20px;
+      z-index:100;
+      max-width:380px;
+      padding:16px 18px;
+      border-radius:14px;
+      background:#172033;
+      color:#fff;
+      box-shadow:0 20px 50px rgba(0,0,0,.25);
+      transform:translateY(30px);
+      opacity:0;
+      pointer-events:none;
+      transition:.3s ease;
+    }
+    .cor-toast.show{transform:none;opacity:1}
+
+    @media(max-width:1050px){
+      .cor-links{display:none}
+      .cor-hero{grid-template-columns:1fr}
+      .cor-visual{min-height:220px}
+      .cor-layout{grid-template-columns:1fr}
+    }
+
+    @media(max-width:700px){
+      .cor-nav{padding:0 15px;min-height:66px}
+      .cor-logo img{width:50px;height:50px}
+      .cor-hero{padding:35px 18px 22px}
+      .cor-hero h1{font-size:clamp(2.8rem,15vw,4.2rem)}
+      .cor-actions{grid-template-columns:1fr;padding:0 18px 20px}
+      .cor-layout{padding:0 18px 45px}
+      .cor-grid{grid-template-columns:1fr}
+      .cor-field.full,.cor-upload,.cor-submitbar{grid-column:1}
+      .cor-form-card{padding:20px}
+      .cor-submitbar{align-items:flex-start;flex-direction:column}
+      .cor-submit{width:100%;margin-left:0}
+      .cor-media-icons i{width:70px;height:70px;font-size:32px}
+      .cor-media-icons i:nth-child(2){width:92px;height:92px;font-size:44px}
+    }
+  </style>
+</head>
+<body>
+<div class="cor-page">
+  <header class="cor-topbar">
+    <nav class="cor-nav">
+      <a class="cor-logo" href="index.html#inicio">
+        <img src="assets/img/logo-radio-tiempo-muerto.png" alt="Radio Tiempo Muerto">
+        <span>RADIO<strong>TIEMPO MUERTO</strong></span>
+      </a>
+      <div class="cor-links">
+        <a href="index.html#inicio">⌂ Inicio</a>
+        <a href="index.html#noticias">▤ Noticias</a>
+        <a href="index.html#clima-rio">≈ El río</a>
+        <a href="index.html#clima-rio">☁ Clima</a>
+        <a href="index.html#podcasts">◉ Podcast</a>
+        <a href="index.html#comunidad">▣ Agenda</a>
+        <a href="index.html#aportes">♡ Colaborá</a>
+        <a href="index.html#contacto">♟ Nosotros</a>
+        <a href="index.html#ayuda">? Ayuda</a>
+        <a class="admin" href="admin.html">⚙ Administrador</a>
+      </div>
+    </nav>
+  </header>
+
+  <section class="cor-hero">
+    <div>
+      <div class="cor-kicker">📣 Tu información importa</div>
+      <h1>Sé <span>corresponsal</span></h1>
+      <p>Mandá una noticia, una foto, un audio o un video. Radio Tiempo Muerto revisará el material antes de publicarlo.</p>
+    </div>
+    <div class="cor-visual" aria-hidden="true">
+      <div class="cor-media-icons"><i>🎙</i><i>📷</i><i>📱</i></div>
+      <b>Tu barrio también es noticia</b>
+    </div>
+  </section>
+
+  <section class="cor-actions">
+    <article class="cor-action">
+      <div class="cor-action-icon">📝</div>
+      <div><h2>Enviar una noticia</h2><p>Contanos qué pasó, dónde ocurrió y cuándo.</p></div>
+      <span class="arrow">›</span>
+    </article>
+    <article class="cor-action">
+      <div class="cor-action-icon">☁</div>
+      <div><h2>Mandar un archivo</h2><p>Adjuntá una foto, un audio o un video desde tu dispositivo.</p></div>
+      <span class="arrow">›</span>
+    </article>
+  </section>
+
+  <section class="cor-layout">
+    <div class="cor-notice">
+      <strong>ⓘ</strong>
+      <span>El equipo de la radio verificará la información antes de publicarla. Evitá enviar datos privados de terceros.</span>
+    </div>
+
+    <form class="cor-card cor-form-card" id="corresponsal-form">
+      <h2 class="cor-title">▤ Datos de la noticia</h2>
+      <div class="cor-grid">
+        <div class="cor-field">
+          <label for="nombre">Nombre y apellido *</label>
+          <input id="nombre" name="nombre" required maxlength="70" placeholder="Escribí tu nombre y apellido">
+        </div>
+        <div class="cor-field">
+          <label for="localidad">Barrio o localidad *</label>
+          <input id="localidad" name="localidad" required maxlength="80" placeholder="Escribí tu barrio o localidad">
+        </div>
+        <div class="cor-field full">
+          <label for="titulo">Título breve *</label>
+          <input id="titulo" name="titulo" required maxlength="120" placeholder="Ingresá un título para la noticia">
+        </div>
+        <div class="cor-field">
+          <label for="tipo">Tipo de material</label>
+          <select id="tipo" name="tipo">
+            <option>Noticia</option>
+            <option>Foto</option>
+            <option>Audio</option>
+            <option>Video</option>
+            <option>Denuncia o reclamo vecinal</option>
+          </select>
+        </div>
+        <div class="cor-field">
+          <label for="contacto">Teléfono o correo</label>
+          <input id="contacto" name="contacto" maxlength="100" placeholder="Para que podamos contactarte">
+        </div>
+        <div class="cor-field full">
+          <label for="informacion">Información *</label>
+          <textarea id="informacion" name="informacion" required maxlength="2000" placeholder="Contá qué pasó, dónde y cuándo. Sé lo más claro posible."></textarea>
+        </div>
+        <label class="cor-upload">
+          <input type="file" id="archivo" accept="image/*,audio/*,video/*">
+          <b>📎 Seleccionar foto, audio o video</b>
+          <small>Tocá acá o arrastrá un archivo desde tu dispositivo.</small>
+        </label>
+        <div class="cor-submitbar">
+          <div>
+            <strong>¡Tu aporte hace la diferencia!</strong>
+            <span>Gracias por ayudarnos a construir una comunidad más informada.</span>
+          </div>
+          <button class="cor-submit" type="submit">➤ Enviar noticia</button>
+        </div>
+      </div>
+    </form>
+
+    <aside class="cor-side">
+      <section class="cor-card cor-side-card">
+        <h3>¿Qué puedo enviar?</h3>
+        <div class="cor-side-list">
+          <div class="cor-side-item"><i>▤</i><div><b>Noticias</b><span>Hechos, eventos o problemáticas de tu barrio o ciudad.</span></div></div>
+          <div class="cor-side-item"><i>📷</i><div><b>Fotos</b><span>Imágenes que muestren lo que sucede a tu alrededor.</span></div></div>
+          <div class="cor-side-item"><i>🎙</i><div><b>Audio</b><span>Testimonios, entrevistas o grabaciones relevantes.</span></div></div>
+          <div class="cor-side-item"><i>▰</i><div><b>Video</b><span>Videos breves que ayuden a comprender la información.</span></div></div>
+        </div>
+      </section>
+      <section class="cor-card cor-side-card cor-tips">
+        <h3>💡 Tips para tu envío</h3>
+        <ul>
+          <li>Verificá la información antes de enviarla.</li>
+          <li>Indicá claramente el lugar y la fecha.</li>
+          <li>Sé respetuoso y claro en tu mensaje.</li>
+          <li>Evitá publicar datos privados de terceros.</li>
+        </ul>
+      </section>
+    </aside>
+  </section>
+</div>
+
+<div class="cor-toast" id="cor-toast">La presentación quedó lista. La conexión para recibir noticias se configurará en el siguiente paso.</div>
+
+<script>
+  const form = document.getElementById('corresponsal-form');
+  const toast = document.getElementById('cor-toast');
+
+  form.addEventListener('submit', event => {
+    event.preventDefault();
+    toast.classList.add('show');
+    window.setTimeout(() => toast.classList.remove('show'), 4500);
+  });
+</script>
+</body>
+</html>
