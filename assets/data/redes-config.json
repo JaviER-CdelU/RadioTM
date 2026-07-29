@@ -1,0 +1,11 @@
+{
+  "accounts": [
+    {
+      "name": "Andrea Pacinelli Noticias",
+      "platform": "facebook",
+      "page_id": "",
+      "active": false,
+      "note": "Completar el identificador y habilitar solo si Meta autoriza el acceso."
+    }
+  ]
+}

@@ -162,6 +162,7 @@ async function navigateTo(route, { scroll = true } = {}) {
     renderRiverData(lastRiverData, currentMain);
     renderWeatherData(lastWeatherData, currentMain);
     renderNewsData(lastNewsData, currentMain);
+    renderSocialData(lastSocialData, currentMain);
     return;
   }
   showRouteLoading();
@@ -176,6 +177,7 @@ async function navigateTo(route, { scroll = true } = {}) {
     renderRiverData(lastRiverData, currentMain);
     renderWeatherData(lastWeatherData, currentMain);
     renderNewsData(lastNewsData, currentMain);
+    renderSocialData(lastSocialData, currentMain);
     if (scroll) window.scrollTo({ top: 0, behavior: 'smooth' });
   } catch (error) {
     console.error(error);
@@ -477,27 +479,89 @@ function renderNewsPage(data, root) {
     container.append(article);
   });
 }
+let homeNewsItems = [];
+let homeNewsIndex = 0;
+let homeNewsTimer = null;
+
+function newsImageFor(item, index = 0) {
+  if (item?.image) return `url("${String(item.image).replace(/"/g, '')}")`;
+  const zone = normalizedZone(item?.group?.zone || item?.zone || '');
+  const images = {
+    local: 'assets/img/puente-isla-portada.jpg',
+    regional: 'assets/img/puente-isla-portada.jpg',
+    provincial: 'assets/img/puente-isla-portada.jpg',
+    nacional: 'assets/img/puente-isla-portada.jpg',
+    deportes: 'assets/img/logo-radio-tiempo-muerto.png'
+  };
+  return `url("${images[zone] || images.local}")`;
+}
+
+function showHomeNews(index, root = document) {
+  if (!homeNewsItems.length) return;
+  homeNewsIndex = (index + homeNewsItems.length) % homeNewsItems.length;
+  const item = homeNewsItems[homeNewsIndex];
+  const lead = root.querySelector('[data-home-news-lead]');
+  if (lead) {
+    lead.style.backgroundImage = `linear-gradient(180deg,transparent 25%,rgba(10,17,27,.93)),${newsImageFor(item, homeNewsIndex)}`;
+    const zone = lead.querySelector('.lead-overlay span');
+    const title = lead.querySelector('.lead-overlay h3');
+    const meta = lead.querySelector('.lead-overlay small');
+    const link = lead.querySelector('.lead-overlay a');
+    if (zone) zone.textContent = String(item.group?.zone || 'Noticias').toUpperCase();
+    if (title) title.textContent = cleanNewsText(item.title);
+    if (meta) meta.textContent = `${item.group?.source || item.source || 'Fuente'} · ${formatNewsDate(item.published)}`;
+    if (link) { link.href = item.link || '#noticias'; link.target = item.link ? '_blank' : ''; link.rel = item.link ? 'noopener noreferrer' : ''; }
+  }
+  root.querySelectorAll('[data-news-dots] button').forEach((dot, dotIndex) => dot.classList.toggle('active', dotIndex === homeNewsIndex));
+  const side = root.querySelector('[data-home-news]');
+  if (side) {
+    side.querySelectorAll('[data-news-index]').forEach(row => row.classList.toggle('active', Number(row.dataset.newsIndex) === homeNewsIndex));
+  }
+}
+
+function startHomeNewsCarousel(root = document) {
+  window.clearInterval(homeNewsTimer);
+  if (homeNewsItems.length < 2) return;
+  homeNewsTimer = window.setInterval(() => showHomeNews(homeNewsIndex + 1, root), 9000);
+}
+
 function renderHomeNews(data, root) {
   const container = root.querySelector('[data-home-news]');
+  const dots = root.querySelector('[data-news-dots]');
   if (!container) return;
-  const items = (data?.groups || []).flatMap(group => (group.items || []).map(item => ({ ...item, group }))).slice(0, 3);
+  homeNewsItems = (data?.groups || []).flatMap(group => (group.items || []).map(item => ({ ...item, group }))).slice(0, 8);
   container.innerHTML = '';
-  if (!items.length) {
-    container.innerHTML = '<div><strong>Esperando la primera actualización automática</strong><p class="muted">Las noticias se revisan aproximadamente cada hora.</p></div>';
+  if (dots) dots.innerHTML = '';
+  if (!homeNewsItems.length) {
+    container.innerHTML = '<a href="#noticias"><span>NOTICIAS</span><b>Esperando la primera actualización automática</b><small>Las fuentes se revisan aproximadamente cada hora.</small></a>';
     return;
   }
-  items.forEach((item, index) => {
-    const row = document.createElement('div');
-    if (index > 0) row.className = 'news-item';
-    if (index > 0) { const thumb = document.createElement('div'); thumb.className = 'thumb'; row.append(thumb); }
-    const copy = document.createElement('div');
-    if (index === 0) { const kicker = document.createElement('span'); kicker.className = 'section-kicker'; kicker.textContent = String(item.group.zone || 'Noticias').toUpperCase(); copy.append(kicker); }
-    const strong = document.createElement('strong'); strong.textContent = cleanNewsText(item.title); copy.append(strong);
-    const meta = document.createElement(index === 0 ? 'p' : 'small'); meta.className = index === 0 ? 'muted' : '';
-    meta.append(`${item.group.source || item.source || 'Fuente'} · `, createNewsLink(item)); copy.append(meta);
-    row.append(copy); container.append(row);
+  homeNewsItems.slice(0, 3).forEach((item, index) => {
+    const row = document.createElement('button');
+    row.type = 'button';
+    row.className = 'home-news-choice';
+    row.dataset.newsIndex = String(index);
+    const thumb = document.createElement('span'); thumb.className = 'home-news-thumb'; thumb.style.backgroundImage = newsImageFor(item, index);
+    const copy = document.createElement('span'); copy.className = 'home-news-copy';
+    const kicker = document.createElement('small'); kicker.textContent = String(item.group?.zone || 'Noticias').toUpperCase();
+    const title = document.createElement('b'); title.textContent = cleanNewsText(item.title);
+    const source = document.createElement('em'); source.textContent = item.group?.source || item.source || 'Fuente';
+    copy.append(kicker, title, source); row.append(thumb, copy);
+    row.addEventListener('click', () => { showHomeNews(index, root); startHomeNewsCarousel(root); });
+    container.append(row);
   });
+  if (dots) homeNewsItems.forEach((_, index) => {
+    const dot = document.createElement('button'); dot.type = 'button'; dot.setAttribute('aria-label', `Mostrar noticia ${index + 1}`);
+    dot.addEventListener('click', () => { showHomeNews(index, root); startHomeNewsCarousel(root); }); dots.append(dot);
+  });
+  root.querySelector('[data-news-prev]')?.addEventListener('click', () => { showHomeNews(homeNewsIndex - 1, root); startHomeNewsCarousel(root); });
+  root.querySelector('[data-news-next]')?.addEventListener('click', () => { showHomeNews(homeNewsIndex + 1, root); startHomeNewsCarousel(root); });
+  const carousel = root.querySelector('[data-news-carousel]');
+  carousel?.addEventListener('mouseenter', () => window.clearInterval(homeNewsTimer));
+  carousel?.addEventListener('mouseleave', () => startHomeNewsCarousel(root));
+  showHomeNews(0, root); startHomeNewsCarousel(root);
 }
+
 function renderNewsData(data, root = document) {
   if (!data || !root) return;
   setText(root, '[data-news-updated]', data.updated_at ? `Actualizado: ${formatNewsDate(data.updated_at)}` : 'Esperando primera actualización');
@@ -519,6 +583,38 @@ async function loadNewsData() {
       if (stored) { lastNewsData = stored; renderNewsData(stored, document); }
     } catch (_) {}
   }
+}
+
+// -----------------------------------------------------------------------------
+// Facebook e Instagram: archivo generado cada 12 horas cuando Meta esté autorizado.
+// -----------------------------------------------------------------------------
+const SOCIAL_URL = 'assets/data/redes.json';
+let lastSocialData = null;
+function renderSocialData(data, root = document) {
+  const container = root.querySelector('[data-social-news]');
+  if (!container) return;
+  const items = Array.isArray(data?.items) ? data.items : [];
+  container.innerHTML = '';
+  if (!items.length) {
+    container.innerHTML = '<article class="social-empty"><div>📱</div><h3>Integración preparada</h3><p>Facebook e Instagram se revisarán cada 12 horas cuando conectemos una aplicación oficial de Meta y autoricemos las cuentas.</p><a href="admin-noticias.html" target="_blank" rel="noopener">Administrar fuentes →</a></article>';
+    return;
+  }
+  items.forEach(item => {
+    const article = document.createElement('article'); article.className = `social-post ${item.platform || ''}`;
+    if (item.image) { const img=document.createElement('img'); img.src=item.image; img.alt=''; img.loading='lazy'; article.append(img); }
+    const body=document.createElement('div');
+    const top=document.createElement('div'); top.className='social-post-top';
+    const platform=document.createElement('span'); platform.textContent=item.platform === 'instagram' ? '◎ Instagram' : 'f Facebook';
+    const account=document.createElement('strong'); account.textContent=item.account || 'Cuenta'; top.append(platform,account);
+    const text=document.createElement('p'); text.textContent=cleanNewsText(item.text || '').slice(0,260);
+    const meta=document.createElement('small'); meta.textContent=formatNewsDate(item.published);
+    const link=document.createElement('a'); link.href=item.link || '#'; link.target='_blank'; link.rel='noopener noreferrer'; link.textContent='Ver publicación original ↗';
+    body.append(top,text,meta,link); article.append(body); container.append(article);
+  });
+}
+async function loadSocialData() {
+  try { const response=await fetch(SOCIAL_URL,{cache:'no-store'}); if(!response.ok) throw new Error('No respondió redes.json'); lastSocialData=await response.json(); renderSocialData(lastSocialData,document); }
+  catch(error){ console.warn(error); }
 }
 
 // -----------------------------------------------------------------------------
@@ -554,7 +650,17 @@ function initDynamicContent(root = document) {
         item.classList.toggle('btn-primary', item === button);
         item.classList.toggle('btn-light', item !== button);
       });
-      renderNewsData(lastNewsData, root);
+      const sourceGrid = root.querySelector('[data-news-sources]');
+      const socialSection = root.querySelector('[data-social-section]');
+      if (activeNewsFilter === 'redes') {
+        if (sourceGrid) sourceGrid.hidden = true;
+        if (socialSection) socialSection.hidden = false;
+        renderSocialData(lastSocialData, root);
+      } else {
+        if (sourceGrid) sourceGrid.hidden = false;
+        if (socialSection) socialSection.hidden = activeNewsFilter !== 'todas';
+        renderNewsData(lastNewsData, root);
+      }
     });
   });
 
@@ -622,6 +728,7 @@ initDynamicContent(document);
 loadRiverData();
 loadWeatherData();
 loadNewsData();
+loadSocialData();
 setInterval(loadRiverData, 30 * 60 * 1000);
 setInterval(loadWeatherData, 15 * 60 * 1000);
 setInterval(loadNewsData, 60 * 60 * 1000);

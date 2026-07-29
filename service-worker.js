@@ -1,11 +1,11 @@
-const CACHE = 'radio-tiempo-muerto-v9-automatizaciones-corregidas';
+const CACHE = 'radio-tiempo-muerto-v12-noticias-y-redes';
 const ASSETS = [
   './', './index.html', './noticias.html', './comunidad.html', './corresponsales.html',
   './podcasts.html', './clima-rio.html', './aportes.html', './contacto.html',
   './ayuda.html', './admin.html', './admin-noticias.html', './admin-publicidades.html',
   './assets/css/estilos.css', './assets/js/principal.js',
   './assets/js/publicidades.js', './assets/js/firebase-config.js', './assets/js/admin-auth.js', './assets/js/admin-noticias.js',
-  './assets/data/rio.json', './assets/data/noticias.json',
+  './assets/data/rio.json', './assets/data/noticias.json', './assets/data/redes.json',
   './assets/img/logo-radio-tiempo-muerto.png', './assets/img/favicon-64.png',
   './assets/img/icon-192.png', './assets/img/icon-512.png', './manifest.webmanifest'
 ];
@@ -41,7 +41,7 @@ self.addEventListener('fetch', event => {
   if (requestUrl.origin !== self.location.origin || event.request.headers.has('range')) return;
 
   const isHtml = requestUrl.pathname.endsWith('.html') || event.request.mode === 'navigate';
-  const isLiveData = requestUrl.pathname.endsWith('/assets/data/rio.json') || requestUrl.pathname.endsWith('/assets/data/noticias.json');
+  const isLiveData = requestUrl.pathname.endsWith('/assets/data/rio.json') || requestUrl.pathname.endsWith('/assets/data/noticias.json') || requestUrl.pathname.endsWith('/assets/data/redes.json');
   const isCodeOrConfig = requestUrl.pathname.endsWith('.js') || requestUrl.pathname.endsWith('.css') || requestUrl.pathname.endsWith('.webmanifest');
   if (isHtml || isLiveData || isCodeOrConfig) {
     event.respondWith(networkFirst(event.request));

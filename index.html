@@ -84,16 +84,17 @@
   <section class="dashboard-top">
     <article class="dash-card news-highlight">
       <header><h2>▤ Noticias destacadas</h2><a href="#noticias">Ver noticias →</a></header>
-      <div class="news-layout">
-        <a class="lead-story" href="#noticias">
-          <div class="lead-overlay"><span>LOCAL</span><h3>La información de Concepción del Uruguay, en un solo lugar</h3><small>Noticias nuevas aproximadamente cada hora</small></div>
-        </a>
+      <div class="news-layout" data-news-carousel>
+        <article class="lead-story" data-home-news-lead>
+          <div class="lead-overlay"><span>LOCAL</span><h3>La información de Concepción del Uruguay, en un solo lugar</h3><small>Noticias nuevas aproximadamente cada hora</small><a href="#noticias">Ver noticia →</a></div>
+        </article>
         <div class="mini-news" data-home-news>
           <a href="#noticias"><span>LOCAL</span><b>Esperando la próxima actualización automática</b><small>Leer noticias →</small></a>
           <a href="#noticias"><span>REGIÓN</span><b>Información de Gualeguaychú, Colón, San José y Tala</b><small>Ver cobertura →</small></a>
           <a href="#noticias"><span>PROVINCIA</span><b>Entre Ríos y las noticias nacionales destacadas</b><small>Ver más →</small></a>
         </div>
       </div>
+      <div class="news-carousel-footer"><div class="news-dots" data-news-dots aria-label="Noticias destacadas"></div><div class="news-carousel-actions"><button type="button" data-news-prev aria-label="Noticia anterior">←</button><button type="button" data-news-next aria-label="Noticia siguiente">→</button></div><span data-news-updated>Esperando actualización…</span></div>
     </article>
 
     <article class="dash-card river-highlight" data-river-card>
