@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T16:38:47.311906+00:00",
+  "updated_at": "2026-07-29T18:15:10.529799+00:00",
   "status": "partial",
   "description": "Titulares y enlaces; el contenido completo permanece en el medio original.",
   "groups": [
@@ -10,6 +10,17 @@
       "type": "Web",
       "homepage": "https://lacalle.com.ar/",
       "items": [
+        {
+          "title": "Semana Mundial de la Lactancia Materna en la UNER - lacalle.com.ar",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8tM2NueEJOTC1KenM1NnJRaXVqaTljbDRYRjkwZDFFU3Y3LVo0dUZBa1poYjF0dllLbG9WdExtbzE4eXRVeVJydXlYaks0NEhabWFBclZrdHlBWElBSFFaSzVUVllzZm1FQjV6ZDFVR3BUdEVnSEhtV0lhaDVYQQ?oc=5",
+          "summary": "Semana Mundial de la Lactancia Materna en la UNER lacalle.com.ar",
+          "published": "2026-07-29T14:47:36+00:00",
+          "source": "Diario La Calle",
+          "source_url": "https://lacalle.com.ar/",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
+          "source_image": ""
+        },
         {
           "title": "Recuperan animales robados y secuestran armas - lacalle.com.ar",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5TVzJCS1NSTnVxV3c3b2hVREZsME9oUUZTc2tueVVzY1ctOUZZMDk0N3NWNFdWdWZNbG9BVnNsMlJNRDh0d2UycG1Cdm5LM2Nqd3ZmaGgzdDFUS3g0Wk9Wd2xEblZuSVFIcHJhMjVpYzBZLU5rR0stUA?oc=5",
@@ -26,17 +37,6 @@
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaXlJMm9zeGQtNnB2Y19zLVFQT2pFUlROTVRJcW1xVmd5Xy1yS215WHg5NHZwVFQ2ZzU0aW1vbkdORkc5c2xqN1VvQUdJMHVmYnEza1dCSVRFUnMydEFzT2lNQS15cTdZUHRJNW5oTmJrMWQzTEw2TmFrSzZWb2dIWXh2MzBaeEZGOG5zcVF3bktTV1c0aEE?oc=5",
           "summary": "Docentes realizaron una clase pública contra la reforma previsional lacalle.com.ar",
           "published": "2026-07-29T11:24:45+00:00",
-          "source": "Diario La Calle",
-          "source_url": "https://lacalle.com.ar/",
-          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
-          "source_image": ""
-        },
-        {
-          "title": "Cristina Kirchner recurrirá a la ONU - lacalle.com.ar",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVZi15MTRGZzF4WDAzS3E3MjJxMFgtM1g4d2FwSktycFlyZTlhNVJtNV9qZFBXYWs4a0ZSVHJnMXppTHAxRmJpbHZyZU0xV0FPdkQwNlg2clp5WnkyWklIanhZRU5MLVAzTkhBeA?oc=5",
-          "summary": "Cristina Kirchner recurrirá a la ONU lacalle.com.ar",
-          "published": "2026-07-29T11:43:13+00:00",
           "source": "Diario La Calle",
           "source_url": "https://lacalle.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -116,7 +116,7 @@
       "items": [
         {
           "title": "La Cámara de Diputados trata este miércoles la reforma previsional - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMW5SZTZFbF80UXlieGxPUEllZ2Z1cUZaNVdKd2lJcERfTUxPNnQ0bUZreXZCQ3lReXNqbG5CRzRLRllNNlhCQlU3TG5yNkNYV0FrQk03S0pBOFhQVUR3OTBkNGVaNU5aUWdVVGpmZFFkUlNMSXdyeTg3RktNN2dKUHJLWUlWUVJKR3VVbjlTOTVqeHpDbFh2eFpYek8zdkJEc1ViUtIBngFBVV95cUxOV2dBYUkxZ2xDQzZ2dTlpbzZMQUk0QnF0THR3U0dpSVZYVGg5c2huY2x4YlhwLTZBcXEwQXA3S19TRGtBU1Z4N2FScnQxdGZKYm1mdG1PVDFwSDJ2aUV6NjZBbUxkMmZOUl9NZVZPS0g4ZmJLYmhMY293V2ZBOWhEZEFud1J6eGk3SmdRVUZZX0xWMVdQbG4yeFlyME54QQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMW5SZTZFbF80UXlieGxPUEllZ2Z1cUZaNVdKd2lJcERfTUxPNnQ0bUZreXZCQ3lReXNqbG5CRzRLRllNNlhCQlU3TG5yNkNYV0FrQk03S0pBOFhQVUR3OTBkNGVaNU5aUWdVVGpmZFFkUlNMSXdyeTg3RktNN2dKUHJLWUlWUVJKR3VVbjlTOTVqeHpDbFh2eFpYek8zdkJEc1ViUg?oc=5",
           "summary": "La Cámara de Diputados trata este miércoles la reforma previsional Elonce.com",
           "published": "2026-07-29T07:40:11+00:00",
           "source": "Elonce",
@@ -126,10 +126,10 @@
           "source_image": "https://www.elonce.com/galeria/sitio/marca-de-agua4-jpg.jpg"
         },
         {
-          "title": "Diputados debate la reforma previsional - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaW51LXRCTnRab0lwcC1TWUloQ2t2WnZtZ1hMU0dPdXAteVUxS29KVE5GUGg0M2wwcS1iUEx1b09YZlJpTjNTdTJObi1OWXNVa19FWEdGU3doaDNjX09CSTlRaXpYOXVfbGRzVWdzWWNxeW5tbGQwNmVqdWM4bTlManJZYU80RXQy?oc=5",
-          "summary": "Diputados debate la reforma previsional Elonce.com",
-          "published": "2026-07-29T14:41:14+00:00",
+          "title": "Reforma previsional: gremios anticipan que acudirán a la Justicia si se aprueba la ley - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObExGQXhQQkNzbklzWTQ2bDJ1ZWwxVml0UDhSaWlhcjdFYmFmVS1IYUNaQ2ZUbWRza3JUV1FTZGtDRVdKMFhhUFpLb2E5TGhLX0J2d1NJekRxdV9Da2hfRElXdHVKdTRyNjliZEpGUTcweWZ5aXlrMHUtYmNzWU1kaGVEMW84MjZVdXp6X2t0VEV5T2hIbVVN0gGQAUFVX3lxTE96T0E0WXMzbmxELVhmMlRBTVhlNFNjclVWQ25wdGZFNXY5OEpVMXE0dmZpT1ZTVXljblJESG44REhlWEhzT3hoMlYyaXBvOFQxUzR1emc3ZkJXdVhtTXVEWk1pMVlWWThEN0Fhb2cyM0FwSkhnUl9qMGNrcDVzY01zb2podkYyQmpoWnRpTEV0ZQ?oc=5",
+          "summary": "Reforma previsional: gremios anticipan que acudirán a la Justicia si se aprueba la ley Elonce.com",
+          "published": "2026-07-29T16:06:16+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -157,10 +157,10 @@
           "source_image": "https://www.pagina12.com.ar/resizer/v2/https%3A%2F%2Fwww.pagina12.com.ar%2Fresources%2Fp12logo.svg?auth=811d0fc63a912d1f8dc56b650f3a0054e089ac9c81bfee069a62717e10cbb54a&width=1200"
         },
         {
-          "title": "El voto “anti”, un factor clave - Página|12",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMUxQRjJTZHI3OUl2ZVhaeFZvWmQwVWY3dTN5SnBxc2FoWGNPZjRiU3RXY0pzaXdUTzVTZ2xFNXJFSEtPWThHOGl0eUxVWFdGYkhHT0ktRjJJZGhydzVkTDFkc0FEcDg4eDBaNVU1WFpXcGowU1dQckk0RTZpWGZqeXgwcFVXREM0X3YyT3BDUzlVaGRkNHVVWklUcWhKMFhPVkRrR3VzUVJWRDk2T2pwTw?oc=5",
-          "summary": "El voto “anti”, un factor clave Página|12",
-          "published": "2026-07-27T18:36:38+00:00",
+          "title": "De la batalla cultural a armar una coalición contra la “amenaza de izquierda” - Página|12",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaUpKQ2hqN28yMm8zVlpLY3ZfaUpvRDliRlhQeFpJNHI2cmYxbUh5Wm40WVVFVnlLNV9PWktDQ01Vbkk2ZXQ0N0JGdk40aERueWhJOVN2M0Y5Z3B3am1uZXIydWxmYUw3V2dwRV9TMWg3X3gzMHRyelBES3hBLVdsMFp0RDEySlhRLWlsc3ZEd0wyX3VoX08wVVlMS0ZfZm9jT3p2d2ZiaGp1TWVLbXZhUXU0N0ZlUQ?oc=5",
+          "summary": "De la batalla cultural a armar una coalición contra la “amenaza de izquierda” Página|12",
+          "published": "2026-07-24T20:39:00+00:00",
           "source": "Página/12",
           "source_url": "https://www.pagina12.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
