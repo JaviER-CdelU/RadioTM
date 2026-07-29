@@ -1,0 +1,37 @@
+name: Actualizar noticias
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  actualizar_noticias:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Preparar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Consultar fuentes y generar noticias
+        run: python scripts/actualizar_noticias.py
+
+      - name: Guardar cambios
+        run: |
+          git config user.name "Radio Tiempo Muerto Bot"
+          git config user.email "actions@github.com"
+          git add assets/data/noticias.json
+          if git diff --cached --quiet; then
+            echo "No hay noticias nuevas para guardar"
+          else
+            git commit -m "Actualizar noticias automaticas"
+            git push
+          fi
