@@ -415,6 +415,38 @@ async function loadWeatherData() {
 // Las fuentes activas y la cantidad se leen desde Firebase.
 // -----------------------------------------------------------------------------
 const NEWS_URL = 'assets/data/noticias.json';
+
+function normalizeNewsData(raw) {
+  if (!raw || typeof raw !== 'object') return raw;
+  const rawGroups = Array.isArray(raw.groups) ? raw.groups : (Array.isArray(raw.grupos) ? raw.grupos : []);
+  return {
+    ...raw,
+    updated_at: raw.updated_at || raw.actualizado_en || raw.actualizado || '',
+    status: raw.status || raw.estado || '',
+    description: raw.description || raw.descripción || '',
+    groups: rawGroups.map((group) => {
+      const rawItems = Array.isArray(group.items) ? group.items : (Array.isArray(group.elementos) ? group.elementos : []);
+      return {
+        ...group,
+        id: group.id || group.identificación || group.identificacion || '',
+        source: group.source || group.fuente || 'Fuente',
+        zone: group.zone || group.zona || 'Noticias',
+        type: group.type || group.tipo || 'web',
+        homepage: group.homepage || group.página_principal || group.pagina_principal || group.source_url || '#',
+        items: rawItems.map((item) => ({
+          ...item,
+          title: item.title || item.título || item.titulo || '',
+          link: item.link || item.enlace || '#',
+          summary: item.summary || item.resumen || '',
+          published: item.published || item.publicado || item.fecha || '',
+          source: item.source || item.fuente || group.source || group.fuente || 'Fuente',
+          source_url: item.source_url || item.fuente_url || group.homepage || group.página_principal || group.pagina_principal || '#',
+          image: item.image || item.imagen || ''
+        }))
+      };
+    })
+  };
+}
 const NEWS_STORAGE_KEY = 'rtm-news-last-valid';
 let lastNewsData = null;
 let activeNewsFilter = 'todas';
@@ -564,6 +596,7 @@ function renderHomeNews(data, root) {
 
 function renderNewsData(data, root = document) {
   if (!data || !root) return;
+  data = normalizeNewsData(data);
   setText(root, '[data-news-updated]', data.updated_at ? `Actualizado: ${formatNewsDate(data.updated_at)}` : 'Esperando primera actualización');
   renderNewsPage(data, root);
   renderHomeNews(data, root);
