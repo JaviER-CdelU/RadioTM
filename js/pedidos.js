@@ -15,6 +15,7 @@ const cancionElegida = document.querySelector("#cancionElegida");
 const formPedido = document.querySelector("#formPedido");
 const cancelar = document.querySelector("#cancelar");
 const estado = document.querySelector("#estado");
+const estadoCatalogo = document.querySelector("#estadoCatalogo");
 
 let seleccion = null;
 let temporizador = null;
@@ -32,7 +33,11 @@ async function buscarCanciones() {
   const termino = normalizar(busqueda.value);
   resultados.innerHTML = "";
 
-  if (termino.length < 2) return;
+  if (termino.length < 2) {
+    estadoCatalogo.textContent = "Escribí al menos dos letras para buscar.";
+    return;
+  }
+  estadoCatalogo.textContent = "Buscando canciones…";
 
   try {
     const q = query(
@@ -44,9 +49,10 @@ async function buscarCanciones() {
     const snap = await getDocs(q);
 
     if (snap.empty) {
-      resultados.innerHTML = '<div class="estado">No encontramos canciones con esa búsqueda.</div>';
+      estadoCatalogo.textContent = 'No encontramos canciones con esa búsqueda.';
       return;
     }
+    estadoCatalogo.textContent = `Encontramos ${snap.size} resultado${snap.size === 1 ? '' : 's'}.`;
 
     snap.forEach((documento) => {
       const c = documento.data();
@@ -55,7 +61,7 @@ async function buscarCanciones() {
       item.innerHTML = `
         <div>
           <strong>${escapar(c.artista || "Artista desconocido")} — ${escapar(c.titulo || "Sin título")}</strong>
-          <div class="detalle">${escapar(c.album || "")}</div>
+          <div class="detalle">${escapar(c.album || "")}${c.duracionTexto ? ` · ⏱ ${escapar(c.duracionTexto)}` : ""}</div>
         </div>
         <button type="button">Pedir</button>
       `;
@@ -69,7 +75,7 @@ async function buscarCanciones() {
     });
   } catch (error) {
     console.error(error);
-    resultados.innerHTML = '<div class="estado">No se pudo buscar. Revisá la configuración de Firebase y los índices.</div>';
+    estadoCatalogo.textContent = 'No se pudo buscar. Revisá Firebase y los índices.';
   }
 }
 
