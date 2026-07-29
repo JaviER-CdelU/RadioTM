@@ -4,56 +4,80 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>Pedí tu canción | Radio Tiempo Muerto</title>
-  <link rel="stylesheet" href="css/pedidos.css">
+  <link rel="stylesheet" href="assets/css/pedido-directo.css">
 </head>
 <body>
   <main class="contenedor">
-    <header class="encabezado">
-      <div class="marca">RTM</div>
+    <header class="cabecera">
+      <div class="logo">RTM</div>
       <div>
+        <span class="estado">● PRUEBA DIRECTA CON RADIOBOSS</span>
         <h1>Pedí tu canción</h1>
-        <p class="subtitulo">Elegí una canción del catálogo real de la radio y mandá tu saludo.</p>
+        <p>Esta prueba funciona desde la computadora donde está RadioBOSS.</p>
       </div>
     </header>
 
-    <section class="panel">
-      <div class="campo">
-        <label for="busqueda">Buscar por artista o título</label>
-        <input id="busqueda" type="search" placeholder="Ejemplo: Ángela, Es por ti..." autocomplete="off">
+    <section class="tarjeta cancion">
+      <div>
+        <span class="etiqueta">CANCIÓN DE PRUEBA</span>
+        <h2>ANGELA</h2>
+        <h3>ES POR TI</h3>
+        <p>Archivo comprobado en RadioBOSS.</p>
       </div>
-      <p class="detalle">Escribí al menos dos letras. Solo aparecen canciones cargadas desde la computadora de la radio.</p>
-      <div id="estadoCatalogo" class="estado">Escribí al menos dos letras para buscar.</div>
-      <div id="resultados" class="resultados"></div>
+      <div class="nota">🎵</div>
     </section>
 
-    <section id="formularioPanel" class="panel oculto">
-      <h2 id="cancionElegida">Canción elegida</h2>
+    <section class="tarjeta">
       <form id="formPedido">
-        <div class="grilla">
-          <div class="campo">
-            <label for="nombre">Tu nombre</label>
-            <input id="nombre" maxlength="60" required>
-          </div>
-          <div class="campo">
-            <label for="ciudad">Desde dónde escuchás</label>
-            <input id="ciudad" maxlength="80" required>
-          </div>
-          <div class="campo completo">
-            <label for="mensaje">Saludo o dedicatoria (opcional)</label>
-            <textarea id="mensaje" maxlength="250"></textarea>
-          </div>
-        </div>
-        <div class="acciones">
-          <button type="submit">Enviar pedido</button>
-          <button type="button" class="secundario" id="cancelar">Elegir otra canción</button>
-        </div>
+        <label>
+          Tu nombre
+          <input id="nombre" value="Pablo" maxlength="50" required>
+        </label>
+
+        <label>
+          Desde dónde escuchás
+          <input id="ciudad" value="Concepción del Uruguay" maxlength="70" required>
+        </label>
+
+        <label>
+          Saludo o dedicatoria
+          <textarea id="mensaje" maxlength="180">Pedido realizado desde Radio Tiempo Muerto</textarea>
+        </label>
+
+        <button type="submit">Enviar pedido a RadioBOSS</button>
       </form>
-      <div id="estado" class="estado oculto"></div>
+
+      <div class="aviso" id="aviso">
+        Al enviar se abrirá otra pestaña. Si RadioBOSS está abierto debe aparecer <strong>OK</strong>.
+      </div>
     </section>
 
-    <p><a class="boton secundario" href="index.html#inicio">Volver al inicio</a></p>
+    <a class="volver" href="index.html">← Volver al inicio</a>
   </main>
 
-  <script type="module" src="js/pedidos.js"></script>
+  <script>
+    document.getElementById("formPedido").addEventListener("submit", function (evento) {
+      evento.preventDefault();
+
+      const nombre = document.getElementById("nombre").value.trim();
+      const ciudad = document.getElementById("ciudad").value.trim();
+      const mensaje = document.getElementById("mensaje").value.trim();
+
+      const texto = [
+        nombre ? "Pidió " + nombre : "",
+        ciudad ? "desde " + ciudad : "",
+        mensaje
+      ].filter(Boolean).join(" — ");
+
+      const parametros = new URLSearchParams({
+        pass: "1",
+        action: "songrequest",
+        filename: "E:\\angela\\06_ES POR TI.mp3",
+        message: texto
+      });
+
+      window.open("http://127.0.0.1:9000/?" + parametros.toString(), "_blank");
+    });
+  </script>
 </body>
 </html>

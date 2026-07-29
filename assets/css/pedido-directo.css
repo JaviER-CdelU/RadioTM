@@ -1,0 +1,126 @@
+:root {
+  --fondo:#17191d;
+  --panel:#25282e;
+  --borde:#3a3f48;
+  --texto:#f7f7f7;
+  --secundario:#bcc2cc;
+  --naranja:#ff6416;
+}
+* { box-sizing:border-box; }
+body {
+  margin:0;
+  min-height:100vh;
+  font-family:Arial,Helvetica,sans-serif;
+  background:radial-gradient(circle at top right,rgba(255,100,22,.18),transparent 35%),var(--fondo);
+  color:var(--texto);
+}
+.contenedor {
+  width:min(760px,calc(100% - 28px));
+  margin:0 auto;
+  padding:36px 0 60px;
+}
+.cabecera {
+  display:flex;
+  gap:18px;
+  align-items:center;
+  margin-bottom:22px;
+}
+.logo {
+  width:76px;
+  height:76px;
+  display:grid;
+  place-items:center;
+  border-radius:22px;
+  background:var(--naranja);
+  font-size:23px;
+  font-weight:900;
+}
+.estado {
+  color:#ff8a50;
+  font-size:12px;
+  font-weight:900;
+}
+h1 {
+  margin:6px 0 3px;
+  font-size:clamp(34px,7vw,56px);
+  line-height:.95;
+}
+.cabecera p {
+  margin:9px 0 0;
+  color:var(--secundario);
+}
+.tarjeta {
+  margin-top:16px;
+  padding:22px;
+  border:1px solid var(--borde);
+  border-radius:20px;
+  background:var(--panel);
+  box-shadow:0 20px 60px rgba(0,0,0,.22);
+}
+.cancion {
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  gap:20px;
+}
+.etiqueta {
+  color:#ff8a50;
+  font-size:12px;
+  font-weight:900;
+}
+.cancion h2 {
+  margin:12px 0 2px;
+  font-size:25px;
+}
+.cancion h3 {
+  margin:0;
+  font-size:35px;
+}
+.cancion p { color:var(--secundario); }
+.nota { font-size:68px; }
+form {
+  display:grid;
+  gap:15px;
+}
+label {
+  display:grid;
+  gap:7px;
+  font-weight:800;
+}
+input,textarea {
+  width:100%;
+  padding:13px 14px;
+  border:1px solid var(--borde);
+  border-radius:11px;
+  background:#1d2025;
+  color:white;
+  font:inherit;
+}
+textarea {
+  min-height:95px;
+  resize:vertical;
+}
+button {
+  padding:14px 18px;
+  border:0;
+  border-radius:12px;
+  background:var(--naranja);
+  color:white;
+  font-size:17px;
+  font-weight:900;
+  cursor:pointer;
+}
+.aviso {
+  margin-top:16px;
+  padding:12px 14px;
+  border-left:4px solid var(--naranja);
+  background:#1d2025;
+  color:var(--secundario);
+}
+.volver {
+  display:inline-block;
+  margin-top:22px;
+  color:white;
+  text-decoration:none;
+  font-weight:800;
+}
