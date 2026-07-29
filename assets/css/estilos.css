@@ -92,3 +92,11 @@ body{padding-bottom:84px}.persistent-radio{position:fixed;left:0;right:0;bottom:
 .sun-times-complete b{font-size:13px;color:#172331;white-space:nowrap}
 .weather-last-update{margin:7px 20px 0;text-align:center;font-size:10px;color:#31485e;font-weight:750}
 @media(max-width:760px){.sun-times-complete{grid-template-columns:1fr 1fr}.sun-times-complete>div{padding:8px}.sun-times-complete span{font-size:10px}.sun-times-complete b{font-size:12px}}
+
+/* Noticias v15: foto original, logo del medio y respaldo por categoría. */
+.news-page-row{display:grid;grid-template-columns:112px minmax(0,1fr);gap:14px;align-items:start;padding:14px 0;border-bottom:1px solid var(--line,#e8ebef)}
+.news-page-row:last-child{border-bottom:0}
+.news-page-image{width:112px;height:82px;object-fit:cover;border-radius:14px;background:#f3f5f7;border:1px solid rgba(15,23,42,.08)}
+.news-page-copy{min-width:0;display:grid;gap:6px}
+.news-page-copy strong{font-size:1rem;line-height:1.25}
+@media(max-width:560px){.news-page-row{grid-template-columns:86px minmax(0,1fr);gap:10px}.news-page-image{width:86px;height:72px;border-radius:11px}}

@@ -10,6 +10,7 @@ import json
 from pathlib import Path
 import re
 import sys
+from functools import lru_cache
 import time
 import urllib.parse
 import urllib.request
@@ -149,6 +150,117 @@ def parse_date(value: str) -> str:
     except Exception:
         return value
 
+
+
+def absolute_url(value: str, base: str) -> str:
+    value = html.unescape((value or '').strip())
+    if not value or value.startswith('data:'):
+        return ''
+    return urllib.parse.urljoin(base, value)
+
+
+def first_feed_image(node: ET.Element, base: str) -> str:
+    # RSS enclosure.
+    for enclosure in node.findall('enclosure'):
+        url = enclosure.attrib.get('url', '')
+        media_type = enclosure.attrib.get('type', '')
+        if url and (not media_type or media_type.startswith('image/')):
+            return absolute_url(url, base)
+    # Media RSS namespaces.
+    for tag in (
+        '{http://search.yahoo.com/mrss/}content',
+        '{http://search.yahoo.com/mrss/}thumbnail',
+    ):
+        for media in node.findall(tag):
+            url = media.attrib.get('url', '')
+            media_type = media.attrib.get('type', '')
+            medium = media.attrib.get('medium', '')
+            if url and (not media_type or media_type.startswith('image/') or medium == 'image'):
+                return absolute_url(url, base)
+    # Images embedded in the description/content HTML.
+    fragments = [
+        node.findtext('description') or '',
+        node.findtext('{http://purl.org/rss/1.0/modules/content/}encoded') or '',
+        node.findtext('{http://www.w3.org/2005/Atom}content') or '',
+        node.findtext('{http://www.w3.org/2005/Atom}summary') or '',
+    ]
+    for fragment in fragments:
+        match = re.search(r'<img[^>]+(?:src|data-src)=["\\\']([^"\\\']+)', fragment, re.I)
+        if match:
+            return absolute_url(match.group(1), base)
+    return ''
+
+
+def extract_meta(html_text: str, base_url: str) -> tuple[str, str, str]:
+    image = ''
+    canonical = ''
+    logo = ''
+    patterns = [
+        r'<meta[^>]+(?:property|name)=["\\\']og:image(?::secure_url)?["\\\'][^>]+content=["\\\']([^"\\\']+)',
+        r'<meta[^>]+content=["\\\']([^"\\\']+)["\\\'][^>]+(?:property|name)=["\\\']og:image(?::secure_url)?["\\\']',
+        r'<meta[^>]+(?:property|name)=["\\\']twitter:image(?::src)?["\\\'][^>]+content=["\\\']([^"\\\']+)',
+        r'<meta[^>]+content=["\\\']([^"\\\']+)["\\\'][^>]+(?:property|name)=["\\\']twitter:image(?::src)?["\\\']',
+    ]
+    for pattern in patterns:
+        match = re.search(pattern, html_text, re.I)
+        if match:
+            image = absolute_url(match.group(1), base_url)
+            if image:
+                break
+    match = re.search(r'<link[^>]+rel=["\\\'][^"\\\']*canonical[^"\\\']*["\\\'][^>]+href=["\\\']([^"\\\']+)', html_text, re.I)
+    if match:
+        canonical = absolute_url(match.group(1), base_url)
+    for pattern in (
+        r'<link[^>]+rel=["\\\'][^"\\\']*(?:apple-touch-icon|icon)[^"\\\']*["\\\'][^>]+href=["\\\']([^"\\\']+)',
+        r'<link[^>]+href=["\\\']([^"\\\']+)["\\\'][^>]+rel=["\\\'][^"\\\']*(?:apple-touch-icon|icon)[^"\\\']*["\\\']',
+    ):
+        match = re.search(pattern, html_text, re.I)
+        if match:
+            logo = absolute_url(match.group(1), base_url)
+            if logo:
+                break
+    return image, canonical, logo
+
+
+@lru_cache(maxsize=80)
+def page_metadata(url: str) -> tuple[str, str, str]:
+    if not url:
+        return '', '', ''
+    try:
+        raw = request_bytes(url)
+        text = raw[:2_500_000].decode('utf-8', errors='ignore')
+        return extract_meta(text, url)
+    except Exception as exc:
+        print(f'AVISO: no se pudo leer imagen/metadatos de {url}: {exc}', file=sys.stderr)
+        return '', '', ''
+
+
+@lru_cache(maxsize=40)
+def source_visuals(homepage: str) -> tuple[str, str]:
+    image, _, logo = page_metadata(homepage)
+    host = urllib.parse.urlparse(homepage).netloc
+    favicon = f'https://www.google.com/s2/favicons?domain={urllib.parse.quote(host)}&sz=128' if host else ''
+    return image, logo or favicon
+
+
+def enrich_item_image(item: dict, source: dict) -> dict:
+    homepage = str(source.get('url') or '')
+    source_image, source_logo = source_visuals(homepage)
+    item['source_logo'] = source_logo
+    item['source_image'] = source_image
+    if item.get('image'):
+        return item
+    link = str(item.get('link') or '')
+    # Direct article pages usually expose og:image. Google News URLs may not,
+    # so in that case the source visual becomes the safe fallback.
+    article_image, canonical, _ = page_metadata(link)
+    if canonical and 'news.google.com' not in urllib.parse.urlparse(canonical).netloc:
+        item['link'] = canonical
+        if not article_image:
+            article_image, _, _ = page_metadata(canonical)
+    item['image'] = article_image or source_image or source_logo
+    return item
+
 def parse_xml_feed(raw: bytes, source: dict) -> list[dict]:
     root = ET.fromstring(raw)
     nodes = root.findall("./channel/item")
@@ -178,14 +290,16 @@ def parse_xml_feed(raw: bytes, source: dict) -> list[dict]:
         suffix = f" - {source.get('nombre', '')}"
         if suffix and title.endswith(suffix):
             title = title[:-len(suffix)].strip()
-        items.append({
+        item = {
             "title": title,
             "link": link,
             "summary": description[:320],
             "published": published,
             "source": source.get("nombre"),
             "source_url": source.get("url"),
-        })
+            "image": first_feed_image(node, link or str(source.get("url") or "")),
+        }
+        items.append(enrich_item_image(item, source))
         if len(items) >= amount:
             break
     return items

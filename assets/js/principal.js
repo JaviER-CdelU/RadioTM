@@ -441,7 +441,9 @@ function normalizeNewsData(raw) {
           published: item.published || item.publicado || item.fecha || '',
           source: item.source || item.fuente || group.source || group.fuente || 'Fuente',
           source_url: item.source_url || item.fuente_url || group.homepage || group.página_principal || group.pagina_principal || '#',
-          image: item.image || item.imagen || ''
+          image: item.image || item.imagen || '',
+          source_logo: item.source_logo || item.logo_fuente || item.sourceLogo || '',
+          source_image: item.source_image || item.imagen_fuente || item.sourceImage || ''
         }))
       };
     })
@@ -494,14 +496,24 @@ function renderNewsPage(data, root) {
     const list = document.createElement('div'); list.className = 'news-list';
     (group.items || []).forEach((item) => {
       const row = document.createElement('div');
+      row.className = 'news-page-row';
+      const image = document.createElement('img');
+      image.className = 'news-page-image';
+      image.src = newsImageUrlFor({ ...item, group });
+      image.alt = `Imagen de ${item.source || group.source || 'la noticia'}`;
+      image.loading = 'lazy';
+      applyNewsImageFallback(image, { ...item, group });
+      const body = document.createElement('div');
+      body.className = 'news-page-copy';
       const strong = document.createElement('strong'); strong.textContent = cleanNewsText(item.title);
       const meta = document.createElement('p'); meta.className = 'muted';
       meta.append(`${formatNewsDate(item.published)} · `, createNewsLink(item));
-      row.append(strong, meta);
+      body.append(strong, meta);
       if (item.summary) {
         const summary = document.createElement('small'); summary.className = 'news-summary'; summary.textContent = cleanNewsText(item.summary).slice(0, 180);
-        row.append(summary);
+        body.append(summary);
       }
+      row.append(image, body);
       list.append(row);
     });
     const actions = document.createElement('div'); actions.className = 'card-actions';
@@ -515,17 +527,37 @@ let homeNewsItems = [];
 let homeNewsIndex = 0;
 let homeNewsTimer = null;
 
-function newsImageFor(item, index = 0) {
-  if (item?.image) return `url("${String(item.image).replace(/"/g, '')}")`;
-  const zone = normalizedZone(item?.group?.zone || item?.zone || '');
+function newsImageUrlFor(item) {
+  const direct = item?.image || item?.source_image || item?.source_logo || '';
+  if (direct) return String(direct).replace(/"/g, '');
+  const zone = normalizedZone(item?.group?.zone || item?.zone || 'local');
   const images = {
-    local: 'assets/img/puente-isla-portada.jpg',
-    regional: 'assets/img/puente-isla-portada.jpg',
-    provincial: 'assets/img/puente-isla-portada.jpg',
-    nacional: 'assets/img/puente-isla-portada.jpg',
-    deportes: 'assets/img/logo-radio-tiempo-muerto.png'
+    local: 'assets/img/noticias/local.svg',
+    regional: 'assets/img/noticias/regional.svg',
+    provincial: 'assets/img/noticias/provincial.svg',
+    nacional: 'assets/img/noticias/nacional.svg',
+    deportes: 'assets/img/noticias/deportes.svg'
   };
-  return `url("${images[zone] || images.local}")`;
+  return images[zone] || images.local;
+}
+
+function newsImageFor(item, index = 0) {
+  return `url("${newsImageUrlFor(item)}")`;
+}
+
+function applyNewsImageFallback(element, item) {
+  if (!element) return;
+  const fallback = item?.source_logo || (() => {
+    const zone = normalizedZone(item?.group?.zone || item?.zone || 'local');
+    return `assets/img/noticias/${['local','regional','provincial','nacional','deportes'].includes(zone) ? zone : 'local'}.svg`;
+  })();
+  if (element.tagName === 'IMG') {
+    element.addEventListener('error', () => {
+      if (element.dataset.fallbackApplied === '1') return;
+      element.dataset.fallbackApplied = '1';
+      element.src = fallback;
+    }, { once: true });
+  }
 }
 
 function showHomeNews(index, root = document) {

@@ -1,4 +1,4 @@
-const CACHE = 'radio-tiempo-muerto-v13-noticias-clima';
+const CACHE = 'radio-tiempo-muerto-v15-imagenes-noticias';
 const ASSETS = [
   './', './index.html', './noticias.html', './comunidad.html', './corresponsales.html',
   './podcasts.html', './clima-rio.html', './aportes.html', './contacto.html',
@@ -7,7 +7,9 @@ const ASSETS = [
   './assets/js/publicidades.js', './assets/js/firebase-config.js', './assets/js/admin-auth.js', './assets/js/admin-noticias.js',
   './assets/data/rio.json', './assets/data/noticias.json', './assets/data/redes.json',
   './assets/img/logo-radio-tiempo-muerto.png', './assets/img/favicon-64.png',
-  './assets/img/icon-192.png', './assets/img/icon-512.png', './manifest.webmanifest'
+  './assets/img/icon-192.png', './assets/img/icon-512.png',
+  './assets/img/noticias/local.svg', './assets/img/noticias/regional.svg', './assets/img/noticias/provincial.svg',
+  './assets/img/noticias/nacional.svg', './assets/img/noticias/deportes.svg', './manifest.webmanifest'
 ];
 
 self.addEventListener('install', event => {
