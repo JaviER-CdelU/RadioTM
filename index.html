@@ -10,6 +10,7 @@
   <link rel="icon" type="image/png" href="assets/img/favicon-64.png">
   <link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png">
   <link rel="stylesheet" href="assets/css/estilos.css">
+  <link rel="stylesheet" href="css/metadata-reproductor.css">
 </head>
 <body class="home-v8">
 <header class="hero-header">
@@ -45,6 +46,23 @@
           <p>Concepción del Uruguay, Entre Ríos</p>
           <small>AHORA SUENA</small>
           <strong data-radio-now>La mejor música, noticias y deportes</strong>
+          <section class="metadata-radio" aria-live="polite">
+            <span class="metadata-radio__estado" data-radio-metadata-estado>ESPERANDO DATOS</span>
+            <span class="metadata-radio__etiqueta">AHORA SUENA</span>
+            <strong class="metadata-radio__artista" data-radio-artista>Radio Tiempo Muerto</strong>
+            <h3 class="metadata-radio__titulo" data-radio-titulo>Programación en vivo</h3>
+            <div class="metadata-radio__tiempos">
+              <span data-radio-tiempo-actual>0:00</span>
+              <span data-radio-duracion>0:00</span>
+            </div>
+            <div class="metadata-radio__barra">
+              <div class="metadata-radio__progreso" data-radio-progreso></div>
+            </div>
+            <div class="metadata-radio__proximo">
+              Próximo: <strong data-radio-proximo>A confirmar</strong>
+            </div>
+          </section>
+
           <div class="sound-bars" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div>
           <div class="player-status"><span data-radio-label>TOCAR PARA ESCUCHAR</span><span data-radio-status>La radio seguirá sonando mientras recorrés la web.</span></div>
         </div>
@@ -166,5 +184,6 @@
 <div class="toast" role="status" aria-live="polite"></div>
 <script src="assets/js/principal.js?v=13"></script>
 <script type="module" src="assets/js/publicidades.js?v=8"></script>
+  <script type="module" src="js/metadata-reproductor.js"></script>
 </body>
 </html>
