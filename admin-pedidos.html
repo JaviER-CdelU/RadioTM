@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Panel de pedidos | Radio Tiempo Muerto</title>
+  <link rel="stylesheet" href="css/pedidos.css">
+</head>
+<body>
+  <main class="contenedor">
+    <header class="encabezado">
+      <div class="marca">RTM</div>
+      <div>
+        <h1>Panel del operador</h1>
+        <p class="subtitulo">Aprobá o rechazá los pedidos antes de enviarlos a RadioBOSS.</p>
+      </div>
+    </header>
+
+    <section class="panel" id="acceso">
+      <h2>Ingreso</h2>
+      <p>Usá la misma cuenta de Google habilitada como administradora en Firebase.</p>
+      <button id="ingresar">Ingresar con Google</button>
+    </section>
+
+    <section class="panel oculto" id="panel">
+      <div class="acciones">
+        <button class="secundario" id="salir">Cerrar sesión</button>
+      </div>
+      <h2>Pedidos pendientes</h2>
+      <div id="pedidos" class="pedidos"></div>
+    </section>
+  </main>
+  <script type="module" src="js/admin-pedidos.js"></script>
+</body>
+</html>

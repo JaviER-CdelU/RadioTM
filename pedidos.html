@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Pedí tu canción | Radio Tiempo Muerto</title>
+  <link rel="stylesheet" href="css/pedidos.css">
+</head>
+<body>
+  <main class="contenedor">
+    <header class="encabezado">
+      <div class="marca">RTM</div>
+      <div>
+        <h1>Pedí tu canción</h1>
+        <p class="subtitulo">Buscá un tema disponible y mandá tu saludo a Radio Tiempo Muerto.</p>
+      </div>
+    </header>
+
+    <section class="panel">
+      <div class="campo">
+        <label for="busqueda">Buscar por artista o título</label>
+        <input id="busqueda" type="search" placeholder="Ejemplo: Ángela, Es por ti..." autocomplete="off">
+      </div>
+      <p class="detalle">Escribí al menos dos letras. Solo aparecen canciones cargadas desde la computadora de la radio.</p>
+      <div id="resultados" class="resultados"></div>
+    </section>
+
+    <section id="formularioPanel" class="panel oculto">
+      <h2 id="cancionElegida">Canción elegida</h2>
+      <form id="formPedido">
+        <div class="grilla">
+          <div class="campo">
+            <label for="nombre">Tu nombre</label>
+            <input id="nombre" maxlength="60" required>
+          </div>
+          <div class="campo">
+            <label for="ciudad">Desde dónde escuchás</label>
+            <input id="ciudad" maxlength="80" required>
+          </div>
+          <div class="campo completo">
+            <label for="mensaje">Saludo o dedicatoria (opcional)</label>
+            <textarea id="mensaje" maxlength="250"></textarea>
+          </div>
+        </div>
+        <div class="acciones">
+          <button type="submit">Enviar pedido</button>
+          <button type="button" class="secundario" id="cancelar">Elegir otra canción</button>
+        </div>
+      </form>
+      <div id="estado" class="estado oculto"></div>
+    </section>
+
+    <p><a class="boton secundario" href="index.html#inicio">Volver al inicio</a></p>
+  </main>
+
+  <script type="module" src="js/pedidos.js"></script>
+</body>
+</html>
