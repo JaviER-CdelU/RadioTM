@@ -1,7 +1,143 @@
 {
-  "updated_at": null,
-  "status": "pending",
-  "description": "Esperando la primera ejecución automática de GitHub Actions.",
-  "groups": [],
-  "errors": []
+  "updated_at": "2026-07-29T03:45:30.214107+00:00",
+  "status": "partial",
+  "description": "Titulares y enlaces; el contenido completo permanece en el medio original.",
+  "groups": [
+    {
+      "id": "diario-la-calle",
+      "source": "Diario La Calle",
+      "zone": "Local",
+      "type": "Web",
+      "homepage": "https://lacalle.com.ar/",
+      "items": [
+        {
+          "title": "El Mercado 3 de Febrero: una oportunidad para construir confianza - lacalle.com.ar",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeXppQVlwbnNSTkR0akpvZDdfV3NFRmg2X1YxdjdLbUtvb3Zra01taDJDVFByMHdpakI4T2JLbmh2LXV4bzU0MGc4YzJFVVhDbVJVWkFUcFRmbnZiZkpCM3ZVSjRWRHpJVUV4TUFVa0xoNlUyZ2pUMkswYVJBbHRlaTl6MlhfZHVSblAtMklERG5Pdw?oc=5",
+          "summary": "El Mercado 3 de Febrero: una oportunidad para construir confianza lacalle.com.ar",
+          "published": "2026-07-26T06:05:31+00:00",
+          "source": "Diario La Calle",
+          "source_url": "https://lacalle.com.ar/"
+        },
+        {
+          "title": "AJER va al paro por la reforma previsional - lacalle.com.ar",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE04MWNIb3pvZnVKdFNrRlh0OFJVVTY0dUFHNlJXSDBKb2F5RUNDWFFmSE5GYm9uTklRT2F5NUFfY3lTcnVINzItcUs0d3A2WldRNE5xVkZBMjZDYWh0M1NTV3hjTUt5NDRrODFOTERoSGU2Z0NE?oc=5",
+          "summary": "AJER va al paro por la reforma previsional lacalle.com.ar",
+          "published": "2026-07-28T10:55:52+00:00",
+          "source": "Diario La Calle",
+          "source_url": "https://lacalle.com.ar/"
+        },
+        {
+          "title": "Recuerdan la obligatoriedad de inscribirse en el Registro Nacional de Productores Apícolas - lacalle.com.ar",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRThJeTAtSEdUZVdDcTE4RGg2Y2dWYkRSXzIyZW8wdE5PMlRXTlRucS1RQkhTdmFrZFYwRzdxaEpXSHltNHlWdko2NkdNQzZBT21wM1pKZkVpZjMyMFIzTVM2LWhmbFd4NjFrc3hyTklzcGFQbjVWSXFuRTBSQU1MVzl4SzVKamF1RFRNbUJKUHhxQ2gzY1V4N19GR1FOa1lSMWVGUERrQmM4eEl3c2dKTkdqS1U?oc=5",
+          "summary": "Recuerdan la obligatoriedad de inscribirse en el Registro Nacional de Productores Apícolas lacalle.com.ar",
+          "published": "2026-07-28T23:17:57+00:00",
+          "source": "Diario La Calle",
+          "source_url": "https://lacalle.com.ar/"
+        }
+      ]
+    },
+    {
+      "id": "la-piramide",
+      "source": "La Pirámide",
+      "zone": "Local",
+      "type": "RSS",
+      "homepage": "https://www.lapiramide.net/",
+      "items": [
+        {
+          "title": "Casa Costa abrió sus puertas a marcas interesadas en formar parte del proyecto",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRzNqVkVMeDFMT2FpZ0dmNnNwSzM4bnpHMGVrbVFSN0ppRXJlUWdFWnZYSTBpNWNBb2ZEdnhyYnVlZ0tWSnpCLU5JMk9YVUNpNTQxN25BdzRqOXlDSkpDR1BTR3F5eHhZYUtkSEtlQjJWM2ltQUF0MnY4Tlc4RDNCR3hpejhEeHRXSGlBT2JITHVMU3J1bXRTRkhqUVppMm5GUkpfRFRoUWNNT3ZVZ0hTMU45TGhQbXE3UDF3d0tMQk5rYnRZdnIza0dPdFLSAdIBQVVfeXFMT1lPZkZRUzVHWHdtWGhhdG5FMlk5QVBheFBvTHBZSzRDWHZ1RnIwbmV1ZzIzRGFCNkpia0h2d0drcnZoZExhVFplUmtMMjJWYWdvRUZSVGFiYjRGeHVBQWtoQ2IwRHA4XzFFNlhvS19NX2MzeHJoMHBXNjN6MmlXYUoxVmNfLU5LQWxOUUJJSEMyeDkyR0EtSmJhUk1KNzNWc1VpM1BxZk5ENnRGeFlOZ2lycnM3T1RGZXRuWVZ3bVFIUUQzcHZldVo5eHhBV1pQOTd3?oc=5",
+          "summary": "Casa Costa abrió sus puertas a marcas interesadas en formar parte del proyecto La Pirámide",
+          "published": "2026-07-29T00:39:19+00:00",
+          "source": "La Pirámide",
+          "source_url": "https://www.lapiramide.net/"
+        },
+        {
+          "title": "Mercado 3 de febrero: la comisión define en los próximos días qué proyecto recomendará para su puesta en valor",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNR1I5MWtmOHQxdVNnMUIwV3V2UkJPRHhNNlU0a0NEREk3VzVwMkdhSE1PSEtaMVRyY002UkhBT0ZjalhXV3pOcnlMeVoyNUR4d243YnFmekROM0s2WVFqOVo4NktpVG1hNF9TdkR2cnVneDJsS3hmblN2QzM0NC1RbW1SQ1hCZTNQV1BXSE9US2lKTWVtZE5LZEJ5b1lhNHVOLW9tWjZvVVNacmM0T1I0TW81NGsyYkJmQWg1aVNOVmdlYXktZmRQM2VJR2VhNDZiWlBjT2UyWk8wbUl3bHJKQXFETVJSUU1oOHNWalVMQUlkc0p4amfSAfsBQVVfeXFMTVdyQm1rZUFZeG0ya1RzMExTMWZsQXZnUENOdHNPMVpwLVhmdWp4MF9LMHBIZFdJaWlWNnFHMUhJWlZXOW10MGdiSktIdk01R0xuLTVTb2Y4MHpjZEZsQUczeVp0ekUxV05tbHdHcG5Gay1CLWMzN0d0Wi1VbXZqLXRPOU9RcWdKXzZFVmd0dVp3eDlOaHRzVWVSU0FKX2R0b0tmel9VZThBX0hsQnRzNHpVaHlxUFBuSzF1RTBQMFQ5QVp1X2M3WHM3UldOSXUybWpmRmlGRUFVNUIySDhqbUlUbVlpcEFCNzJ1OHQ4TUFRUU1NMWtNNjRkOWc?oc=5",
+          "summary": "Mercado 3 de febrero: la comisión define en los próximos días qué proyecto recomendará para su puesta en valor La Pirámide",
+          "published": "2026-07-28T12:10:09+00:00",
+          "source": "La Pirámide",
+          "source_url": "https://www.lapiramide.net/"
+        }
+      ]
+    },
+    {
+      "id": "r2820",
+      "source": "R2820",
+      "zone": "Regional",
+      "type": "RSS",
+      "homepage": "https://www.r2820.com/",
+      "items": [
+        {
+          "title": "Subastarán en Gualeguaychú cámaras, equipos y accesorios de sonido secuestrados por la Aduana",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQWxrY2N4ZzZKVWtVd1hhQTFneDdqU1czc3k5TW5FQ3RZYkZLbkJ6RGZEenpPNmYxUmtKU3VXeERiNVh4ZG1iS3Y2cGkxUklUYWktSDlHMXdUS09KNHpEa2p0NnVMbGdNODVxOWtzYy12TDZxeHdrZ2VrMDdIVXRXZGttaWoyOXMzSGNDNURaWHBFMER0WE81REZvdFdMS3BiaGh5eUVPRHItR09FM25jLWJkejYzei1pMWpLT0Z0T1lEX25Wbi1DMEN0bm1ELVNTU2NWLWR1SlHSAd4BQVVfeXFMTkw5U0l0cWd3Sk5fcUhqYmlFZ3Z5T0wzenpNMVRBak9hbF9kT0ZEOGllcUNyRTRqanUxbmZtLXBhNnhNa1RvYVFldTBYRDdYRjhMMVhkb2gzdzUxOWpHQ2pLQ1pDR1FnZktlZUlwV2NzWkU3UGZDLXNfOC1HZ05lTGN5MmF2dl95bndzYW9fVTFDREJEVno3dHNvNEhqaVNUVHd1LVBpbTg3MXF2S3NxZFdfdnhEQWpRZnJkQ0hBYjdGWFlmUkZ6dlJZYXpRcGR5ZmZiS1otVW9CZnpHLXdB?oc=5",
+          "summary": "Subastarán en Gualeguaychú cámaras, equipos y accesorios de sonido secuestrados por la Aduana R2820",
+          "published": "2026-07-28T13:04:28+00:00",
+          "source": "R2820",
+          "source_url": "https://www.r2820.com/"
+        },
+        {
+          "title": "La justicia laboral confirmó los despidos de 35 trabajadores de FADEMI de Larroque",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVzMzQ3Btb3l1ZHVpY1FvdTBFNFhBNWN0MFRleUlLNUlIRTZRdmFDMXBRMFJQeXoxWGt1YUI5UUZaS1dVbjIxUVBtMk5uRVBLT25QcDRJR0tNd29QOTVqQnBYZl9IRTJmMkZVUC0zYVpwUXN0YU5IRGlBZHQyNi1laHZrS1dVcHNoWUVqU3RMWFdIQURxX09uTlhlM3Q5QmRXSHVvRFFqX1Y4enJrdkNkTC1URnJqWnhRU2tERFpadXhEZjBYaS0zbVpta9IB0AFBVV95cUxNd0Z1UE5KZE5uNzVYM3dCX19iMTZwWndpeHhGMGF3Qkk2M3dnSFdhUVBiVVFvUEVYaW1SaWlLaFNiZXNMYktzenptVmRIdG54UUIxZ3F5QTVOOC1EcTl1ZUVHbUZBQUNEMFRzS0pmNHVyVWV6YmxEX01scHliUUJHODEwSVRvcEVIeEstM3htZmhPWUZ2djRyMHlkcHVnT2ZKRVVyZGpLNE9DRnh6NzJrVkp5MUh1YjIyNFJmbTZjX05sN3JhX2RtczZBZGs5V3pS?oc=5",
+          "summary": "La justicia laboral confirmó los despidos de 35 trabajadores de FADEMI de Larroque R2820",
+          "published": "2026-07-27T17:14:51+00:00",
+          "source": "R2820",
+          "source_url": "https://www.r2820.com/"
+        }
+      ]
+    },
+    {
+      "id": "elonce",
+      "source": "Elonce",
+      "zone": "Provincial",
+      "type": "Web",
+      "homepage": "https://www.elonce.com/",
+      "items": [
+        {
+          "title": "Fouces inició su séptimo mandato en el CAE: el próximo desafío será la construcción de un microestadio - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNY0pCZkc0ZFFQYnhyeFQ1UF9Qc1FrSWNrRkVxbkkzUm45cWlkejVYOWRuWlZHSFI5UlVBTW1EcTBfXzU5ZmdxSXc0bDFjRmdrV2J1aGRWZk1XcmtVWnpfeENZV0hTVDcyTmVCQjJ5eWd5eHRTVjF4RWw4VEF4dml6QmRoLWtTZ19BY3NmUElLbm1HUdIBjgFBVV95cUxNUnpQRS0yQWRNbHZLYkxMN0NBbXQ5N3BtOXU0Z1RzNzFqalJCSE9FZnFpWVBsenhBR3ZHY2FGN1BYWDVtUjhLRWlIUkZqNDZ2bWdiZ3hrQm8xajE5bEJYMnJ0ZjhHRDVzZkloNDF5bi1tUkRRNEZ3MGhtcC1nV0s2ZGJtNC1YSENYT1NmMGFR?oc=5",
+          "summary": "Fouces inició su séptimo mandato en el CAE: el próximo desafío será la construcción de un microestadio Elonce.com",
+          "published": "2026-07-28T17:20:00+00:00",
+          "source": "Elonce",
+          "source_url": "https://www.elonce.com/"
+        },
+        {
+          "title": "\"El limbo de la historia\" se presentó en el Teatro 3 de Febrero con un fin solidario - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTzRNNEZFa25iR1lPUGYwTFZmbUpFVVhzNHF1MEwtY1NEY2hpRU1GZ2NnLUpKMW1tWU9lZW1HanpNcTJJeU9PV3k0eHFVQVRvYURsRTU2UElPeXE0MWllakJZSUhTU01DY2dGVmJQRVJuLTlnYTBwdFBkZ1I0Z25xSVI5SS1LTGVnQ2xnb18zTDd4QU9yWnQ2Q3ZzbnJJOHRQR0lNN2pFZXhkLUpQTWhIR1BtSTBtM0ZTRVBZNWMxTlVTd0F5aU1Z0gGzAUFVX3lxTE4wSUxQMzN4M1hWbWo2aF94SUlVUGdMWDhnSGhHY1JVTW9QN0NiSkVWWUFwX0ptSllvMDB4Tm51SUxSbzBoNnlJZ3lXTzZHZG1XX2JSSU9MUUJBTUVxTXluaWlJS3dTUUpXWFNKLWNzdXR6aWw1UFYyOU5uTGhwLWFxS3U2TVVNTWpIYmdaelpnc09IX2dFYTYyUHdPWHJuNXdGdjB4Z0ZLNlVLVDFNeWtUQ0tV?oc=5",
+          "summary": "\"El limbo de la historia\" se presentó en el Teatro 3 de Febrero con un fin solidario Elonce.com",
+          "published": "2026-07-29T00:48:48+00:00",
+          "source": "Elonce",
+          "source_url": "https://www.elonce.com/"
+        }
+      ]
+    },
+    {
+      "id": "pagina-12",
+      "source": "Página/12",
+      "zone": "Nacional",
+      "type": "RSS",
+      "homepage": "https://www.pagina12.com.ar/",
+      "items": [
+        {
+          "title": "De la batalla cultural a armar una coalición contra la “amenaza de izquierda” - Página|12",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaUpKQ2hqN28yMm8zVlpLY3ZfaUpvRDliRlhQeFpJNHI2cmYxbUh5Wm40WVVFVnlLNV9PWktDQ01Vbkk2ZXQ0N0JGdk40aERueWhJOVN2M0Y5Z3B3am1uZXIydWxmYUw3V2dwRV9TMWg3X3gzMHRyelBES3hBLVdsMFp0RDEySlhRLWlsc3ZEd0wyX3VoX08wVVlMS0ZfZm9jT3p2d2ZiaGp1TWVLbXZhUXU0N0ZlUQ?oc=5",
+          "summary": "De la batalla cultural a armar una coalición contra la “amenaza de izquierda” Página|12",
+          "published": "2026-07-25T00:39:47+00:00",
+          "source": "Página/12",
+          "source_url": "https://www.pagina12.com.ar/"
+        },
+        {
+          "title": "Desempleo, depresión, drogas y alcohol: casi el 50% de los jóvenes argentinos viven en estado de vulnerabilidad - Página|12",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTDZKLXJPZXMwOHFKN0tybktsMzZIWENWQXZlQWV3QUgxYXFfTEp5U0pjejRyWGptWThSMm05R3ZrS1Y1WDRyQmdvMmxaQ2t3UTVYRDNpbDFJNFh1VlFuNjlWc253QWFkM3BYMnJnQkZTNTAtRDdsWlZFbWlwd0xScEV4UXQ3MDRTOGJKSFNGYlRqdWJaanVJN1dndXljcHZ6Ny1odTQ2MWQtQkRkZGNsMTlSVUdYTF9TZURLVG5XYVE4enhyS3IzeHdkTkhRNVZTYXY3eWNCbTRUMjR6dEpwSQ?oc=5",
+          "summary": "Desempleo, depresión, drogas y alcohol: casi el 50% de los jóvenes argentinos viven en estado de vulnerabilidad Página|12",
+          "published": "2026-07-27T20:14:49+00:00",
+          "source": "Página/12",
+          "source_url": "https://www.pagina12.com.ar/"
+        }
+      ]
+    }
+  ],
+  "errors": [
+    "Andrea Pacinelli Noticias: red social, requiere selección manual"
+  ]
 }
