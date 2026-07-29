@@ -1,4 +1,4 @@
-const CACHE = 'radio-tiempo-muerto-v15-imagenes-noticias';
+const CACHE = 'radio-tiempo-muerto-v16-logo-grande';
 const ASSETS = [
   './', './index.html', './noticias.html', './comunidad.html', './corresponsales.html',
   './podcasts.html', './clima-rio.html', './aportes.html', './contacto.html',
