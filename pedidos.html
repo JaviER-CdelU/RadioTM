@@ -4,79 +4,282 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>Pedí tu canción | Radio Tiempo Muerto</title>
-  <link rel="stylesheet" href="assets/css/pedido-directo.css">
+  <meta name="theme-color" content="#d62828">
+  <meta name="description" content="Buscá y pedí canciones en Radio Tiempo Muerto.">
+  <style>
+    :root{--fondo:#17191d;--panel:#25282e;--panel2:#2e3239;--borde:#3c424c;--texto:#f7f7f7;--secundario:#bcc3cd;--rojo:#d62828;--naranja:#ff6416}
+    *{box-sizing:border-box}
+    body{margin:0;min-height:100vh;font-family:Arial,Helvetica,sans-serif;color:var(--texto);background:radial-gradient(circle at top right,rgba(214,40,40,.18),transparent 32%),var(--fondo)}
+    .contenedor{width:min(920px,calc(100% - 28px));margin:0 auto;padding:34px 0 60px}
+    .cabecera{display:flex;align-items:center;gap:18px;margin-bottom:22px}
+    .logo{width:76px;height:76px;display:grid;place-items:center;flex:0 0 auto;border-radius:50%;background:var(--rojo);font-size:22px;font-weight:900}
+    .estado{color:#ff8b55;font-size:12px;font-weight:900}
+    h1{margin:6px 0 4px;font-size:clamp(35px,7vw,58px);line-height:.96}
+    .cabecera p{margin:8px 0 0;color:var(--secundario)}
+    .panel{padding:22px;border:1px solid var(--borde);border-radius:20px;background:var(--panel);margin-top:16px}
+    label{display:block;margin-bottom:8px;font-weight:900}
+    .buscador{display:grid;grid-template-columns:1fr auto;gap:10px}
+    input,textarea{width:100%;padding:14px 15px;border:1px solid var(--borde);border-radius:12px;background:#1c1f24;color:white;font:inherit}
+    textarea{min-height:92px;resize:vertical}
+    button{padding:12px 18px;border:0;border-radius:12px;background:var(--naranja);color:white;font:inherit;font-weight:900;cursor:pointer}
+    button.secundario{background:#555d69}
+    button:disabled{opacity:.55;cursor:wait}
+    .mensaje{margin-top:13px;padding:11px 13px;border-radius:10px;background:var(--panel2);color:var(--secundario)}
+    .resultados{display:grid;gap:10px;margin-top:14px}
+    .resultado{display:grid;grid-template-columns:1fr auto;gap:14px;align-items:center;padding:15px;border:1px solid var(--borde);border-radius:13px;background:var(--panel2)}
+    .resultado h2{margin:0;font-size:19px}
+    .detalle{margin-top:6px;color:var(--secundario)}
+    .ruta{margin-top:7px;overflow-wrap:anywhere;color:#9ea6b1;font-size:12px}
+    .oculto{display:none!important}
+    .form-grid{display:grid;gap:14px}
+    .acciones{display:flex;gap:10px;flex-wrap:wrap}
+    .seleccion{margin-bottom:18px;padding:14px;border-left:4px solid var(--naranja);background:var(--panel2);border-radius:10px}
+    .seleccion h2{margin:0 0 6px}
+    .volver{display:inline-block;margin-top:22px;color:white;text-decoration:none;font-weight:900}
+    @media(max-width:580px){.buscador,.resultado{grid-template-columns:1fr}}
+  </style>
 </head>
 <body>
   <main class="contenedor">
     <header class="cabecera">
       <div class="logo">RTM</div>
       <div>
-        <span class="estado">● PRUEBA DIRECTA CON RADIOBOSS</span>
+        <span class="estado">● CATÁLOGO EN FIREBASE</span>
         <h1>Pedí tu canción</h1>
-        <p>Esta prueba funciona desde la computadora donde está RadioBOSS.</p>
+        <p>Buscá por artista o título y mandá tu saludo.</p>
       </div>
     </header>
 
-    <section class="tarjeta cancion">
-      <div>
-        <span class="etiqueta">CANCIÓN DE PRUEBA</span>
-        <h2>ANGELA</h2>
-        <h3>ES POR TI</h3>
-        <p>Archivo comprobado en RadioBOSS.</p>
+    <section class="panel">
+      <label for="buscar">Buscar artista o canción</label>
+      <div class="buscador">
+        <input id="buscar" type="search" placeholder="Ejemplo: Fito, 11 y 6, Charly..." autocomplete="off">
+        <button id="botonBuscar" type="button">Buscar</button>
       </div>
-      <div class="nota">🎵</div>
+      <div id="estadoBusqueda" class="mensaje">Escribí al menos dos caracteres.</div>
+      <div id="resultados" class="resultados"></div>
     </section>
 
-    <section class="tarjeta">
-      <form id="formPedido">
+    <section id="panelPedido" class="panel oculto">
+      <div class="seleccion">
+        <h2 id="temaElegido"></h2>
+        <div id="detalleElegido" class="detalle"></div>
+      </div>
+
+      <form id="formPedido" class="form-grid">
         <label>
           Tu nombre
-          <input id="nombre" value="Pablo" maxlength="50" required>
+          <input id="nombre" maxlength="60" required>
         </label>
 
         <label>
           Desde dónde escuchás
-          <input id="ciudad" value="Concepción del Uruguay" maxlength="70" required>
+          <input id="ciudad" maxlength="80" required>
         </label>
 
         <label>
           Saludo o dedicatoria
-          <textarea id="mensaje" maxlength="180">Pedido realizado desde Radio Tiempo Muerto</textarea>
+          <textarea id="saludo" maxlength="250"></textarea>
         </label>
 
-        <button type="submit">Enviar pedido a RadioBOSS</button>
+        <div class="acciones">
+          <button type="submit">Enviar pedido</button>
+          <button id="cancelarPedido" type="button" class="secundario">Elegir otra canción</button>
+        </div>
       </form>
 
-      <div class="aviso" id="aviso">
-        Al enviar se abrirá otra pestaña. Si RadioBOSS está abierto debe aparecer <strong>OK</strong>.
-      </div>
+      <div id="estadoPedido" class="mensaje oculto"></div>
     </section>
 
     <a class="volver" href="index.html">← Volver al inicio</a>
   </main>
 
+  <script src="https://www.gstatic.com/firebasejs/10.12.5/firebase-app-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/10.12.5/firebase-firestore-compat.js"></script>
   <script>
-    document.getElementById("formPedido").addEventListener("submit", function (evento) {
+    const firebaseConfig = {
+      apiKey: "AIzaSyC58rAZNDk0IwsP_17Zyuat_RNirVy88So",
+      authDomain: "radio-tiempo-muerto-662a1.firebaseapp.com",
+      projectId: "radio-tiempo-muerto-662a1",
+      storageBucket: "radio-tiempo-muerto-662a1.firebasestorage.app",
+      messagingSenderId: "549240345202",
+      appId: "1:549240345202:web:c167372af76b1e4c9528eb",
+      measurementId: "G-TL899D9QJJ"
+    };
+
+    firebase.initializeApp(firebaseConfig);
+    const db = firebase.firestore();
+
+    const entrada = document.getElementById("buscar");
+    const boton = document.getElementById("botonBuscar");
+    const estado = document.getElementById("estadoBusqueda");
+    const resultados = document.getElementById("resultados");
+    const panelPedido = document.getElementById("panelPedido");
+    const temaElegido = document.getElementById("temaElegido");
+    const detalleElegido = document.getElementById("detalleElegido");
+    const formPedido = document.getElementById("formPedido");
+    const estadoPedido = document.getElementById("estadoPedido");
+    const cancelarPedido = document.getElementById("cancelarPedido");
+
+    let seleccion = null;
+
+    function normalizar(texto) {
+      return String(texto || "")
+        .toLowerCase()
+        .normalize("NFD")
+        .replace(/[\u0300-\u036f]/g, "")
+        .replace(/[^a-z0-9\s]/g, " ")
+        .replace(/\s+/g, " ")
+        .trim();
+    }
+
+    function escapar(valor) {
+      return String(valor || "")
+        .replaceAll("&","&amp;")
+        .replaceAll("<","&lt;")
+        .replaceAll(">","&gt;")
+        .replaceAll('"',"&quot;")
+        .replaceAll("'","&#039;");
+    }
+
+    function elegirCancion(cancion, id) {
+      seleccion = { ...cancion, id };
+      temaElegido.textContent = (cancion.artista || "Artista desconocido") + " — " + (cancion.titulo || "Sin título");
+      detalleElegido.textContent = [
+        cancion.duracion || "",
+        cancion.album || ""
+      ].filter(Boolean).join(" · ");
+      panelPedido.classList.remove("oculto");
+      estadoPedido.classList.add("oculto");
+      panelPedido.scrollIntoView({behavior:"smooth", block:"start"});
+    }
+
+    async function buscarCanciones() {
+      const termino = normalizar(entrada.value);
+      resultados.innerHTML = "";
+
+      if (termino.length < 2) {
+        estado.textContent = "Escribí al menos dos caracteres.";
+        return;
+      }
+
+      boton.disabled = true;
+      estado.textContent = "Buscando en Firebase…";
+
+      try {
+        const palabras = termino.split(" ").filter(p => p.length >= 2 || /^\d$/.test(p));
+
+        const consulta = palabras.length === 1
+          ? db.collection("canciones").where("tokens","array-contains",palabras[0]).limit(100)
+          : db.collection("canciones").where("tokens","array-contains-any",palabras.slice(0,10)).limit(100);
+
+        const snap = await consulta.get();
+        const encontrados = [];
+
+        snap.forEach(doc => {
+          const c = doc.data();
+          const texto = normalizar((c.artista || "") + " " + (c.titulo || "") + " " + (c.album || ""));
+
+          const coincide = termino.split(" ").every(parte => {
+            if (!parte) return true;
+            if (parte.length === 1 && !/^\d$/.test(parte)) return true;
+            const patron = new RegExp("(^|\\s)" + parte.replace(/[.*+?^${}()|[\]\\]/g,"\\$&") + "(\\s|$)");
+            return patron.test(texto);
+          });
+
+          if (coincide) encontrados.push({ id: doc.id, ...c });
+        });
+
+        encontrados.sort((a,b) => {
+          const tituloA = normalizar(a.titulo || "");
+          const tituloB = normalizar(b.titulo || "");
+          const exactoA = tituloA === termino ? 0 : 1;
+          const exactoB = tituloB === termino ? 0 : 1;
+          const artistaA = normalizar(a.artista || "");
+          const artistaB = normalizar(b.artista || "");
+          const desconocidoA = artistaA === "artista desconocido" ? 1 : 0;
+          const desconocidoB = artistaB === "artista desconocido" ? 1 : 0;
+          return exactoA - exactoB || desconocidoA - desconocidoB || artistaA.localeCompare(artistaB);
+        });
+
+        if (!encontrados.length) {
+          estado.textContent = "No se encontraron resultados.";
+          return;
+        }
+
+        estado.textContent = encontrados.length + " resultado" + (encontrados.length === 1 ? "" : "s") + " encontrado" + (encontrados.length === 1 ? "" : "s") + ".";
+
+        encontrados.forEach(c => {
+          const item = document.createElement("article");
+          item.className = "resultado";
+          item.innerHTML =
+            "<div>" +
+              "<h2>" + escapar(c.artista || "Artista desconocido") + " — " + escapar(c.titulo || "Sin título") + "</h2>" +
+              "<div class='detalle'>" + escapar(c.duracion || "Duración sin informar") +
+              (c.album ? " · " + escapar(c.album) : "") + "</div>" +
+              "<div class='ruta'>" + escapar(c.archivo || "") + "</div>" +
+            "</div>" +
+            "<button type='button'>Pedir</button>";
+
+          item.querySelector("button").addEventListener("click", () => elegirCancion(c, c.id));
+          resultados.appendChild(item);
+        });
+      } catch (error) {
+        console.error(error);
+        estado.textContent = "Error: " + (error.message || error.code || "desconocido");
+      } finally {
+        boton.disabled = false;
+      }
+    }
+
+    formPedido.addEventListener("submit", async (evento) => {
       evento.preventDefault();
+      if (!seleccion) return;
 
-      const nombre = document.getElementById("nombre").value.trim();
-      const ciudad = document.getElementById("ciudad").value.trim();
-      const mensaje = document.getElementById("mensaje").value.trim();
+      const submit = formPedido.querySelector('button[type="submit"]');
+      submit.disabled = true;
+      estadoPedido.textContent = "Enviando pedido…";
+      estadoPedido.classList.remove("oculto");
 
-      const texto = [
-        nombre ? "Pidió " + nombre : "",
-        ciudad ? "desde " + ciudad : "",
-        mensaje
-      ].filter(Boolean).join(" — ");
+      try {
+        await db.collection("pedidosCanciones").add({
+          cancionId: seleccion.id,
+          artista: seleccion.artista || "",
+          titulo: seleccion.titulo || "",
+          duracion: seleccion.duracion || "",
+          album: seleccion.album || "",
+          archivo: seleccion.archivo || "",
+          nombre: document.getElementById("nombre").value.trim(),
+          ciudad: document.getElementById("ciudad").value.trim(),
+          mensaje: document.getElementById("saludo").value.trim(),
+          estado: "pendiente",
+          creadoEn: firebase.firestore.FieldValue.serverTimestamp()
+        });
 
-      const parametros = new URLSearchParams({
-        pass: "1",
-        action: "songrequest",
-        filename: "E:\\angela\\06_ES POR TI.mp3",
-        message: texto
-      });
+        estadoPedido.textContent = "Pedido enviado. Quedó esperando ser recibido por la PC de la radio.";
+        formPedido.reset();
+      } catch (error) {
+        console.error(error);
+        if (error.code === "permission-denied") {
+          estadoPedido.textContent = "Firebase está conectado, pero falta permitir crear pedidos.";
+        } else {
+          estadoPedido.textContent = "No se pudo enviar el pedido: " + (error.message || error.code || "error desconocido");
+        }
+      } finally {
+        submit.disabled = false;
+      }
+    });
 
-      window.open("http://127.0.0.1:9000/?" + parametros.toString(), "_blank");
+    cancelarPedido.addEventListener("click", () => {
+      seleccion = null;
+      panelPedido.classList.add("oculto");
+      estadoPedido.classList.add("oculto");
+      entrada.focus();
+    });
+
+    boton.addEventListener("click", buscarCanciones);
+    entrada.addEventListener("keydown", e => {
+      if (e.key === "Enter") buscarCanciones();
     });
   </script>
 </body>
