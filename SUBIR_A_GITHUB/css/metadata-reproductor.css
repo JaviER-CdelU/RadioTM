@@ -1,0 +1,61 @@
+.metadata-radio {
+  margin-top: 14px;
+  padding: 16px;
+  border-radius: 14px;
+  background: #24272d;
+  border: 1px solid #3a3f48;
+  color: #fff;
+}
+.metadata-radio__estado {
+  display: inline-block;
+  padding: 4px 9px;
+  border-radius: 999px;
+  background: #c62828;
+  font-size: 12px;
+  font-weight: 800;
+}
+.metadata-radio__etiqueta {
+  display: block;
+  margin-top: 12px;
+  color: #b8bec8;
+  font-size: 12px;
+  font-weight: 800;
+  letter-spacing: .08em;
+}
+.metadata-radio__artista {
+  display: block;
+  margin-top: 5px;
+  font-size: 21px;
+}
+.metadata-radio__titulo {
+  margin: 4px 0 0;
+  font-size: 27px;
+  line-height: 1.1;
+}
+.metadata-radio__tiempos {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  margin-top: 14px;
+  color: #d4d8df;
+  font-size: 13px;
+}
+.metadata-radio__barra {
+  height: 8px;
+  margin-top: 7px;
+  overflow: hidden;
+  border-radius: 999px;
+  background: #454b55;
+}
+.metadata-radio__progreso {
+  width: 0;
+  height: 100%;
+  border-radius: inherit;
+  background: #c62828;
+  transition: width .8s linear;
+}
+.metadata-radio__proximo {
+  margin-top: 12px;
+  color: #d4d8df;
+  font-size: 13px;
+}
