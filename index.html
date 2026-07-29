@@ -1,1 +1,170 @@
-export const firebaseConfig = {};
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#f36b16">
+  <meta name="description" content="Radio Tiempo Muerto: radio en vivo, noticias, clima, río y comunidad de Concepción del Uruguay.">
+  <title>Radio Tiempo Muerto</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" type="image/png" href="assets/img/favicon-64.png">
+  <link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png">
+  <link rel="stylesheet" href="assets/css/estilos.css">
+</head>
+<body class="home-v8">
+<header class="hero-header">
+  <div class="hero-shade"></div>
+  <div class="hero-content">
+    <section class="hero-brand">
+      <img src="assets/img/logo-radio-tiempo-muerto.png" alt="Logo de Radio Tiempo Muerto" class="hero-logo">
+      <div>
+        <a href="#inicio" class="hero-name"><span>Radio</span><strong>Tiempo Muerto</strong></a>
+        <p>MÚSICA, DEPORTES Y NOTICIAS PARA NUESTRA GENTE</p>
+        <div class="hero-contact">
+          <a href="https://wa.me/5493442405972" target="_blank" rel="noopener">💬 +54 9 3442 405972</a>
+          <a href="mailto:rtiempomuerto@gmail.com">✉ rtiempomuerto@gmail.com</a>
+        </div>
+        <div class="hero-socials" aria-label="Redes sociales">
+          <span>SEGUINOS</span>
+          <a href="#" data-demo="Falta colocar el enlace de Facebook." aria-label="Facebook">f</a>
+          <a href="#" data-demo="Falta colocar el enlace de Instagram." aria-label="Instagram">◎</a>
+          <a href="https://wa.me/5493442405972" target="_blank" rel="noopener" aria-label="WhatsApp">◉</a>
+          <a href="#" data-demo="Falta colocar el canal de YouTube." aria-label="YouTube">▶</a>
+        </div>
+      </div>
+    </section>
+    <section class="hero-player" aria-label="Reproductor de Radio Tiempo Muerto">
+      <audio id="radio-stream" preload="none" crossorigin="anonymous">
+        <source src="https://miestacion.turadioonline.com.ar/8024/;stream.mp3" type="audio/mpeg">
+      </audio>
+      <div class="player-live"><i class="live-dot"></i> EN VIVO</div>
+      <div class="player-main-row">
+        <button class="hero-play" type="button" data-radio-toggle aria-label="Reproducir Radio Tiempo Muerto">▶</button>
+        <div class="hero-player-copy">
+          <h2>Radio Tiempo Muerto</h2>
+          <p>Concepción del Uruguay, Entre Ríos</p>
+          <small>AHORA SUENA</small>
+          <strong data-radio-now>La mejor música, noticias y deportes</strong>
+          <div class="sound-bars" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div>
+          <div class="player-status"><span data-radio-label>TOCAR PARA ESCUCHAR</span><span data-radio-status>La radio seguirá sonando mientras recorrés la web.</span></div>
+        </div>
+        <img src="assets/img/logo-radio-tiempo-muerto.png" alt="Radio Tiempo Muerto" class="player-logo">
+      </div>
+    </section>
+  </div>
+  <div class="nav-shell">
+    <button class="menu-btn" type="button" aria-expanded="false">☰ Menú</button>
+    <nav class="nav" aria-label="Navegación principal">
+      <a class="active" href="#inicio">⌂ Inicio</a>
+      <a href="#noticias">▤ Noticias</a>
+      <a href="#clima-rio">≈ El río</a>
+      <a href="#clima-rio">☁ Clima</a>
+      <a href="#podcasts">🎙 Podcast</a>
+      <a href="#comunidad">▣ Agenda</a>
+      <a href="#aportes">♡ Colaborá</a>
+      <a href="#contacto">♙ Nosotros</a>
+      <a href="#ayuda">? Ayuda</a>
+      <a href="admin.html" target="_blank" rel="noopener">⚙ Administrador</a>
+    </nav>
+  </div>
+</header>
+<section class="persistent-radio" aria-label="Reproductor permanente">
+  <div class="persistent-radio-inner">
+    <img src="assets/img/favicon-64.png" alt="" aria-hidden="true">
+    <button class="persistent-play" type="button" data-radio-toggle aria-label="Reproducir Radio Tiempo Muerto">▶</button>
+    <div class="persistent-copy"><strong>Radio Tiempo Muerto</strong><span data-radio-label>TOCAR PARA ESCUCHAR</span><small data-radio-status>La radio seguirá sonando mientras recorrés las secciones.</small></div>
+    <span class="persistent-live"><i class="live-dot"></i> EN VIVO</span>
+  </div>
+</section>
+<main id="app-main" class="dashboard-home" data-route="inicio">
+  <section class="dashboard-top">
+    <article class="dash-card news-highlight">
+      <header><h2>▤ Noticias destacadas</h2><a href="#noticias">Ver noticias →</a></header>
+      <div class="news-layout" data-news-carousel>
+        <article class="lead-story" data-home-news-lead>
+          <div class="lead-overlay"><span>LOCAL</span><h3>La información de Concepción del Uruguay, en un solo lugar</h3><small>Noticias nuevas aproximadamente cada hora</small><a href="#noticias">Ver noticia →</a></div>
+        </article>
+        <div class="mini-news" data-home-news>
+          <a href="#noticias"><span>LOCAL</span><b>Esperando la próxima actualización automática</b><small>Leer noticias →</small></a>
+          <a href="#noticias"><span>REGIÓN</span><b>Información de Gualeguaychú, Colón, San José y Tala</b><small>Ver cobertura →</small></a>
+          <a href="#noticias"><span>PROVINCIA</span><b>Entre Ríos y las noticias nacionales destacadas</b><small>Ver más →</small></a>
+        </div>
+      </div>
+      <div class="news-carousel-footer"><div class="news-dots" data-news-dots aria-label="Noticias destacadas"></div><div class="news-carousel-actions"><button type="button" data-news-prev aria-label="Noticia anterior">←</button><button type="button" data-news-next aria-label="Noticia siguiente">→</button></div><span data-news-updated>Esperando actualización…</span></div>
+    </article>
+    <article class="dash-card river-highlight" data-river-card>
+      <header><h2>≈ Altura del río Uruguay</h2><a href="#clima-rio">Ver historial →</a></header>
+      <div class="river-big"><span data-river-height>--</span><small>m</small><b>↑</b></div>
+      <div class="river-change"><strong data-river-variation>Consultando dato oficial…</strong><span>respecto del registro anterior</span></div>
+      <span class="river-pill" data-river-trend>Actualizando</span>
+      <p>Actualizado: <b data-river-updated>--</b></p>
+      <a class="dash-button blue" href="#clima-rio">Ver historial y detalles →</a>
+      <div class="river-wave" aria-hidden="true"></div>
+    </article>
+    <article class="dash-card weather-highlight" data-weather-card>
+      <header><h2>🌤 Clima local</h2><a href="#clima-rio">Ver pronóstico →</a></header>
+      <div class="weather-visual">
+        <div><strong data-weather-temperature>--°C</strong><span data-weather-description>Actualizando…</span></div>
+        <div class="weather-hero-icon" data-weather-icon>🌤️</div>
+      </div>
+      <div class="weather-details">
+        <div><span>Humedad</span><b data-weather-humidity>--%</b></div>
+        <div><span>Viento</span><b data-weather-wind>-- km/h</b></div>
+        <div><span>Máxima</span><b data-weather-max>--°C</b></div>
+        <div><span>Mínima</span><b data-weather-min>--°C</b></div>
+      </div>
+      <div class="sun-times sun-times-complete">
+        <div><span>🌅 Amanecer</span><b data-weather-sunrise>--:--</b></div>
+        <div><span>🌇 Atardecer</span><b data-weather-sunset>--:--</b></div>
+      </div>
+      <div class="weather-last-update" data-weather-updated>Actualizando…</div>
+      <a class="dash-button" href="#clima-rio">Ver pronóstico completo →</a>
+    </article>
+  </section>
+  <section class="quick-actions">
+    <a class="quick-card orange" href="pedidos.html"><i>🎙</i><div><b>Pedí tu música</b><span>¡Escuchamos tu pedido!</span><small>Pedir ahora →</small></div></a>
+    <a class="quick-card violet" href="#contacto"><i>💬</i><div><b>Mensajes al aire</b><span>Dejá tu saludo o mensaje</span><small>Enviar mensaje →</small></div></a>
+    <a class="quick-card green" href="https://wa.me/5493442405972" target="_blank" rel="noopener"><i>◉</i><div><b>WhatsApp</b><span>+54 9 3442 405972</span><small>Enviar WhatsApp →</small></div></a>
+    <a class="quick-card pink" href="#corresponsales"><i>📷</i><div><b>Ser corresponsal</b><span>Contanos tu noticia</span><small>Enviar información →</small></div></a>
+    <a class="quick-card cyan" href="#comunidad"><i>👥</i><div><b>Aportes de la comunidad</b><span>Tu ayuda hace la diferencia</span><small>Ver más →</small></div></a>
+  </section>
+  <section class="dashboard-bottom">
+    <article class="dash-card podcast-highlight">
+      <header><h2>🎧 Podcast y programas</h2><a href="#podcasts">Ver todos →</a></header>
+      <a href="#podcasts" class="podcast-feature"><div><b>La Mañana en Tiempo Muerto</b><span>La mejor compañía para empezar el día</span><div class="mini-wave">▂▅▂▇▃▆▂▅▇▃▆▂▇</div></div><i>▶</i></a>
+      <div class="podcast-chips"><span>▶ Deportes en Acción</span><span>🎙 Entre Nosotros</span><span>♫ Música sin Fronteras</span></div>
+    </article>
+    <article class="dash-card donation-highlight">
+      <header><h2>♡ Colaborá con Radio Tiempo Muerto</h2></header>
+      <p>Tu aporte nos ayuda a seguir creciendo y brindarte información, música y compañía.</p>
+      <div class="donation-options">
+        <a href="#aportes"><b>$ 5.000</b><span>🧉 Para unos mates con galletitas</span></a>
+        <a href="#aportes"><b>$ 10.000</b><span>🍪 Para seguir mejorando</span></a>
+        <a href="#aportes"><b>$ 15.000</b><span>❤️ Para grandes proyectos</span></a>
+        <a href="#aportes"><b>Otro monto</b><span>🪙 Elegí cuánto querés aportar</span></a>
+      </div>
+      <a class="donate-main" href="#aportes">♡ COLABORAR AHORA</a>
+    </article>
+    <article class="dash-card agenda-highlight">
+      <header><h2>▣ Agenda y eventos</h2><a href="#comunidad">Ver agenda →</a></header>
+      <div class="agenda-list">
+        <a href="#comunidad"><time>18<small>JUL</small></time><div><b>Actividades culturales</b><span>Agenda de Concepción del Uruguay</span></div></a>
+        <a href="#comunidad"><time>19<small>JUL</small></time><div><b>Feria y eventos locales</b><span>Información de la comunidad</span></div></a>
+        <a href="#comunidad"><time>20<small>JUL</small></time><div><b>Shows y transmisiones</b><span>Consultá todas las novedades</span></div></a>
+      </div>
+    </article>
+    <article class="app-download-card">
+      <div><h2>DESCARGÁ<br>NUESTRA APP</h2><p>Llevá la radio siempre con vos.</p><button id="install-app" type="button">📲 Instalar aplicación</button><small>Disponible desde esta misma web</small></div>
+      <div class="phone-preview"><img src="assets/img/logo-radio-tiempo-muerto.png" alt="Ícono de la aplicación Radio Tiempo Muerto"><span>▶</span></div>
+    </article>
+  </section>
+  <section class="home-ad-area">
+    <article class="dash-card ad-home-card"><header><h2>📣 Publicidad destacada</h2><a href="admin-publicidades.html" target="_blank" rel="noopener">Administrar →</a></header><div id="publicidad-portada" class="ad-slot" aria-live="polite"><div class="ad-placeholder"><strong>Tu comercio puede aparecer acá</strong><span>Publicidad local administrada desde Firebase.</span></div></div></article>
+  </section>
+</main>
+<footer class="site-footer"><div class="footer-inner"><span>© 2026 Radio Tiempo Muerto</span><span>Información, música y comunidad de Concepción del Uruguay.</span></div></footer>
+<div class="toast" role="status" aria-live="polite"></div>
+<script src="assets/js/principal.js?v=13"></script>
+<script type="module" src="assets/js/publicidades.js?v=8"></script>
+</body>
+</html>

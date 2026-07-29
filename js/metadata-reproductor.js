@@ -15,14 +15,12 @@ const estado = document.querySelector("[data-radio-metadata-estado]");
 
 const formatoTiempo = (segundos) => {
   const s = Math.max(0, Number(segundos || 0));
-  const minutos = Math.floor(s / 60);
-  const resto = String(Math.floor(s % 60)).padStart(2, "0");
-  return `${minutos}:${resto}`;
+  return `${Math.floor(s / 60)}:${String(Math.floor(s % 60)).padStart(2, "0")}`;
 };
 
 onSnapshot(doc(db, "estadoRadio", "ahora"), (snap) => {
   if (!snap.exists()) {
-    if (estado) estado.textContent = "Esperando datos de RadioBOSS…";
+    if (estado) estado.textContent = "ESPERANDO DATOS";
     return;
   }
 
@@ -39,7 +37,4 @@ onSnapshot(doc(db, "estadoRadio", "ahora"), (snap) => {
 
   if (progreso) progreso.style.width = `${porcentaje}%`;
   if (estado) estado.textContent = d.enVivo ? "EN VIVO" : "FUERA DE LÍNEA";
-}, (error) => {
-  console.error(error);
-  if (estado) estado.textContent = "No se pudo leer la información del tema.";
 });
