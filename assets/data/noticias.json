@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T22:19:05.330953+00:00",
+  "updated_at": "2026-07-31T00:17:59.466165+00:00",
   "status": "partial",
   "description": "Titulares y enlaces; el contenido completo permanece en el medio original.",
   "groups": [
@@ -171,6 +171,11 @@
     }
   ],
   "errors": [
-    "Andrea Pacinelli Noticias: red social, requiere selección manual"
+    "Andrea Pacinelli Noticias: red social, requiere selección manual",
+    "Diario La Calle: https://news.google.com/rss/search?q=site%3Alacalle.com.ar&hl=es-419&gl=AR&ceid=AR%3Aes-419: La fuente no respondió después de 3 intentos: HTTP Error 503: Service Unavailable",
+    "Elonce: https://news.google.com/rss/search?q=site%3Aelonce.com&hl=es-419&gl=AR&ceid=AR%3Aes-419: La fuente no respondió después de 3 intentos: HTTP Error 503: Service Unavailable",
+    "La Pirámide: https://news.google.com/rss/search?q=site%3Alapiramide.net&hl=es-419&gl=AR&ceid=AR%3Aes-419: La fuente no respondió después de 3 intentos: HTTP Error 503: Service Unavailable",
+    "Página/12: https://news.google.com/rss/search?q=site%3Apagina12.com.ar&hl=es-419&gl=AR&ceid=AR%3Aes-419: La fuente no respondió después de 3 intentos: HTTP Error 503: Service Unavailable",
+    "R2820: https://www.r2820.com/rss: syntax error: line 1, column 0 | https://news.google.com/rss/search?q=site%3Ar2820.com&hl=es-419&gl=AR&ceid=AR%3Aes-419: La fuente no respondió después de 3 intentos: HTTP Error 503: Service Unavailable"
   ]
 }
