@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="0">
+  <meta name="theme-color" content="#111318">
+  <title>Panel del operador | Radio Tiempo Muerto</title>
+  <link rel="icon" href="assets/img/favicon-64.png">
+  <link rel="stylesheet" href="css/admin-pedidos-v19.css?v=19">
+</head>
+<body>
+  <div class="fondo-luces" aria-hidden="true"></div>
+
+  <header class="barra-superior">
+    <a class="marca-radio" href="index.html" aria-label="Volver a Radio Tiempo Muerto">
+      <img src="assets/img/logo-radio-tiempo-muerto.png" alt="Logo de Radio Tiempo Muerto">
+      <span>
+        <small>RADIO</small>
+        <strong>TIEMPO MUERTO</strong>
+      </span>
+    </a>
+    <a class="volver" href="index.html">← Volver a la radio</a>
+  </header>
+
+  <main class="contenedor">
+    <section class="presentacion">
+      <div>
+        <span class="etiqueta-vivo"><i></i> CONTROL EN VIVO</span>
+        <h1>Panel del operador</h1>
+        <p>Recibí, revisá y enviá los pedidos musicales a RadioBOSS.</p>
+      </div>
+      <div class="estado-sistema">
+        <span class="punto" id="puntoEstado"></span>
+        <div>
+          <small>ESTADO DEL PANEL</small>
+          <strong id="textoEstado">Esperando ingreso</strong>
+        </div>
+      </div>
+    </section>
+
+    <section class="tarjeta acceso" id="acceso">
+      <div class="acceso-ilustracion">
+        <span class="nota nota-1">♪</span>
+        <span class="nota nota-2">♫</span>
+        <span class="nota nota-3">♬</span>
+        <div class="disco">
+          <img src="assets/img/logo-radio-tiempo-muerto.png" alt="">
+        </div>
+        <h2>Mesa del aire</h2>
+        <p>Un único acceso privado para controlar los pedidos de los oyentes.</p>
+      </div>
+
+      <div class="acceso-formulario">
+        <span class="sobrelinea">ACCESO ADMINISTRADOR</span>
+        <h2>Ingresá al panel</h2>
+        <p class="explicacion">Esta versión no usa ventanas emergentes ni pantalla completa.</p>
+
+        <form id="formIngreso" novalidate>
+          <label for="correo">Correo administrador</label>
+          <div class="campo">
+            <span>✉</span>
+            <input id="correo" name="correo" type="email"
+                   value="rtiempomuerto@gmail.com"
+                   autocomplete="username" required>
+          </div>
+
+          <label for="clave">Contraseña del panel</label>
+          <div class="campo">
+            <span>●</span>
+            <input id="clave" name="clave" type="password"
+                   placeholder="Escribí la contraseña de Firebase"
+                   autocomplete="current-password" required>
+            <button id="verClave" class="ver-clave" type="button" aria-label="Mostrar contraseña">Ver</button>
+          </div>
+
+          <button class="boton-principal" id="botonIngresar" type="submit">
+            <span>Entrar al panel</span>
+            <b>→</b>
+          </button>
+        </form>
+
+        <button class="enlace-clave" id="recuperarClave" type="button">
+          Crear o restablecer la contraseña del panel
+        </button>
+
+        <div id="mensajeAcceso" class="mensaje" role="status" aria-live="polite"></div>
+
+        <p class="aviso-seguridad">
+          🔒 La contraseña se usa únicamente para ingresar a Firebase y no se guarda en la página.
+        </p>
+      </div>
+    </section>
+
+    <section class="panel-operador oculto" id="panel">
+      <div class="cabecera-panel">
+        <div>
+          <span class="sobrelinea">PEDIDOS MUSICALES</span>
+          <h2>Cola de oyentes</h2>
+          <p id="sesionTexto">Sesión administradora activa.</p>
+        </div>
+        <div class="acciones-cabecera">
+          <button class="boton-actualizar" id="actualizar" type="button">↻ Actualizar</button>
+          <button class="boton-salir" id="salir" type="button">Cerrar sesión</button>
+        </div>
+      </div>
+
+      <div class="resumen">
+        <article>
+          <span class="icono-resumen naranja">♪</span>
+          <div><strong id="totalPendientes">0</strong><small>Pendientes</small></div>
+        </article>
+        <article>
+          <span class="icono-resumen verde">✓</span>
+          <div><strong id="totalAprobados">0</strong><small>Aprobados</small></div>
+        </article>
+        <article>
+          <span class="icono-resumen azul">➜</span>
+          <div><strong id="totalEnviados">0</strong><small>Enviados</small></div>
+        </article>
+        <article>
+          <span class="icono-resumen rojo">×</span>
+          <div><strong id="totalRechazados">0</strong><small>Rechazados</small></div>
+        </article>
+      </div>
+
+      <div class="filtros" role="tablist" aria-label="Filtrar pedidos">
+        <button class="filtro activo" data-filtro="pendiente" type="button">Pendientes</button>
+        <button class="filtro" data-filtro="aprobado" type="button">Aprobados</button>
+        <button class="filtro" data-filtro="enviado" type="button">Enviados</button>
+        <button class="filtro" data-filtro="rechazado" type="button">Rechazados</button>
+        <button class="filtro" data-filtro="todos" type="button">Todos</button>
+      </div>
+
+      <div id="mensajePanel" class="mensaje" role="status" aria-live="polite"></div>
+      <div id="pedidos" class="pedidos">
+        <div class="estado-vacio">
+          <span>♫</span>
+          <strong>Cargando pedidos…</strong>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+
+  <script type="module" src="js/admin-pedidos-v19.js?v=19"></script>
+</body>
+</html>

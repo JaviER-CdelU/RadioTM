@@ -1,54 +1,381 @@
-<!doctype html>
-<html lang="es">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>Panel de pedidos | Radio Tiempo Muerto</title>
-  <link rel="stylesheet" href="css/pedidos.css">
-  <style>
-    .mensaje-acceso{margin-top:14px;padding:14px 16px;border-radius:12px;line-height:1.45;display:none;white-space:pre-line}
-    .mensaje-acceso.visible{display:block}
-    .mensaje-acceso.info{background:#fff7e6;border:1px solid #f0ad31;color:#5c3b00}
-    .mensaje-acceso.error{background:#fff0f0;border:1px solid #d94a4a;color:#7b1111}
-    .mensaje-acceso.ok{background:#edf9f0;border:1px solid #4ca968;color:#145b29}
-    .acciones-acceso{display:flex;gap:10px;flex-wrap:wrap;margin-top:14px}
-    .acciones-acceso button{min-height:46px}
-    .ayuda-acceso{margin-top:12px;font-size:.92rem;opacity:.86}
-    .detalle-tecnico{font-family:ui-monospace,Consolas,monospace;font-size:.82rem;margin-top:8px;word-break:break-word}
-  </style>
-</head>
-<body>
-  <main class="contenedor">
-    <header class="encabezado">
-      <div class="marca">RTM</div>
+import { initializeApp } from "https://www.gstatic.com/firebasejs/10.12.5/firebase-app.js";
+import {
+  getAuth,
+  signInWithEmailAndPassword,
+  sendPasswordResetEmail,
+  signOut,
+  onAuthStateChanged,
+  setPersistence,
+  browserLocalPersistence
+} from "https://www.gstatic.com/firebasejs/10.12.5/firebase-auth.js";
+import {
+  getFirestore,
+  collection,
+  onSnapshot,
+  doc,
+  updateDoc,
+  serverTimestamp
+} from "https://www.gstatic.com/firebasejs/10.12.5/firebase-firestore.js";
+import { firebaseConfig } from "./firebase-config.js";
+
+const ADMIN_EMAIL = "rtiempomuerto@gmail.com";
+const COLECCION = "pedidosCanciones";
+
+const app = initializeApp(firebaseConfig);
+const auth = getAuth(app);
+const db = getFirestore(app);
+auth.languageCode = "es";
+
+const $ = (selector) => document.querySelector(selector);
+const acceso = $("#acceso");
+const panel = $("#panel");
+const formIngreso = $("#formIngreso");
+const correo = $("#correo");
+const clave = $("#clave");
+const botonIngresar = $("#botonIngresar");
+const recuperarClave = $("#recuperarClave");
+const verClave = $("#verClave");
+const mensajeAcceso = $("#mensajeAcceso");
+const mensajePanel = $("#mensajePanel");
+const pedidosContenedor = $("#pedidos");
+const salir = $("#salir");
+const actualizar = $("#actualizar");
+const puntoEstado = $("#puntoEstado");
+const textoEstado = $("#textoEstado");
+const sesionTexto = $("#sesionTexto");
+const toast = $("#toast");
+
+let cancelarEscucha = null;
+let pedidosActuales = [];
+let filtroActual = "pendiente";
+let temporizadorToast = null;
+
+await setPersistence(auth, browserLocalPersistence);
+
+function escapar(valor = "") {
+  return String(valor)
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;")
+    .replaceAll("'", "&#039;");
+}
+
+function mostrarMensaje(elemento, texto, tipo = "info", detalle = "") {
+  elemento.className = `mensaje visible ${tipo}`;
+  elemento.innerHTML = `${escapar(texto)}${detalle ? `<span class="detalle">${escapar(detalle)}</span>` : ""}`;
+}
+
+function ocultarMensaje(elemento) {
+  elemento.className = "mensaje";
+  elemento.textContent = "";
+}
+
+function cambiarEstadoPanel(texto, tipo = "") {
+  textoEstado.textContent = texto;
+  puntoEstado.className = `punto ${tipo}`.trim();
+}
+
+function mostrarToast(texto, tipo = "ok") {
+  clearTimeout(temporizadorToast);
+  toast.textContent = texto;
+  toast.className = `toast visible ${tipo}`;
+  temporizadorToast = setTimeout(() => {
+    toast.className = "toast";
+  }, 3500);
+}
+
+function explicarError(error) {
+  const codigo = error?.code || "error/desconocido";
+  const mensajes = {
+    "auth/operation-not-allowed":
+      "Primero hay que habilitar Correo electrónico/contraseña en Firebase Authentication.",
+    "auth/invalid-credential":
+      "El correo o la contraseña no coinciden. Podés crear o restablecer la contraseña con el enlace de abajo.",
+    "auth/invalid-email":
+      "El correo no tiene un formato válido.",
+    "auth/user-disabled":
+      "La cuenta administradora está deshabilitada en Firebase.",
+    "auth/too-many-requests":
+      "Hubo demasiados intentos. Esperá unos minutos antes de volver a probar.",
+    "auth/network-request-failed":
+      "No se pudo conectar con Firebase. Revisá Internet y volvé a intentar.",
+    "auth/missing-password":
+      "Escribí la contraseña del panel.",
+    "auth/unauthorized-domain":
+      `Firebase no tiene autorizado el dominio ${location.hostname}.`,
+    "permission-denied":
+      "Firebase rechazó el acceso a los pedidos. Hay que revisar las reglas de Firestore."
+  };
+  return {
+    texto: mensajes[codigo] || "No se pudo completar la operación.",
+    detalle: `${codigo}${error?.message ? ` — ${error.message}` : ""}`
+  };
+}
+
+formIngreso.addEventListener("submit", async (evento) => {
+  evento.preventDefault();
+  ocultarMensaje(mensajeAcceso);
+
+  const email = correo.value.trim().toLowerCase();
+  const password = clave.value;
+
+  if (email !== ADMIN_EMAIL) {
+    mostrarMensaje(mensajeAcceso, "Usá la cuenta administradora de Radio Tiempo Muerto.", "error", email);
+    return;
+  }
+
+  botonIngresar.disabled = true;
+  botonIngresar.querySelector("span").textContent = "Ingresando…";
+  cambiarEstadoPanel("Comprobando acceso");
+
+  try {
+    const resultado = await signInWithEmailAndPassword(auth, email, password);
+    if ((resultado.user.email || "").toLowerCase() !== ADMIN_EMAIL) {
+      await signOut(auth);
+      throw Object.assign(new Error("Cuenta no autorizada"), { code: "auth/invalid-credential" });
+    }
+    clave.value = "";
+    mostrarToast("Ingreso correcto. Cargando pedidos.", "ok");
+  } catch (error) {
+    const info = explicarError(error);
+    mostrarMensaje(mensajeAcceso, info.texto, "error", info.detalle);
+    cambiarEstadoPanel("No se pudo ingresar", "error");
+    console.error("Ingreso:", error);
+  } finally {
+    botonIngresar.disabled = false;
+    botonIngresar.querySelector("span").textContent = "Entrar al panel";
+  }
+});
+
+recuperarClave.addEventListener("click", async () => {
+  ocultarMensaje(mensajeAcceso);
+  recuperarClave.disabled = true;
+
+  try {
+    await sendPasswordResetEmail(auth, ADMIN_EMAIL);
+    mostrarMensaje(
+      mensajeAcceso,
+      "Firebase envió un correo a rtiempomuerto@gmail.com para crear o cambiar la contraseña del panel.",
+      "ok"
+    );
+  } catch (error) {
+    const info = explicarError(error);
+    mostrarMensaje(mensajeAcceso, info.texto, "error", info.detalle);
+    console.error("Restablecer contraseña:", error);
+  } finally {
+    recuperarClave.disabled = false;
+  }
+});
+
+verClave.addEventListener("click", () => {
+  const mostrando = clave.type === "text";
+  clave.type = mostrando ? "password" : "text";
+  verClave.textContent = mostrando ? "Ver" : "Ocultar";
+});
+
+salir.addEventListener("click", async () => {
+  await signOut(auth);
+  mostrarToast("Sesión cerrada.", "ok");
+});
+
+actualizar.addEventListener("click", () => {
+  renderizar();
+  mostrarToast("Panel actualizado.", "ok");
+});
+
+document.querySelectorAll(".filtro").forEach((boton) => {
+  boton.addEventListener("click", () => {
+    filtroActual = boton.dataset.filtro;
+    document.querySelectorAll(".filtro").forEach((item) => item.classList.remove("activo"));
+    boton.classList.add("activo");
+    renderizar();
+  });
+});
+
+onAuthStateChanged(auth, async (usuario) => {
+  if (cancelarEscucha) {
+    cancelarEscucha();
+    cancelarEscucha = null;
+  }
+
+  if (!usuario) {
+    acceso.classList.remove("oculto");
+    panel.classList.add("oculto");
+    cambiarEstadoPanel("Esperando ingreso");
+    return;
+  }
+
+  if ((usuario.email || "").toLowerCase() !== ADMIN_EMAIL) {
+    await signOut(auth);
+    mostrarMensaje(mensajeAcceso, "Esta cuenta no está autorizada para administrar la radio.", "error");
+    cambiarEstadoPanel("Cuenta no autorizada", "error");
+    return;
+  }
+
+  acceso.classList.add("oculto");
+  panel.classList.remove("oculto");
+  sesionTexto.textContent = `Sesión activa: ${usuario.email}`;
+  cambiarEstadoPanel("Conectado a Firebase", "ok");
+  escucharPedidos();
+});
+
+function escucharPedidos() {
+  pedidosContenedor.innerHTML = `
+    <div class="estado-vacio">
+      <span>♫</span>
+      <strong>Cargando pedidos…</strong>
+    </div>`;
+
+  cancelarEscucha = onSnapshot(
+    collection(db, COLECCION),
+    (snapshot) => {
+      pedidosActuales = snapshot.docs.map((documento) => ({
+        id: documento.id,
+        ...documento.data()
+      }));
+
+      pedidosActuales.sort((a, b) => fechaMilisegundos(b.creadoEn) - fechaMilisegundos(a.creadoEn));
+      actualizarResumen();
+      renderizar();
+      cambiarEstadoPanel("Pedidos conectados en vivo", "ok");
+    },
+    (error) => {
+      const info = explicarError(error);
+      mostrarMensaje(mensajePanel, info.texto, "error", info.detalle);
+      cambiarEstadoPanel("Error al leer pedidos", "error");
+      console.error("Escucha de pedidos:", error);
+    }
+  );
+}
+
+function actualizarResumen() {
+  const contar = (estado) => pedidosActuales.filter((p) => normalizarEstado(p.estado) === estado).length;
+  $("#totalPendientes").textContent = contar("pendiente");
+  $("#totalAprobados").textContent = contar("aprobado");
+  $("#totalEnviados").textContent =
+    pedidosActuales.filter((p) => ["enviado", "reproducido"].includes(normalizarEstado(p.estado))).length;
+  $("#totalRechazados").textContent = contar("rechazado");
+}
+
+function renderizar() {
+  ocultarMensaje(mensajePanel);
+
+  const lista = filtroActual === "todos"
+    ? pedidosActuales
+    : pedidosActuales.filter((p) => normalizarEstado(p.estado) === filtroActual);
+
+  if (!lista.length) {
+    const textos = {
+      pendiente: "No hay pedidos pendientes.",
+      aprobado: "No hay pedidos aprobados.",
+      enviado: "Todavía no hay pedidos enviados.",
+      rechazado: "No hay pedidos rechazados.",
+      todos: "Todavía no se recibieron pedidos."
+    };
+    pedidosContenedor.innerHTML = `
+      <div class="estado-vacio">
+        <span>♫</span>
+        <strong>${escapar(textos[filtroActual])}</strong>
+      </div>`;
+    return;
+  }
+
+  pedidosContenedor.innerHTML = "";
+  lista.forEach((pedido) => pedidosContenedor.appendChild(crearTarjeta(pedido)));
+}
+
+function crearTarjeta(p) {
+  const estado = normalizarEstado(p.estado);
+  const articulo = document.createElement("article");
+  articulo.className = "pedido";
+
+  const titulo = p.titulo || p.cancion || p.tema || "Canción sin título";
+  const artista = p.artista || "Artista no indicado";
+  const nombre = p.nombre || p.oyente || "Oyente";
+  const ciudad = p.ciudad || p.localidad || "Sin localidad";
+  const mensaje = p.mensaje || p.dedicatoria || "Sin dedicatoria";
+  const fecha = formatearFecha(p.creadoEn);
+
+  articulo.innerHTML = `
+    <div class="pedido-cabecera">
       <div>
-        <h1>Panel del operador</h1>
-        <p class="subtitulo">Aprobá o rechazá los pedidos antes de enviarlos a RadioBOSS.</p>
+        <h3>${escapar(titulo)}</h3>
+        <div class="artista">${escapar(artista)}</div>
       </div>
-    </header>
+      <span class="chip ${escapar(estado)}">${escapar(etiquetaEstado(estado))}</span>
+    </div>
 
-    <section class="panel" id="acceso">
-      <h2>Ingreso</h2>
-      <p>Ingresá con la cuenta administradora <strong>rtiempomuerto@gmail.com</strong>.</p>
+    <div class="datos-oyente">
+      <div><small>LO PIDIÓ</small><strong>${escapar(nombre)}</strong></div>
+      <div><small>DESDE</small><strong>${escapar(ciudad)}</strong></div>
+    </div>
 
-      <div class="acciones-acceso">
-        <button id="ingresar" type="button">Ingresar con Google</button>
-        <button id="ingresarRedireccion" class="secundario" type="button">Ingresar en pantalla completa</button>
-      </div>
+    <p class="dedicatoria">“${escapar(mensaje)}”</p>
+    <div class="fecha">${escapar(fecha)}</div>
 
-      <div id="mensajeAcceso" class="mensaje-acceso" role="status" aria-live="polite"></div>
-      <p class="ayuda-acceso">Esta versión ya no oculta los errores: si Google cierra la ventana, el motivo aparecerá escrito aquí.</p>
-    </section>
+    ${estado === "pendiente" ? `
+      <div class="acciones-pedido">
+        <button class="aprobar" type="button">✓ Aprobar</button>
+        <button class="rechazar" type="button">× Rechazar</button>
+      </div>` : ""}
+  `;
 
-    <section class="panel oculto" id="panel">
-      <div class="acciones">
-        <button class="secundario" id="salir" type="button">Cerrar sesión</button>
-      </div>
-      <h2>Pedidos pendientes</h2>
-      <div id="pedidos" class="pedidos"></div>
-    </section>
-  </main>
+  articulo.querySelector(".aprobar")?.addEventListener("click", () => cambiarEstado(p.id, "aprobado"));
+  articulo.querySelector(".rechazar")?.addEventListener("click", () => cambiarEstado(p.id, "rechazado"));
+  return articulo;
+}
 
-  <script type="module" src="js/admin-pedidos.js?v=17"></script>
-</body>
-</html>
+async function cambiarEstado(id, nuevoEstado) {
+  try {
+    await updateDoc(doc(db, COLECCION, id), {
+      estado: nuevoEstado,
+      revisadoEn: serverTimestamp(),
+      revisadoPor: auth.currentUser?.email || ADMIN_EMAIL
+    });
+    mostrarToast(
+      nuevoEstado === "aprobado"
+        ? "Pedido aprobado: el puente podrá enviarlo a RadioBOSS."
+        : "Pedido rechazado.",
+      "ok"
+    );
+  } catch (error) {
+    const info = explicarError(error);
+    mostrarToast(info.texto, "error");
+    console.error("Cambiar estado:", error);
+  }
+}
+
+function normalizarEstado(estado = "pendiente") {
+  const valor = String(estado).toLowerCase().trim();
+  if (["enviado", "reproducido", "procesado"].includes(valor)) return "enviado";
+  if (["aprobado", "aprobada"].includes(valor)) return "aprobado";
+  if (["rechazado", "rechazada"].includes(valor)) return "rechazado";
+  return "pendiente";
+}
+
+function etiquetaEstado(estado) {
+  return {
+    pendiente: "Pendiente",
+    aprobado: "Aprobado",
+    enviado: "Enviado",
+    rechazado: "Rechazado"
+  }[estado] || estado;
+}
+
+function fechaMilisegundos(valor) {
+  if (!valor) return 0;
+  if (typeof valor.toMillis === "function") return valor.toMillis();
+  if (valor.seconds) return valor.seconds * 1000;
+  const fecha = new Date(valor);
+  return Number.isNaN(fecha.getTime()) ? 0 : fecha.getTime();
+}
+
+function formatearFecha(valor) {
+  const ms = fechaMilisegundos(valor);
+  if (!ms) return "Fecha no disponible";
+  return new Intl.DateTimeFormat("es-AR", {
+    dateStyle: "short",
+    timeStyle: "short"
+  }).format(new Date(ms));
+}
