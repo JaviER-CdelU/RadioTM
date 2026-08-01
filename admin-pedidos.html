@@ -1,234 +1,54 @@
-import { initializeApp } from "https://www.gstatic.com/firebasejs/10.12.5/firebase-app.js";
-import {
-  getAuth,
-  GoogleAuthProvider,
-  signInWithPopup,
-  signInWithRedirect,
-  getRedirectResult,
-  signOut,
-  onAuthStateChanged,
-  setPersistence,
-  browserLocalPersistence
-} from "https://www.gstatic.com/firebasejs/10.12.5/firebase-auth.js";
-import {
-  getFirestore,
-  collection,
-  query,
-  where,
-  orderBy,
-  onSnapshot,
-  doc,
-  updateDoc,
-  serverTimestamp
-} from "https://www.gstatic.com/firebasejs/10.12.5/firebase-firestore.js";
-import { firebaseConfig } from "./firebase-config.js";
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Panel de pedidos | Radio Tiempo Muerto</title>
+  <link rel="stylesheet" href="css/pedidos.css">
+  <style>
+    .mensaje-acceso{margin-top:14px;padding:14px 16px;border-radius:12px;line-height:1.45;display:none;white-space:pre-line}
+    .mensaje-acceso.visible{display:block}
+    .mensaje-acceso.info{background:#fff7e6;border:1px solid #f0ad31;color:#5c3b00}
+    .mensaje-acceso.error{background:#fff0f0;border:1px solid #d94a4a;color:#7b1111}
+    .mensaje-acceso.ok{background:#edf9f0;border:1px solid #4ca968;color:#145b29}
+    .acciones-acceso{display:flex;gap:10px;flex-wrap:wrap;margin-top:14px}
+    .acciones-acceso button{min-height:46px}
+    .ayuda-acceso{margin-top:12px;font-size:.92rem;opacity:.86}
+    .detalle-tecnico{font-family:ui-monospace,Consolas,monospace;font-size:.82rem;margin-top:8px;word-break:break-word}
+  </style>
+</head>
+<body>
+  <main class="contenedor">
+    <header class="encabezado">
+      <div class="marca">RTM</div>
+      <div>
+        <h1>Panel del operador</h1>
+        <p class="subtitulo">Aprobá o rechazá los pedidos antes de enviarlos a RadioBOSS.</p>
+      </div>
+    </header>
 
-const ADMIN_EMAIL = "rtiempomuerto@gmail.com";
-const app = initializeApp(firebaseConfig);
-const auth = getAuth(app);
-const db = getFirestore(app);
-const provider = new GoogleAuthProvider();
-provider.setCustomParameters({ prompt: "select_account" });
+    <section class="panel" id="acceso">
+      <h2>Ingreso</h2>
+      <p>Ingresá con la cuenta administradora <strong>rtiempomuerto@gmail.com</strong>.</p>
 
-const acceso = document.querySelector("#acceso");
-const panel = document.querySelector("#panel");
-const pedidos = document.querySelector("#pedidos");
-const botonIngresar = document.querySelector("#ingresar");
-const botonRedireccion = document.querySelector("#ingresarRedireccion");
-const botonSalir = document.querySelector("#salir");
-const mensajeAcceso = document.querySelector("#mensajeAcceso");
-let cancelarEscucha = null;
+      <div class="acciones-acceso">
+        <button id="ingresar" type="button">Ingresar con Google</button>
+        <button id="ingresarRedireccion" class="secundario" type="button">Ingresar en pantalla completa</button>
+      </div>
 
-function mostrarMensaje(texto, tipo = "info", detalle = "") {
-  mensajeAcceso.className = `mensaje-acceso visible ${tipo}`;
-  mensajeAcceso.innerHTML = `${escapar(texto)}${detalle ? `<div class="detalle-tecnico">${escapar(detalle)}</div>` : ""}`;
-}
+      <div id="mensajeAcceso" class="mensaje-acceso" role="status" aria-live="polite"></div>
+      <p class="ayuda-acceso">Esta versión ya no oculta los errores: si Google cierra la ventana, el motivo aparecerá escrito aquí.</p>
+    </section>
 
-function limpiarMensaje() {
-  mensajeAcceso.className = "mensaje-acceso";
-  mensajeAcceso.textContent = "";
-}
+    <section class="panel oculto" id="panel">
+      <div class="acciones">
+        <button class="secundario" id="salir" type="button">Cerrar sesión</button>
+      </div>
+      <h2>Pedidos pendientes</h2>
+      <div id="pedidos" class="pedidos"></div>
+    </section>
+  </main>
 
-function bloquearIngreso(bloqueado) {
-  botonIngresar.disabled = bloqueado;
-  botonRedireccion.disabled = bloqueado;
-}
-
-function explicarError(error) {
-  const codigo = error?.code || "error/desconocido";
-  const mensaje = error?.message || "Sin detalle adicional";
-
-  const explicaciones = {
-    "auth/popup-blocked": "Chrome bloqueó la ventana de Google. Probá el botón “Ingresar en pantalla completa”.",
-    "auth/popup-closed-by-user": "La ventana de Google se cerró antes de completar el ingreso. Volvé a probar y elegí la cuenta administradora.",
-    "auth/unauthorized-domain": `Firebase no tiene autorizado este dominio: ${location.hostname}. Hay que agregarlo en Firebase → Authentication → Settings → Authorized domains.`,
-    "auth/operation-not-allowed": "El proveedor Google todavía no está habilitado en Firebase Authentication.",
-    "auth/cancelled-popup-request": "Había otra solicitud de ingreso abierta. Esperá un momento y probá una sola vez.",
-    "auth/network-request-failed": "No se pudo conectar con Google/Firebase. Revisá la conexión a Internet y volvé a intentar.",
-    "auth/internal-error": "Google/Firebase devolvió un error interno. Volvé a intentar en unos segundos.",
-    "auth/web-storage-unsupported": "El navegador está bloqueando el almacenamiento necesario para iniciar sesión. Probá en una ventana normal de Chrome o en Microsoft Edge.",
-    "auth/user-disabled": "Esta cuenta está deshabilitada en Firebase Authentication."
-  };
-
-  return {
-    texto: explicaciones[codigo] || "No se pudo completar el ingreso. Ahora podés copiar este código para identificar el problema.",
-    detalle: `${codigo} — ${mensaje}`
-  };
-}
-
-async function prepararAuth() {
-  await setPersistence(auth, browserLocalPersistence);
-}
-
-botonIngresar.addEventListener("click", async () => {
-  limpiarMensaje();
-  bloquearIngreso(true);
-  mostrarMensaje("Abriendo el acceso de Google…", "info");
-
-  try {
-    await prepararAuth();
-    const resultado = await signInWithPopup(auth, provider);
-    await validarAdministrador(resultado.user);
-  } catch (error) {
-    const info = explicarError(error);
-    mostrarMensaje(info.texto, "error", info.detalle);
-    console.error("Error de acceso con popup:", error);
-  } finally {
-    bloquearIngreso(false);
-  }
-});
-
-botonRedireccion.addEventListener("click", async () => {
-  limpiarMensaje();
-  bloquearIngreso(true);
-  mostrarMensaje("Saliendo hacia Google. Al terminar volverás automáticamente al panel…", "info");
-
-  try {
-    await prepararAuth();
-    sessionStorage.setItem("rtmLoginRedirect", "1");
-    await signInWithRedirect(auth, provider);
-  } catch (error) {
-    const info = explicarError(error);
-    mostrarMensaje(info.texto, "error", info.detalle);
-    bloquearIngreso(false);
-    console.error("Error de acceso con redirección:", error);
-  }
-});
-
-botonSalir.addEventListener("click", async () => {
-  await signOut(auth);
-});
-
-try {
-  await prepararAuth();
-  const resultadoRedireccion = await getRedirectResult(auth);
-  if (resultadoRedireccion?.user) {
-    sessionStorage.removeItem("rtmLoginRedirect");
-    await validarAdministrador(resultadoRedireccion.user);
-  } else if (sessionStorage.getItem("rtmLoginRedirect") === "1") {
-    sessionStorage.removeItem("rtmLoginRedirect");
-    mostrarMensaje(
-      "Google volvió al panel, pero no entregó una sesión. Usá el botón normal y el código de error que aparezca nos indicará la causa exacta.",
-      "error"
-    );
-  }
-} catch (error) {
-  sessionStorage.removeItem("rtmLoginRedirect");
-  const info = explicarError(error);
-  mostrarMensaje(info.texto, "error", info.detalle);
-  console.error("Error al recuperar redirección:", error);
-}
-
-async function validarAdministrador(usuario) {
-  const correo = (usuario?.email || "").toLowerCase();
-  if (correo !== ADMIN_EMAIL) {
-    await signOut(auth);
-    throw Object.assign(new Error(`Cuenta no autorizada: ${correo || "sin correo"}`), {
-      code: "rtm/cuenta-no-autorizada"
-    });
-  }
-  mostrarMensaje("Ingreso correcto. Cargando los pedidos pendientes…", "ok");
-}
-
-onAuthStateChanged(auth, async (usuario) => {
-  if (cancelarEscucha) {
-    cancelarEscucha();
-    cancelarEscucha = null;
-  }
-
-  if (!usuario) {
-    acceso.classList.remove("oculto");
-    panel.classList.add("oculto");
-    return;
-  }
-
-  if ((usuario.email || "").toLowerCase() !== ADMIN_EMAIL) {
-    await signOut(auth);
-    mostrarMensaje("Esta cuenta no está habilitada como administradora.", "error", usuario.email || "sin correo");
-    return;
-  }
-
-  acceso.classList.add("oculto");
-  panel.classList.remove("oculto");
-
-  const q = query(
-    collection(db, "pedidosCanciones"),
-    where("estado", "==", "pendiente"),
-    orderBy("creadoEn", "asc")
-  );
-
-  cancelarEscucha = onSnapshot(
-    q,
-    (snap) => {
-      pedidos.innerHTML = "";
-      if (snap.empty) {
-        pedidos.innerHTML = '<div class="estado">No hay pedidos pendientes.</div>';
-        return;
-      }
-
-      snap.forEach((documento) => {
-        const p = documento.data();
-        const item = document.createElement("article");
-        item.className = "pedido";
-        item.innerHTML = `
-          <strong>${escapar(p.artista)} — ${escapar(p.titulo)}</strong>
-          <div class="detalle">Pidió: ${escapar(p.nombre)} · ${escapar(p.ciudad)}</div>
-          <p>${escapar(p.mensaje || "Sin mensaje")}</p>
-          <span class="chip">Pendiente</span>
-          <div class="acciones">
-            <button class="ok aprobar" type="button">Aprobar</button>
-            <button class="secundario rechazar" type="button">Rechazar</button>
-          </div>
-        `;
-        item.querySelector(".aprobar").addEventListener("click", () => cambiarEstado(documento.id, "aprobado"));
-        item.querySelector(".rechazar").addEventListener("click", () => cambiarEstado(documento.id, "rechazado"));
-        pedidos.appendChild(item);
-      });
-    },
-    (error) => {
-      pedidos.innerHTML = `<div class="estado">No se pudieron leer los pedidos: ${escapar(error.code || error.message)}</div>`;
-      console.error("Error al leer pedidos:", error);
-    }
-  );
-});
-
-async function cambiarEstado(id, estado) {
-  try {
-    await updateDoc(doc(db, "pedidosCanciones", id), {
-      estado,
-      revisadoEn: serverTimestamp(),
-      revisadoPor: auth.currentUser?.email || ""
-    });
-  } catch (error) {
-    alert(`No se pudo cambiar el pedido: ${error.code || error.message}`);
-  }
-}
-
-function escapar(valor = "") {
-  return String(valor)
-    .replaceAll("&", "&amp;")
-    .replaceAll("<", "&lt;")
-    .replaceAll(">", "&gt;")
-    .replaceAll('"', "&quot;")
-    .replaceAll("'", "&#039;");
-}
+  <script type="module" src="js/admin-pedidos.js?v=17"></script>
+</body>
+</html>
