@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T06:44:38.510113+00:00",
+  "updated_at": "2026-08-02T09:24:22.087122+00:00",
   "status": "partial",
   "description": "Titulares y enlaces; el contenido completo permanece en el medio original.",
   "groups": [
@@ -10,6 +10,17 @@
       "type": "Web",
       "homepage": "https://lacalle.com.ar/",
       "items": [
+        {
+          "title": "Acuerdo regional para potenciar la actividad láctea - lacalle.com.ar",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMXVMV01xUkF2Z1pNc085THoyN1Q3Vl90S2JnbVhIdnRmS28xNkhmbmNKRjZUNzRqTHhDWXI0R1V2T0tYanZ6dG9kQVNCYkJXLVladFdSd1BRTkNRSXNKZ0toMFFsVkJpa2VQMTFFNFlrUm9NeVdsUVU0c182eFkyTA?oc=5",
+          "summary": "Acuerdo regional para potenciar la actividad láctea lacalle.com.ar",
+          "published": "2026-08-01T13:45:08+00:00",
+          "source": "Diario La Calle",
+          "source_url": "https://lacalle.com.ar/",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
+          "source_image": ""
+        },
         {
           "title": "Capacitaron sobre estrés laboral a personal de Gendarmería - lacalle.com.ar",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaTZDbnhfbDVaaHAtNGY2b2J4LU5xR0xmaUtIb0oxNUFxSkVnOVNtTE5GN0dWcFoxbDY3WktNRWFlTWVXUjlXTWtmam9jLW1KSmxtRmE0eEJfWTZTME1lQWNpcW5QSklhQzhwZjZoTXNCWnI3TEx0cGZJWUU4dDhEZ2U4UDlqQUlpQ0E?oc=5",
@@ -26,17 +37,6 @@
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBBUjlNNjNmMDUwS29kclFRMXdqdWx2akNKa1VZT0lyUVVNcUtCOU81Wk1sN25jOENYY2htQTZRb1dtLUtpWHNJbmpCV0UxMFpyVHdXMm5MSjVKclVfMHpvcG1zc0pnWkliTXJZMFpOd2xBX3c?oc=5",
           "summary": "Concepción será sede del Deporte Adaptado lacalle.com.ar",
           "published": "2026-07-31T11:42:17+00:00",
-          "source": "Diario La Calle",
-          "source_url": "https://lacalle.com.ar/",
-          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
-          "source_image": ""
-        },
-        {
-          "title": "Estudiantes de la Técnica Juan XXIII crearon un simulador médico de bajo costo para prácticas de RCP - lacalle.com.ar",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOFZaZEY2LVN3SU4zNWF4eGx6U3hBOV92Wnd3MFd6Y29xMTBYRlgtUWkxVUI5cHEyanBDc2d3cmJxN01qZS1za2tXZEFvcHRTdlREaFV5VkhYSnRObmdGMk8zaG04a1ZacHphcTNZdjBxeng3UDFCaXE3ZlpobHpFcGFHcDJ3VHluYzBaaGdyWlkxUWs0SjZPQVNUSW9qbXY1cXRfWXhpek1OcHJWSnpvaGJjVmx2S2x4QUF5eW91c094dw?oc=5",
-          "summary": "Estudiantes de la Técnica Juan XXIII crearon un simulador médico de bajo costo para prácticas de RCP lacalle.com.ar",
-          "published": "2026-07-30T16:09:25+00:00",
           "source": "Diario La Calle",
           "source_url": "https://lacalle.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
