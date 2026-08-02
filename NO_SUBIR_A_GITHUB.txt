@@ -1,2 +1,0 @@
-NO subir config.json, serviceAccountKey.json ni node_modules.
-La carpeta puente-radio debe quedar en la computadora que transmite.
