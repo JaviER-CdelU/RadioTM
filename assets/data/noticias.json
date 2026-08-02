@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T15:19:00.654132+00:00",
+  "updated_at": "2026-08-02T17:14:28.157810+00:00",
   "status": "partial",
   "description": "Titulares y enlaces; el contenido completo permanece en el medio original.",
   "groups": [
@@ -10,6 +10,17 @@
       "type": "Web",
       "homepage": "https://lacalle.com.ar/",
       "items": [
+        {
+          "title": "Capacitaron a equipos de enfermería para fortalecer la atención en salud mental - lacalle.com.ar",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVVVxb2pDdWxwZkJKUVYzbEF5LTNLcnNMay1KUWZta1U5enNHUGljNHBlMjAxMmdHay13Rzc1Zk91emN0dXJpdUdnVU1TMXZSOEpvQ0VSTlp6ck1KanI1NGwtVFU0QUZaVENDcUthR0RUT2gzTHlwRGU5R0N2UmJFa0RRMHg4Y2NCLUFiSWRja3dNcmFBY1JhT0V0SVdid0ZoOEtNejhn?oc=5",
+          "summary": "Capacitaron a equipos de enfermería para fortalecer la atención en salud mental lacalle.com.ar",
+          "published": "2026-08-01T21:56:28+00:00",
+          "source": "Diario La Calle",
+          "source_url": "https://lacalle.com.ar/",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
+          "source_image": ""
+        },
         {
           "title": "Acuerdo regional para potenciar la actividad láctea - lacalle.com.ar",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMXVMV01xUkF2Z1pNc085THoyN1Q3Vl90S2JnbVhIdnRmS28xNkhmbmNKRjZUNzRqTHhDWXI0R1V2T0tYanZ6dG9kQVNCYkJXLVladFdSd1BRTkNRSXNKZ0toMFFsVkJpa2VQMTFFNFlrUm9NeVdsUVU0c182eFkyTA?oc=5",
@@ -31,17 +42,6 @@
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
           "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
           "source_image": ""
-        },
-        {
-          "title": "Concepción será sede del Deporte Adaptado - lacalle.com.ar",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBBUjlNNjNmMDUwS29kclFRMXdqdWx2akNKa1VZT0lyUVVNcUtCOU81Wk1sN25jOENYY2htQTZRb1dtLUtpWHNJbmpCV0UxMFpyVHdXMm5MSjVKclVfMHpvcG1zc0pnWkliTXJZMFpOd2xBX3c?oc=5",
-          "summary": "Concepción será sede del Deporte Adaptado lacalle.com.ar",
-          "published": "2026-07-31T11:42:17+00:00",
-          "source": "Diario La Calle",
-          "source_url": "https://lacalle.com.ar/",
-          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
-          "source_image": ""
         }
       ]
     },
@@ -53,10 +53,10 @@
       "homepage": "https://www.lapiramide.net/",
       "items": [
         {
-          "title": "Marcela López explicó los rituales de la Pachamama y llamó a cuidar la Madre Tierra - lapiramide.net",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTVc4Q3IzNkkxc0lBVzRDQjQxZV9rMjVJVjQ1Zk5taVJHQkhHTFpQc2tjU3N2Q2FJMEpaUHZpLVVrN1VHSTB5cElWWm9nV25lQkRvYXBsZmlDTWVYNEUwZTJiSEZRNm11WmJ0X0J6X3JrR19EMUtlTEdSVVAzd0lINkJnYzUzZjhaVVVoZjliUTE5VDNfZVF2Nl95Zmd1a2d0YmdsSW9pa1V1YnVRbGZSdmlZTUhsQ0Rib1pyWGM1UUlNOTZSTWFhX0lMOVFHLUZXc0Fn0gHYAUFVX3lxTE5renhpeG5SMmpiMHVlYV93cHRTWWdOd0NaXzhfRjhtQ2phR0RBNEZvdnZtZXBYdWNqWDUwMzdpQnNPYzd5MUdlNS0xcGR1R01qUVkyeVN0aVhna0N3dGxSQTNCa2t2cDdfMWZHUkw4OHZhOEkxRlUzLUtYaE5PZkd4b28zTVlHaURmbmthX1VodlRrV21EVkRadm55OWMzNEhNcFNZSm5YNFFpaVBGNk9SMWdfSFNGdGhEQmpFMGhRTEh0elBCSk9qNV9ETmRDeU80Qk9aVUlydA?oc=5",
-          "summary": "Marcela López explicó los rituales de la Pachamama y llamó a cuidar la Madre Tierra lapiramide.net",
-          "published": "2026-08-01T11:44:13+00:00",
+          "title": "Ayuda Animal lanzó una venta de pastas para recaudar fondos",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNlNXdHRmXzhBRnZ4eldIUHpfMGpCS3dGdHNndHdsTGhUVGVTeGlLQVZyMFlmSFlpQWcwNlZrZzJfWXdfOGZNWVItYVZadS10U0xYck01NU9fZER6aEFnRXY3SldVWFBROHhWdFF6TEhGYnVJMnBZN3pZd19TTFJEMVlXTmpreTdpRkZXOERQRHVKclFSSUdkT19NcTU1Rm5FbjdUQXI0OTNpaGZZOUs5WnVfNNIBuAFBVV95cUxQNnZkQ3h2UmtuMVdtNFBheFRrem9EN1RhWDUya3FQY2dtc0s3cVJLcVA0T1l6LWV4R2xBMTY4N0trMVhlWG1MdkFCZm9vQlNmc0pwUi1NVS1FRjJKQmUtVzJlX0xUSU5xVHBGY2RFbDRjX0VzcUFYaDNBWkFQQ0lBYkxlWkhZYmo3dU5vVUhlMl9WcVNIdmdCWVYybjM1OUJLQVZrWHZuYXdFODdXZjlndXpOSUF6T0tB?oc=5",
+          "summary": "Ayuda Animal lanzó una venta de pastas para recaudar fondos La Pirámide",
+          "published": "2026-07-31T11:49:05+00:00",
           "source": "La Pirámide",
           "source_url": "https://www.lapiramide.net/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -64,10 +64,10 @@
           "source_image": "https://www.lapiramide.net/images/custom/logo-social.png?_v=v3-27"
         },
         {
-          "title": "Ayuda Animal lanzó una venta de pastas para recaudar fondos - lapiramide.net",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNlNXdHRmXzhBRnZ4eldIUHpfMGpCS3dGdHNndHdsTGhUVGVTeGlLQVZyMFlmSFlpQWcwNlZrZzJfWXdfOGZNWVItYVZadS10U0xYck01NU9fZER6aEFnRXY3SldVWFBROHhWdFF6TEhGYnVJMnBZN3pZd19TTFJEMVlXTmpreTdpRkZXOERQRHVKclFSSUdkT19NcTU1Rm5FbjdUQXI0OTNpaGZZOUs5WnVfNNIBuAFBVV95cUxQNnZkQ3h2UmtuMVdtNFBheFRrem9EN1RhWDUya3FQY2dtc0s3cVJLcVA0T1l6LWV4R2xBMTY4N0trMVhlWG1MdkFCZm9vQlNmc0pwUi1NVS1FRjJKQmUtVzJlX0xUSU5xVHBGY2RFbDRjX0VzcUFYaDNBWkFQQ0lBYkxlWkhZYmo3dU5vVUhlMl9WcVNIdmdCWVYybjM1OUJLQVZrWHZuYXdFODdXZjlndXpOSUF6T0tB?oc=5",
-          "summary": "Ayuda Animal lanzó una venta de pastas para recaudar fondos lapiramide.net",
-          "published": "2026-07-31T11:49:05+00:00",
+          "title": "Denuncian un presunto caso de maltrato animal en la zona de la Defensa y reclaman una intervención urgente",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcFhDV2JUdDhSNnN0Y3NSWlRucWdBSHVrU0x1VFlMeEtJczJNMVBLSkNkUmhjTHBHWHRnRFFkdTZmSW9nQWFKVjhzOU90ODJLMWlZN0V0Nm9vc21SbVROVjBMN1NqRFluakJ4UFE0QkFXZUR5WDc4WnBSc25jQW9aQ1dMekh4am53ZE4xMmI0dGhRYzFDNWlkb1VHRW4yLWt4S1ozRlBWc3J3dlptMkw5VHhoQVBuaUJCelZacDZTaXFvcXpQMW9HazNxZWJpMGZJS0Y5clZGcmxKOXRaUmdtRkU3c2prR1JfNGJVUGhZN1owUdIB9wFBVV95cUxOaXJ2c3liM0ZwdHBaNzhldVpNakdVMWMtVmhxSE9UODB2ai1SRkhTSW5JcU1SUlZnY05GWWEwaW5UanZtaWtoaU9ySFdURWVGTDFxcUstcjd3My1yQmxqMVZYYVY1ckdXVTZsakx4c3RhSXZsMVMtRTdaVWpUZEprV3Y3aUlOSm9BUnhKT0NFTWZhMWxRS05EMlRtUE9ubEJrSmxSREw0RWRzTkotTVZJU0tnMGhVWVhmNHNOR3l5cmNia3RPY0JYMmtMWHRTQmVoNmQ2M0JKeTdTVlZ2b1JNYmZVUHJpTUhiend2NzRmaW83NkNEcEFr?oc=5",
+          "summary": "Denuncian un presunto caso de maltrato animal en la zona de la Defensa y reclaman una intervención urgente La Pirámide",
+          "published": "2026-07-31T22:29:10+00:00",
           "source": "La Pirámide",
           "source_url": "https://www.lapiramide.net/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -115,10 +115,10 @@
       "homepage": "https://www.elonce.com/",
       "items": [
         {
-          "title": "El tiempo en Entre Ríos: cómo estará la primera semana de agosto y cuándo llega una fuerte irrupción de aire frío - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNkdTWFZ5STZDT3VtU1JEMHlYQXNzTmg1UEV3WFBzM2pqNWZpeWkyMXF0RWtocGZNQVRFdFdjM1ZqT2pJbGNKZnhZUzBCUWd1OWl0a2ZWVmF1SzFoVGc0c2JkZTV6dTFSal9oSUFRODBtcUlHV3pGREsyZzV3MzZOb2U4RGZYQno1YXVKRFVqUjB0U0FZSmszcmcxSzhLWlNJSUpMajhHM2pFOW81aHp1OXBLbDZzQ3RfaG9Ra3QtalcxZk54Y2FrVXJlQk1kYzIwT2tLRWk1WEh0MTFXaUtYbW1B0gHbAUFVX3lxTE83VjExcnlYV1ctMHpCaTk2Q25aaDQ1NENrU3FFalVrTDZRclF2VnFMNExZNGNfVzhXc3VaR2JTNDRkUTl3bEtzbV9aeGh5Q3lNUWFhNzhmWUlnNG1RdWdJQll6dTZjcHN1UktFRHdRTVZQYWlIRnJoRGlQVG5ySjRkRm83NmtidVBwUk40VWpuUlZxTkJXMEtjRGVpa3hNM0lxNzNEcEpERTNpWmF1VHpfa3U2SlN1eTNlOUR2THVpcHFRRzVVbW9hUnpWbWZDQktvLWlxOVMwbWZOWQ?oc=5",
-          "summary": "El tiempo en Entre Ríos: cómo estará la primera semana de agosto y cuándo llega una fuerte irrupción de aire frío Elonce.com",
-          "published": "2026-08-02T10:30:00+00:00",
+          "title": "Amigos - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1PUWtTY2tKN05BNG9YdWM4Z256ajhjYU1MWDBJeTRKbGJnNEtyZk9GTkt0X0ZWLVhFQjlRT2JrTkpCVmlyX29UamxpYWxhdHVrclZj0gFQQVVfeXFMUHphMWx5RHNNNHB3M05TUVRBNzRhME12VWlvVW9qVFVkdUxkWURDUFZxWTVZRGhnTTFDTTk5eFFtc1BIa1pneGUtWFlnZkNnWFE?oc=5",
+          "summary": "Amigos Elonce.com",
+          "published": "2026-08-02T16:02:13+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -126,10 +126,10 @@
           "source_image": "https://www.elonce.com/galeria/sitio/marca-de-agua4-jpg.jpg"
         },
         {
-          "title": "Trasplante de corazón de Julio: la cirugía salió bien y esperan su evolución - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNakFDckVqWnBPOHg0YTFfcGg0eG5JTWcyQm9yZDdsSW9GWV9mbV82NlBERXpuTlhnMjhaNTdSZVZLUm9TXzFZREQxc2hJSEZxeHF0YVVYeDZrTGxJSGZKcFBrTGRVQV85WjZaUVlXS25Ba2syNzBWUGlkNXc5eGcweFhxVEFWWnVfYkpOVU9LS1hfbXVFQWdvWlhIbnpXSVJJUlE3dGJJU25HdWNOVlVJStIBqgFBVV95cUxPRGprWHJ1LUFJSkFEQnFuMHktVGxaX0NyZTMyU0ZHUG8wT2ZnNTIwYTVUVEJBbU4xUExkYm5lUE03RVFobFJSaHhJVndQQ2F0SmVsa0F4T0drS3BDUnhob1FDdVc5UDhscWl1WC00UWZ3enRUSVYxX3Qzd1VURWgtdWQyclhVUU56MjdKNF90SkN2RWFJbVpXX05KREFnRjRMdG5QOVFpRnVIdw?oc=5",
-          "summary": "Trasplante de corazón de Julio: la cirugía salió bien y esperan su evolución Elonce.com",
-          "published": "2026-08-01T23:35:00+00:00",
+          "title": "Citricultura entrerriana: advierten que está en riesgo la próxima campaña por bajos precios - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeEZrMHpNam51b0M2bHdTNzBBaElrQmxCS1lTMUUza3ZmRnVmWDZXYmhCRENjUnA1Y0I4Qk1HaUtva0RUMkExaERVRmtvLWhTTG52U0RpSm9adWxRek5MeEI4cXl6MFUybEY2M0JSV3piU2cyNU1icC0zOFpEWjFuN2V6c3Q2ZFJBN2JYZnJ0b01PeElSZk13eE9QQUJTLVFiNWRfdkxydFRRbzJCelVFSmJUNHg2dnQ0dWFuZnVQd2RtSE5R0gG-AUFVX3lxTFBnRUFqMXc2VXByQUlfX3NkVUMtMjRMOTBVczhPajhidGhCbVllX25tOGV1WHJueUU4T1VXWTNUbHVELUlJMk1nVkgyS2hqTlAzYV9tUWRndXh6VVZFcXQ2SEdIQnZNdEhVdTBRcGJ5OHFreFB5RW9MUXZkZDFmWlNqZXZFdkNsUVpVREE2MDNBamZNOTJ1WFJ1N3lMNkxVX1J0a19OWjk4STZxbjZzdERaNE41aGpyVWRYdDNDeUE?oc=5",
+          "summary": "Citricultura entrerriana: advierten que está en riesgo la próxima campaña por bajos precios Elonce.com",
+          "published": "2026-08-02T12:02:00+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -146,10 +146,10 @@
       "homepage": "https://www.pagina12.com.ar/",
       "items": [
         {
-          "title": "Parque Nacional Iguazú: por seguridad, desde el 3 de agosto cerrarán el circuito Garganta del Diablo - Página|12",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWWZndE9Fd05JSE1hN05jX2laeWtoR0hoT2I4RzRtUndwSjRFU3FNWVFQUjFMNkhZRzFKb251Yml4TVljQnRtVk9meVRqZTd1VWRaaktVV0tqNUtDUll0cFBFMjU2alZwUzM0Ui1FZlFTelgtcUJ6ZUowYW5zR1h0eHhBZ200dUxvdnVGOENWN1RCZG11ck9xczBBRFV6TFhBTEs3TDViWm1JUlpIWl9RMlp5YVZBLTNqeEp3NWR2dHdmaE12TFZtSWFDSlR3d3FUWlNuMw?oc=5",
-          "summary": "Parque Nacional Iguazú: por seguridad, desde el 3 de agosto cerrarán el circuito Garganta del Diablo Página|12",
-          "published": "2026-07-31T14:20:25+00:00",
+          "title": "Tres posibles detonantes detrás de la llegada de 50.000 personas a Ceuta - Página|12",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOLXE4VDh2VEtXMzFfMFMwdjg4QThEbngxMXpCMmR0dUdNQzV6TUtONHEzcER3UGVkY21lMnFEMGNnd1RRMTlnZE1JbUY4V1ZSeWdRNTVwcXRqSWJVSkJYb0ZNMV9FWkowTGpXYk53TTkxaVlPaW9iT2NjRUVSdG9KZ2R6TGxfNmZBdTRsbktrTmxFblBfakVSclRQVFpsRmdScm1lWnRHMFBUby0zc3EzNw?oc=5",
+          "summary": "Tres posibles detonantes detrás de la llegada de 50.000 personas a Ceuta Página|12",
+          "published": "2026-07-31T20:28:36+00:00",
           "source": "Página/12",
           "source_url": "https://www.pagina12.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -157,10 +157,10 @@
           "source_image": "https://www.pagina12.com.ar/resizer/v2/https%3A%2F%2Fwww.pagina12.com.ar%2Fresources%2Fp12logo.svg?auth=811d0fc63a912d1f8dc56b650f3a0054e089ac9c81bfee069a62717e10cbb54a&width=1200"
         },
         {
-          "title": "Tres posibles detonantes detrás de la llegada de 50.000 personas a Ceuta - Página|12",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOLXE4VDh2VEtXMzFfMFMwdjg4QThEbngxMXpCMmR0dUdNQzV6TUtONHEzcER3UGVkY21lMnFEMGNnd1RRMTlnZE1JbUY4V1ZSeWdRNTVwcXRqSWJVSkJYb0ZNMV9FWkowTGpXYk53TTkxaVlPaW9iT2NjRUVSdG9KZ2R6TGxfNmZBdTRsbktrTmxFblBfakVSclRQVFpsRmdScm1lWnRHMFBUby0zc3EzNw?oc=5",
-          "summary": "Tres posibles detonantes detrás de la llegada de 50.000 personas a Ceuta Página|12",
-          "published": "2026-07-31T20:28:36+00:00",
+          "title": "Parque Nacional Iguazú: por seguridad, desde el 3 de agosto cerrarán el circuito Garganta del Diablo - Página|12",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWWZndE9Fd05JSE1hN05jX2laeWtoR0hoT2I4RzRtUndwSjRFU3FNWVFQUjFMNkhZRzFKb251Yml4TVljQnRtVk9meVRqZTd1VWRaaktVV0tqNUtDUll0cFBFMjU2alZwUzM0Ui1FZlFTelgtcUJ6ZUowYW5zR1h0eHhBZ200dUxvdnVGOENWN1RCZG11ck9xczBBRFV6TFhBTEs3TDViWm1JUlpIWl9RMlp5YVZBLTNqeEp3NWR2dHdmaE12TFZtSWFDSlR3d3FUWlNuMw?oc=5",
+          "summary": "Parque Nacional Iguazú: por seguridad, desde el 3 de agosto cerrarán el circuito Garganta del Diablo Página|12",
+          "published": "2026-07-31T14:20:25+00:00",
           "source": "Página/12",
           "source_url": "https://www.pagina12.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
