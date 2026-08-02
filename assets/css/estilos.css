@@ -122,3 +122,59 @@ body{padding-bottom:84px}.persistent-radio{position:fixed;left:0;right:0;bottom:
   .hero-logo{width:96px;height:96px;flex:0 0 96px}
   .hero-brand{gap:13px}
 }
+
+
+/* ==========================================================================
+   v22 — Encabezado con una sola foto limpia y ancho adaptable
+   La imagen anterior contenía partes de una portada vieja dentro de la foto.
+   ========================================================================== */
+.hero-header{
+  background-image:url('../img/puente-isla-portada-limpio-v22.jpg') !important;
+  background-repeat:no-repeat !important;
+  background-size:cover !important;
+  background-position:center center !important;
+  background-color:#f4ddbf;
+}
+
+.hero-content,
+.dashboard-home{
+  width:100%;
+  max-width:1440px;
+}
+
+.hero-content{
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.nav-shell{
+  width:min(1390px,calc(100% - 48px));
+}
+
+/* En monitores muy anchos, se mantiene una sola foto centrada. */
+@media (min-width:1700px){
+  .hero-header{
+    background-size:cover !important;
+    background-position:center 48% !important;
+  }
+}
+
+/* En notebook de 1024 px no se corta el contenido ni se repite la imagen. */
+@media (max-width:1100px){
+  .hero-header{
+    background-position:58% center !important;
+  }
+  .hero-content{
+    max-width:1024px;
+  }
+}
+
+/* En celular se prioriza la torre y la zona central del puente. */
+@media (max-width:760px){
+  .hero-header{
+    background-position:62% center !important;
+  }
+  .nav-shell{
+    width:calc(100% - 22px);
+  }
+}
