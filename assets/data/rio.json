@@ -1,15 +1,16 @@
 {
   "port": "Concepción del Uruguay",
   "river": "Uruguay",
-  "current": 4.18,
-  "previous": 4.05,
-  "variation": 0.13,
+  "current": 4.86,
+  "previous": 4.82,
+  "variation": 0.04,
   "trend": "CRECE",
-  "official_updated": "26/JUL/26 - 0000",
+  "official_updated": "2026-07-31 12:00",
+  "previous_updated": "2026-07-31 00:00",
   "alert": 5.3,
   "evacuation": 6.3,
-  "checked_at": "2026-07-26T12:31:33.601265+00:00",
   "source_url": "https://contenidosweb.prefecturanaval.gob.ar/alturas/?id=720&page=historico&tiempo=7",
   "source": "Prefectura Naval Argentina",
-  "status": "ok"
+  "status": "ok",
+  "checked_at": "2026-08-02T21:04:22.275039+00:00"
 }
