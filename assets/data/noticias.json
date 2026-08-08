@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T09:53:43.209207+00:00",
+  "updated_at": "2026-08-08T10:50:35.280990+00:00",
   "status": "partial",
   "description": "Titulares y enlaces; el contenido completo permanece en el medio original.",
   "groups": [
@@ -10,6 +10,17 @@
       "type": "Web",
       "homepage": "https://lacalle.com.ar/",
       "items": [
+        {
+          "title": "Frigerio destacó la recuperación de OSER. Más prestaciones, mayor cobertura y cuentas ordenadas - Lacalle.com.ar",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZHJ4ZEVqX1ZLRTNrR3FEMmMzdnhWWXN6MzdWYUNFYjZtZHVwTzlUSl9wSWpSTGZMQ09DbkJGNF9KZDhyUklOeXp5alhabHotd1F5UFdPZlNndGM3dmZJOEs0aUFyYWJhNEV1YVA4T0hvcUVJTUd0clFUXzZpblVOUTVXWG8zZjdwNW1DSlRMWHlhN1pTa2UzMkRDbVBTZ2VKZFBFOTRxSUNhQ1VEX1JINkdZeVlaMTYx?oc=5",
+          "summary": "Frigerio destacó la recuperación de OSER. Más prestaciones, mayor cobertura y cuentas ordenadas Lacalle.com.ar",
+          "published": "2026-08-06T20:53:49+00:00",
+          "source": "Diario La Calle",
+          "source_url": "https://lacalle.com.ar/",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
+          "source_image": ""
+        },
         {
           "title": "Capacitaron a equipos de enfermería para fortalecer la atención en salud mental - Lacalle.com.ar",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVVVxb2pDdWxwZkJKUVYzbEF5LTNLcnNMay1KUWZta1U5enNHUGljNHBlMjAxMmdHay13Rzc1Zk91emN0dXJpdUdnVU1TMXZSOEpvQ0VSTlp6ck1KanI1NGwtVFU0QUZaVENDcUthR0RUT2gzTHlwRGU5R0N2UmJFa0RRMHg4Y2NCLUFiSWRja3dNcmFBY1JhT0V0SVdid0ZoOEtNejhn?oc=5",
@@ -26,17 +37,6 @@
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVXJaRE1nNkVqUFZ1ZzMzX3lIcHRoLTFBMnJNNGZIbTM5SDl2VHdvNXpjZVdHTTZYdk5sOEdUczI4N2tNZnVPdVZxTG1NV2lqYXJUU3F3eXZscDRLZ0dpa0FyZ2lNQ3E5ZnAwRjlTV3Bnckx3cmFVd2xBVjdKN0ptRTVHeWtJVFZOV01EUVZSamg3VTk3SmRpbTJMQ3d0OUgxYnRFTA?oc=5",
           "summary": "El Carnaval de Concepción del Uruguay avanza hacia una gestión más profesional Lacalle.com.ar",
           "published": "2026-08-02T13:54:25+00:00",
-          "source": "Diario La Calle",
-          "source_url": "https://lacalle.com.ar/",
-          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
-          "source_image": ""
-        },
-        {
-          "title": "Avanza el proyecto para crear una Reserva de Biosfera Trifronteriza - Lacalle.com.ar",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZUNXZWVkZkdvc0NpNzV4ME9nODBUdGljSlFfZW1Va29PdWhoS3VaTlRZY2RpcWJKdk5LWlJMcTMySUZCZnhqNi15d1FfY2RaZUFmLVBOaE0yOENJN00xQ2Z1TGhsVk9hd1NiWUNFeDE1cnNMMllLZm84WjREd1djTFVMdlp5eHU1LUVYbF93LWpxc1hiaUE?oc=5",
-          "summary": "Avanza el proyecto para crear una Reserva de Biosfera Trifronteriza Lacalle.com.ar",
-          "published": "2026-08-02T14:03:48+00:00",
           "source": "Diario La Calle",
           "source_url": "https://lacalle.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -84,9 +84,9 @@
       "homepage": "https://www.r2820.com/",
       "items": [
         {
-          "title": "Indagaran al joven acusado por el crimen de la zona sur - r2820.com",
+          "title": "Indagaran al joven acusado por el crimen de la zona sur",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRURZUFRVZTF5WVZqUmU3NjBoYVp6dnBxOUhISUVZemZHN1Z0NUlyRFo2U3d3WEpISERURTBhbW1QdlM1dEh0V0FJR3NlWVJSQVhVek9ueFVmcnFNSWlwb0h1UVMxRGpVMWwxdUR6OGlPVXkzZXdFaWFjelVqXzUwSW1HRHJWOXNmZmdTRGtjdGtHWnRmMGxNbS1LNnFnc0JfVEJVQ1ZSTdIBrAFBVV95cUxOQjh6VEtSZHlpcWM4WDJ2NlJ4NTZ1NldfMFhQZjNQdV96MkYyLURTV3pQS1pOZ0J1YlhnNktFTXdwYllwTnBacnl2bzc2eVRFamVWQlYwTFJRaFlZLW0tSFZrc2VMcTNheUhha2RkQ1A3V0RwdHJIbzg2dFNZYXJPVU9zY2tMUThPUDVWbDBUejhDUV84MmlFUlFJUjZDeWhJWS1DRndXWTFfeHRi?oc=5",
-          "summary": "Indagaran al joven acusado por el crimen de la zona sur r2820.com",
+          "summary": "Indagaran al joven acusado por el crimen de la zona sur R2820",
           "published": "2026-08-03T23:54:54+00:00",
           "source": "R2820",
           "source_url": "https://www.r2820.com/",
@@ -95,9 +95,9 @@
           "source_image": "https://www.r2820.com/images/custom/logo-social.jpg?_v=v3-45"
         },
         {
-          "title": "El STJ recorrió los Equipos Técnicos Interdisciplinarios de Gualeguaychú - r2820.com",
+          "title": "El STJ recorrió los Equipos Técnicos Interdisciplinarios de Gualeguaychú",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVXN4Tl9RY09kWWNCNlEtZERNLWRDQUhfa2p5OFRkcEwzbWkxenVqTXJhbTBPQXlrUHd4LTlQU0lwS1JUQUdCY1JfZE82SDBOZ013TFdLdnVVbmJ5bzRoYmVDR0k3Q2U1YlBvbVZ5NkY5TlpmbHphTTB4X01DdHlzTmZjSlJ4WW9kRS1aOVJ1MGJvdGtTVFZpRk9waWhHcWVzR3dGVlBQX2NneEIxLTVzS0hjMTNYV1JsWDA5Z3JB0gHDAUFVX3lxTE0yZ2FyVF81VEp3UkkzOE1CbF9jWlktOUNMXzN0SWRaTF9BdzVDWFgzenU2MjROaHhsbWpRM3gtWUQ0NHBBMW9oY2pORzNYUTYtM3poOTRsRWpQbDZ2amlaVVR6OE9LLWJORTg1VEotakJ4V1lVcGg4WllNSGxiQTd1QkZEVWNiMlZLT2FubHAySmxnUVhlSkVxYXZmNGx6WkkzMVBuc3ZyOXEycFB3bHQ2ZXRHZGFHRFUwYU9vcW16ajE2bw?oc=5",
-          "summary": "El STJ recorrió los Equipos Técnicos Interdisciplinarios de Gualeguaychú r2820.com",
+          "summary": "El STJ recorrió los Equipos Técnicos Interdisciplinarios de Gualeguaychú R2820",
           "published": "2026-08-03T22:55:08+00:00",
           "source": "R2820",
           "source_url": "https://www.r2820.com/",
