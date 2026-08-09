@@ -1,15 +1,20 @@
 #!/usr/bin/env python3
-"""Actualiza assets/data/rio.json desde Prefectura Naval Argentina.
+"""Actualiza assets/data/rio.json desde el Instituto Nacional del Agua (INA).
 
 - Reintenta la consulta hasta 3 veces.
-- Usa un tiempo de espera mayor.
-- Lee la tabla de últimos registros del sitio oficial.
-- Si Prefectura no responde, conserva el último JSON y finaliza sin romper el workflow.
+- Lee la tabla de niveles hidrométricos del reporte diario oficial del INA
+  (Alerta Hidrológico Cuenca del Plata), estación "Concepción del Uruguay".
+- Si el INA no responde o cambia el formato, conserva el último JSON y
+  finaliza sin romper el workflow.
+
+Nota: la fuente anterior (Prefectura Naval Argentina) bloquea el acceso
+automático (403 / robots.txt), por eso se migró al INA, que sí es accesible
+por scripts y publica el mismo tipo de dato (altura del río, en metros,
+con niveles de alerta y evacuación) actualizado a diario.
 """
 from __future__ import annotations
 
 import datetime as dt
-from html.parser import HTMLParser
 import json
 from pathlib import Path
 import re
@@ -18,22 +23,12 @@ import time
 import urllib.error
 import urllib.request
 
-SOURCE_URL = "https://contenidosweb.prefecturanaval.gob.ar/alturas/?id=720&page=historico&tiempo=7"
+SOURCE_URL = "https://alerta.ina.gob.ar/a5/diario/reporte_diario"
+STATION_NAME = "Concepci\u00f3n del Uruguay"
 ROOT = Path(__file__).resolve().parents[1]
 OUTPUT = ROOT / "assets" / "data" / "rio.json"
 DEFAULT_ALERT = 5.30
 DEFAULT_EVACUATION = 6.30
-
-
-class TextExtractor(HTMLParser):
-    def __init__(self) -> None:
-        super().__init__()
-        self.parts: list[str] = []
-
-    def handle_data(self, data: str) -> None:
-        value = " ".join(data.split())
-        if value:
-            self.parts.append(value)
 
 
 def load_previous() -> dict[str, object]:
@@ -45,7 +40,7 @@ def load_previous() -> dict[str, object]:
         return {}
 
 
-def fetch_text() -> str | None:
+def fetch_html() -> str | None:
     request = urllib.request.Request(
         SOURCE_URL,
         headers={
@@ -57,13 +52,10 @@ def fetch_text() -> str | None:
 
     for attempt in range(1, 4):
         try:
-            print(f"Consulta a Prefectura: intento {attempt}/3")
-            with urllib.request.urlopen(request, timeout=90) as response:
+            print(f"Consulta al INA: intento {attempt}/3")
+            with urllib.request.urlopen(request, timeout=60) as response:
                 charset = response.headers.get_content_charset() or "utf-8"
-                raw = response.read().decode(charset, errors="replace")
-            parser = TextExtractor()
-            parser.feed(raw)
-            return " ".join(parser.parts)
+                return response.read().decode(charset, errors="replace")
         except (TimeoutError, urllib.error.URLError, OSError) as exc:
             print(f"ADVERTENCIA: intento {attempt} falló: {exc}", file=sys.stderr)
             if attempt < 3:
@@ -76,21 +68,48 @@ def parse_number(value: str) -> float:
     return float(value.replace(",", "."))
 
 
-def parse_data(text: str, previous_data: dict[str, object]) -> dict[str, object]:
-    # La página oficial muestra filas con: YYYY-MM-DD HH:MM | 4.57 Mts
-    rows = re.findall(
-        r"(20\d{2}-\d{2}-\d{2}\s+\d{2}:\d{2})\s+([0-9]+(?:[.,][0-9]+)?)\s*Mts",
-        text,
-        flags=re.IGNORECASE,
-    )
-    if len(rows) < 2:
-        raise RuntimeError("No se encontraron al menos dos registros en la tabla oficial de Prefectura.")
+def parse_data(html: str, previous_data: dict[str, object]) -> dict[str, object]:
+    # Ubica la fila de la estación dentro de la tabla de niveles del INA.
+    idx = html.find(STATION_NAME)
+    if idx == -1:
+        # Por si el HTML llega sin tilde o con entidad HTML.
+        idx = html.find("Concepcion del Uruguay")
+    if idx == -1:
+        raise RuntimeError("No se encontró la estación 'Concepción del Uruguay' en el reporte del INA.")
 
-    latest_date, latest_value_raw = rows[0]
-    previous_date, previous_value_raw = rows[1]
-    current_value = parse_number(latest_value_raw)
-    previous_value = parse_number(previous_value_raw)
-    variation = round(current_value - previous_value, 2)
+    window = html[idx: idx + 2500]
+
+    level_match = re.search(
+        r'title="fecha:\s*(\d{2}/\d{2}/\d{4})\s+(\d{2}:\d{2})\s+([0-9]+(?:[.,][0-9]+)?)\s*m"',
+        window,
+    )
+    if not level_match:
+        raise RuntimeError("No se pudo leer la altura actual en la fila de Concepción del Uruguay.")
+
+    fecha, hora, current_raw = level_match.groups()
+    current_value = parse_number(current_raw)
+    official_updated = f"{fecha} {hora}"
+
+    variation_match = re.search(
+        r'title="diferencia con el registro anterior:\s*(-?[0-9]+(?:[.,][0-9]+)?)\s*m"',
+        window,
+    )
+    variation = round(parse_number(variation_match.group(1)), 2) if variation_match else 0.0
+    previous_value = round(current_value - variation, 2)
+
+    # Alerta y evacuación: primeros dos números "sueltos" en celdas de tabla
+    # que siguen a la celda de nivel (no envueltos en un link con title).
+    # Se arranca a buscar recién después del cierre de la celda de nivel
+    # (</td>), para no confundir el propio valor del nivel con el umbral.
+    cell_close = window.find("</td>", level_match.end())
+    after_level = window[cell_close:] if cell_close != -1 else window[level_match.end():]
+    thresholds = re.findall(r'>\s*([0-9]+(?:[.,][0-9]+)?)\s*<', after_level)
+    if len(thresholds) >= 2:
+        alert = parse_number(thresholds[0])
+        evacuation = parse_number(thresholds[1])
+    else:
+        alert = float(previous_data.get("alert", DEFAULT_ALERT) or DEFAULT_ALERT)
+        evacuation = float(previous_data.get("evacuation", DEFAULT_EVACUATION) or DEFAULT_EVACUATION)
 
     if variation > 0.005:
         trend = "CRECE"
@@ -99,9 +118,6 @@ def parse_data(text: str, previous_data: dict[str, object]) -> dict[str, object]
     else:
         trend = "ESTABLE"
 
-    alert = float(previous_data.get("alert", DEFAULT_ALERT) or DEFAULT_ALERT)
-    evacuation = float(previous_data.get("evacuation", DEFAULT_EVACUATION) or DEFAULT_EVACUATION)
-
     return {
         "port": "Concepción del Uruguay",
         "river": "Uruguay",
@@ -109,12 +125,12 @@ def parse_data(text: str, previous_data: dict[str, object]) -> dict[str, object]
         "previous": previous_value,
         "variation": variation,
         "trend": trend,
-        "official_updated": latest_date,
-        "previous_updated": previous_date,
+        "official_updated": official_updated,
+        "previous_updated": None,
         "alert": alert,
         "evacuation": evacuation,
         "source_url": SOURCE_URL,
-        "source": "Prefectura Naval Argentina",
+        "source": "Instituto Nacional del Agua (INA)",
         "status": "ok",
     }
 
@@ -131,14 +147,14 @@ def preserve_previous(previous_data: dict[str, object], message: str) -> int:
 
 def main() -> int:
     previous_data = load_previous()
-    text = fetch_text()
-    if not text:
-        return preserve_previous(previous_data, "Prefectura no respondió después de 3 intentos.")
+    html = fetch_html()
+    if not html:
+        return preserve_previous(previous_data, "El INA no respondió después de 3 intentos.")
 
     try:
-        data = parse_data(text, previous_data)
+        data = parse_data(html, previous_data)
     except Exception as exc:
-        return preserve_previous(previous_data, f"No se pudo interpretar la página oficial: {exc}")
+        return preserve_previous(previous_data, f"No se pudo interpretar el reporte del INA: {exc}")
 
     same_record = (
         previous_data.get("current") == data.get("current")
