@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#f36b16">
+  <meta name="description" content="Administrador de podcasts de Radio Tiempo Muerto.">
+  <title>Admin Podcasts | Radio Tiempo Muerto</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" type="image/png" href="assets/img/favicon-64.png">
+  <link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png">
+  <link rel="stylesheet" href="assets/css/estilos.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="header-main">
+    <a href="index.html"><img class="brand-logo" src="assets/img/logo-radio-tiempo-muerto.png" alt="Logo de Radio Tiempo Muerto"></a>
+    <div>
+      <a class="brand-title" href="index.html"><span class="radio">Radio</span><span class="tiempo">Tiempo Muerto</span></a>
+      <div class="brand-tagline">MÚSICA, DEPORTES Y NOTICIAS PARA NUESTRA GENTE</div>
+    </div>
+    <div class="header-tools">
+      <div class="socials"><span class="live-chip"><i class="live-dot"></i> ADMINISTRACIÓN</span></div>
+    </div>
+  </div>
+  <div class="nav-wrap">
+    <button class="menu-btn" type="button" aria-expanded="false">☰ Menú</button>
+    <nav class="nav">
+      <a href="index.html">⌂ Inicio</a>
+      <a href="admin.html">⚙ Inicio administrador</a><a href="admin-noticias.html">▤ Fuentes de noticias</a>
+      <a href="admin-publicidades.html">📣 Publicidades</a>
+      <a class="active" href="admin-podcasts.html">🎧 Podcasts</a>
+      <a href="ayuda.html">? Ayuda</a>
+    </nav>
+  </div>
+</header>
+<section class="contact-strip"><div class="contact-strip-inner"><a href="mailto:rtiempomuerto@gmail.com">✉ rtiempomuerto@gmail.com</a><a href="https://wa.me/5493442405972" target="_blank" rel="noopener">💬 +54 9 3442 405972</a></div></section>
+
+<main class="page-main" data-admin-podcasts>
+  <section class="page-hero">
+    <div class="section-kicker">ADMINISTRACIÓN CON FIREBASE</div>
+    <h1>Podcasts de <span>Radio Tiempo Muerto</span></h1>
+    <p>Desde acá subís el archivo de audio de cada episodio, con título, programa y descripción. Se van a mostrar automáticamente en la página de Podcasts.</p>
+  </section>
+
+  <div id="firebase-status" class="firebase-status" data-kind="info">Comprobando configuración de Firebase…</div>
+
+  <section class="admin-login card">
+    <div><h2 class="card-title">🔐 Acceso administrador</h2><p id="firebase-user" class="muted">No has iniciado sesión</p></div>
+    <div class="card-actions"><button id="firebase-login" class="btn btn-primary" type="button">Ingresar con Google</button><button id="firebase-logout" class="btn btn-light" type="button" hidden>Cerrar sesión</button></div>
+  </section>
+
+  <section class="two-col admin-ad-grid">
+    <article class="card">
+      <h2 id="form-podcast-titulo" class="card-title">＋ Cargar episodio</h2>
+      <form id="podcast-form">
+        <div class="form-grid">
+          <label>Título<input name="titulo" type="text" maxlength="80" placeholder="Nombre del episodio" required></label>
+          <label>Programa<input name="programa" type="text" maxlength="60" placeholder="Ej: Tiempo Deportivo, La Tribuna…" required></label>
+          <label class="span-2">Descripción breve<textarea name="descripcion" maxlength="220" placeholder="De qué trata este episodio"></textarea></label>
+          <label class="span-2">Archivo de audio (mp3, wav, m4a — hasta 60 MB)<input name="audio" type="file" accept="audio/*" required></label>
+          <div id="audio-actual-box" class="span-2 current-image-box" hidden><div><strong>Audio actual</strong><span id="audio-actual-texto"></span></div></div>
+          <label>Orden<input name="orden" type="number" min="1" max="99" value="1"></label>
+          <label class="span-2 form-check"><input class="form-check-input" name="activo" type="checkbox" checked><span class="form-check-label">Publicar como activo</span></label>
+        </div>
+        <div class="card-actions"><button id="guardar-podcast" class="btn btn-primary" type="submit">Guardar episodio</button><button id="cancelar-edicion-podcast" class="btn btn-light" type="button" hidden>Cancelar edición</button></div>
+      </form>
+      <p class="muted">La subida puede tardar según el tamaño del archivo y tu conexión — no cierres la página mientras dice "Subiendo audio…".</p>
+    </article>
+
+    <article class="card">
+      <h2 class="card-title">📋 Episodios cargados</h2>
+      <p class="muted">Podés editar, activar, desactivar o eliminar cada episodio.</p>
+      <div id="podcasts-list" class="ads-admin-list"><p class="muted">Iniciá sesión para ver los episodios.</p></div>
+    </article>
+  </section>
+</main>
+<footer class="site-footer"><div class="footer-inner"><span>© 2026 Radio Tiempo Muerto</span><span>Panel de administración privado.</span></div></footer>
+<div class="toast" role="status" aria-live="polite"></div>
+<script src="assets/js/principal.js?v=admin3"></script>
+<script type="module" src="assets/js/podcasts.js?v=1"></script>
+</body>
+</html>

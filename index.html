@@ -37,8 +37,8 @@
     .home-v9 .hero-shade{background:linear-gradient(100deg,rgba(9,17,32,.90) 0%,rgba(9,17,32,.6) 45%,rgba(9,17,32,.18) 78%)}
     .home-v9 .hero-content{grid-template-columns:1.15fr .85fr;padding:46px 30px 60px;gap:28px;align-items:center}
     .home-v9 .hero-brand{display:block}
-    .home-v9 .hero-tagline{font-size:clamp(2.4rem,5vw,4rem);color:#fff;font-weight:950;line-height:1.03;letter-spacing:-1.4px;margin:0 0 14px}
-    .home-v9 .hero-tagline em{display:block;font-style:italic;color:#ff8a3d}
+    .home-v9 .hero-tagline{font-size:clamp(2rem,4.6vw,3.4rem);color:#fff;font-weight:950;line-height:1.02;letter-spacing:-1.3px;margin:0 0 10px}
+    .home-v9 .hero-slogan{font-size:clamp(1.15rem,2.6vw,1.7rem);color:#ff8a3d;font-weight:800;font-style:italic;line-height:1.15;margin:0 0 16px}
     .home-v9 .hero-brand>p{color:#eef1f5;font-size:1.1rem;max-width:520px;margin:0 0 18px;font-weight:600;line-height:1.4}
     .home-v9 .hero-contact{display:flex;gap:20px;flex-wrap:wrap}
     .home-v9 .hero-contact a{color:#fff;font-weight:800;text-decoration:none;font-size:13px}
@@ -59,7 +59,13 @@
 
     /* ---------- Tarjetas grandes con color por sección ---------- */
     .home-v9 .dashboard-home{margin-top:0}
-    .home-v9 .dashboard-top{grid-template-columns:repeat(4,1fr);gap:16px}
+    .home-v9 .dashboard-top{grid-template-columns:repeat(3,1fr);gap:16px}
+    .home-v9 .wr-row{display:flex;align-items:center;gap:12px;padding:10px 16px}
+    .home-v9 .wr-row+.wr-row{border-top:1px solid var(--line)}
+    .home-v9 .wr-icon{font-size:26px;width:36px;text-align:center}
+    .home-v9 .wr-copy{display:flex;flex-direction:column}
+    .home-v9 .wr-copy strong{font-size:18px}
+    .home-v9 .wr-copy span{font-size:11.5px;color:var(--muted)}
     .home-v9 .dash-card{border-radius:19px}
     .home-v9 .dash-card>header{padding:14px 16px;border-radius:19px 19px 0 0;margin:0}
     .home-v9 .dash-card>header h2{color:#fff;font-size:14.5px}
@@ -92,9 +98,11 @@
     .home-v9 .donation-band .donate-main{background:linear-gradient(135deg,#ff8a3d,#e9540c)}
 
     /* ---------- Segunda fila de tarjetas grandes ---------- */
-    .home-v9 .dashboard-extra{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:16px}
-
-    .home-v9 .app-strip{margin-top:16px}
+    .home-v9 .dashboard-extra{display:grid;grid-template-columns:repeat(4,1fr);gap:16px;margin-top:16px}
+    .home-v9 .dash-card button.dash-button{font:inherit;width:100%;cursor:pointer}
+    .home-v9 .app-highlight-body{display:flex;align-items:center;gap:12px;padding:4px 16px 0}
+    .home-v9 .app-highlight-body img{width:44px;height:44px;object-fit:contain;border-radius:10px;background:#f4f6f8}
+    .home-v9 .app-highlight-body p{margin:0;font-size:12.5px;color:#596572}
 
     /* ---------- Footer oscuro con etiqueta y redes ---------- */
     .home-v9 .site-footer{background:linear-gradient(180deg,#0d1a30,#101d33)}
@@ -146,8 +154,9 @@
   <div class="hero-shade"></div>
   <div class="hero-content">
     <section class="hero-brand">
-      <h1 class="hero-tagline">La voz <em>de nuestra gente</em></h1>
-      <p>Música, deportes y noticias para estar siempre informados.</p>
+      <h1 class="hero-tagline">Radio Tiempo Muerto</h1>
+      <p class="hero-slogan">Sabemos dónde estamos, queremos saber dónde llegamos</p>
+      <p>Música, deportes y noticias para estar siempre informados y en contacto.</p>
       <div class="hero-contact">
         <a href="https://wa.me/5493442405972" target="_blank" rel="noopener">💬 +54 9 3442 405972</a>
         <a href="mailto:rtiempomuerto@gmail.com">✉ rtiempomuerto@gmail.com</a>
@@ -210,33 +219,17 @@
       </div>
       <div class="news-carousel-footer"><div class="news-dots" data-news-dots aria-label="Noticias destacadas"></div><div class="news-carousel-actions"><button type="button" data-news-prev aria-label="Noticia anterior">←</button><button type="button" data-news-next aria-label="Noticia siguiente">→</button></div><span data-news-updated>Esperando actualización…</span></div>
     </article>
-    <article class="dash-card weather-highlight dash-card--blue" data-weather-card>
-      <header><h2>🌤 Clima</h2><a href="#clima-rio">Ver clima →</a></header>
-      <div class="weather-visual">
-        <div><strong data-weather-temperature>--°C</strong><span data-weather-description>Actualizando…</span></div>
-        <div class="weather-hero-icon" data-weather-icon>🌤️</div>
+    <article class="dash-card weather-river-highlight dash-card--blue" data-weather-card data-river-card>
+      <header><h2>🌤 Clima y Río</h2><a href="#clima-rio">Ver todo →</a></header>
+      <div class="wr-row wr-weather">
+        <div class="wr-icon" data-weather-icon>🌤️</div>
+        <div class="wr-copy"><strong data-weather-temperature>--°C</strong><span data-weather-description>Actualizando…</span></div>
       </div>
-      <div class="weather-details">
-        <div><span>Humedad</span><b data-weather-humidity>--%</b></div>
-        <div><span>Viento</span><b data-weather-wind>-- km/h</b></div>
-        <div><span>Máxima</span><b data-weather-max>--°C</b></div>
-        <div><span>Mínima</span><b data-weather-min>--°C</b></div>
+      <div class="wr-row wr-river">
+        <div class="wr-icon">≈</div>
+        <div class="wr-copy"><strong><span data-river-height>--</span> m</strong><span data-river-trend>Actualizando</span></div>
       </div>
-      <div class="sun-times sun-times-complete">
-        <div><span>🌅 Amanecer</span><b data-weather-sunrise>--:--</b></div>
-        <div><span>🌇 Atardecer</span><b data-weather-sunset>--:--</b></div>
-      </div>
-      <div class="weather-last-update" data-weather-updated>Actualizando…</div>
-      <a class="dash-button" href="#clima-rio">Ver pronóstico completo →</a>
-    </article>
-    <article class="dash-card river-highlight dash-card--green" data-river-card>
-      <header><h2>≈ Río Uruguay</h2><a href="#clima-rio">Ver historial →</a></header>
-      <div class="river-big"><span data-river-height>--</span><small>m</small><b>↑</b></div>
-      <div class="river-change"><strong data-river-variation>Consultando dato oficial…</strong><span>respecto del registro anterior</span></div>
-      <span class="river-pill" data-river-trend>Actualizando</span>
-      <p>Actualizado: <b data-river-updated>--</b></p>
-      <a class="dash-button" href="#clima-rio">Ver historial y detalles →</a>
-      <div class="river-wave" aria-hidden="true"></div>
+      <a class="dash-button" href="#clima-rio">Ver pronóstico y río completo →</a>
     </article>
     <article class="dash-card ad-highlight dash-card--violet" id="publicidad">
       <header><h2>📣 Publicidad</h2><a href="admin-publicidades.html" target="_blank" rel="noopener">Administrar →</a></header>
@@ -268,8 +261,7 @@
   <section class="dashboard-extra">
     <article class="dash-card podcast-highlight dash-card--red">
       <header><h2>🎧 Podcast y programas</h2><a href="#podcasts">Ver todos →</a></header>
-      <a href="#podcasts" class="podcast-feature"><div><b>La Mañana en Tiempo Muerto</b><span>La mejor compañía para empezar el día</span><div class="mini-wave">▂▅▂▇▃▆▂▅▇▃▆▂▇</div></div><i>▶</i></a>
-      <div class="podcast-chips"><span>▶ Deportes en Acción</span><span>🎙 Entre Nosotros</span><span>♫ Música sin Fronteras</span></div>
+      <p class="corresponsal-body">Escuchá los programas grabados cuando quieras: entrevistas, deportes y música, todo en un solo lugar.</p>
       <a class="dash-button" href="#podcasts">Ver todos los programas →</a>
     </article>
     <article class="dash-card agenda-highlight dash-card--teal">
@@ -286,11 +278,13 @@
       <p class="corresponsal-body">Contanos qué pasa en tu barrio: mandanos fotos y videos, y sumá tu voz a la radio.</p>
       <a class="dash-button" href="corresponsales.html" target="_blank" rel="noopener">Ser corresponsal →</a>
     </article>
-  </section>
-  <section class="app-strip">
-    <article class="app-download-card">
-      <div><h2>DESCARGÁ<br>NUESTRA APP</h2><p>Llevá la radio siempre con vos.</p><button id="install-app" type="button">📲 Instalar aplicación</button><small>Disponible desde esta misma web</small></div>
-      <div class="phone-preview"><img src="assets/img/logo-radio-tiempo-muerto.png" alt="Ícono de la aplicación Radio Tiempo Muerto"><span>▶</span></div>
+    <article class="dash-card app-highlight dash-card--orange">
+      <header><h2>📲 Nuestra app</h2></header>
+      <div class="app-highlight-body">
+        <img src="assets/img/logo-radio-tiempo-muerto.png" alt="Ícono de la aplicación Radio Tiempo Muerto">
+        <p>Llevá la radio siempre con vos.</p>
+      </div>
+      <button class="dash-button" type="button" id="install-app">Instalar aplicación →</button>
     </article>
   </section>
 </main>
@@ -308,6 +302,7 @@
 <div class="toast" role="status" aria-live="polite"></div>
 <script src="assets/js/principal.js?v=13"></script>
 <script type="module" src="assets/js/publicidades.js?v=8"></script>
+<script type="module" src="assets/js/podcasts.js?v=1"></script>
 
 
 <script src="assets/js/popup-pedidos.js"></script>
