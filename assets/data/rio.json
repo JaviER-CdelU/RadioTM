@@ -1,16 +1,16 @@
 {
   "port": "Concepción del Uruguay",
   "river": "Uruguay",
-  "current": 4.86,
-  "previous": 4.82,
-  "variation": 0.04,
+  "current": 5.72,
+  "previous": 5.67,
+  "variation": 0.05,
   "trend": "CRECE",
-  "official_updated": "2026-07-31 12:00",
-  "previous_updated": "2026-07-31 00:00",
+  "official_updated": "07/08/2026 00:00",
+  "previous_updated": null,
   "alert": 5.3,
   "evacuation": 6.3,
-  "source_url": "https://contenidosweb.prefecturanaval.gob.ar/alturas/?id=720&page=historico&tiempo=7",
-  "source": "Prefectura Naval Argentina",
+  "source_url": "https://alerta.ina.gob.ar/a5/diario/reporte_diario",
+  "source": "Instituto Nacional del Agua (INA)",
   "status": "ok",
-  "checked_at": "2026-08-02T21:04:22.275039+00:00"
+  "checked_at": "2026-08-09T00:10:30.264579+00:00"
 }
