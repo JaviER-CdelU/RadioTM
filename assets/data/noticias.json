@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T14:51:48.530421+00:00",
+  "updated_at": "2026-08-09T15:45:50.713239+00:00",
   "status": "partial",
   "description": "Titulares y enlaces; el contenido completo permanece en el medio original.",
   "groups": [
@@ -11,9 +11,20 @@
       "homepage": "https://lacalle.com.ar/",
       "items": [
         {
-          "title": "Concepción del Uruguay impulsa una red para fortalecer las políticas de primera infancia - Lacalle.com.ar",
+          "title": "El Federalismo no prende la luz - lacalle.com.ar",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82MFRkNHhib2xDRUdkQ0ZuSVFnSjU3dWxDVERJei1zelVEam1qR204QVVNV2Y3Y3VDSkVUSlV3QU5qN0hMa1NzVXpLOW5Lbld6YTNBSENudG1mZFlsMzlTdUhfd01Sdw?oc=5",
+          "summary": "El Federalismo no prende la luz lacalle.com.ar",
+          "published": "2026-08-09T07:08:57+00:00",
+          "source": "Diario La Calle",
+          "source_url": "https://lacalle.com.ar/",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
+          "source_image": ""
+        },
+        {
+          "title": "Concepción del Uruguay impulsa una red para fortalecer las políticas de primera infancia - lacalle.com.ar",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV0RMNy1FWjhCdHd3aTRXdzljTHhvTHAxOGtVV01BbDNnaEpPU3RreGhhZGs4aTJ5U3hzS3VrbEhpYnB5UlFMcDJaMGFxdUJYSWk3RC1BRS0yZ1lJMXRCckctUGZQa2ZicFdua0hNRV9YNndSNTJjcFBUN1pYWmZxa1doWUdzOE5sd3ZGeDg0UlRjbmZJV0VuOW1PMUFMYmxxZWpFbmNMTFFsT0JMUlpkYnVR?oc=5",
-          "summary": "Concepción del Uruguay impulsa una red para fortalecer las políticas de primera infancia Lacalle.com.ar",
+          "summary": "Concepción del Uruguay impulsa una red para fortalecer las políticas de primera infancia lacalle.com.ar",
           "published": "2026-08-08T05:16:18+00:00",
           "source": "Diario La Calle",
           "source_url": "https://lacalle.com.ar/",
@@ -22,21 +33,10 @@
           "source_image": ""
         },
         {
-          "title": "Rocamora debuta como campeón provincial en la Liga Federal Femenina U11 - Lacalle.com.ar",
+          "title": "Rocamora debuta como campeón provincial en la Liga Federal Femenina U11 - lacalle.com.ar",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRDFyZV9Xb1pCcUNWUWtweTlyWkdKOW9jTmlnRThYZjdqQmVhdGZOQ2RmaXZLSHVob2VOUVlFbW1JLWRfQVZnNHNSR2RpNUJPbHZBWHhaTlJoWDVtOFpEV2FIb3RDYWw3b0xNWHRwNFloOTFqbmM2Zm84Tmw3eG1UN0QyNUFiYmdqMWxvM1VfaThwTko2dkZ3eFlJMA?oc=5",
-          "summary": "Rocamora debuta como campeón provincial en la Liga Federal Femenina U11 Lacalle.com.ar",
+          "summary": "Rocamora debuta como campeón provincial en la Liga Federal Femenina U11 lacalle.com.ar",
           "published": "2026-08-08T05:19:12+00:00",
-          "source": "Diario La Calle",
-          "source_url": "https://lacalle.com.ar/",
-          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
-          "source_image": ""
-        },
-        {
-          "title": "Dos menores fueron demorados con cocaína durante un control policial - Lacalle.com.ar",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN3QxMl9BMzlvWWNtTzF3VU11eC1lcXlQbjkwdzFtNGlOa1NhQ2dNRXZ3SVZIYzNza29TZnJhcUQwTlU4ZDBEdW9VYUUyTF84OGxral92MlJDajZyQnI4cFR1UjVNZ3E3NThSVS1vU1NfekY0VXpkeHJ2YXU3TXFyQlNkZGlkZkpFUmYyTUx4X0VYYnBkSndj?oc=5",
-          "summary": "Dos menores fueron demorados con cocaína durante un control policial Lacalle.com.ar",
-          "published": "2026-08-08T16:03:10+00:00",
           "source": "Diario La Calle",
           "source_url": "https://lacalle.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -115,10 +115,10 @@
       "homepage": "https://www.elonce.com/",
       "items": [
         {
-          "title": "Chocaron dos autos en esquina semaforizada de Paraná: uno de los conductores cruzó en rojo - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeXRqcTRfUlpBRXdTM2Y5ZHVzQWdZdXMyeWN0Skc3VzU1ckFOSG5icXdoN1l6NVFNZlFvaDRfeFcwZW0zVDNlbE5BYUUtclVaNjFQcFdjeS1EeTNRdVRjYVNKdXlxZ2NtcVBOcEk4NkZUMlZ4NW5HTXZnQWtvTEZGLXJBUFpKakFm0gF_QVVfeXFMTTdaZXI1NkdaY09hVHlUZEZ4S0VGTjVtSmF5V0pYbWxKN0lpSVBIMjZXeDNzV0VlM08taDJxcXlPeWJ1dXlKbkZ3WWZuX0FGcDJqamdzSzBpOEowUy1vR3AwUDdMcHNyN0VDZ2xERWQ4V0Vsd1BBQzRuXzQya3Z4cw?oc=5",
-          "summary": "Chocaron dos autos en esquina semaforizada de Paraná: uno de los conductores cruzó en rojo Elonce.com",
-          "published": "2026-08-09T14:18:15+00:00",
+          "title": "Homenaje - elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fRnZnckRXZnE5MTVpVGRBcFJGM1RqUWEyQVk1cS0tSnFSUGY1TUk0ZjRDU0tEb0plZ3gtS0gweFRQZnRfT0NXaU5lcnRVX00tT0t6ZXRB0gFTQVVfeXFMTjBOcXl0T3ByME5zdlZvVU5OWXk2MEJEZ3A1dWR4T2FoZXNVeXBxeHVaYTlVOXFkUHVPWkdHZzl4VnhJeUdSb194M3JLeGQxOWd2RnM?oc=5",
+          "summary": "Homenaje elonce.com",
+          "published": "2026-08-09T15:18:24+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -126,10 +126,10 @@
           "source_image": "https://www.elonce.com/galeria/sitio/marca-de-agua4-jpg.jpg"
         },
         {
-          "title": "Un hombre murió electrocutado mientras cortaba el pasto en su casa - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbndrbktmQ3NqaDBqV0oxSDBSdHNKajJ3YzhhMzAtS3FxNmZLSnptS3VIMWtvVjdKTnR2WXVzUUVkT0p5VmVSeTB6Ti12aTQ3a01TcFB5TG50X3NsVUdDT0JvdFN1VEFrYUJxaHQ3TXJGVlBlR0s0WG5IaFJkMXJtXzBfZXhYckF4OHphRWZrTGRPZmVJMEJBUlI1WDVyOFZmeGtnWmZBRdIBngFBVV95cUxPR2d3elZHTGlXYm1YZFdKak9iclhkVEtURy0xeUZFRFd5NzNhYjNhd3c1blZ1TU1WM2JkZGdNcFMyNHVhQm5QZFh5blYzTldvQk5qV0lkbENKV3Z3S0hCRFFhVGlTV25mUHlfNlllS2cwS2lTOHlFQzNjeHZJYTBpNDk2WVhId0JJT0pZaU1YUkJISjMxZlZhSHljTDE4QQ?oc=5",
-          "summary": "Un hombre murió electrocutado mientras cortaba el pasto en su casa Elonce.com",
-          "published": "2026-08-09T14:27:49+00:00",
+          "title": "Chocaron dos autos en esquina semaforizada de Paraná: uno de los conductores cruzó en rojo - elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeXRqcTRfUlpBRXdTM2Y5ZHVzQWdZdXMyeWN0Skc3VzU1ckFOSG5icXdoN1l6NVFNZlFvaDRfeFcwZW0zVDNlbE5BYUUtclVaNjFQcFdjeS1EeTNRdVRjYVNKdXlxZ2NtcVBOcEk4NkZUMlZ4NW5HTXZnQWtvTEZGLXJBUFpKakFm0gF_QVVfeXFMTTdaZXI1NkdaY09hVHlUZEZ4S0VGTjVtSmF5V0pYbWxKN0lpSVBIMjZXeDNzV0VlM08taDJxcXlPeWJ1dXlKbkZ3WWZuX0FGcDJqamdzSzBpOEowUy1vR3AwUDdMcHNyN0VDZ2xERWQ4V0Vsd1BBQzRuXzQya3Z4cw?oc=5",
+          "summary": "Chocaron dos autos en esquina semaforizada de Paraná: uno de los conductores cruzó en rojo elonce.com",
+          "published": "2026-08-09T14:18:15+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
