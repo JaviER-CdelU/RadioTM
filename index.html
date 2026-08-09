@@ -25,7 +25,7 @@
     .home-v9 .topbar-logo{width:44px;height:44px;object-fit:contain}
     .home-v9 .topbar-name{display:flex;flex-direction:column;line-height:1.05}
     .home-v9 .topbar-name b{font-size:18px;font-weight:950;color:#fff}
-    .home-v9 .topbar-name em{font-style:normal;font-weight:950;font-size:18px;color:#ff8a3d}
+    .home-v9 .topbar-name em{font-style:normal;font-weight:950;font-size:18px;color:#f0b429}
     .home-v9 .topbar-name small{font-size:7.5px;letter-spacing:.5px;color:#9db0c9;font-weight:800;margin-top:2px}
     .home-v9 .topbar .nav{display:flex;gap:2px;margin-left:10px;justify-content:flex-start;flex:0 1 auto}
     .home-v9 .topbar .nav a{color:#c9d4e3;font-weight:800;font-size:12.5px;padding:9px 11px;border-radius:9px;text-decoration:none;white-space:nowrap}
@@ -60,12 +60,10 @@
     /* ---------- Tarjetas grandes con color por sección ---------- */
     .home-v9 .dashboard-home{margin-top:0}
     .home-v9 .dashboard-top{grid-template-columns:repeat(3,1fr);gap:16px}
-    .home-v9 .wr-row{display:flex;align-items:center;gap:12px;padding:10px 16px}
-    .home-v9 .wr-row+.wr-row{border-top:1px solid var(--line)}
-    .home-v9 .wr-icon{font-size:26px;width:36px;text-align:center}
-    .home-v9 .wr-copy{display:flex;flex-direction:column}
-    .home-v9 .wr-copy strong{font-size:18px}
-    .home-v9 .wr-copy span{font-size:11.5px;color:var(--muted)}
+    .home-v9 .wr-section{padding:0 16px}
+    .home-v9 .wr-section.wr-weather{padding-top:8px}
+    .home-v9 .wr-divider{height:1px;background:var(--line);margin:14px 16px}
+    .home-v9 .wr-section.wr-river .river-big{margin-top:0}
     .home-v9 .dash-card{border-radius:19px}
     .home-v9 .dash-card>header{padding:14px 16px;border-radius:19px 19px 0 0;margin:0}
     .home-v9 .dash-card>header h2{color:#fff;font-size:14.5px}
@@ -221,13 +219,29 @@
     </article>
     <article class="dash-card weather-river-highlight dash-card--blue" data-weather-card data-river-card>
       <header><h2>🌤 Clima y Río</h2><a href="#clima-rio">Ver todo →</a></header>
-      <div class="wr-row wr-weather">
-        <div class="wr-icon" data-weather-icon>🌤️</div>
-        <div class="wr-copy"><strong data-weather-temperature>--°C</strong><span data-weather-description>Actualizando…</span></div>
+      <div class="wr-section wr-weather">
+        <div class="weather-visual">
+          <div><strong data-weather-temperature>--°C</strong><span data-weather-description>Actualizando…</span></div>
+          <div class="weather-hero-icon" data-weather-icon>🌤️</div>
+        </div>
+        <div class="weather-details">
+          <div><span>Humedad</span><b data-weather-humidity>--%</b></div>
+          <div><span>Viento</span><b data-weather-wind>-- km/h</b></div>
+          <div><span>Máxima</span><b data-weather-max>--°C</b></div>
+          <div><span>Mínima</span><b data-weather-min>--°C</b></div>
+        </div>
+        <div class="sun-times sun-times-complete">
+          <div><span>🌅 Amanecer</span><b data-weather-sunrise>--:--</b></div>
+          <div><span>🌇 Atardecer</span><b data-weather-sunset>--:--</b></div>
+        </div>
+        <div class="weather-last-update" data-weather-updated>Actualizando…</div>
       </div>
-      <div class="wr-row wr-river">
-        <div class="wr-icon">≈</div>
-        <div class="wr-copy"><strong><span data-river-height>--</span> m</strong><span data-river-trend>Actualizando</span></div>
+      <div class="wr-divider"></div>
+      <div class="wr-section wr-river">
+        <div class="river-big"><span data-river-height>--</span><small>m</small><b>↑</b></div>
+        <div class="river-change"><strong data-river-variation>Consultando dato oficial…</strong><span>respecto del registro anterior</span></div>
+        <span class="river-pill" data-river-trend>Actualizando</span>
+        <p>Actualizado: <b data-river-updated>--</b></p>
       </div>
       <a class="dash-button" href="#clima-rio">Ver pronóstico y río completo →</a>
     </article>
