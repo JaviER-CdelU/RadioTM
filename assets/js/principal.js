@@ -214,7 +214,7 @@ document.addEventListener('click', (event) => {
 });
 
 // -----------------------------------------------------------------------------
-// Datos del río: archivo JSON propio, actualizado por GitHub Actions desde PNA.
+// Datos del río: archivo JSON propio, actualizado por GitHub Actions desde el INA.
 // -----------------------------------------------------------------------------
 const RIVER_URL = 'assets/data/rio.json';
 const RIVER_STORAGE_KEY = 'rtm-river-last-valid';
@@ -277,8 +277,8 @@ function renderRiverData(data, root = document) {
   setText(root, '[data-river-alert-level]', `${numberAR(data.alert)} m`);
   setText(root, '[data-river-evacuation]', `${numberAR(data.evacuation)} m`);
   setText(root, '[data-river-alert]', `Altura oficial: ${numberAR(data.current)} m · ${trend.toLowerCase()} · ${variation.toLowerCase()}.`);
-  setText(root, '[data-river-alert-time]', `Registro PNA: ${data.official_updated || 'sin horario'}`);
-  setText(root, '[data-river-notice]', `Seguimiento prioritario: ${numberAR(data.current)} m, ${trend.toLowerCase()}. Fuente oficial: Prefectura Naval Argentina.`);
+  setText(root, '[data-river-alert-time]', `Registro INA: ${data.official_updated || 'sin horario'}`);
+  setText(root, '[data-river-notice]', `Seguimiento prioritario: ${numberAR(data.current)} m, ${trend.toLowerCase()}. Fuente oficial: Instituto Nacional del Agua (INA).`);
 
   root.querySelectorAll('[data-river-trend]').forEach((node) => {
     node.classList.remove('normal', 'warning', 'alert', 'evacuation');
