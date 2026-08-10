@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T22:55:51.420479+00:00",
+  "updated_at": "2026-08-10T23:54:23.698754+00:00",
   "status": "partial",
   "description": "Titulares y enlaces; el contenido completo permanece en el medio original.",
   "groups": [
@@ -10,6 +10,17 @@
       "type": "Web",
       "homepage": "https://lacalle.com.ar/",
       "items": [
+        {
+          "title": "Entrenamiento y vida saludable. “La calistenia busca que cada uno encuentre su mejor versión”. - lacalle.com.ar",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMV9nUkl6RTN1eVhyRTVyZUFVczhVcThXXzd3V0FzWUh6U3V6TGhCUXYzcVl2eDZfS1RXZWpJaENDS2RoQUZuNXdKYnFONlU0eWd5Ty1UaktHSXpvOUpUUmNZYzVndDdCYWpvTDlVV0pVUm9sWnZiaHY1TmVZU2JHc2ZQN2NuekIyekZlV0xYMVZXZmV3RGpwRFM0bl85cldXSDN3MEpEZGxfSllpREtBMGlsaXc?oc=5",
+          "summary": "Entrenamiento y vida saludable. “La calistenia busca que cada uno encuentre su mejor versión”. lacalle.com.ar",
+          "published": "2026-08-09T06:51:58+00:00",
+          "source": "Diario La Calle",
+          "source_url": "https://lacalle.com.ar/",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
+          "source_image": ""
+        },
         {
           "title": "Arranque ganador para las Minis de Rocamora - lacalle.com.ar",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5mOHBONWJIOTR1QWRZZEtzVjZLQ2VHMDdYa0d4bmVyVVpiSHdPdDUtWUtQVC1pWUg1ZkFZTDBJaVItd2FUMGliSUpsdlZvSEUyR0FkalYySzl2VmNWSlBaOTNhVXdRNmFoNy1pckxYeGtLVkYtV0E?oc=5",
@@ -26,17 +37,6 @@
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMjlTR2E5SmptYWJXUUJvVHVCbGNhNmJuYlA2WUQtRXNkYXU0bXcyV21aTEhsb1FHbkpFTmFYWmlHTEszNC1BWU9sTHBfWTI1aHJYb2JyYW1xSFhxLTduWXlwNE40ZXZMLVNOX0IwWk1LY0MyOXpkTmg4VnFqdFE5Ylh3UGRDVWt1aUZ4dzVPcw?oc=5",
           "summary": "Campaña solidaria de juguetes para el festejo del Día del Niño lacalle.com.ar",
           "published": "2026-08-09T23:56:28+00:00",
-          "source": "Diario La Calle",
-          "source_url": "https://lacalle.com.ar/",
-          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
-          "source_image": ""
-        },
-        {
-          "title": "Octavo triunfo para Rocamora en la Liga Provincial - lacalle.com.ar",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Zbmc4Qm9nZ0lHci1FQy1iQW1WOVVFVjZwa2FQc25ualYwZlJnVDdGa2lMMUhxUndrT2FZYV9uRWppcXhqRVU4c1ZQN3NwRGRwakRPQ18zWTJrdUxGeWZ2NnNhUzJ3dzczdWUzRzVYMkRwN1lOSXZUakNLWVB5NU0?oc=5",
-          "summary": "Octavo triunfo para Rocamora en la Liga Provincial lacalle.com.ar",
-          "published": "2026-08-10T13:38:17+00:00",
           "source": "Diario La Calle",
           "source_url": "https://lacalle.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -115,10 +115,10 @@
       "homepage": "https://www.elonce.com/",
       "items": [
         {
-          "title": "\"No tocaba más que orar”: el relato de un paranaense que fue testigo del terremoto en Colombia - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVVdMSGZZNlg0RUNyRWdwLUZiUE5NYklGTk1fWHA2UF9HM0pyZUxyTEV5Y1hCVlJ5aWxuNGtHdmF5NThiTDV2UG5XMmdYMldmYzdHTkpmZ1lNOE9Ia0RKVFdmRUZ5LXlNUUNPYm1KNnV6WHdHOEM4TjYtc3NZQ001MGo4SkwwTkJaSG9FcE5iS19EZl9BRFlUbmlaSUhfRkZuRm1lcDYyQlY5M25zSTE1aFNFT0hPWHJEQU4yajJfc2kzQdIBuwFBVV95cUxNRWpfdFduSngtRktPa1VnSEZlWnVtc3VmaExvM3BtQUtWSmxXcjFpZzcyTlJ0NExhaXJJNEhrcHB1TjdkTkY4V0wxSElLbjZsQVNmYlNlcU96OFJEazE4aUJ6OEc2NUhad0xNUDVGcTJibC1RZ1NkSkZFTVNJdVdvcVBvdTlDbl8xZDVoTmdENE44YlkyTHh6M18zVm1BamRCT05Eb3ZIcUZHYlZZY1d4VXJNcW1sVVdoOEgw?oc=5",
-          "summary": "\"No tocaba más que orar”: el relato de un paranaense que fue testigo del terremoto en Colombia Elonce.com",
-          "published": "2026-08-10T21:24:34+00:00",
+          "title": "Realizarán seminario sobre IA aplicada a la gestión pública: beneficios, riesgos y el desafío de proteger los datos - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUmtGVjU0bE5sTnM2OGNCdk5idTVYX3RmOFJ3a2FmVzluSVMtQlpncFZkSkQtVXREY1Y0OEtJSVNmZ3dGZTJCeVhnd0lhUWFJek1wemVCVnotaFItTGgyZTNoVENZNFFYdW1xUlBwcDRYb2ZqYWxYaXphWURISVlLVHpQYWZCOEVRWndUWEw0OEVlMEVrVGoweHdrOVozVUEzaHRXZjZsbzJ6b0N4cFNKYUt4NXAwQWhWMEt30gG0AUFVX3lxTE96ZW5DUGQwUy04NjRMUnBSdEhhSlZMRUtLM0dtcnFEYXZsZ211NU5XT1k0bm1OaG9raWxuQ1lxd1VvblEtbzFtNHo3LTVmbEZRWlMwTExFSDNyNTBTYWpnNHVJUWIyQVBtazI1QnMwV1RobEFoRnZnX0VXUEtKS0FPeTJ3N0lBTzZuWXZJYWlWM0tWeGo4djBzY2VxemNsd0EyZURFZnZ0YS1weGJOdmtCSkJ4Vg?oc=5",
+          "summary": "Realizarán seminario sobre IA aplicada a la gestión pública: beneficios, riesgos y el desafío de proteger los datos Elonce.com",
+          "published": "2026-08-10T21:59:08+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -126,10 +126,10 @@
           "source_image": "https://www.elonce.com/galeria/sitio/marca-de-agua4-jpg.jpg"
         },
         {
-          "title": "Realizarán seminario sobre IA aplicada a la gestión pública: beneficios, riesgos y el desafío de proteger los datos - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUmtGVjU0bE5sTnM2OGNCdk5idTVYX3RmOFJ3a2FmVzluSVMtQlpncFZkSkQtVXREY1Y0OEtJSVNmZ3dGZTJCeVhnd0lhUWFJek1wemVCVnotaFItTGgyZTNoVENZNFFYdW1xUlBwcDRYb2ZqYWxYaXphWURISVlLVHpQYWZCOEVRWndUWEw0OEVlMEVrVGoweHdrOVozVUEzaHRXZjZsbzJ6b0N4cFNKYUt4NXAwQWhWMEt30gG0AUFVX3lxTE96ZW5DUGQwUy04NjRMUnBSdEhhSlZMRUtLM0dtcnFEYXZsZ211NU5XT1k0bm1OaG9raWxuQ1lxd1VvblEtbzFtNHo3LTVmbEZRWlMwTExFSDNyNTBTYWpnNHVJUWIyQVBtazI1QnMwV1RobEFoRnZnX0VXUEtKS0FPeTJ3N0lBTzZuWXZJYWlWM0tWeGo4djBzY2VxemNsd0EyZURFZnZ0YS1weGJOdmtCSkJ4Vg?oc=5",
-          "summary": "Realizarán seminario sobre IA aplicada a la gestión pública: beneficios, riesgos y el desafío de proteger los datos Elonce.com",
-          "published": "2026-08-10T21:59:08+00:00",
+          "title": "\"No tocaba más que orar”: el relato de un paranaense que fue testigo del terremoto en Colombia - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVVdMSGZZNlg0RUNyRWdwLUZiUE5NYklGTk1fWHA2UF9HM0pyZUxyTEV5Y1hCVlJ5aWxuNGtHdmF5NThiTDV2UG5XMmdYMldmYzdHTkpmZ1lNOE9Ia0RKVFdmRUZ5LXlNUUNPYm1KNnV6WHdHOEM4TjYtc3NZQ001MGo4SkwwTkJaSG9FcE5iS19EZl9BRFlUbmlaSUhfRkZuRm1lcDYyQlY5M25zSTE1aFNFT0hPWHJEQU4yajJfc2kzQdIBuwFBVV95cUxNRWpfdFduSngtRktPa1VnSEZlWnVtc3VmaExvM3BtQUtWSmxXcjFpZzcyTlJ0NExhaXJJNEhrcHB1TjdkTkY4V0wxSElLbjZsQVNmYlNlcU96OFJEazE4aUJ6OEc2NUhad0xNUDVGcTJibC1RZ1NkSkZFTVNJdVdvcVBvdTlDbl8xZDVoTmdENE44YlkyTHh6M18zVm1BamRCT05Eb3ZIcUZHYlZZY1d4VXJNcW1sVVdoOEgw?oc=5",
+          "summary": "\"No tocaba más que orar”: el relato de un paranaense que fue testigo del terremoto en Colombia Elonce.com",
+          "published": "2026-08-10T21:24:34+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -146,9 +146,9 @@
       "homepage": "https://www.pagina12.com.ar/",
       "items": [
         {
-          "title": "Pescaron a Sturzenegger en el Caribe mientras fracasaba su proyecto de ley para vender el país - pagina12.com.ar",
+          "title": "Pescaron a Sturzenegger en el Caribe mientras fracasaba su proyecto de ley para vender el país - Página|12",
           "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUFhWQmJoTzlFTGZzRDVmVlFMSE1va1UwM0lCY3FDQ05tR1Z3SzQ0bVMyRHZRRWliZmVtaVk2Ykx6UzVJNUhxS2YzQ1RtSjNJdVpRUG5VaWFyVXZFWTNYVFVrdndQMkRaX0FIM3V4SENVWjdJVUFyT2NaMHN2MVZuUEQwNHFuLTVpeDN6dWhVNkdRRktnWmhENjdpZm82dF9nV0czaG04WTRfUmdfRU0wNG00U3dJakVVM2VaSWdTRWVBNm5Gd3dxcTlTXzNtNFpwamxFZ0lVMjVtb1JH?oc=5",
-          "summary": "Pescaron a Sturzenegger en el Caribe mientras fracasaba su proyecto de ley para vender el país pagina12.com.ar",
+          "summary": "Pescaron a Sturzenegger en el Caribe mientras fracasaba su proyecto de ley para vender el país Página|12",
           "published": "2026-08-09T23:01:00+00:00",
           "source": "Página/12",
           "source_url": "https://www.pagina12.com.ar/",
