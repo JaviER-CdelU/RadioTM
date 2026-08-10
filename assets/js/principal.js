@@ -312,8 +312,111 @@ async function loadRiverData() {
 
 
 // -----------------------------------------------------------------------------
-// Clima real: Open-Meteo. Se consulta al abrir y cada 15 minutos.
+// Canción actual — dos métodos combinados:
+// 1) MÉTODO PRINCIPAL (instantáneo): se consulta cada 8 segundos la API JSON
+//    propia del panel de streaming (turadioonline), que informa la canción
+//    apenas cambia. El panel indica un mínimo de 5-10 segundos entre consultas.
+// 2) MÉTODO DE RESPALDO: si la consulta en vivo falla (por ejemplo, el panel
+//    bloquea el acceso directo del navegador), se usa assets/data/cancion.json,
+//    que un workflow de GitHub Actions actualiza cada 2 minutos leyendo el
+//    metadata ICY del stream. Solo se usa si hace más de 30s que el método
+//    en vivo no responde, para no pisar un dato más fresco con uno más viejo.
 // -----------------------------------------------------------------------------
+const CANCION_API_URL = 'https://miestacion.turadioonline.com.ar/cp/get_info.php?p=8024';
+const CANCION_URL = 'assets/data/cancion.json';
+const CANCION_STORAGE_KEY = 'rtm-cancion-last-valid';
+let lastLiveCancionSuccessAt = 0;
+
+function allRadioNowLabels() {
+  return document.querySelectorAll('[data-radio-now]');
+}
+
+function renderCancionTexto(texto) {
+  if (!texto) return;
+  allRadioNowLabels().forEach((el) => { el.textContent = texto; });
+}
+
+function renderCancionData(data) {
+  if (!data || data.status !== 'ok' || !data.titulo) return;
+  const texto = data.artista && data.cancion ? `${data.artista} — ${data.cancion}` : data.titulo;
+  renderCancionTexto(texto);
+}
+
+function limpiarTitulo(raw) {
+  // Solo quita la numeración de pista al inicio ("09. " o "06 - "), sin
+  // intentar adivinar qué parte es el artista y cuál la canción: en la
+  // lista real vienen mezclados ("Canción - Artista" y "Artista - Canción"
+  // al mismo tiempo), así que mostrar el título tal cual evita mostrarlo
+  // al revés.
+  return String(raw || '').trim().replace(/^\d+\s*[.\-]\s+/, '');
+}
+
+const CANCION_PROXY_URLS = [
+  'https://api.allorigins.win/raw?url=' + encodeURIComponent(CANCION_API_URL),
+  'https://corsproxy.io/?url=' + encodeURIComponent(CANCION_API_URL),
+  'https://api.codetabs.com/v1/proxy?quest=' + encodeURIComponent(CANCION_API_URL)
+];
+
+async function fetchJsonConTiempoLimite(url, ms) {
+  const controller = new AbortController();
+  const timeoutId = setTimeout(() => controller.abort(), ms);
+  try {
+    const response = await fetch(url, { cache: 'no-store', signal: controller.signal });
+    if (!response.ok) throw new Error('HTTP ' + response.status);
+    return await response.json();
+  } finally {
+    clearTimeout(timeoutId);
+  }
+}
+
+async function pollCancionEnVivo() {
+  let data = null;
+
+  try {
+    data = await fetchJsonConTiempoLimite(CANCION_API_URL, 6000);
+  } catch (directError) {
+    for (const proxyUrl of CANCION_PROXY_URLS) {
+      try {
+        data = await fetchJsonConTiempoLimite(proxyUrl, 8000);
+        break;
+      } catch (proxyError) {
+        // Sigue probando con el siguiente intermediario de la lista.
+      }
+    }
+  }
+
+  if (!data) return; // Ninguna vía funcionó; el respaldo por archivo se encarga.
+
+  const titulo = limpiarTitulo(data?.title);
+  if (!titulo) return;
+
+  lastLiveCancionSuccessAt = Date.now();
+  renderCancionTexto(titulo);
+  localStorage.setItem(CANCION_STORAGE_KEY, JSON.stringify({ status: 'ok', titulo, artista: '', cancion: titulo }));
+}
+
+async function loadCancionData() {
+  // Si el método en vivo respondió hace poco, no lo pisamos con el archivo
+  // de respaldo (que puede tener hasta 2 minutos de demora).
+  if (Date.now() - lastLiveCancionSuccessAt < 30 * 1000) return;
+  try {
+    const response = await fetch(CANCION_URL, { cache: 'no-store' });
+    if (!response.ok) throw new Error('Respuesta inválida del archivo de la canción.');
+    const data = await response.json();
+    if (data.status === 'ok' && data.titulo) {
+      localStorage.setItem(CANCION_STORAGE_KEY, JSON.stringify(data));
+    }
+    renderCancionData(data.status === 'ok' ? data : JSON.parse(localStorage.getItem(CANCION_STORAGE_KEY) || 'null'));
+  } catch (error) {
+    console.warn(error);
+    try {
+      const stored = JSON.parse(localStorage.getItem(CANCION_STORAGE_KEY) || 'null');
+      if (stored) renderCancionData(stored);
+    } catch (_) {}
+  }
+}
+
+
 const WEATHER_URL = 'https://api.open-meteo.com/v1/forecast?latitude=-32.4825&longitude=-58.2372&current=temperature_2m,relative_humidity_2m,apparent_temperature,is_day,precipitation,weather_code,wind_speed_10m&daily=weather_code,temperature_2m_max,temperature_2m_min,sunrise,sunset&timezone=America%2FArgentina%2FBuenos_Aires&forecast_days=4';
 const WEATHER_STORAGE_KEY = 'rtm-weather-last-valid';
 let lastWeatherData = null;
@@ -806,9 +909,13 @@ loadRiverData();
 loadWeatherData();
 loadNewsData();
 loadSocialData();
+loadCancionData();
+pollCancionEnVivo();
 setInterval(loadRiverData, 30 * 60 * 1000);
 setInterval(loadWeatherData, 15 * 60 * 1000);
 setInterval(loadNewsData, 60 * 60 * 1000);
+setInterval(loadCancionData, 60 * 1000);
+setInterval(pollCancionEnVivo, 8 * 1000);
 
 if (appShell) {
   const initialRoute = normalizeRoute(location.hash);
