@@ -342,18 +342,20 @@ function renderCancionData(data) {
   renderCancionTexto(texto);
 }
 
-function parseTituloCrudo(raw) {
-  const texto = String(raw || '').trim();
-  for (const sep of [' - ', ' – ', ' — ']) {
-    if (texto.includes(sep)) {
-      const [artista, cancion] = texto.split(sep);
-      return { artista: artista.trim(), cancion: cancion.trim() };
-    }
-  }
-  return { artista: '', cancion: texto };
+function limpiarTitulo(raw) {
+  // Solo quita la numeración de pista al inicio ("09. " o "06 - "), sin
+  // intentar adivinar qué parte es el artista y cuál la canción: en la
+  // lista real vienen mezclados ("Canción - Artista" y "Artista - Canción"
+  // al mismo tiempo), así que mostrar el título tal cual evita mostrarlo
+  // al revés.
+  return String(raw || '').trim().replace(/^\d+\s*[.\-]\s+/, '');
 }
 
-const CANCION_PROXY_URL = 'https://api.allorigins.win/raw?url=' + encodeURIComponent(CANCION_API_URL);
+const CANCION_PROXY_URLS = [
+  'https://api.allorigins.win/raw?url=' + encodeURIComponent(CANCION_API_URL),
+  'https://corsproxy.io/?url=' + encodeURIComponent(CANCION_API_URL),
+  'https://api.codetabs.com/v1/proxy?quest=' + encodeURIComponent(CANCION_API_URL)
+];
 
 async function fetchJsonConTiempoLimite(url, ms) {
   const controller = new AbortController();
@@ -369,27 +371,28 @@ async function fetchJsonConTiempoLimite(url, ms) {
 
 async function pollCancionEnVivo() {
   let data = null;
+
   try {
     data = await fetchJsonConTiempoLimite(CANCION_API_URL, 6000);
   } catch (directError) {
-    try {
-      data = await fetchJsonConTiempoLimite(CANCION_PROXY_URL, 8000);
-    } catch (proxyError) {
-      // Silencioso: es esperable que falle si el panel bloquea llamadas
-      // directas del navegador (CORS) y el intermediario también falla.
-      // El respaldo por archivo (cada 2 minutos) se encarga.
-      return;
+    for (const proxyUrl of CANCION_PROXY_URLS) {
+      try {
+        data = await fetchJsonConTiempoLimite(proxyUrl, 8000);
+        break;
+      } catch (proxyError) {
+        // Sigue probando con el siguiente intermediario de la lista.
+      }
     }
   }
 
-  const titulo = String(data?.title || '').trim();
+  if (!data) return; // Ninguna vía funcionó; el respaldo por archivo se encarga.
+
+  const titulo = limpiarTitulo(data?.title);
   if (!titulo) return;
 
   lastLiveCancionSuccessAt = Date.now();
-  const { artista, cancion } = parseTituloCrudo(titulo);
-  const texto = artista && cancion ? `${artista} — ${cancion}` : titulo;
-  renderCancionTexto(texto);
-  localStorage.setItem(CANCION_STORAGE_KEY, JSON.stringify({ status: 'ok', titulo, artista, cancion }));
+  renderCancionTexto(titulo);
+  localStorage.setItem(CANCION_STORAGE_KEY, JSON.stringify({ status: 'ok', titulo, artista: '', cancion: titulo }));
 }
 
 async function loadCancionData() {
