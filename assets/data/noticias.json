@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T21:57:21.534004+00:00",
+  "updated_at": "2026-08-10T22:55:51.420479+00:00",
   "status": "partial",
   "description": "Titulares y enlaces; el contenido completo permanece en el medio original.",
   "groups": [
@@ -10,17 +10,6 @@
       "type": "Web",
       "homepage": "https://lacalle.com.ar/",
       "items": [
-        {
-          "title": "Entrenamiento y vida saludable. “La calistenia busca que cada uno encuentre su mejor versión”. - lacalle.com.ar",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMV9nUkl6RTN1eVhyRTVyZUFVczhVcThXXzd3V0FzWUh6U3V6TGhCUXYzcVl2eDZfS1RXZWpJaENDS2RoQUZuNXdKYnFONlU0eWd5Ty1UaktHSXpvOUpUUmNZYzVndDdCYWpvTDlVV0pVUm9sWnZiaHY1TmVZU2JHc2ZQN2NuekIyekZlV0xYMVZXZmV3RGpwRFM0bl85cldXSDN3MEpEZGxfSllpREtBMGlsaXc?oc=5",
-          "summary": "Entrenamiento y vida saludable. “La calistenia busca que cada uno encuentre su mejor versión”. lacalle.com.ar",
-          "published": "2026-08-09T06:51:58+00:00",
-          "source": "Diario La Calle",
-          "source_url": "https://lacalle.com.ar/",
-          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
-          "source_image": ""
-        },
         {
           "title": "Arranque ganador para las Minis de Rocamora - lacalle.com.ar",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5mOHBONWJIOTR1QWRZZEtzVjZLQ2VHMDdYa0d4bmVyVVpiSHdPdDUtWUtQVC1pWUg1ZkFZTDBJaVItd2FUMGliSUpsdlZvSEUyR0FkalYySzl2VmNWSlBaOTNhVXdRNmFoNy1pckxYeGtLVkYtV0E?oc=5",
@@ -42,6 +31,17 @@
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
           "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
           "source_image": ""
+        },
+        {
+          "title": "Octavo triunfo para Rocamora en la Liga Provincial - lacalle.com.ar",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Zbmc4Qm9nZ0lHci1FQy1iQW1WOVVFVjZwa2FQc25ualYwZlJnVDdGa2lMMUhxUndrT2FZYV9uRWppcXhqRVU4c1ZQN3NwRGRwakRPQ18zWTJrdUxGeWZ2NnNhUzJ3dzczdWUzRzVYMkRwN1lOSXZUakNLWVB5NU0?oc=5",
+          "summary": "Octavo triunfo para Rocamora en la Liga Provincial lacalle.com.ar",
+          "published": "2026-08-10T13:38:17+00:00",
+          "source": "Diario La Calle",
+          "source_url": "https://lacalle.com.ar/",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
+          "source_image": ""
         }
       ]
     },
@@ -53,10 +53,10 @@
       "homepage": "https://www.lapiramide.net/",
       "items": [
         {
-          "title": "Falleció un trabajador de Granja Tres Arroyos en medio del conflicto laboral",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNktSYmc2dGpYOS1FM1pZOVpJUHFYaXdWZXpYbFlhMzlwVkl0ZV94VXQ1WUc1RS16bmlsZUtsYk9Ndk5SMnZKa0xDRXFiQlI3ZVEzR0FuZGoxcnZKX3dLbmpiZkp3ejJnbEJQU3gzaGZSMGxLQjJVemNLbFUyQVN2OVRmczh1NV9oNS1vWTZYU0k3dnJCZWN6cVpkdXRDck80YVdRUXhULW5melV6SUdjY1haWnBPNFFiNi1NX0NVNU91aTFjMUg0VWJn0gHPAUFVX3lxTFBuNzVGT3A1U3R3MGhxdjBkY3E5ZnRJTHJrZzlza1hkVmZ5SFgyZlR2YWR5eUxYdFFoQVJsdjAyYS1zY0ludkJGZUd5WDJLRmVEbW5VdEJBLUc0WW5hOElLdGx1WE84VHBwTWlpQkltSjRZQndRc3JxbW5qMnh0UWIzY3VRT3ZraEs3QWtrUkZyVVVKMjFXaHJnYzF6WE5SX1BidWhfMTlxbzEtNDR4cWhjamgtUG9VVnpFMm9ycXRKbDFhbV9iQnJxd01tc3diVQ?oc=5",
-          "summary": "Falleció un trabajador de Granja Tres Arroyos en medio del conflicto laboral La Pirámide",
-          "published": "2026-08-10T19:15:22+00:00",
+          "title": "La Policía recuperó una motocicleta que tenía pedido de secuestro",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPV3pidktsWkFRV1NLUnpRcGlXU19WQkFUUXlaSlR0NjhGdXBUc2JYY2p2RDNZY3ZDQTRrLUpzM1VnLVMxSnUxUUxSZHhlaE4wa2w3RDNqMV9ZSE55VTFpOGhxSzdobHQtbUVIVjl1c2Z0QVJPRVN2SGtJaFlIUjBzRm14WklvemJRX2M0SnQ4MlNWeEdPWnVUOU9oZUo3b3Vwam82czA0UzhsTURJMWZYZm96Zlo4c1UxYkY40gHAAUFVX3lxTFBTTXJsdXlYNDF4Y2w1RGthM1dJbnlxUFBwdzF6TThfVlFfUGZ0OEtPZlUyaWI5N1ppVHpJb0txSnB3ckFZMTJwTkh3dXViMW9YSDFmLWtNYW5jME1MNnQ2alpFRGZPamNNbHhLMzU5ejhpREpPU0llOGhTX3lEc0ZsRTVfai1vQjBBQ1RsemRCcW5ndXdwTzJlM2FYdzliWDJqTkNoelBKZ3dvZFBycGdhNjNrUWg5bENBYmdGZlBJYg?oc=5",
+          "summary": "La Policía recuperó una motocicleta que tenía pedido de secuestro La Pirámide",
+          "published": "2026-08-10T15:18:35+00:00",
           "source": "La Pirámide",
           "source_url": "https://www.lapiramide.net/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -115,10 +115,10 @@
       "homepage": "https://www.elonce.com/",
       "items": [
         {
-          "title": "Barrio Villa Yatay prepara un festejo para los niños y pide colaboración a los vecinos - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTDFrLThxZlVQaXJFSlFIMjRTWFJRelY4aWRsUW9qLVRFNzlEQ1VhR3NXQmNNU3BNU29OREpPQlF6Y0Jqa2p6UFc4Z0lrczJSZnNCYWVfSENVbVI2MzBXVjhMbDBEZHdCVFc5aXBWOUhwWUljNTlaZlo5djNBeVlqamJ5N3E5Q1dMWU1DZ1pOTzVPLU1nSkxxR0JuV1FFMFNTZXREQjNOLUZoNTdWUkVFNjFnQ1JLeWNtT0h0RDJVcXl1VmfSAa8BQVVfeXFMTzFwczBiWFNzYldxdFc2WHhIc0Zrd0Iyd1dEQU8zT05RdkxyVzE1VkhnOFlDOGpxN0dJV2IyZ0Rla3FPN3QyY1hSNVhPSXZGN2Y0LWF6SndRTzU3dG8tSVZOOEJ1c1BabkFveDNQTXhMZDV1YTBZWGdWSzdlaHprV2g2YVpjMnU5UTRxQ0lkWGtyMkF5MV9IQThqbGlNUnRxc3duZEdpY3NWUmI2amFMVQ?oc=5",
-          "summary": "Barrio Villa Yatay prepara un festejo para los niños y pide colaboración a los vecinos Elonce.com",
-          "published": "2026-08-10T19:53:35+00:00",
+          "title": "\"No tocaba más que orar”: el relato de un paranaense que fue testigo del terremoto en Colombia - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVVdMSGZZNlg0RUNyRWdwLUZiUE5NYklGTk1fWHA2UF9HM0pyZUxyTEV5Y1hCVlJ5aWxuNGtHdmF5NThiTDV2UG5XMmdYMldmYzdHTkpmZ1lNOE9Ia0RKVFdmRUZ5LXlNUUNPYm1KNnV6WHdHOEM4TjYtc3NZQ001MGo4SkwwTkJaSG9FcE5iS19EZl9BRFlUbmlaSUhfRkZuRm1lcDYyQlY5M25zSTE1aFNFT0hPWHJEQU4yajJfc2kzQdIBuwFBVV95cUxNRWpfdFduSngtRktPa1VnSEZlWnVtc3VmaExvM3BtQUtWSmxXcjFpZzcyTlJ0NExhaXJJNEhrcHB1TjdkTkY4V0wxSElLbjZsQVNmYlNlcU96OFJEazE4aUJ6OEc2NUhad0xNUDVGcTJibC1RZ1NkSkZFTVNJdVdvcVBvdTlDbl8xZDVoTmdENE44YlkyTHh6M18zVm1BamRCT05Eb3ZIcUZHYlZZY1d4VXJNcW1sVVdoOEgw?oc=5",
+          "summary": "\"No tocaba más que orar”: el relato de un paranaense que fue testigo del terremoto en Colombia Elonce.com",
+          "published": "2026-08-10T21:24:34+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -126,10 +126,10 @@
           "source_image": "https://www.elonce.com/galeria/sitio/marca-de-agua4-jpg.jpg"
         },
         {
-          "title": "La Cocina del Once presentó un menú con cerdo y un irresistible turrón de chocolate - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNWVFbWRucDZsTGZ6UE9hQ0taZUNFeHBXSG5lN1RzMlNjZm1yX29jNVd1TzAyc1Aya3g3Vy1tZmp3TkZkaXA5S2JuSHRaNDhFWGh6NktSUmZEeWctUXVNeEZXcVdOOUU5WndSLXdKc0JGdVdZeVU4TzlxNXk3SDRZbW1NOGlhNjVEYVlNTHhnVTV6alF1ZFdlS25DaDNTa3d5aGYwbFFYSVJKZWVlZUlxeFlidjZGODBCc1p6OUtpemgxeEpNbndnUtIBtAFBVV95cUxNRkRQN1hCRlhlWEdxbWxqanloRkktdTZSX3plc2FWaGNMak05U1ZpVE41bHpyQy1veEZuYzVXRDlESnVza282UkR3NUdkTDlVdC11V2EyNUlQU3VJT2ZobXFObkxFVzBsTFVPbnk0SnY3WU9EeW01TjV4MFRfUFJhak51VjFtamh2MHFCVmwxaklYaTF3cHJkdmQ4TnRUVTdtbERHM0pLamVKbjR5Wl94aFZGTTI?oc=5",
-          "summary": "La Cocina del Once presentó un menú con cerdo y un irresistible turrón de chocolate Elonce.com",
-          "published": "2026-08-10T19:10:00+00:00",
+          "title": "Realizarán seminario sobre IA aplicada a la gestión pública: beneficios, riesgos y el desafío de proteger los datos - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUmtGVjU0bE5sTnM2OGNCdk5idTVYX3RmOFJ3a2FmVzluSVMtQlpncFZkSkQtVXREY1Y0OEtJSVNmZ3dGZTJCeVhnd0lhUWFJek1wemVCVnotaFItTGgyZTNoVENZNFFYdW1xUlBwcDRYb2ZqYWxYaXphWURISVlLVHpQYWZCOEVRWndUWEw0OEVlMEVrVGoweHdrOVozVUEzaHRXZjZsbzJ6b0N4cFNKYUt4NXAwQWhWMEt30gG0AUFVX3lxTE96ZW5DUGQwUy04NjRMUnBSdEhhSlZMRUtLM0dtcnFEYXZsZ211NU5XT1k0bm1OaG9raWxuQ1lxd1VvblEtbzFtNHo3LTVmbEZRWlMwTExFSDNyNTBTYWpnNHVJUWIyQVBtazI1QnMwV1RobEFoRnZnX0VXUEtKS0FPeTJ3N0lBTzZuWXZJYWlWM0tWeGo4djBzY2VxemNsd0EyZURFZnZ0YS1weGJOdmtCSkJ4Vg?oc=5",
+          "summary": "Realizarán seminario sobre IA aplicada a la gestión pública: beneficios, riesgos y el desafío de proteger los datos Elonce.com",
+          "published": "2026-08-10T21:59:08+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -146,9 +146,9 @@
       "homepage": "https://www.pagina12.com.ar/",
       "items": [
         {
-          "title": "Pescaron a Sturzenegger en el Caribe mientras fracasaba su proyecto de ley para vender el país - Página|12",
+          "title": "Pescaron a Sturzenegger en el Caribe mientras fracasaba su proyecto de ley para vender el país - pagina12.com.ar",
           "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUFhWQmJoTzlFTGZzRDVmVlFMSE1va1UwM0lCY3FDQ05tR1Z3SzQ0bVMyRHZRRWliZmVtaVk2Ykx6UzVJNUhxS2YzQ1RtSjNJdVpRUG5VaWFyVXZFWTNYVFVrdndQMkRaX0FIM3V4SENVWjdJVUFyT2NaMHN2MVZuUEQwNHFuLTVpeDN6dWhVNkdRRktnWmhENjdpZm82dF9nV0czaG04WTRfUmdfRU0wNG00U3dJakVVM2VaSWdTRWVBNm5Gd3dxcTlTXzNtNFpwamxFZ0lVMjVtb1JH?oc=5",
-          "summary": "Pescaron a Sturzenegger en el Caribe mientras fracasaba su proyecto de ley para vender el país Página|12",
+          "summary": "Pescaron a Sturzenegger en el Caribe mientras fracasaba su proyecto de ley para vender el país pagina12.com.ar",
           "published": "2026-08-09T23:01:00+00:00",
           "source": "Página/12",
           "source_url": "https://www.pagina12.com.ar/",
