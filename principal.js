@@ -353,26 +353,43 @@ function parseTituloCrudo(raw) {
   return { artista: '', cancion: texto };
 }
 
-async function pollCancionEnVivo() {
-  try {
-    const controller = new AbortController();
-    const timeoutId = setTimeout(() => controller.abort(), 6000);
-    const response = await fetch(CANCION_API_URL, { cache: 'no-store', signal: controller.signal });
-    clearTimeout(timeoutId);
-    if (!response.ok) throw new Error('Respuesta inválida de la API de la radio.');
-    const data = await response.json();
-    const titulo = String(data?.title || '').trim();
-    if (!titulo) throw new Error('La API no devolvió título.');
+const CANCION_PROXY_URL = 'https://api.allorigins.win/raw?url=' + encodeURIComponent(CANCION_API_URL);
 
-    lastLiveCancionSuccessAt = Date.now();
-    const { artista, cancion } = parseTituloCrudo(titulo);
-    const texto = artista && cancion ? `${artista} — ${cancion}` : titulo;
-    renderCancionTexto(texto);
-    localStorage.setItem(CANCION_STORAGE_KEY, JSON.stringify({ status: 'ok', titulo, artista, cancion }));
-  } catch (error) {
-    // Silencioso: es esperable que falle si el panel bloquea llamadas
-    // directas del navegador (CORS). El respaldo por archivo se encarga.
+async function fetchJsonConTiempoLimite(url, ms) {
+  const controller = new AbortController();
+  const timeoutId = setTimeout(() => controller.abort(), ms);
+  try {
+    const response = await fetch(url, { cache: 'no-store', signal: controller.signal });
+    if (!response.ok) throw new Error('HTTP ' + response.status);
+    return await response.json();
+  } finally {
+    clearTimeout(timeoutId);
   }
+}
+
+async function pollCancionEnVivo() {
+  let data = null;
+  try {
+    data = await fetchJsonConTiempoLimite(CANCION_API_URL, 6000);
+  } catch (directError) {
+    try {
+      data = await fetchJsonConTiempoLimite(CANCION_PROXY_URL, 8000);
+    } catch (proxyError) {
+      // Silencioso: es esperable que falle si el panel bloquea llamadas
+      // directas del navegador (CORS) y el intermediario también falla.
+      // El respaldo por archivo (cada 2 minutos) se encarga.
+      return;
+    }
+  }
+
+  const titulo = String(data?.title || '').trim();
+  if (!titulo) return;
+
+  lastLiveCancionSuccessAt = Date.now();
+  const { artista, cancion } = parseTituloCrudo(titulo);
+  const texto = artista && cancion ? `${artista} — ${cancion}` : titulo;
+  renderCancionTexto(texto);
+  localStorage.setItem(CANCION_STORAGE_KEY, JSON.stringify({ status: 'ok', titulo, artista, cancion }));
 }
 
 async function loadCancionData() {
