@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T23:58:59.360606+00:00",
+  "updated_at": "2026-08-12T02:43:08.584564+00:00",
   "status": "partial",
   "description": "Titulares y enlaces; el contenido completo permanece en el medio original.",
   "groups": [
@@ -10,6 +10,17 @@
       "type": "Web",
       "homepage": "https://lacalle.com.ar/",
       "items": [
+        {
+          "title": "Con materiales reciclados, estudiantes de Colón fabrican salamandras para donar - lacalle.com.ar",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZXdGY3FxbXdhdVFsal9HajBwQzFSRGlSYXQ2VG5DT3c0S2pVMmFaaDF3RDIzR2N3RmxPVWpJNVEtYkxPdFotdU1la2NhclZteVR5LU1Hc0FlNmJtakItU0haWlB1cGRXbFNZUzZuQzZsaFVXZktzQW1pQjI5d205b3RtSjNGX0hZZHdOcDFVUW9hWFJYc0d0VW50OFpzcEQ5TjdYbA?oc=5",
+          "summary": "Con materiales reciclados, estudiantes de Colón fabrican salamandras para donar lacalle.com.ar",
+          "published": "2026-08-11T22:47:31+00:00",
+          "source": "Diario La Calle",
+          "source_url": "https://lacalle.com.ar/",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
+          "source_image": ""
+        },
         {
           "title": "Arranque ganador para las Minis de Rocamora - lacalle.com.ar",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5mOHBONWJIOTR1QWRZZEtzVjZLQ2VHMDdYa0d4bmVyVVpiSHdPdDUtWUtQVC1pWUg1ZkFZTDBJaVItd2FUMGliSUpsdlZvSEUyR0FkalYySzl2VmNWSlBaOTNhVXdRNmFoNy1pckxYeGtLVkYtV0E?oc=5",
@@ -31,17 +42,6 @@
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
           "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
           "source_image": ""
-        },
-        {
-          "title": "Octavo triunfo para Rocamora en la Liga Provincial - lacalle.com.ar",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Zbmc4Qm9nZ0lHci1FQy1iQW1WOVVFVjZwa2FQc25ualYwZlJnVDdGa2lMMUhxUndrT2FZYV9uRWppcXhqRVU4c1ZQN3NwRGRwakRPQ18zWTJrdUxGeWZ2NnNhUzJ3dzczdWUzRzVYMkRwN1lOSXZUakNLWVB5NU0?oc=5",
-          "summary": "Octavo triunfo para Rocamora en la Liga Provincial lacalle.com.ar",
-          "published": "2026-08-10T13:38:17+00:00",
-          "source": "Diario La Calle",
-          "source_url": "https://lacalle.com.ar/",
-          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
-          "source_image": ""
         }
       ]
     },
@@ -53,9 +53,9 @@
       "homepage": "https://www.lapiramide.net/",
       "items": [
         {
-          "title": "Falleció un trabajador de Granja Tres Arroyos en medio del conflicto laboral - lapiramide.net",
+          "title": "Falleció un trabajador de Granja Tres Arroyos en medio del conflicto laboral",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNktSYmc2dGpYOS1FM1pZOVpJUHFYaXdWZXpYbFlhMzlwVkl0ZV94VXQ1WUc1RS16bmlsZUtsYk9Ndk5SMnZKa0xDRXFiQlI3ZVEzR0FuZGoxcnZKX3dLbmpiZkp3ejJnbEJQU3gzaGZSMGxLQjJVemNLbFUyQVN2OVRmczh1NV9oNS1vWTZYU0k3dnJCZWN6cVpkdXRDck80YVdRUXhULW5melV6SUdjY1haWnBPNFFiNi1NX0NVNU91aTFjMUg0VWJn0gHPAUFVX3lxTFBuNzVGT3A1U3R3MGhxdjBkY3E5ZnRJTHJrZzlza1hkVmZ5SFgyZlR2YWR5eUxYdFFoQVJsdjAyYS1zY0ludkJGZUd5WDJLRmVEbW5VdEJBLUc0WW5hOElLdGx1WE84VHBwTWlpQkltSjRZQndRc3JxbW5qMnh0UWIzY3VRT3ZraEs3QWtrUkZyVVVKMjFXaHJnYzF6WE5SX1BidWhfMTlxbzEtNDR4cWhjamgtUG9VVnpFMm9ycXRKbDFhbV9iQnJxd01tc3diVQ?oc=5",
-          "summary": "Falleció un trabajador de Granja Tres Arroyos en medio del conflicto laboral lapiramide.net",
+          "summary": "Falleció un trabajador de Granja Tres Arroyos en medio del conflicto laboral La Pirámide",
           "published": "2026-08-10T19:29:56+00:00",
           "source": "La Pirámide",
           "source_url": "https://www.lapiramide.net/",
@@ -64,9 +64,9 @@
           "source_image": "https://www.lapiramide.net/images/custom/logo-social.png?_v=v3-27"
         },
         {
-          "title": "Las inversiones no esperan - lapiramide.net",
+          "title": "Las inversiones no esperan",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSTV3Wi1ONDg5emY0Rl8yMFNiZW5tMUVlOWtWMHNaSHFYZzBSMTdjTFBMNkM4bzNDcjVzM3N1XzZNcFMzRlRiOFJfR2pJcnJkZ056ekpzZ0hXXzNlQy1TeVhTaFR3R05OejFmM1k1bHg5YlpxalRnQWM1RXAzY0s4YUJ3SGN6a1HSAYwBQVVfeXFMTWNUWjBPUlI3d2JfVkZ4cjh1TnBDZlhuNlI2cUdyRVhTeDdaTmNtWmtxQmEwYVdkQVRNV3czdFB3ODNBQXh2UTIzSkR3aVAzYU51TnJkd2hoYmJHeEluQU9WTUQwLUswenNkUDRRenJ2Q3lhVnpqV2Y5VkQ0bVJSX0Q3V0lJVXdQZ3dvMUs?oc=5",
-          "summary": "Las inversiones no esperan lapiramide.net",
+          "summary": "Las inversiones no esperan La Pirámide",
           "published": "2026-08-11T17:01:14+00:00",
           "source": "La Pirámide",
           "source_url": "https://www.lapiramide.net/",
@@ -115,10 +115,10 @@
       "homepage": "https://www.elonce.com/",
       "items": [
         {
-          "title": "Allanamiento por venta de drogas en Humito: secuestraron cocaína y más de $500.000 y detuvieron a una pareja - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUV9GbGJRMlpRVnpHNTRyemI0dUxOeUVKZ1pudllMTFhHTGxVNFY3dVFodFYyZ2w2WmZiaTZ4NFlCQndnUnEyZHVLZlRNcklGanpsZ0FvOWxZcHpPZFlZS0std2hzSnp3WGp5Rk5LSGdyZWFhbHRCSkVpYkhzWWh2bGlsWVBya2xhMUdYX2liTTV0czgtUkRuV1lJSUN1cFFaUVJ4czhqMVgwUnBTd185b0RQSEViQm9leGJpRGFrVnRWQ2x5eWlfSURwckt0NF91QnEzZXF0c2NUSHRU0gHTAUFVX3lxTE5mRVFPSzBSVk1LbnEyQUlrTjJvdEtfLUJXZGdjRHlkLXZjbGh4REEwTXZOVnFISEYxWG04dGhZRUNvU0xyVkE3TlpqUVdfWG1laWgxbkYxLXdHZURmd0ZWR2t5TFg4RE0xbHBuYjEwczJPMVhLQ252SmRQS3Robzk0VkJBWWsxYjlodkNQcTZ6a0d5bTBLT2pVMGJGbm84WFg2ODZGZzE3V1BpYlpXWmQ1UHVDX0ZTVmZHOERDQmJMZHZLQVhlR1BqTHBvbFg0RUNZZms?oc=5",
-          "summary": "Allanamiento por venta de drogas en Humito: secuestraron cocaína y más de $500.000 y detuvieron a una pareja Elonce.com",
-          "published": "2026-08-11T23:19:00+00:00",
+          "title": "Orientación vocacional: cómo elegir una carrera y afrontar las dudas sobre el futuro - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYkZ0Mk5yTmJXX0hlRk1TWDFDRmF3eTNxM1ZKcDZSdlVtZXpMTTY2dzlnbmFIVlFpSTJ2Y3EwcURjdDNxcmgzNG5uUHI0OHUxdnZieVhQbkpkbF9iMnpEXzFIQzFoQlZYU2tDTXVZeUtTZXQ4eklaMFRENEM0bTdRZ0dJVWxEUVFYQTJlamJzTVFhc09mZFljZG9IT1FxQTZ1MXRtdEN6RjVmN2lQR0VjTm5DZ3kyZVZuM1FJ0gG0AUFVX3lxTFB0OVRGbU9hVHllSFQtMkdNX0xIb3NRZGVEeTZ5akJvaUVjVUY4V2g2UmRkMUlsWXhsSlJrUTBrRy1rUWtQakNvaUpTQUVTYkhMbXBCS1VzanIyWFdGNVBGWWxvSGFWcG1tU1owQ016UjUtY0FPOU1iZXA3NFo3WmsyeUdJZmgwcE5RQVJxSHJjaGZldF95OG10TDA1eE5KcFBIN29UOGxsRHNkMDRoQVhocnE5aQ?oc=5",
+          "summary": "Orientación vocacional: cómo elegir una carrera y afrontar las dudas sobre el futuro Elonce.com",
+          "published": "2026-08-12T01:51:31+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -126,10 +126,10 @@
           "source_image": "https://www.elonce.com/galeria/sitio/marca-de-agua4-jpg.jpg"
         },
         {
-          "title": "La abuela “Coco” celebró sus 100 años junto a su familia: “He hecho de todo en este mundo” - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd2h6QldhRHdNcGI3WHc1ZzAxWGc5dE1zamxQZlNHMmJGaW1YS2Y3UFdQazM4dEZ0TldCenRZSjZPNHlVVnM5Y1ZtTlVUMG5URDJ6UEtzdEt1SllmU0FFN0VYd3hSNGFjTlc3SWxwZnN0dG9hM0hhS0FuMHFwbHJzRkc0NFB6RGYtdG1SWHA4VUFWcUs5bWhuaEw0Q1pySWVnT2E4VU5UYjBTMmkxbnhrbmZ2TVpyellPS3lv0gG3AUFVX3lxTE5sTmpmQjBWdWplUm01bE5TSC1qQUJzVXYxdVF6SWRQdDRjc2g1elZRNzR6SWRBM2ZkLVdHQ1JlTWZoRl9FOGNlSnhEdVhrcTdKQzRQaTJ1YTEwU3lSbzNYSmJRMEs5UXpCSlVud2p0a1VmZDRsTnd4U3lJbktXdkFDQ3V4Z2JDcl8wTThvcUxRSkpGRTY3V0JMOVJ3ZjA4QjZjdVYySUVsQ3RCckstOUtLZTlUSUQ4Zw?oc=5",
-          "summary": "La abuela “Coco” celebró sus 100 años junto a su familia: “He hecho de todo en este mundo” Elonce.com",
-          "published": "2026-08-11T21:49:37+00:00",
+          "title": "Allanamiento por venta de drogas en Humito: secuestraron cocaína y más de $650.000 y detuvieron a una pareja - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdUtoTWprZGptQWlKaTMxWGpLQlJkSXBsOWtVZHdVZk9KenZEZmRveHNYWHBDNm5MeUhEYTNpMXBvQUh0TFdGaWo2bUpQTndESlYyWFd4RzFPdnViZ3FXSUxCdHk4ZkYzRkduVW9tejJ4dDFYbDBlTm1Wek1maTlpSmZuU0M1bGE1ODUzc0JxLW14a2xvZzdmREV2dWdiOEI5R0h2VXk5VXJpQTExZTJGLVZYSEpCNnB3ZDhQd0VVdHFhZ0FwRndhbXJLM1BMYjkyQ28xaHg2V0Q0bkg20gHTAUFVX3lxTE1xTlFJNnpva2VLcDhyTmg2SjJmd0RMVUJjb1FOdmdYZGM2eDhYRlNnanRCclJzYldCSEhwYVJ5ZUUwQThjTVIwTl9PR0M1WC1UWnV0dFVxdnB3YWc1RV9ScWRDYkVuUXFZNzdjcTVsS21CU01PQk4xZGVIWEdFRVFIaDNDSnExMzh1aXZjbkJWN1YtR2trWWFpMWM2a193dEFJTXBHMDlYa3UtWldHeHg5cHR4aDBwc2hqNjRTOGFkNi1YQ0hZMmRtck9HUGliWE9aQVU?oc=5",
+          "summary": "Allanamiento por venta de drogas en Humito: secuestraron cocaína y más de $650.000 y detuvieron a una pareja Elonce.com",
+          "published": "2026-08-11T23:19:00+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -146,10 +146,10 @@
       "homepage": "https://www.pagina12.com.ar/",
       "items": [
         {
-          "title": "“Dejen de decirnos que la culpa es nuestra” - Página|12",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdzIwWTVvSWdrYjhMY1ZPRXdnNXc1UFFHeHRnU054RG9mSjh5blVnRzdBUkZPaWxrNEhOTF9GNkMzNGRrenRjZHpodkppRy16TVhpckJrX2MySlRVMF9CakhRbUhlWGJpelh3dGU2ZnRYdlVqUVo4YjZsX1NFTmtLTlhPd3JrdEEw?oc=5",
-          "summary": "“Dejen de decirnos que la culpa es nuestra” Página|12",
-          "published": "2026-08-10T01:36:48+00:00",
+          "title": "Pescaron a Sturzenegger en el Caribe mientras fracasaba su proyecto de ley para vender el país - Página|12",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUFhWQmJoTzlFTGZzRDVmVlFMSE1va1UwM0lCY3FDQ05tR1Z3SzQ0bVMyRHZRRWliZmVtaVk2Ykx6UzVJNUhxS2YzQ1RtSjNJdVpRUG5VaWFyVXZFWTNYVFVrdndQMkRaX0FIM3V4SENVWjdJVUFyT2NaMHN2MVZuUEQwNHFuLTVpeDN6dWhVNkdRRktnWmhENjdpZm82dF9nV0czaG04WTRfUmdfRU0wNG00U3dJakVVM2VaSWdTRWVBNm5Gd3dxcTlTXzNtNFpwamxFZ0lVMjVtb1JH?oc=5",
+          "summary": "Pescaron a Sturzenegger en el Caribe mientras fracasaba su proyecto de ley para vender el país Página|12",
+          "published": "2026-08-09T23:01:00+00:00",
           "source": "Página/12",
           "source_url": "https://www.pagina12.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -157,10 +157,10 @@
           "source_image": "https://www.pagina12.com.ar/resizer/v2/https%3A%2F%2Fwww.pagina12.com.ar%2Fresources%2Fp12logo.svg?auth=811d0fc63a912d1f8dc56b650f3a0054e089ac9c81bfee069a62717e10cbb54a&width=1200"
         },
         {
-          "title": "Pescaron a Sturzenegger en el Caribe mientras fracasaba su proyecto de ley para vender el país - Página|12",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUFhWQmJoTzlFTGZzRDVmVlFMSE1va1UwM0lCY3FDQ05tR1Z3SzQ0bVMyRHZRRWliZmVtaVk2Ykx6UzVJNUhxS2YzQ1RtSjNJdVpRUG5VaWFyVXZFWTNYVFVrdndQMkRaX0FIM3V4SENVWjdJVUFyT2NaMHN2MVZuUEQwNHFuLTVpeDN6dWhVNkdRRktnWmhENjdpZm82dF9nV0czaG04WTRfUmdfRU0wNG00U3dJakVVM2VaSWdTRWVBNm5Gd3dxcTlTXzNtNFpwamxFZ0lVMjVtb1JH?oc=5",
-          "summary": "Pescaron a Sturzenegger en el Caribe mientras fracasaba su proyecto de ley para vender el país Página|12",
-          "published": "2026-08-09T23:01:00+00:00",
+          "title": "“Dejen de decirnos que la culpa es nuestra” - Página|12",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdzIwWTVvSWdrYjhMY1ZPRXdnNXc1UFFHeHRnU054RG9mSjh5blVnRzdBUkZPaWxrNEhOTF9GNkMzNGRrenRjZHpodkppRy16TVhpckJrX2MySlRVMF9CakhRbUhlWGJpelh3dGU2ZnRYdlVqUVo4YjZsX1NFTmtLTlhPd3JrdEEw?oc=5",
+          "summary": "“Dejen de decirnos que la culpa es nuestra” Página|12",
+          "published": "2026-08-10T01:36:48+00:00",
           "source": "Página/12",
           "source_url": "https://www.pagina12.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
