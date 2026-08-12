@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T13:45:23.121624+00:00",
+  "updated_at": "2026-08-12T15:14:09.379067+00:00",
   "status": "partial",
   "description": "Titulares y enlaces; el contenido completo permanece en el medio original.",
   "groups": [
@@ -33,10 +33,10 @@
           "source_image": ""
         },
         {
-          "title": "Arranque ganador para las Minis de Rocamora - lacalle.com.ar",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5mOHBONWJIOTR1QWRZZEtzVjZLQ2VHMDdYa0d4bmVyVVpiSHdPdDUtWUtQVC1pWUg1ZkFZTDBJaVItd2FUMGliSUpsdlZvSEUyR0FkalYySzl2VmNWSlBaOTNhVXdRNmFoNy1pckxYeGtLVkYtV0E?oc=5",
-          "summary": "Arranque ganador para las Minis de Rocamora lacalle.com.ar",
-          "published": "2026-08-10T00:06:34+00:00",
+          "title": "Octavo triunfo para Rocamora en la Liga Provincial - lacalle.com.ar",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Zbmc4Qm9nZ0lHci1FQy1iQW1WOVVFVjZwa2FQc25ualYwZlJnVDdGa2lMMUhxUndrT2FZYV9uRWppcXhqRVU4c1ZQN3NwRGRwakRPQ18zWTJrdUxGeWZ2NnNhUzJ3dzczdWUzRzVYMkRwN1lOSXZUakNLWVB5NU0?oc=5",
+          "summary": "Octavo triunfo para Rocamora en la Liga Provincial lacalle.com.ar",
+          "published": "2026-08-10T13:38:17+00:00",
           "source": "Diario La Calle",
           "source_url": "https://lacalle.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -146,14 +146,14 @@
       "homepage": "https://www.pagina12.com.ar/",
       "items": [
         {
-          "title": "“Dejen de decirnos que la culpa es nuestra” - Página|12",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdzIwWTVvSWdrYjhMY1ZPRXdnNXc1UFFHeHRnU054RG9mSjh5blVnRzdBUkZPaWxrNEhOTF9GNkMzNGRrenRjZHpodkppRy16TVhpckJrX2MySlRVMF9CakhRbUhlWGJpelh3dGU2ZnRYdlVqUVo4YjZsX1NFTmtLTlhPd3JrdEEw?oc=5",
-          "summary": "“Dejen de decirnos que la culpa es nuestra” Página|12",
-          "published": "2026-08-10T01:36:48+00:00",
+          "title": "La caída del “Coloso” es la crisis del modelo Milei - Página|12",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZ1FyS1U3cXJIZFROcExzNXVnY2xVN1dXU0IyRUgyQXd5WWVsc0J4Zm5TVmYwSXpLUW9JeWpyb1hWcWVwYVNyT1ZWU2tnLXlNNWsyM1FISkxlRnBtUHlRakJGZTdGLWUzXzFFMkFQT1VrZllRSWxmYUdsQ2Q4Q2VuX2QxZ3lRNTZuT2VLaXBvanQ3YVU?oc=5",
+          "summary": "La caída del “Coloso” es la crisis del modelo Milei Página|12",
+          "published": "2026-08-08T23:01:00+00:00",
           "source": "Página/12",
           "source_url": "https://www.pagina12.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "source_logo": "https://www.pagina12.com.ar/pf/resources/favicon-v3.ico?d=126&mxId=00000000",
+          "source_logo": "https://www.pagina12.com.ar/pf/resources/favicon-v3.ico?d=127&mxId=00000000",
           "source_image": "https://www.pagina12.com.ar/resizer/v2/https%3A%2F%2Fwww.pagina12.com.ar%2Fresources%2Fp12logo.svg?auth=811d0fc63a912d1f8dc56b650f3a0054e089ac9c81bfee069a62717e10cbb54a&width=1200"
         },
         {
@@ -164,7 +164,7 @@
           "source": "Página/12",
           "source_url": "https://www.pagina12.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "source_logo": "https://www.pagina12.com.ar/pf/resources/favicon-v3.ico?d=126&mxId=00000000",
+          "source_logo": "https://www.pagina12.com.ar/pf/resources/favicon-v3.ico?d=127&mxId=00000000",
           "source_image": "https://www.pagina12.com.ar/resizer/v2/https%3A%2F%2Fwww.pagina12.com.ar%2Fresources%2Fp12logo.svg?auth=811d0fc63a912d1f8dc56b650f3a0054e089ac9c81bfee069a62717e10cbb54a&width=1200"
         }
       ]
