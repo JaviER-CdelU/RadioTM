@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T15:14:09.379067+00:00",
+  "updated_at": "2026-08-12T16:09:30.501183+00:00",
   "status": "partial",
   "description": "Titulares y enlaces; el contenido completo permanece en el medio original.",
   "groups": [
@@ -10,6 +10,17 @@
       "type": "Web",
       "homepage": "https://lacalle.com.ar/",
       "items": [
+        {
+          "title": "Estudiantes de Colón fabrican salamandras para familias que las necesitan - lacalle.com.ar",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSUFtX043MFVrTFZZTWpBRnh3S3BYb2UwYUNFeEJfMldkUFljcklpYXRKV3Rwdkh5ZmgwTFkzcWt2V1pvWnRfS1ZWcGViUVdGazk4OW5HQ2hVcmpNZy1EeFJrMV9sbUpKMDZqYmw3NUlGc3dwMVBYMjZTWnlhS2ljb1loQk5XSk1nX2FDc1dfVmJqclR3eTdTRzRTaF9ydw?oc=5",
+          "summary": "Estudiantes de Colón fabrican salamandras para familias que las necesitan lacalle.com.ar",
+          "published": "2026-08-12T10:57:18+00:00",
+          "source": "Diario La Calle",
+          "source_url": "https://lacalle.com.ar/",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
+          "source_image": ""
+        },
         {
           "title": "Con materiales reciclados, estudiantes de Colón fabrican salamandras para donar - lacalle.com.ar",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZXdGY3FxbXdhdVFsal9HajBwQzFSRGlSYXQ2VG5DT3c0S2pVMmFaaDF3RDIzR2N3RmxPVWpJNVEtYkxPdFotdU1la2NhclZteVR5LU1Hc0FlNmJtakItU0haWlB1cGRXbFNZUzZuQzZsaFVXZktzQW1pQjI5d205b3RtSjNGX0hZZHdOcDFVUW9hWFJYc0d0VW50OFpzcEQ5TjdYbA?oc=5",
@@ -26,17 +37,6 @@
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOT2RLWTdwSmU1Mk1xa3BCLXBSV09aU2p3bVpkbGFvYjJXQldKSnk5OE5ZZDdXZERyQnRMT0NBRVJnYnZiVjZRdWNGcFYwTmw1c3ZNQnZBdjc4NGV0NkhmNDFpMlFmbkFtLWx0RFdUaDI4ZHhKc050bzY4NllCV2pYdFcxUkxvbXg5V1BCSU83bjc3UUhiOU1MVkRDOVJCbW5EV2J4bjdn?oc=5",
           "summary": "Sortearán los jurados para concursos de cargos en el Poder Judicial entrerriano lacalle.com.ar",
           "published": "2026-08-11T11:21:30+00:00",
-          "source": "Diario La Calle",
-          "source_url": "https://lacalle.com.ar/",
-          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
-          "source_image": ""
-        },
-        {
-          "title": "Octavo triunfo para Rocamora en la Liga Provincial - lacalle.com.ar",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Zbmc4Qm9nZ0lHci1FQy1iQW1WOVVFVjZwa2FQc25ualYwZlJnVDdGa2lMMUhxUndrT2FZYV9uRWppcXhqRVU4c1ZQN3NwRGRwakRPQ18zWTJrdUxGeWZ2NnNhUzJ3dzczdWUzRzVYMkRwN1lOSXZUakNLWVB5NU0?oc=5",
-          "summary": "Octavo triunfo para Rocamora en la Liga Provincial lacalle.com.ar",
-          "published": "2026-08-10T13:38:17+00:00",
           "source": "Diario La Calle",
           "source_url": "https://lacalle.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -115,10 +115,10 @@
       "homepage": "https://www.elonce.com/",
       "items": [
         {
-          "title": "Homicidio en la cárcel de Paraná: investigan qué originó la pelea entre los internos - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTjdhMG9Cb3E2ZFNkLTBPdjc0NUFTbHlCbmpHaFQwSTFPTW5oOXdJZGRDWU1jQV94QXA5UFFiOVBvTnRoN183VjViU25TZ1J4d0habnFpM3lhR012b2I5WE0xZ2xPS3cwOVFBSElVMXhEemU3MG00YzFzZ0lOQVhta28zQ2hGTXJHSFJTdFd2MUxNSXRh0gGLAUFVX3lxTE5ncVRrb2Mya19UNFBES3ZFWm1VRHVUaEd0U2FOcXY1dXByUTlLbWRCc20zaklSeUtKWlNabl9LaDZrOERkdmdJdlZnLXJSZGl1Mk5YX2NleHhvdHpMSWN4OU9BWmR5VzZVVmVPN2Fhd2ZFMFhMZGtDNDVaWU53eG1UeGdKbnVXaTdVdXM?oc=5",
-          "summary": "Homicidio en la cárcel de Paraná: investigan qué originó la pelea entre los internos Elonce.com",
-          "published": "2026-08-12T13:23:56+00:00",
+          "title": "Pidieron justicia por un crimen en Diamante y exigieron que no liberen a los imputados - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeGJTN2FQTzJpX3lmWU1XOHdXNmctNmw1XzZjQWFDTnJFejZnSWRaOUtLcVhWanlObTh6dVBSc3lwZTRIZnV2TjMtc2hHMGpVelZhdG9LcmNNOV9aYVZmdVQyWmo2U0MyR0RZZ2VzdGxZNmZMbHZYTmdHd3MtVG1uczgxMDFFaXp1bk9SVVNFUEdzNW92Skc1YUtOZEgtZ2FmWF9BdA?oc=5",
+          "summary": "Pidieron justicia por un crimen en Diamante y exigieron que no liberen a los imputados Elonce.com",
+          "published": "2026-08-12T14:59:35+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -126,10 +126,10 @@
           "source_image": "https://www.elonce.com/galeria/sitio/marca-de-agua4-jpg.jpg"
         },
         {
-          "title": "San Roque celebrará su fiesta patronal con bendición de mascotas, procesión y misa - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTmxXcU92TVdGc3RyOFYyakQtZlF3dEU2LVlDYzF0TXo0R0ltTjJzcjViZUxld1pET2FTNW1PSEdkMkIwdmRJYm1WdXBCS2FmR090UlFaMGFWbHVEYmQ5NXhfOFhUbHUxRFRPc3l2Z2VqQ016TE9YdG43dFByQ0Y3TF93VmxQcDdRZlhfMWVtM3pHX3FFVklBR21n0gGGAUFVX3lxTE9pY2RKYkF5cU82dng3MUlMYk56NHRZTUFVVDBONlE1RWx6YVBnTE81aUQwRXotUF9XckRkNVRyOU4wWnNsbkczUUUzUXdxSG9HdXEzRlpNR0FNRmVubjFYM195VzI4WXc4ZVdPSjBwOWZsZkZLcUh0LVQ5clo4RE03QkZ2NXZB?oc=5",
-          "summary": "San Roque celebrará su fiesta patronal con bendición de mascotas, procesión y misa Elonce.com",
-          "published": "2026-08-12T11:37:32+00:00",
+          "title": "Empleados viales protestaron por la Zonal Paraná: “Defendemos la fuente de trabajo” - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPc0hzVm5COF9iVWNMUUIwbWRILThxdXNObHR3SUcyRnVmOVE5c0V3Z28wOXBPcWh1OThfNXJ5TDk5ZXpDMjJtZkMzNFFYbmFmZjlMakFGM2FDNTZXTVRtX0hQdWRwVE9ibG1RclJuMDRWaFhVamtDUkdPdTZKaE9TZXhLMEJHcXZCZE9qbWE3bjI3YVdmMlRhStIBkgFBVV95cUxQQnNWZGJISUNyU0lJSUhpWmtIYl9HWXZJMVVHVVVaUFlhMEtGYW16TVdlMEgxQjc0ajV4ZFMtd1ZVUFNHNEJiVlJBTG1ZdU9tVElsZ1RJRC1QMmthNlJiSkZtVkxuTFMxX2J1elFtb1l5TDljMTF0NXlSUlpxSm5zRjRlNUxONERGX29OTEdjSV9jQQ?oc=5",
+          "summary": "Empleados viales protestaron por la Zonal Paraná: “Defendemos la fuente de trabajo” Elonce.com",
+          "published": "2026-08-12T15:32:54+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -153,7 +153,7 @@
           "source": "Página/12",
           "source_url": "https://www.pagina12.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "source_logo": "https://www.pagina12.com.ar/pf/resources/favicon-v3.ico?d=127&mxId=00000000",
+          "source_logo": "https://www.pagina12.com.ar/pf/resources/favicon-v3.ico?d=129&mxId=00000000",
           "source_image": "https://www.pagina12.com.ar/resizer/v2/https%3A%2F%2Fwww.pagina12.com.ar%2Fresources%2Fp12logo.svg?auth=811d0fc63a912d1f8dc56b650f3a0054e089ac9c81bfee069a62717e10cbb54a&width=1200"
         },
         {
@@ -164,7 +164,7 @@
           "source": "Página/12",
           "source_url": "https://www.pagina12.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "source_logo": "https://www.pagina12.com.ar/pf/resources/favicon-v3.ico?d=127&mxId=00000000",
+          "source_logo": "https://www.pagina12.com.ar/pf/resources/favicon-v3.ico?d=129&mxId=00000000",
           "source_image": "https://www.pagina12.com.ar/resizer/v2/https%3A%2F%2Fwww.pagina12.com.ar%2Fresources%2Fp12logo.svg?auth=811d0fc63a912d1f8dc56b650f3a0054e089ac9c81bfee069a62717e10cbb54a&width=1200"
         }
       ]
