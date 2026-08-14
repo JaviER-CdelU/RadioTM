@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T19:55:40.682481+00:00",
+  "updated_at": "2026-08-14T20:44:53.097931+00:00",
   "status": "partial",
   "description": "Titulares y enlaces; el contenido completo permanece en el medio original.",
   "groups": [
@@ -10,6 +10,17 @@
       "type": "Web",
       "homepage": "https://lacalle.com.ar/",
       "items": [
+        {
+          "title": "Capacitaron a equipos estatales sobre comunicación y prevención del suicidio - lacalle.com.ar",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWU01RGl4MFlUYmVjRkFZWEV4aS1ZMnRWcFkzNEY2ZDJmck0zS2FQcnNuRHF3eVRJVUlNYl9BR0Z4SnBWRnJSYnZPdml4SmNfRFhhNFp2MUtTU0o5anlMbmQ3eTU5b21iV21ZcC1CWGlkUjdjTUMtVVN5M1Y0al9TaUJHWVdSNjdZUklaN3Yya0hSeEhVNHB6NHptRGF5RVRSYnc?oc=5",
+          "summary": "Capacitaron a equipos estatales sobre comunicación y prevención del suicidio lacalle.com.ar",
+          "published": "2026-08-14T14:30:55+00:00",
+          "source": "Diario La Calle",
+          "source_url": "https://lacalle.com.ar/",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
+          "source_image": ""
+        },
         {
           "title": "Sin emociones: El Linqueño y Gimnasia empataron 0 a 0 - lacalle.com.ar",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNczZTWmcxNDFBT2hmOTNzUEtNdm9vREJsaVBIX3pUVzdjZ0FnWmZQaTdlTklLZ2xLX1AxQ0JLYkI5SXlvajltZGxpY2FIYnYyVHdjWlF6Slg4NmlKX2dJbG13ZWRxblNHRERYUVhXNk9tUWN1MElmclJmWC1oX3V2dG5R?oc=5",
@@ -26,17 +37,6 @@
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV0VxOG8zMVZvYkhERWU3X21UVmJsdnpkT2tHcy1SRGRuY00xYU96OWtJNFh6aEk1cTlaZ0IwQzlNaFdZT1V5QWZKdUdmdXdJSHNxYzRzUU1fMEtTcDI5NlMzSnJ5d3huTE5fSjdUQ0pabzR2X0xLZVVYYkp4WkVvWXl4Y3piNjJJblpKYUtjWGc2SU80eXZsN1RhTWRTV0NlZkYwUlh2RDZ0aDdibFlFeFJsMEdVUQ?oc=5",
           "summary": "Aprender Haciendo comenzó en Paraná con una jornada junto al basquetbolista Martiniano Dato lacalle.com.ar",
           "published": "2026-08-14T11:34:06+00:00",
-          "source": "Diario La Calle",
-          "source_url": "https://lacalle.com.ar/",
-          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
-          "source_image": ""
-        },
-        {
-          "title": "Ordenan reincorporar a los trabajadores despedidos - lacalle.com.ar",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHTjAxQlpRSm1UVDJILUZhekc1Mm4xQ0tlTlNudmU1WDBfN3ZRTDlrRlFINW9QUi1qY3ZTSUlqVlQycU13NHBLTnNBdFFJWEhxX1J4dlE2eFlmMmQxRURkQlF5QmZlWE50QjB2dGlnUVFJMGNubjh0c2dIc2FJZDg?oc=5",
-          "summary": "Ordenan reincorporar a los trabajadores despedidos lacalle.com.ar",
-          "published": "2026-08-13T19:02:24+00:00",
           "source": "Diario La Calle",
           "source_url": "https://lacalle.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -115,9 +115,9 @@
       "homepage": "https://www.elonce.com/",
       "items": [
         {
-          "title": "Artesanos y emprendedores ofrecen sus productos en la Feria del Libertador en Paraná - Elonce.com",
+          "title": "Artesanos y emprendedores ofrecen sus productos en la Feria del Libertador en Paraná - elonce.com",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUVB1aUdfb2s4MVV1YlRrWTFjTHJhRHppRVc2ejBzYjVEUjJ4Y2pRbDRWd1hPT0NWY3ZrRmpqOVNOQXVPT2U3NEhQMGxtZkFMbWtvSTNOMWd2RHlZLW9nUnFzZlpfcUFFVFkybmJrYjFUbk1SNm1fZjE2UHVWTXlMVWJOZk5qY3A3d0hiblQ0NG9ZR2ZjWlhtTUMxeE5hMFZhcWhCLTR30gGiAUFVX3lxTE1hVjBBTkJRNnBmSngtcTBqbVMtVjBLREhGUzg4UWs4RzROYUFEVUJzcDRWVGFVOXhPdDlpaWh0VUdraTFVRERSZ2VqSUlFN09oR1JOYmJHeDFQeWlfMHJKcE10RE5oN2hoU0tFLU9XNkhEc3JqRmFxMDBBV3E3aFNkTTlaOVhRWWp1UVhZbXlzalBRN0piN2pkVHlhRjJVOWtoQQ?oc=5",
-          "summary": "Artesanos y emprendedores ofrecen sus productos en la Feria del Libertador en Paraná Elonce.com",
+          "summary": "Artesanos y emprendedores ofrecen sus productos en la Feria del Libertador en Paraná elonce.com",
           "published": "2026-08-14T16:57:52+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
@@ -126,9 +126,9 @@
           "source_image": "https://www.elonce.com/galeria/sitio/marca-de-agua4-jpg.jpg"
         },
         {
-          "title": "Colombiano radicado en Paraná relató cómo vive la tragedia: “La vida nos puede cambiar en cualquier momento” - Elonce.com",
+          "title": "Colombiano radicado en Paraná relató cómo vive la tragedia: “La vida nos puede cambiar en cualquier momento” - elonce.com",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM0s0Z0R0em1rZmh0SzFFZlJjbC1pNk05NWtqcWxWb2hMYlZ2QzhrQ1ZpWjR5eERVa2w0TEVKRHRzS1lmY2xXOGZzaW5xN2ZVd1hjcXRkZ2cydlBXNVlramxMUUtldVU4R2FENG5mSmVuTmpYOWg1WUc1QURzOW9aZVZHUUJqOVBYVnBjb0Jmam44ZFQtUEJHU2l30gGTAUFVX3lxTE5USGx3ZlZLMFlYSXdJTUI3cUJ3MUpoUGRxdzJMSWh0TE1zbG5jQVF2bWFpaTNmc1l6czh6QUpqakFPdGh5Nlo4a25rTWw3M0hCS1hUdnNOSEotNWd0WlhkZGxFbkE3S2xSc01SQW9NYTA5d05YX0tpbnlqbmVIakpqN0kwOGxlajFxMlpBaGxjeDVwWQ?oc=5",
-          "summary": "Colombiano radicado en Paraná relató cómo vive la tragedia: “La vida nos puede cambiar en cualquier momento” Elonce.com",
+          "summary": "Colombiano radicado en Paraná relató cómo vive la tragedia: “La vida nos puede cambiar en cualquier momento” elonce.com",
           "published": "2026-08-14T17:11:45+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
