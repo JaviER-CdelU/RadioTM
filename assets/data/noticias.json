@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T07:46:03.151117+00:00",
+  "updated_at": "2026-08-15T08:44:26.582994+00:00",
   "status": "partial",
   "description": "Titulares y enlaces; el contenido completo permanece en el medio original.",
   "groups": [
@@ -33,10 +33,10 @@
           "source_image": ""
         },
         {
-          "title": "Sin emociones: El Linqueño y Gimnasia empataron 0 a 0 - lacalle.com.ar",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNczZTWmcxNDFBT2hmOTNzUEtNdm9vREJsaVBIX3pUVzdjZ0FnWmZQaTdlTklLZ2xLX1AxQ0JLYkI5SXlvajltZGxpY2FIYnYyVHdjWlF6Slg4NmlKX2dJbG13ZWRxblNHRERYUVhXNk9tUWN1MElmclJmWC1oX3V2dG5R?oc=5",
-          "summary": "Sin emociones: El Linqueño y Gimnasia empataron 0 a 0 lacalle.com.ar",
-          "published": "2026-08-13T11:28:57+00:00",
+          "title": "Allanamientos simultáneos por una causa de narcomenudeo en Concepción del Uruguay - lacalle.com.ar",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOVU2VGZQTGw1Z0xOUk52cnlFQTZvYTlZWDJDMUN4OEtNN3FVcXBSYXA2MnJDY1Nxdy10NGZRLWVzbmNIZkpyUk5QeGZuZlVrdmNOZXVEdEI0NUhFX2FubEJjWXhaOG1qcmYxUU9GbDVISEY5MVp0V2hadDhIRjRyaUI1M1ZjSHQ5d0lWRVB2RlZHT0dmVW5oeXBKX0NaakVPUS1Xa3ZpcFc?oc=5",
+          "summary": "Allanamientos simultáneos por una causa de narcomenudeo en Concepción del Uruguay lacalle.com.ar",
+          "published": "2026-08-14T10:58:38+00:00",
           "source": "Diario La Calle",
           "source_url": "https://lacalle.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -171,11 +171,6 @@
     }
   ],
   "errors": [
-    "Andrea Pacinelli Noticias: red social, requiere selección manual",
-    "Diario La Calle: https://news.google.com/rss/search?q=site%3Alacalle.com.ar&hl=es-419&gl=AR&ceid=AR%3Aes-419: La fuente no respondió después de 3 intentos: HTTP Error 503: Service Unavailable",
-    "Elonce: https://news.google.com/rss/search?q=site%3Aelonce.com&hl=es-419&gl=AR&ceid=AR%3Aes-419: La fuente no respondió después de 3 intentos: HTTP Error 503: Service Unavailable",
-    "La Pirámide: https://news.google.com/rss/search?q=site%3Alapiramide.net&hl=es-419&gl=AR&ceid=AR%3Aes-419: La fuente no respondió después de 3 intentos: HTTP Error 503: Service Unavailable",
-    "Página/12: https://news.google.com/rss/search?q=site%3Apagina12.com.ar&hl=es-419&gl=AR&ceid=AR%3Aes-419: La fuente no respondió después de 3 intentos: HTTP Error 503: Service Unavailable",
-    "R2820: https://www.r2820.com/rss: syntax error: line 1, column 0 | https://news.google.com/rss/search?q=site%3Ar2820.com&hl=es-419&gl=AR&ceid=AR%3Aes-419: La fuente no respondió después de 3 intentos: HTTP Error 503: Service Unavailable"
+    "Andrea Pacinelli Noticias: red social, requiere selección manual"
   ]
 }
