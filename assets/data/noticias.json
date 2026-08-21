@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T07:55:52.047941+00:00",
+  "updated_at": "2026-08-21T08:57:16.248158+00:00",
   "status": "partial",
   "description": "Titulares y enlaces; el contenido completo permanece en el medio original.",
   "groups": [
@@ -10,6 +10,17 @@
       "type": "Web",
       "homepage": "https://lacalle.com.ar/",
       "items": [
+        {
+          "title": "Básquet Femenino: Parque Sur disputa la segunda fase de la Liga Federal Formativa - lacalle.com.ar",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOUpsLVlvMzRRYk9pckZtQ2Y2YXc5aGp1RUNIc2stLWcwSXl6M3ZTRmlWTWdpQVF5d3kyWWh0MWxEOEpELTZ0VHlaWXpXMEIxUFEzcmFZNEl5d1ZKbmpZQ2F3RmNpRFo3NWJFTVhsSUcwVHBScDBEdXlLWk4xR2pXaW5PcHRGWUVRSkxzUHlPQnIwYTFJNGJFRlBjN1hOS0dXcDB3TGp0SQ?oc=5",
+          "summary": "Básquet Femenino: Parque Sur disputa la segunda fase de la Liga Federal Formativa lacalle.com.ar",
+          "published": "2026-08-20T12:50:32+00:00",
+          "source": "Diario La Calle",
+          "source_url": "https://lacalle.com.ar/",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
+          "source_image": ""
+        },
         {
           "title": "Audiencias públicas para definir autoridades del CGE - lacalle.com.ar",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSmpGMWtINmxvdlNVYU1lME5IaVpYdUNwMjdWVGtyeXV6UWdzX000RlhQV2Fob283N1BaLUNxVU1sVTFXOXROTzFoTm13S2RKWm9pQXBuOHBlWUI3amJoRVJERDQ3cTNKY3NLT2Y4dWg5OUxJUW42T3hPVFVpTEExMXJn?oc=5",
@@ -26,17 +37,6 @@
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeE9pWU1COC1uNFZBeFQxT0pCcks2SXVoTXd1MmZ1UmRoY2VDY196bTRMSWcyN1B0aDgzbC0wNldGUVV3Vk95MlE2bkRkUjE5dEp1M1U2aEU5N2xPWkpHMHZqNzBsNmdKdnIzQ2FyTHhtUzRwSDU4eGZGMVRpX3pmV2tTVDdlZmZld0RETWJ4VzBZbzY5bHNyR3l3Y245dHROc190NXdLUnREOENZb3duTw?oc=5",
           "summary": "ATER analizará proyectos para reconocer como industriales a dos actividades productivas lacalle.com.ar",
           "published": "2026-08-17T14:30:19+00:00",
-          "source": "Diario La Calle",
-          "source_url": "https://lacalle.com.ar/",
-          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
-          "source_image": ""
-        },
-        {
-          "title": "Federación Agraria analizó la situación de distintos sectores productivos de Entre Ríos - lacalle.com.ar",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT1lZQklsWDdnVXIwZjF1VWFTUFhWWHNhVHExeHFMS2ZoRDV2VDRMaTNhN1NlUFlXV0FubU55MmNEdnAtdUxudkFHN2pBdVNGeGMxWHpuRC0xUFVybWduQlFjX1FpLVVKaTg5S09FMDBtVnVCTDhpWE1KSHpmMmNodC1pOWhPTFNuRHl0ZVRRX0dOREdBWVhIVDJpcE9EQnFEemx6RmJkZS11aDEyZ2gzbA?oc=5",
-          "summary": "Federación Agraria analizó la situación de distintos sectores productivos de Entre Ríos lacalle.com.ar",
-          "published": "2026-08-17T14:33:40+00:00",
           "source": "Diario La Calle",
           "source_url": "https://lacalle.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
