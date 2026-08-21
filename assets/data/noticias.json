@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T14:53:00.238161+00:00",
+  "updated_at": "2026-08-21T15:47:22.847382+00:00",
   "status": "partial",
   "description": "Titulares y enlaces; el contenido completo permanece en el medio original.",
   "groups": [
@@ -10,6 +10,17 @@
       "type": "Web",
       "homepage": "https://lacalle.com.ar/",
       "items": [
+        {
+          "title": "Rocamora juega en casa la segunda fase de la Liga Federal Formativa - lacalle.com.ar",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ0kyRjJHTjZ1YkZnQ1RFRUMwZDlYZ1ZSUWphM1ZIZ2VEeDdGd0d0ckxPOXQtQlpxdnNpWXRzQnU2aVVRQk41X0NoTlo3QWpMaWEtTzVaNDZCQWxoU1lZR2pQU0o0VWlDSVlUb09OVHVVa0ZhakFMSXZKQk9ySnRoRnJLUXhYQ0JjMGxLdUtLRm9NdVM5MXc?oc=5",
+          "summary": "Rocamora juega en casa la segunda fase de la Liga Federal Formativa lacalle.com.ar",
+          "published": "2026-08-21T11:17:50+00:00",
+          "source": "Diario La Calle",
+          "source_url": "https://lacalle.com.ar/",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
+          "source_image": ""
+        },
         {
           "title": "Básquet Femenino: Parque Sur disputa la segunda fase de la Liga Federal Formativa - lacalle.com.ar",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOUpsLVlvMzRRYk9pckZtQ2Y2YXc5aGp1RUNIc2stLWcwSXl6M3ZTRmlWTWdpQVF5d3kyWWh0MWxEOEpELTZ0VHlaWXpXMEIxUFEzcmFZNEl5d1ZKbmpZQ2F3RmNpRFo3NWJFTVhsSUcwVHBScDBEdXlLWk4xR2pXaW5PcHRGWUVRSkxzUHlPQnIwYTFJNGJFRlBjN1hOS0dXcDB3TGp0SQ?oc=5",
@@ -26,17 +37,6 @@
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSmpGMWtINmxvdlNVYU1lME5IaVpYdUNwMjdWVGtyeXV6UWdzX000RlhQV2Fob283N1BaLUNxVU1sVTFXOXROTzFoTm13S2RKWm9pQXBuOHBlWUI3amJoRVJERDQ3cTNKY3NLT2Y4dWg5OUxJUW42T3hPVFVpTEExMXJn?oc=5",
           "summary": "Audiencias públicas para definir autoridades del CGE lacalle.com.ar",
           "published": "2026-08-17T12:24:46+00:00",
-          "source": "Diario La Calle",
-          "source_url": "https://lacalle.com.ar/",
-          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
-          "source_image": ""
-        },
-        {
-          "title": "ATER analizará proyectos para reconocer como industriales a dos actividades productivas - lacalle.com.ar",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeE9pWU1COC1uNFZBeFQxT0pCcks2SXVoTXd1MmZ1UmRoY2VDY196bTRMSWcyN1B0aDgzbC0wNldGUVV3Vk95MlE2bkRkUjE5dEp1M1U2aEU5N2xPWkpHMHZqNzBsNmdKdnIzQ2FyTHhtUzRwSDU4eGZGMVRpX3pmV2tTVDdlZmZld0RETWJ4VzBZbzY5bHNyR3l3Y245dHROc190NXdLUnREOENZb3duTw?oc=5",
-          "summary": "ATER analizará proyectos para reconocer como industriales a dos actividades productivas lacalle.com.ar",
-          "published": "2026-08-17T14:30:19+00:00",
           "source": "Diario La Calle",
           "source_url": "https://lacalle.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -126,10 +126,10 @@
           "source_image": "https://www.elonce.com/galeria/sitio/marca-de-agua4-jpg.jpg"
         },
         {
-          "title": "El testimonio de los fanáticos del Turismo Carretera en Paraná: “Es una pasión y un cable a tierra” - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRUIwZ01Ld1Bvd2pKcF9JZUJ5dGEzc3ZFSDVwa2Z4ZWhqZ2Y1WC0zdzlpckVRTXdKdjVhLUExQldiTEtSeDFQRVFmN1d5aUdtTUM1OUZPMkw0WGhMVkhQb0M1aDRLa0xOVjFHbm9HX3dtYmFDMEpWelBBcnJoMFotM3NSaEZvbl9JdFVUYS10UjA4eUF5RkNGeDJxMDdjcERrVW1WNlFRM1ExNzltUmVqOTFxQVptZkFWSDM3WkFmdUtnY3E5NE81V0dFd0rSAcYBQVVfeXFMTzE0b1dHTXdpYmtWeDhFVXVrX3VXTEppREFOaVlJb0QzNTRvcjlScDRxblEtNEtHX1JpYTZJVS1ZNUdoVEhyQmY0dGFQZkRTYmtCRWVqcVJXZkd5NHQ1YXI0OWNlVjRmek83aDNoV1JCWTFnX0lJLURsSXUzWW5FZjlhNVBDU2w3aDdabFRYc1V5NVdnZlo1Tkh5TTZySFp4a1RfR29tcWo2ZU9ZNXg3UkRmWW9mN0N6UUxQczQtWUdfZjJKRk5B?oc=5",
-          "summary": "El testimonio de los fanáticos del Turismo Carretera en Paraná: “Es una pasión y un cable a tierra” Elonce.com",
-          "published": "2026-08-21T12:57:12+00:00",
+          "title": "“Vamos a demorarnos acá”: lanzaron la preventa de un libro nacido en talleres literarios - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc2IzNUZBS3lEVDZHZ21RZGJPdWM0ZndMVE5KaGtjTzlvMmU2NHhtcUF5MnRzdEFwa2NnWGtTemhuM1ZnQWNMSDdjVENtWXZ2Y2M4Zk9iUUNROTRQNXpVTE5RYlVUeHJyVkhtVHpWYTZWQ2Zvam1MdkxPSGpvcExZNzZaVTRoOElSemhIRWlydnd4aXBKYks1bTM3aEVobEpDY3Jwblo2ZmRLYl9meGNuN0tRc0ZWSm1xMlM2ejFSUjVibmxzaTY4VUt1UdIBtwFBVV95cUxOUzAxUzJLNUl0WGdPMzJiOVJkRUFYeGI0TDA1SjlOeDZ0OW5yWDA1ajV0UzVVa0dNeXpPUkNkMWZnUzRjUnE3N1plLXhEVWJXODhhWGNoNzBQRkZraHpzU1VsVzExZXJBYWlrX2h5UzluNmROdmZaN2hoMG1BTVUweVdCTVRlbkNlWS1oRGdXNEtDZUxZM2YyR1ROSzJ2QjBQdjd0VkItYVpvbDlpbTg2V0xVc1pLOTA?oc=5",
+          "summary": "“Vamos a demorarnos acá”: lanzaron la preventa de un libro nacido en talleres literarios Elonce.com",
+          "published": "2026-08-21T14:55:51+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
