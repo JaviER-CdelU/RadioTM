@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T01:53:14.254801+00:00",
+  "updated_at": "2026-08-22T03:06:46.454994+00:00",
   "status": "partial",
   "description": "Titulares y enlaces; el contenido completo permanece en el medio original.",
   "groups": [
@@ -10,6 +10,17 @@
       "type": "Web",
       "homepage": "https://lacalle.com.ar/",
       "items": [
+        {
+          "title": "“Violencias Invisibles”: una charla para visibilizar distintas formas de violencia - lacalle.com.ar",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRGFGdVBfRkk0U0d4SjNvQlRfS19NaVVsZUgyMjVLdlBramlSb1pjRG9aOTNmRmtBYWlPUFV2cXV6dzBNd1VjRW16RjVHTmxHSlp6TEdvVzRwTERFczh1al9UaDRYWVptNGgyQUhRYV9yTGZ2YzY5eW12LXdkTklWNDBWYWxRbGdsN1hWTEdZZTh1UXU2bXFsYjI2NEhEWG5pN3RvdlJR?oc=5",
+          "summary": "“Violencias Invisibles”: una charla para visibilizar distintas formas de violencia lacalle.com.ar",
+          "published": "2026-08-21T11:20:56+00:00",
+          "source": "Diario La Calle",
+          "source_url": "https://lacalle.com.ar/",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
+          "source_image": ""
+        },
         {
           "title": "Rocamora juega en casa la segunda fase de la Liga Federal Formativa - lacalle.com.ar",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ0kyRjJHTjZ1YkZnQ1RFRUMwZDlYZ1ZSUWphM1ZIZ2VEeDdGd0d0ckxPOXQtQlpxdnNpWXRzQnU2aVVRQk41X0NoTlo3QWpMaWEtTzVaNDZCQWxoU1lZR2pQU0o0VWlDSVlUb09OVHVVa0ZhakFMSXZKQk9ySnRoRnJLUXhYQ0JjMGxLdUtLRm9NdVM5MXc?oc=5",
@@ -26,17 +37,6 @@
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOUpsLVlvMzRRYk9pckZtQ2Y2YXc5aGp1RUNIc2stLWcwSXl6M3ZTRmlWTWdpQVF5d3kyWWh0MWxEOEpELTZ0VHlaWXpXMEIxUFEzcmFZNEl5d1ZKbmpZQ2F3RmNpRFo3NWJFTVhsSUcwVHBScDBEdXlLWk4xR2pXaW5PcHRGWUVRSkxzUHlPQnIwYTFJNGJFRlBjN1hOS0dXcDB3TGp0SQ?oc=5",
           "summary": "Básquet Femenino: Parque Sur disputa la segunda fase de la Liga Federal Formativa lacalle.com.ar",
           "published": "2026-08-20T12:50:32+00:00",
-          "source": "Diario La Calle",
-          "source_url": "https://lacalle.com.ar/",
-          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
-          "source_image": ""
-        },
-        {
-          "title": "Juntos por Entre Ríos cuestionó al Defensor del Pueblo de Paraná - lacalle.com.ar",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcUpWR296ZkJLTzQyWm5WZEhGNVNKSW5oeVFKQzJ1ZnVIamFXM3Q3bG8ya2o1aDJiaklZNjZjT2puYVJHY3ZDM0x0OG9pYUJBTEJuTlFPUERkeDdRaktOVFZZY05FSk9wX3V1RDNwckNKZjdiblVjSENHWVI5T3lvM3Ixd3Fmck9OS1dEc2p2N1VrZw?oc=5",
-          "summary": "Juntos por Entre Ríos cuestionó al Defensor del Pueblo de Paraná lacalle.com.ar",
-          "published": "2026-08-20T01:37:26+00:00",
           "source": "Diario La Calle",
           "source_url": "https://lacalle.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -126,10 +126,10 @@
           "source_image": "https://www.elonce.com/galeria/sitio/marca-de-agua4-jpg.jpg"
         },
         {
-          "title": "TC en Paraná: Nicolás Bonelli anticipó cuál será la clave para ser protagonista - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTVVHYkVXOTJkWVpSRWE4Q3RQWWpObHZVWGpKUFZHQTJJYnR5X0kxeXF5NmctMTZXUHZkNDI2dklSUFctSTdGQk5IMEFrOGVDZGtHdXFHblFXel9Pb3cyR21zY0dRX09aYkY2Mk5fUG1UcmVGRzNhYVAtQWlQSjUzblNFZjl5VnExTjhabG5NbGRnVzZiQjd6S204dDlmaXVKX2Vub051N2pMSGJxeTRMWUFqMkVQa0RtZDgyaE9fOGx4UHpDdWfSAb8BQVVfeXFMUDNRNFBJM19ialZFbU90RWlWT0dOYWJOS096MXVGbk85c3poaC1nMnVwNWktcXd5NzBtTjNmdkZXZUNxWlJwWTc2Mk8taUFONzlzOXZ4OGU1NGx5UjhjeUttb3dlRGV1Y25fN3M5U0RJakhEMDc4OER6ZFVUR0JuejlTVEM2U0pybHlMM2VXc3J5eTIzdDJEN2NpLTc3dEY2NmdyQ05pNHViQlFJMENmSHV0bVJlcVRYaFRYaWlFMW8?oc=5",
-          "summary": "TC en Paraná: Nicolás Bonelli anticipó cuál será la clave para ser protagonista Elonce.com",
-          "published": "2026-08-21T23:40:35+00:00",
+          "title": "La Cumbre Latinoamericana de Autismo reunirá a familias y especialistas en Santa Fe - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNXVkY2lKQ0FyMFVDMkpXcWY2ZUE5MGo2Zmh4TjQ3bDZ4QUVMeXdETUI4Z1ZQRGM0cEdYa0w2YWF6MmNudmt2aXd0N0ttOUtGNkFyNTM0ZzVsREZha09ucWxINHhyRlp6YXRqZnNyejNMc2RfV3kyY19yZ0hETE1ZRWFpakIwd1FjUWpNMWwxcVNNckVpTm9Xb0V4d1B5dVVZM3lKY242M0JRcVJMdWJhR2tGMTZtZ3RNZVhONXBxUVZ0cHB6elNZN9IBtAFBVV95cUxQbWZKUnBGeFNJLUdjYXNmMzJ6RVFBUWlFS2Y4OUg2Y01ET0x2UmU3ckpHN1ZUclY5eS1CM2JuNm5Oalk1LVdCeWhHUjRhYnJkdTM1Nm12Y2RYM050UThKS0gzbldIM3BkVDNZMTJmb2o5YmViSGoxYkNNSzVyT1pjdk5rYmoxY2dELWI2TEhtZElZcWMwbGZYUGdnNmRYYTJwcHlrcVVyVGRFQnVZbEhPeVZpUnU?oc=5",
+          "summary": "La Cumbre Latinoamericana de Autismo reunirá a familias y especialistas en Santa Fe Elonce.com",
+          "published": "2026-08-22T00:49:00+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
