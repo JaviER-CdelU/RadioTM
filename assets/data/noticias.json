@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T14:36:54.694762+00:00",
+  "updated_at": "2026-08-22T15:34:21.244000+00:00",
   "status": "partial",
   "description": "Titulares y enlaces; el contenido completo permanece en el medio original.",
   "groups": [
@@ -10,17 +10,6 @@
       "type": "Web",
       "homepage": "https://lacalle.com.ar/",
       "items": [
-        {
-          "title": "“Violencias Invisibles”: una charla para visibilizar distintas formas de violencia - lacalle.com.ar",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRGFGdVBfRkk0U0d4SjNvQlRfS19NaVVsZUgyMjVLdlBramlSb1pjRG9aOTNmRmtBYWlPUFV2cXV6dzBNd1VjRW16RjVHTmxHSlp6TEdvVzRwTERFczh1al9UaDRYWVptNGgyQUhRYV9yTGZ2YzY5eW12LXdkTklWNDBWYWxRbGdsN1hWTEdZZTh1UXU2bXFsYjI2NEhEWG5pN3RvdlJR?oc=5",
-          "summary": "“Violencias Invisibles”: una charla para visibilizar distintas formas de violencia lacalle.com.ar",
-          "published": "2026-08-21T11:20:56+00:00",
-          "source": "Diario La Calle",
-          "source_url": "https://lacalle.com.ar/",
-          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
-          "source_image": ""
-        },
         {
           "title": "Rocamora juega en casa la segunda fase de la Liga Federal Formativa - lacalle.com.ar",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ0kyRjJHTjZ1YkZnQ1RFRUMwZDlYZ1ZSUWphM1ZIZ2VEeDdGd0d0ckxPOXQtQlpxdnNpWXRzQnU2aVVRQk41X0NoTlo3QWpMaWEtTzVaNDZCQWxoU1lZR2pQU0o0VWlDSVlUb09OVHVVa0ZhakFMSXZKQk9ySnRoRnJLUXhYQ0JjMGxLdUtLRm9NdVM5MXc?oc=5",
@@ -37,6 +26,17 @@
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOUpsLVlvMzRRYk9pckZtQ2Y2YXc5aGp1RUNIc2stLWcwSXl6M3ZTRmlWTWdpQVF5d3kyWWh0MWxEOEpELTZ0VHlaWXpXMEIxUFEzcmFZNEl5d1ZKbmpZQ2F3RmNpRFo3NWJFTVhsSUcwVHBScDBEdXlLWk4xR2pXaW5PcHRGWUVRSkxzUHlPQnIwYTFJNGJFRlBjN1hOS0dXcDB3TGp0SQ?oc=5",
           "summary": "Básquet Femenino: Parque Sur disputa la segunda fase de la Liga Federal Formativa lacalle.com.ar",
           "published": "2026-08-20T12:50:32+00:00",
+          "source": "Diario La Calle",
+          "source_url": "https://lacalle.com.ar/",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
+          "source_image": ""
+        },
+        {
+          "title": "Entre Ríos refuerza su respuesta ante El Niño - lacalle.com.ar",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5md01UMXoyQkRGX2pENGMtR1NfLWM0WEtidUZGUTNJZ2NXZ0hVQUhYX25NWHdUVmVpNHZ2eGh4cmlPTk5MVUpvVWVRckxoM2RzZGtXaVJrOG5LV3Vkc2Z6aEF2TnNtdVZpcEhrWHBFNG5TQWlRYm8tZQ?oc=5",
+          "summary": "Entre Ríos refuerza su respuesta ante El Niño lacalle.com.ar",
+          "published": "2026-08-21T11:07:36+00:00",
           "source": "Diario La Calle",
           "source_url": "https://lacalle.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -126,10 +126,10 @@
           "source_image": "https://www.elonce.com/galeria/sitio/marca-de-agua4-jpg.jpg"
         },
         {
-          "title": "Una travesía impulsada por la pasión fierrera: recorrió más de 150 km en bicicleta para vivir el TC en Paraná - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMWZkWkFoRDhYSUJhcmt5RzZKSGs1ci0wMzJvejE4UW0tYm1JTmNPVWQ3Z0RqcW8tajZBUkpUZko2UVFBYzdiOHl1S2lNTnBqRnIwSVNXOUJvY3NMd1l0QjdrbktWdndDUFRmMGZwcmxFeElTU3I4Rm1xd0dSb3lDVWhxcU9NRUFhc2RGN0J5cWJXZHFHbEU5akhEMDLSAZYBQVVfeXFMUFlLenpLeVZ2YnA3VWJQRDh3eEJCZ3hLS2hCV29EZzMtZ0dwZ1FGMkI2VjU3cUlXLTNRRWRCSlR4akhzQ3M1ZlpjbUdiZ2JIMWRlbG1nM2tNQWZpYkd5MFppdXpNb2pDVC1IVmFaQlpRRkhSb2FIeUJBczJMcS1VZERUaGZzY2V2ZV8xSHBhSG9pTWlJeWtB?oc=5",
-          "summary": "Una travesía impulsada por la pasión fierrera: recorrió más de 150 km en bicicleta para vivir el TC en Paraná Elonce.com",
-          "published": "2026-08-22T14:25:00+00:00",
+          "title": "Se realiza en la costanera de Paraná la choripaneada más grande del mundo - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOWI2X3Jhd3l4ZjNxUjU0NGxFOVdXVWRNYm9UU3VIb3Q0Z0ZLRUhybkRuaVRqM002Uy10WlEwSDI5XzhsT1pXci1lUXFiLUNLQWsweUlWOENuWFhXWnB1OFpZVHFuejFiNzM1czVHRDJoT2w3Y0xlYVN2RkhSenRzampVQ2RQRnUyU3NfTkIwT2Nnd0Z2YWfSAZIBQVVfeXFMTjVJekhraXp2dVpmdWthQ1ZnNnNTRTRkY3BTUjlIaWdna0p5bm5JVGhIN0l2OE1BRTdMTDdha2ptZk95bjl6dmJDTnJHVl9LcnNxbWVLSjNjYXktdzNwZ19oQ0VrR0FFVW9jMHkzSnZTbElRU0RnNDdmX09WdW5EWDdKYmotUjhCZlJIODExbWxDZlE?oc=5",
+          "summary": "Se realiza en la costanera de Paraná la choripaneada más grande del mundo Elonce.com",
+          "published": "2026-08-22T14:58:39+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
