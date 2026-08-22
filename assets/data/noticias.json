@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T03:06:46.454994+00:00",
+  "updated_at": "2026-08-22T03:55:35.361814+00:00",
   "status": "partial",
   "description": "Titulares y enlaces; el contenido completo permanece en el medio original.",
   "groups": [
@@ -10,17 +10,6 @@
       "type": "Web",
       "homepage": "https://lacalle.com.ar/",
       "items": [
-        {
-          "title": "“Violencias Invisibles”: una charla para visibilizar distintas formas de violencia - lacalle.com.ar",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRGFGdVBfRkk0U0d4SjNvQlRfS19NaVVsZUgyMjVLdlBramlSb1pjRG9aOTNmRmtBYWlPUFV2cXV6dzBNd1VjRW16RjVHTmxHSlp6TEdvVzRwTERFczh1al9UaDRYWVptNGgyQUhRYV9yTGZ2YzY5eW12LXdkTklWNDBWYWxRbGdsN1hWTEdZZTh1UXU2bXFsYjI2NEhEWG5pN3RvdlJR?oc=5",
-          "summary": "“Violencias Invisibles”: una charla para visibilizar distintas formas de violencia lacalle.com.ar",
-          "published": "2026-08-21T11:20:56+00:00",
-          "source": "Diario La Calle",
-          "source_url": "https://lacalle.com.ar/",
-          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
-          "source_image": ""
-        },
         {
           "title": "Rocamora juega en casa la segunda fase de la Liga Federal Formativa - lacalle.com.ar",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ0kyRjJHTjZ1YkZnQ1RFRUMwZDlYZ1ZSUWphM1ZIZ2VEeDdGd0d0ckxPOXQtQlpxdnNpWXRzQnU2aVVRQk41X0NoTlo3QWpMaWEtTzVaNDZCQWxoU1lZR2pQU0o0VWlDSVlUb09OVHVVa0ZhakFMSXZKQk9ySnRoRnJLUXhYQ0JjMGxLdUtLRm9NdVM5MXc?oc=5",
@@ -37,6 +26,17 @@
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOUpsLVlvMzRRYk9pckZtQ2Y2YXc5aGp1RUNIc2stLWcwSXl6M3ZTRmlWTWdpQVF5d3kyWWh0MWxEOEpELTZ0VHlaWXpXMEIxUFEzcmFZNEl5d1ZKbmpZQ2F3RmNpRFo3NWJFTVhsSUcwVHBScDBEdXlLWk4xR2pXaW5PcHRGWUVRSkxzUHlPQnIwYTFJNGJFRlBjN1hOS0dXcDB3TGp0SQ?oc=5",
           "summary": "Básquet Femenino: Parque Sur disputa la segunda fase de la Liga Federal Formativa lacalle.com.ar",
           "published": "2026-08-20T12:50:32+00:00",
+          "source": "Diario La Calle",
+          "source_url": "https://lacalle.com.ar/",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
+          "source_image": ""
+        },
+        {
+          "title": "Juntos por Entre Ríos cuestionó al Defensor del Pueblo de Paraná - lacalle.com.ar",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcUpWR296ZkJLTzQyWm5WZEhGNVNKSW5oeVFKQzJ1ZnVIamFXM3Q3bG8ya2o1aDJiaklZNjZjT2puYVJHY3ZDM0x0OG9pYUJBTEJuTlFPUERkeDdRaktOVFZZY05FSk9wX3V1RDNwckNKZjdiblVjSENHWVI5T3lvM3Ixd3Fmck9OS1dEc2p2N1VrZw?oc=5",
+          "summary": "Juntos por Entre Ríos cuestionó al Defensor del Pueblo de Paraná lacalle.com.ar",
+          "published": "2026-08-20T01:37:26+00:00",
           "source": "Diario La Calle",
           "source_url": "https://lacalle.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -95,10 +95,10 @@
           "source_image": "https://www.r2820.com/images/custom/logo-social.jpg?_v=v3-45"
         },
         {
-          "title": "Alerta: detectaron el primer caso de picudo rojo en Entre Ríos",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUWR5ZDZzZDNkRlczX3liYnNOdHlacGwtdUpOOE1UY21aakdMTWVaUEJtejlWai1Rblh3VUZxTnhjNWtkc0tYbTJQblVnUUwxcHVPelEzb2swZzVJQzgzdFB3aHVpTmR4SmQ4UlB5TTMzclRWNUdxM0FqN0x2TFdLbk9qYkNrbFIzOXBvcjQ0eE9HMEFIclZIaHgxa0JYZEV3Z25DYk9ueVd5NXlMV2Z30gG0AUFVX3lxTE9jZXlrNFpMUzRod3paTlhGWGpoMkRRcGJwc0pSdTVDVlJLN0VBVVpHZHRyaUZmWkJIR1VBNlpGMDh4ZjY2ejhJaVpqOURzQjAyR1lHYzNRZDByNkZzeE82Vnl4YW1tb2ZheHlLMEZhVWx2bUdxS0d4czFsSzNfVnRCRlVqQVpzaWM2UFVGOG8zRlQ2SlFuejByS0trUy1rYXNRTFJ4OWtzTGkxRFFydUlNcWwzOA?oc=5",
-          "summary": "Alerta: detectaron el primer caso de picudo rojo en Entre Ríos R2820",
-          "published": "2026-08-19T13:46:44+00:00",
+          "title": "Tránsito: cuáles son las nueve calles con cortes en la ciudad",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSmdvRXZfNXFxV21ibjhvdFlGQUpWeFY4djFld3hpb3VEM2pzVk1zRjQ0WVZjZ0hPYVJMUVJGQi1PZDVPU0NXRWNic1NFemVhdEZHSzA4V09reUhkNlNYSWQ3N2Vqa1lVQm96X2gtb2d1LU5seUFSekpMV1QyWEdtTm1pU3hYdklOcnRiMXdIREQ3OGZsUW1MRjJweHFNd2hNZDJ6a2x0UFVxNDJMUVHSAbMBQVVfeXFMTWMxNDB5YklOZS1aZWZ1bFVOemJiYW51emItU0E4a1RRSE5WcHpNWkQ2d0hQU20zYXh1aXlPS3dnWWthR0VfY2NncThacmxEcXpRZEJMYUxUV0MwSjhMWHpHRmZ3RUgwNlh4R1lzai1wa0VqMmx4WjZtVm50UU1NSUxpTDdRWHhIX21RM1paaC1XWnJGUEFiUlRGNWRNRm9MajBqSjhkRGIzdDRCVk1PdHpsdkE?oc=5",
+          "summary": "Tránsito: cuáles son las nueve calles con cortes en la ciudad R2820",
+          "published": "2026-08-19T19:57:52+00:00",
           "source": "R2820",
           "source_url": "https://www.r2820.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -115,10 +115,10 @@
       "homepage": "https://www.elonce.com/",
       "items": [
         {
-          "title": "El barrio Artigas tendrá su festejo por el Día del Niño con juegos, shows y sorteos - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbW1admY0TjlWMXg5V2ltVko2QlQ2Q3djYnRKMEQ0NzJ3NnpBMzY3VnczNlhyY1huWTdsSmRjdDVBQXpjME9ZMTBRY2JnZl85QnhubFpaUkhGaVFYVmdfNFNQT2dFdW1uTnpZZjcxdFM2a19PR0lnNHFaLXFtcmhsQ0lSRVctOFVtTmE5d1ZjNGpKYVgzVzZBdnV5OEphOWZVdTdTM20xZTV0MVB1WXF2TnV4OWI0akx4ek5aYUVlQ0twX09sM1VB0gGzAUFVX3lxTE5pancycHdXMTd3eTN6YlVhUEltUVBQclVoYTh3SDk3T2RvLXRCOXFESzdILTlEN0JDMTVuaGVpM21BMnltaDhaMzViWG10NThnOXlScERNYmQxOVpydlFtLS1YcDNnZjRfSjVpVUNLVTJkX3FLd3BHY2pLdjRKbE5VNVRvSWU5em9DV2xYWThkSmxHZ29nRjVKbzhpcndkZU9XVzNWM25zSnY2cWJOelpxcjVB?oc=5",
-          "summary": "El barrio Artigas tendrá su festejo por el Día del Niño con juegos, shows y sorteos Elonce.com",
-          "published": "2026-08-21T23:51:25+00:00",
+          "title": "La Cocina del Once: buñuelos de espinaca, moussaka y panna cotta para hacer en casa - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPekJ1aVl1am9kMGN4djVhQU9RNFpUbXQ3Z3VRX29zRDY2OTU2N2t5ZldGZmxHcTNUSWM1ekdpRmdwY1NSaGRUWldWbURxUEZoTFA4em95QWVrTUVPQzAwQ2RMXzhtZENLNGppMjM5YV9lMWlRZGtZWl9nT0MzYXFkRlVCdXRFZTFyNHFHUnAzSDVUMjdmWTNVZl9hRkhzMkVNLWtUUzFCMmplT2dhbzZlYV9DLTZVMWk2a0xOdGhGcEVnRFRVZFHSAbIBQVVfeXFMTTR4aElZeHBTcVgyeXhxNFVwa0dFLThBX2VFcU52eThnb3hsbE1zeVhkYWMtTjB4WUx2ZHpjd2ttTW4weXdTaW82aWlNLTU5S200ZkNhaEdKclIxbFhEc3Q4Z01EcUdnbnFvQm15aVlNZGZJdGowSmtReTdmUWRLcXNzdnlsWjVNSGQ2V29iMXE0cV9RZUdOa2p2WVFSQ0NoWFlDNmo5MVo5dFltck1yTkZjZw?oc=5",
+          "summary": "La Cocina del Once: buñuelos de espinaca, moussaka y panna cotta para hacer en casa Elonce.com",
+          "published": "2026-08-21T21:02:00+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
