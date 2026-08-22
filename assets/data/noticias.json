@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T11:38:01.474904+00:00",
+  "updated_at": "2026-08-22T12:59:42.138453+00:00",
   "status": "partial",
   "description": "Titulares y enlaces; el contenido completo permanece en el medio original.",
   "groups": [
@@ -10,6 +10,17 @@
       "type": "Web",
       "homepage": "https://lacalle.com.ar/",
       "items": [
+        {
+          "title": "“Violencias Invisibles”: una charla para visibilizar distintas formas de violencia - lacalle.com.ar",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRGFGdVBfRkk0U0d4SjNvQlRfS19NaVVsZUgyMjVLdlBramlSb1pjRG9aOTNmRmtBYWlPUFV2cXV6dzBNd1VjRW16RjVHTmxHSlp6TEdvVzRwTERFczh1al9UaDRYWVptNGgyQUhRYV9yTGZ2YzY5eW12LXdkTklWNDBWYWxRbGdsN1hWTEdZZTh1UXU2bXFsYjI2NEhEWG5pN3RvdlJR?oc=5",
+          "summary": "“Violencias Invisibles”: una charla para visibilizar distintas formas de violencia lacalle.com.ar",
+          "published": "2026-08-21T11:20:56+00:00",
+          "source": "Diario La Calle",
+          "source_url": "https://lacalle.com.ar/",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
+          "source_image": ""
+        },
         {
           "title": "Rocamora juega en casa la segunda fase de la Liga Federal Formativa - lacalle.com.ar",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ0kyRjJHTjZ1YkZnQ1RFRUMwZDlYZ1ZSUWphM1ZIZ2VEeDdGd0d0ckxPOXQtQlpxdnNpWXRzQnU2aVVRQk41X0NoTlo3QWpMaWEtTzVaNDZCQWxoU1lZR2pQU0o0VWlDSVlUb09OVHVVa0ZhakFMSXZKQk9ySnRoRnJLUXhYQ0JjMGxLdUtLRm9NdVM5MXc?oc=5",
@@ -26,17 +37,6 @@
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOUpsLVlvMzRRYk9pckZtQ2Y2YXc5aGp1RUNIc2stLWcwSXl6M3ZTRmlWTWdpQVF5d3kyWWh0MWxEOEpELTZ0VHlaWXpXMEIxUFEzcmFZNEl5d1ZKbmpZQ2F3RmNpRFo3NWJFTVhsSUcwVHBScDBEdXlLWk4xR2pXaW5PcHRGWUVRSkxzUHlPQnIwYTFJNGJFRlBjN1hOS0dXcDB3TGp0SQ?oc=5",
           "summary": "Básquet Femenino: Parque Sur disputa la segunda fase de la Liga Federal Formativa lacalle.com.ar",
           "published": "2026-08-20T12:50:32+00:00",
-          "source": "Diario La Calle",
-          "source_url": "https://lacalle.com.ar/",
-          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
-          "source_image": ""
-        },
-        {
-          "title": "Entre Ríos refuerza su respuesta ante El Niño - lacalle.com.ar",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5md01UMXoyQkRGX2pENGMtR1NfLWM0WEtidUZGUTNJZ2NXZ0hVQUhYX25NWHdUVmVpNHZ2eGh4cmlPTk5MVUpvVWVRckxoM2RzZGtXaVJrOG5LV3Vkc2Z6aEF2TnNtdVZpcEhrWHBFNG5TQWlRYm8tZQ?oc=5",
-          "summary": "Entre Ríos refuerza su respuesta ante El Niño lacalle.com.ar",
-          "published": "2026-08-21T11:07:36+00:00",
           "source": "Diario La Calle",
           "source_url": "https://lacalle.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -84,10 +84,10 @@
       "homepage": "https://www.r2820.com/",
       "items": [
         {
-          "title": "El Niño, gas natural y el hospital fueron los temas de la reunión entre Davico y Frigerio",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMXBtMW45b25tLXUyR2NhUWFudnBaZnE4T3dCRG5aZlhRV3FBZFNPbG92OVcwbVV5MTJfSVVQT0M0bTBkaFRFSmNaRTBFZ0hJa2pWQldDcWtIcnNYYnUzWFk0aG4xc3pYRkpKSUFaN3lqNnBtQ09pT3lWTTMxWjhZbzExRzFIdnI0cENNY1Z1RzExX0ZZNm5UVndOSDN3Rmh1OEcxR2xNdVZ1amRmU0J4eklRaWFpX3gtSGlCTno4VG9PbTk0aDNrXzJESkVVWWZnc2NB0gHYAUFVX3lxTE5wWTRUSm1tX2FqVlNLYUZPRVFoTTh6SURObk0ycmstNVZvR2tqZWpnRzBCcG84QWM0NmdLakR2WEVRLVRQS0V4SnJncnV6ZVh3WHR2ZmlHSXN4NnpSRzRyRWlfdkpUNThpVXZwcjRCTFZlbGVFb2JCZ1NvQ2gwUVptQjYzZG0tdzJJd0Zsd3hzT010SWZmNFU3M2VwNzBrM24xWktwb2Z0eThmM1B4dEFmWkxqb291RWRHMXd1Szh4S2ltUHRsNDU4cElGbGFfc1A4VWhUbTh1Mw?oc=5",
-          "summary": "El Niño, gas natural y el hospital fueron los temas de la reunión entre Davico y Frigerio R2820",
-          "published": "2026-08-20T19:56:48+00:00",
+          "title": "Detuvieron a un hombre acusado de un robo en la zona sudoeste",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZVYwcEFJa0ZjTW91TTZoa2txck5Db1F3NmpqdUdhVUE5LXQ2ZWk1SVFsNXl5enB0RWp2ZlFiSmNzbC1xOXROdElRQkdwR2hDbHI5MXFJNWNBTzRQWlkxRy1JRnRkUzZLcHBSUVZzTFc4akZ0eXRUYmlQOVRXSlB4RWw5RTctWUhOUzl6Z1piSlpRV3ZhYnhfN1JYNmlwWWxBa0l5U2I5YWhfemdkdkxj0gG0AUFVX3lxTFAyNUtQREYzbDd3cU02SGxNTXZFb0R2RDEzQkpkdzdsV0FOalp5UnJaRnpnZVkxblh0cnBHRjVBQnc3Rl9saTk5ZEpJVHltNElNa2RwaW90MnlmVk15NUR6c21aZlR4T0tHMk9jX0dsemdOXy1rb2ZpUnVUZlJCWkJ1bWRROWMtVjljamlEQnl0VkdlS2loZjRXT3Z2a3NRM3llbHdSclRWYmI1dm4xeDE2ZnAySA?oc=5",
+          "summary": "Detuvieron a un hombre acusado de un robo en la zona sudoeste R2820",
+          "published": "2026-08-21T11:51:28+00:00",
           "source": "R2820",
           "source_url": "https://www.r2820.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -95,10 +95,10 @@
           "source_image": "https://www.r2820.com/images/custom/logo-social.jpg?_v=v3-45"
         },
         {
-          "title": "Tránsito: cuáles son las nueve calles con cortes en la ciudad",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSmdvRXZfNXFxV21ibjhvdFlGQUpWeFY4djFld3hpb3VEM2pzVk1zRjQ0WVZjZ0hPYVJMUVJGQi1PZDVPU0NXRWNic1NFemVhdEZHSzA4V09reUhkNlNYSWQ3N2Vqa1lVQm96X2gtb2d1LU5seUFSekpMV1QyWEdtTm1pU3hYdklOcnRiMXdIREQ3OGZsUW1MRjJweHFNd2hNZDJ6a2x0UFVxNDJMUVHSAbMBQVVfeXFMTWMxNDB5YklOZS1aZWZ1bFVOemJiYW51emItU0E4a1RRSE5WcHpNWkQ2d0hQU20zYXh1aXlPS3dnWWthR0VfY2NncThacmxEcXpRZEJMYUxUV0MwSjhMWHpHRmZ3RUgwNlh4R1lzai1wa0VqMmx4WjZtVm50UU1NSUxpTDdRWHhIX21RM1paaC1XWnJGUEFiUlRGNWRNRm9MajBqSjhkRGIzdDRCVk1PdHpsdkE?oc=5",
-          "summary": "Tránsito: cuáles son las nueve calles con cortes en la ciudad R2820",
-          "published": "2026-08-19T19:57:52+00:00",
+          "title": "El Niño, gas natural y el hospital fueron los temas de la reunión entre Davico y Frigerio",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMXBtMW45b25tLXUyR2NhUWFudnBaZnE4T3dCRG5aZlhRV3FBZFNPbG92OVcwbVV5MTJfSVVQT0M0bTBkaFRFSmNaRTBFZ0hJa2pWQldDcWtIcnNYYnUzWFk0aG4xc3pYRkpKSUFaN3lqNnBtQ09pT3lWTTMxWjhZbzExRzFIdnI0cENNY1Z1RzExX0ZZNm5UVndOSDN3Rmh1OEcxR2xNdVZ1amRmU0J4eklRaWFpX3gtSGlCTno4VG9PbTk0aDNrXzJESkVVWWZnc2NB0gHYAUFVX3lxTE5wWTRUSm1tX2FqVlNLYUZPRVFoTTh6SURObk0ycmstNVZvR2tqZWpnRzBCcG84QWM0NmdLakR2WEVRLVRQS0V4SnJncnV6ZVh3WHR2ZmlHSXN4NnpSRzRyRWlfdkpUNThpVXZwcjRCTFZlbGVFb2JCZ1NvQ2gwUVptQjYzZG0tdzJJd0Zsd3hzT010SWZmNFU3M2VwNzBrM24xWktwb2Z0eThmM1B4dEFmWkxqb291RWRHMXd1Szh4S2ltUHRsNDU4cElGbGFfc1A4VWhUbTh1Mw?oc=5",
+          "summary": "El Niño, gas natural y el hospital fueron los temas de la reunión entre Davico y Frigerio R2820",
+          "published": "2026-08-20T19:56:48+00:00",
           "source": "R2820",
           "source_url": "https://www.r2820.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -115,10 +115,10 @@
       "homepage": "https://www.elonce.com/",
       "items": [
         {
-          "title": "Paraná Ama la Hamburguesa: habrá 50% de descuento en más de 15 locales adheridos - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVGk4V2Rzdm9xMnFvQzNkMkk0SzFsaUhrU2REMzRhbDI3bHFUeXI4YnMydFBhREZVUXVMenVaa01JV21CcDF1WGZGNmlVcERKSm56eUM0QVpDa3F2eEhibDNiLVVSWVBLOHlNaElocy1BVkF0a1B6QXRpeW8wZ01mSFUwM2ZDRFFKR1ptM1gxN2ZyQdIBjgFBVV95cUxPTC1tSmpiMnhLTTlVMEN6bXE0RkdCNHpJS3ZhRWFUS0pSZFZHZmVtQXY4TWduSDNBWDlyaEw5c1J6THdWeFRkVnBVYzJMOGRIRnJvTE9SVlg3OUU3TUVpcmVFakcwR1RxUFZKQl9zWmFISXI3XzhWdFhKSF9XVWttVjBpN2ZSVTdUUjJsTFJn?oc=5",
-          "summary": "Paraná Ama la Hamburguesa: habrá 50% de descuento en más de 15 locales adheridos Elonce.com",
-          "published": "2026-08-22T10:51:57+00:00",
+          "title": "Amenazó de muerte a un vecino, rompió ventanas a ladrillazos y fue detenido - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcTRUSXVPUGRoYlRhMGk5QzlvVTBDTm1fRU1fX1V1UUNnR0g2M1VnWDhjME1fMnlSZkRpVjBUY3M4ODF3VkJkTmJQdTBTUF9yRkNXYXptQk80TEdNd2x1QVhXNFMyUDFpODBFRXhDVTVYUU5XNFZJREFSZnlYNDdFbHpyZVdLd0cwN292RnRvaVpCMGlfbjctOUFSWldrZlR2YnB6LWNwS2NuOGhKZ0ZZSzln0gGoAUFVX3lxTE9LeGw0cTJYUl9ZX1ByY0R4a0NnZEp3RDEyV3lqa191WFBCdGl3bDFOTTNKc3Q1OVUxUU5wTjlpRzkxd2phMC0zZUVlRFNBR0ROX21mRE45NF93OE5hVHNwQmF5Mi1EQjBFQjc4TVcxcGwyTnFqbG5RWENFenhBeVA1YnVPNFgxSzNDQVg5S1hSZEZkR2VpYmpFYTFFOE5LNG53bThnREpyUA?oc=5",
+          "summary": "Amenazó de muerte a un vecino, rompió ventanas a ladrillazos y fue detenido Elonce.com",
+          "published": "2026-08-22T12:01:52+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -126,10 +126,10 @@
           "source_image": "https://www.elonce.com/galeria/sitio/marca-de-agua4-jpg.jpg"
         },
         {
-          "title": "Murió el “curandero” que había sido condenado a 19 años por abuso sexual en Concordia - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNnpnX3o5cUYyVnRJSHlYX21NNGNXZW9tc2tWaU5hTGpLU3I3Tld4dVl5YUdoOWZjdHVJVnVrTXIyREgtWHAyUGs4X3ZPMF9DQk5QdVVFUzBUWlVuTV8yMVA4bUROWGRSazA3QXZoeFY3NTl6ZDN0a3hvLU5tT3VCTDlLeTl5LVlxaC1MeHNLakJDRWxUR2JCT2d30gGTAUFVX3lxTE8tQ0hheDIxRzV1Zk1XYVBTTDZJa0gtMHdmNGlsUnRSNngwMGdYSDhELThHNktPeHhKa0kxQURQemJTdDRjc3RkSEZMNmd3cS0yb1B1dGFwR3N2aU9jdXNjYkIzc3FjV1B2T2FRZzl6bXQxbmg5VmhTQjVKX19YTVRwa3JLaEJSY2N6ZEh6VEhIYUFGQQ?oc=5",
-          "summary": "Murió el “curandero” que había sido condenado a 19 años por abuso sexual en Concordia Elonce.com",
-          "published": "2026-08-22T11:12:02+00:00",
+          "title": "Violento choque frontal entre un camión y un auto dejó tres personas heridas en la Ruta 18 - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRDJ4bWpsb1RPV2RvV3BvTlYxZGtrLW9JVWd3TFlCOVJaOXNQeTBqTUFEdXBZQmwyXzlyNG1SajFOZkVUNy1Ea25EaTZZT1RZZDVqN3BVZUdxRTExNTQ1OUFfVWRIRUVWa3BZS3doWGIwbmhCQmJIZElMVkxBZjN2UkNTeEhoUDJOQ0tTRFo1THZ4YUFZ0gGLAUFVX3lxTE5BbkQ4aXhnNy1wYV9mSE5kMlpnZ3dzN25SOEFpbk5uWU54MnBMdi1XWmpLWkUwWHhwYkZSc1FXVmVLTGdia05zM3lTZnp1ZjRRU2Z4WW5JMnNDTVp1bml1MnZ1Nm50TDFrME15Yi1FUFVMWVZFYnZKZ2hVUjVYN29teGs5ZUZGWEN4V2s?oc=5",
+          "summary": "Violento choque frontal entre un camión y un auto dejó tres personas heridas en la Ruta 18 Elonce.com",
+          "published": "2026-08-22T11:38:52+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
