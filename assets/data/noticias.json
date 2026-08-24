@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T15:56:10.569032+00:00",
+  "updated_at": "2026-08-24T16:54:23.211005+00:00",
   "status": "partial",
   "description": "Titulares y enlaces; el contenido completo permanece en el medio original.",
   "groups": [
@@ -10,6 +10,17 @@
       "type": "Web",
       "homepage": "https://lacalle.com.ar/",
       "items": [
+        {
+          "title": "Continúan los talleres de prevención sobre suicidio en escuelas - lacalle.com.ar",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPX3ZUVnk5dVJBNm8zbUlieFFaQnYwRndjc3NxcUNIZE1RdmlhWDRRbFlDOTNGR19HRnJKUVZFMHliczNOYlg0NlEyTkpIcHRkcGNxNzktQXdHRW1XVFJ2ZUhSRWRQU1FWcWtMc3NuUF9LN3ZidmJzY2ZaT1I5UmtCdTBLM3RSRlNTeEpaR0JObE0?oc=5",
+          "summary": "Continúan los talleres de prevención sobre suicidio en escuelas lacalle.com.ar",
+          "published": "2026-08-24T11:06:04+00:00",
+          "source": "Diario La Calle",
+          "source_url": "https://lacalle.com.ar/",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
+          "source_image": ""
+        },
         {
           "title": "Triunfazo del Lobo ante Escobar - lacalle.com.ar",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14S2FpUzExbnhHb19RV0hpaDg1ckhXMXJuVU5tN09JRy1PU3JlLW1hbTRUUGVkMVJ3LWkyenQ4OE9aNWtETTdZamVwcVNjdmVUbFJ3Q1dyUVcxVU5sQW5laHV3bHFzUQ?oc=5",
@@ -26,17 +37,6 @@
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUHRUOGFDX05Ga3pYZFpnTlluSl9xQWtpWmdyT0RkWWJCSWEzWFdkZHVwWHhJX3cxUzZ4YjBTMkx6dHRBZVdUdTlsUjZBYWR0cTNhaDVfaFVOdFRSeWJEMjJzd3VkTklCZ1VueXFKVUxHVEozYWVQTFFDT1FEU0VFYk1GMGF6bmM3dHZz?oc=5",
           "summary": "Concepción del Uruguay Una ciudad de eventos y experiencias lacalle.com.ar",
           "published": "2026-08-23T16:14:32+00:00",
-          "source": "Diario La Calle",
-          "source_url": "https://lacalle.com.ar/",
-          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
-          "source_image": ""
-        },
-        {
-          "title": "El Virreinato terminó, la disputa por el Federalismo, no - lacalle.com.ar",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWF8wYUhTd0EwRzJ5MHRDNWZnbEVaWHhFYTFQR0FDWktVSERGd3dmMGo5VHBKQ2hBNEFVN1U5SXQ0NFlCLTAzYmQxcGZ0LW9PRDBva1pNNEpVZmQ0MHczN3V6X1E2aEZ6RUlseFFEWjZfdEFMRTd0aWptWmFoNk1KOENfSnA?oc=5",
-          "summary": "El Virreinato terminó, la disputa por el Federalismo, no lacalle.com.ar",
-          "published": "2026-08-23T15:52:07+00:00",
           "source": "Diario La Calle",
           "source_url": "https://lacalle.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
