@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T05:00:24.065097+00:00",
+  "updated_at": "2026-08-24T05:52:40.936753+00:00",
   "status": "partial",
   "description": "Titulares y enlaces; el contenido completo permanece en el medio original.",
   "groups": [
@@ -10,6 +10,17 @@
       "type": "Web",
       "homepage": "https://lacalle.com.ar/",
       "items": [
+        {
+          "title": "Triunfazo del Lobo ante Escobar - lacalle.com.ar",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14S2FpUzExbnhHb19RV0hpaDg1ckhXMXJuVU5tN09JRy1PU3JlLW1hbTRUUGVkMVJ3LWkyenQ4OE9aNWtETTdZamVwcVNjdmVUbFJ3Q1dyUVcxVU5sQW5laHV3bHFzUQ?oc=5",
+          "summary": "Triunfazo del Lobo ante Escobar lacalle.com.ar",
+          "published": "2026-08-23T22:18:47+00:00",
+          "source": "Diario La Calle",
+          "source_url": "https://lacalle.com.ar/",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
+          "source_image": ""
+        },
         {
           "title": "Concepción del Uruguay Una ciudad de eventos y experiencias - lacalle.com.ar",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUHRUOGFDX05Ga3pYZFpnTlluSl9xQWtpWmdyT0RkWWJCSWEzWFdkZHVwWHhJX3cxUzZ4YjBTMkx6dHRBZVdUdTlsUjZBYWR0cTNhaDVfaFVOdFRSeWJEMjJzd3VkTklCZ1VueXFKVUxHVEozYWVQTFFDT1FEU0VFYk1GMGF6bmM3dHZz?oc=5",
@@ -26,17 +37,6 @@
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ZVW9oajVNa1lkdmF1aDJnb3hBQ1BsdWpwS1JkdjBuZUVoRlhBdzJ0RDVjT2txdkZ0TGZzTjlKMDh5LTBOT0hUb2FDYlhDYVRVVXROa2xTSmp1MDZTRVVCTmVCazc0dVpkZTVBNzVhdm5Yd1BhUUQ4?oc=5",
           "summary": "Lucas Raspall llega a Concepción del Uruguay lacalle.com.ar",
           "published": "2026-08-22T12:49:58+00:00",
-          "source": "Diario La Calle",
-          "source_url": "https://lacalle.com.ar/",
-          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
-          "source_image": ""
-        },
-        {
-          "title": "El Virreinato terminó, la disputa por el Federalismo, no - lacalle.com.ar",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWF8wYUhTd0EwRzJ5MHRDNWZnbEVaWHhFYTFQR0FDWktVSERGd3dmMGo5VHBKQ2hBNEFVN1U5SXQ0NFlCLTAzYmQxcGZ0LW9PRDBva1pNNEpVZmQ0MHczN3V6X1E2aEZ6RUlseFFEWjZfdEFMRTd0aWptWmFoNk1KOENfSnA?oc=5",
-          "summary": "El Virreinato terminó, la disputa por el Federalismo, no lacalle.com.ar",
-          "published": "2026-08-23T15:52:07+00:00",
           "source": "Diario La Calle",
           "source_url": "https://lacalle.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
