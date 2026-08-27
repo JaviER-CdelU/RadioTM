@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T23:35:03.862087+00:00",
+  "updated_at": "2026-08-27T09:46:21.225220+00:00",
   "status": "partial",
   "description": "Titulares y enlaces; el contenido completo permanece en el medio original.",
   "groups": [
@@ -10,6 +10,17 @@
       "type": "Web",
       "homepage": "https://lacalle.com.ar/",
       "items": [
+        {
+          "title": "Gran convocatoria para la charla sobre niñez, adolescencia y salud mental - lacalle.com.ar",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPS2l5SDRQRU9hWl8tQ3dVd29Cci1XM0RNdUY4Z1F1Q19IcXJieVRmaFQtVFVvZXFlbXFWd3RnXzVVcC0xT2JaUTgtT2QxZ1hYZnprUm5XQllCa0IwRW5ROTRTMzRmdWNHUEgtRDZSVFREclVwYWFacEFFUTYzSlZhd0E2MDRrX1VxeDlnZ1lGckxyYVhWckZkYktxWFM?oc=5",
+          "summary": "Gran convocatoria para la charla sobre niñez, adolescencia y salud mental lacalle.com.ar",
+          "published": "2026-08-26T20:46:05+00:00",
+          "source": "Diario La Calle",
+          "source_url": "https://lacalle.com.ar/",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
+          "source_image": ""
+        },
         {
           "title": "Adultos mayores: jornada cultural de los Juegos Entrerrianos - lacalle.com.ar",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZnp4UU1ETTNfMzB6aG5LU2Vsd3ZBWTlFM19IdmNHaW4ybEEzYkpoV1FoaHRoV042X1lxSkV0WlN4VUFXRnJiVzFya1VhZ05wQUhVRFBoNW9mdWlxSkhsWGVHLWQ5LTZVX2ZTNzNDNmFvaWp1VjNYWEZNNjVYVk8ycy1LcDVKZzBCT0dZ?oc=5",
@@ -26,17 +37,6 @@
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdlV0NHBwY2xWN1ZySlVHU0paeHBTVmIwSWY3MVE3TTVmUWJ4M2NLNXFwQkl3V0ZjYmE2VzBJVHdtZkpUVTh4bDUwdGoyMjN1RkUwTHR3clJxWm9NcWxNSEgtQXBJaWJFQ3MxY3U4aXVEcGxhZjZYX0lJUUV4SFFhTWdnczROWVlvTThOZjV0ZmozeXdZR3FVdXlVNkdXLS1hVGc?oc=5",
           "summary": "Estudiantes de la EET N° 3 suman experiencia laboral en empresas de la ciudad lacalle.com.ar",
           "published": "2026-08-26T11:14:34+00:00",
-          "source": "Diario La Calle",
-          "source_url": "https://lacalle.com.ar/",
-          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
-          "source_image": ""
-        },
-        {
-          "title": "Buscan relevar locaciones para producciones audiovisuales en la ciudad - lacalle.com.ar",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPU1gxM2pYWnpfS3BXeWU4a1l6ZkZvcnc1M3B3RVRIYklfWXh3T0FkY0NjN3dzdk84dTBJVC1EYS0yLWR5WVNYUEhLcmtrbEVnWDh3Y1NZR05jWnhoWmVSSHlxQXhNbG5CMEhEOWF3OXR0SC1xYUZTU2pkOHNqenNRM1pkUVJjUTF6amtrT3BsaDVHZktOd09IOXh3?oc=5",
-          "summary": "Buscan relevar locaciones para producciones audiovisuales en la ciudad lacalle.com.ar",
-          "published": "2026-08-26T14:49:12+00:00",
           "source": "Diario La Calle",
           "source_url": "https://lacalle.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -84,10 +84,10 @@
       "homepage": "https://www.r2820.com/",
       "items": [
         {
-          "title": "Detuvieron a un hombre por presunta violencia familiar",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOThsSzVTZjduTUFUVWdKdkV4cnp3MEpYZFctRks5ckpQWFh1NWFwZTZfTUJ2SHpybWdjOTdyakthNzUyWmZ1ZFdlMmdwX2F4UkhxUW41UFdiY0t0azB5ak45NGV6SnZnanpRcUpYLWxVaUtLbldtWEtDNGRfbUxST3l5N2FIdDh2ZnV1UG5EbkdkbkpEaDlSVjNEN3RMSWVSblNYbGJR0gGrAUFVX3lxTE04b1NqRVhXX2hGZ0ZBajB6OEFDbm4zaGdKRlVYdWVBczhSbktOVndKemhwQ25vaEJCRFlxN1RnWlVVcHpmSktmZjhUZWFqc0tWSl9DVkd3elpyNWlsVTQ3TXc5VlR0Ykd4anNkMzdIbllmTFhudTR5YnNPODBoN0xXOTFqUWkyTEJubmdHbVd1RE9vZjlNb1FEVzVQV1lzWkNNcFpHT2RDcnZzUQ?oc=5",
-          "summary": "Detuvieron a un hombre por presunta violencia familiar R2820",
-          "published": "2026-08-25T01:23:59+00:00",
+          "title": "Estafa puente en Urdinarrain: le exigieron devolver dinero a otra cuenta y terminó amenazado",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQjZqWWtnU0xRejJiRUtXNmFDQldJaUx2ZXctd0NmM055SHRlVDVvU05GVk1ialhBNGh0bk1PeWJPZkxOV29wc3RtZ0xOQUJTYVRrd0hoaWxJU1UxLXdodVpjd1RBMjIyUjJMdnVJZV9DbUYwNDdIdmgtU2FfaUNtd1FZRFR3Z3NST2t5S1E5cmdmMDNQcVdwdzdNWkdvcW1TSUZPeEdyNDlJeVRLSHJvU3VhaEVnYnl1UDQ1X0VCZ0pxZ0g1aHN0YmNGMzJZbDhnRUtsTVNORdIB3AFBVV95cUxPSFRMZ25nY0lacGt5cWZ1NzNNdVNBYV9XRTh6Rm9ldmhrS3NqdkQ1ZmRJTDdYeHA3YUNINUFyLTVSY2pJUmM1MjZYMFZqRkg3ZWRjU3JDMDJtYm93LUVjcVdpRU5WVEFDQXVjWXJFR0kxOGd3aTVLNDhYQlpLSzVFTllMeU9EWkhYc0NjWXNfSExlejF3Mmd6dU9QTEhlT3Q1TnpaNXl1dWtPSzViMzE0TTZjeV93UXJqcXVXVUhDY2xCczZjSzJ3bERiZHhCSGJUdzV1c1lXNmNka1ow?oc=5",
+          "summary": "Estafa puente en Urdinarrain: le exigieron devolver dinero a otra cuenta y terminó amenazado R2820",
+          "published": "2026-08-26T12:38:56+00:00",
           "source": "R2820",
           "source_url": "https://www.r2820.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -95,10 +95,10 @@
           "source_image": "https://www.r2820.com/images/custom/logo-social.jpg?_v=v3-45"
         },
         {
-          "title": "Carta abierta por Ana Inés Villanueva",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRWk3enBRUGlnSV9DX2NPM2J2RE40OHROWWJjeldKbnhEOGZEOUpEVUxmY3JnUlNMVlZoRHFwX2xmOF9SR3hDS1F3RWVwS1BQRGQyaUNqV05iM2VlZGdsM1h2ZlEzN3gyRHRaVDFOVzIyUnpOMW5qTmNrNUZGWkkzV0FjUi1RdENUX1VmeDZMb9IBlAFBVV95cUxPRXBNMmtsMG12MkZqT3FlNVhYYUtMemJ1VmUxajdodkttZVBVZmpOTUt1ZFNwUlI4WDB3amZibXphWVVjTC1zczhJTHZFb25rSXJDdTE0dWl0UlpLZlVzVXJrVlBWWkszVkhaYUlCR3MyeVctS0k0RTkzamVPLTJHako0aXl5NGdpdGpHMWxVc1ZpaW1K?oc=5",
-          "summary": "Carta abierta por Ana Inés Villanueva R2820",
-          "published": "2026-08-24T16:33:26+00:00",
+          "title": "Detuvieron a un hombre por presunta violencia familiar",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOThsSzVTZjduTUFUVWdKdkV4cnp3MEpYZFctRks5ckpQWFh1NWFwZTZfTUJ2SHpybWdjOTdyakthNzUyWmZ1ZFdlMmdwX2F4UkhxUW41UFdiY0t0azB5ak45NGV6SnZnanpRcUpYLWxVaUtLbldtWEtDNGRfbUxST3l5N2FIdDh2ZnV1UG5EbkdkbkpEaDlSVjNEN3RMSWVSblNYbGJR0gGrAUFVX3lxTE04b1NqRVhXX2hGZ0ZBajB6OEFDbm4zaGdKRlVYdWVBczhSbktOVndKemhwQ25vaEJCRFlxN1RnWlVVcHpmSktmZjhUZWFqc0tWSl9DVkd3elpyNWlsVTQ3TXc5VlR0Ykd4anNkMzdIbllmTFhudTR5YnNPODBoN0xXOTFqUWkyTEJubmdHbVd1RE9vZjlNb1FEVzVQV1lzWkNNcFpHT2RDcnZzUQ?oc=5",
+          "summary": "Detuvieron a un hombre por presunta violencia familiar R2820",
+          "published": "2026-08-25T01:23:59+00:00",
           "source": "R2820",
           "source_url": "https://www.r2820.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -115,10 +115,10 @@
       "homepage": "https://www.elonce.com/",
       "items": [
         {
-          "title": "Celebraron el Día del Cadete de Policía y destacaron la vocación de servicio - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPb1NGWG5qNDhNWnViUS1mWGQzRC12NmtQWFJQZjBJMWEyOUFkejBwVlZzSjQ0WThqY2tRUUpTZzNIQ0otMC1hNUc5T19MNW11TjU5QmVzbGsyRXdyMzRKbFdlSk1lM1dBZ0V3ZnVHNzhrQU93MkZ1WUZYR1VFNmlxN1ZtaVdVZXRGejFZcm5fbFJITnUtRlJkN3AtOEFDWjk4VkNJMzlnYVYxbUlPX3Jj0gGrAUFVX3lxTFBZeS1XLUFwOFFWaTRjb1ZtbWlYQ1NneVg4RXZtY3hFUk1Fem5NRHdkLXluNTdUa2RObjZ2czNlWk92NzN0THBVT0pXZGtlU1kyU0lUYlFfakpNWnB3aE9ZRUFLemVSUDRCVjZzc3lHaGtiT2F5Z0lQSjVNNVNJRUxlbUE3Z3lNb2p2eFdPU0V3eTJFWFBIS01BcVJaekhDYk92a01CV2w5VHhWUQ?oc=5",
-          "summary": "Celebraron el Día del Cadete de Policía y destacaron la vocación de servicio Elonce.com",
-          "published": "2026-08-26T21:37:52+00:00",
+          "title": "“Farmear aura”, fenómeno y expresión juvenil: Caraloco, El pibe de la FZ y FFER contaron de qué se trata en Elonce - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZktoUzhBVUhpR0duQ2ZLMmtwX3MxNEdIVEtjYTJTcDFvaXhRZXp3VC00UUhhbmY4TjVPUDVZZmRnX0FxclNYZFRCY3BWRXNWYjFKM2hRQ1AyY1lhTHYyR2RGYVVZYmkteURUY01HS3JiQ0EyaHZrYlVZc1VkdGJadkJabmlIR3h1emllb0ZfN2RhSG1IdXdOck5yMHh3UHVRX3c0alV1VUZlNTA3eVFCZGFnQ1FCNWtxeEZBWGF6cTJHaDlEdm01ekRLR1dMWTdOQWl4OWxoNWEweHfSAdcBQVVfeXFMTnZ4Nm1FQjU2dE9BZEc0dklvRFFITmpVYXY1OUZyYjRDYTJ1RmdDR1R6Q3pZWFNhTGdkSThLbFU4UV9mS1A4Qm9lemczZDBNbUFyeHVodU5jT0R2Y1pyR3JyOHExX25JeXZWdk91cVNNdjRMUFRJOHg4WFVETi1oYzNUT053aUhaakdfeVJPYzA4RUpuNGxacGE3b1hZaERUZ0Q3RHNCOVZsSU9uNlRTdFNOZGxrNWp3akFfeWZ0bk9MZG1KVEFOaTZKUGFjZkxtSUlfWWdvMkE?oc=5",
+          "summary": "“Farmear aura”, fenómeno y expresión juvenil: Caraloco, El pibe de la FZ y FFER contaron de qué se trata en Elonce Elonce.com",
+          "published": "2026-08-26T23:00:46+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -126,10 +126,10 @@
           "source_image": "https://www.elonce.com/galeria/sitio/marca-de-agua4-jpg.jpg"
         },
         {
-          "title": "IV Congreso Argentino Anticorrupción: las herramientas ciudadanas para combatir la corrupción - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMVlaRHdvX3FiTVQyWWJUcmc1cF9wZmlKREc1Yl9zMVYtdWxlSTJWTGdFTnlTbUdtc1Y2VjlfOFNhRjc4azFJckpLa21WeV9IanBGWTVGM3U4bV8yODNqMXNWYWxBLWd2bmctc0xieFBDTnNiTl9ka0RLRUk1aVZuV1E2Qk1vUUV2cGlGQmlRSXdROWlIbkp1QUpSNloxY2piZXFyWGI1clU3cG50TXJrdHhEdEF4ZmVmN09Mb01CMlN4NjlrM1JGQmVhMW9CSnE3WHp5U9IBwAFBVV95cUxNVEJXcmVaaEdtS1pzbG1NQ092WF9pS09mOEZJUVl3S1JGYVdkUjA0R2tQUGZlX1UyUWF0TVlZMFNYeTN5VWg0QjZpbXpPcTBsVTM4WGJBcUNuLWNOT2tFUFlVTnZiMnhOd3R4U0FJdnpkazZmNk5tTmw0SldZVEt0UlBkYVpfaU9mUGdsTGl3akF6RjlkVkZTVTBEc0dhQVhZRm1xU3EzTFJfVXhoa1E1ME9rdklubEMwYkV6RTNVdnk?oc=5",
-          "summary": "IV Congreso Argentino Anticorrupción: las herramientas ciudadanas para combatir la corrupción Elonce.com",
-          "published": "2026-08-26T22:15:27+00:00",
+          "title": "Campaña solidaria reúne juguetes para celebrar el Día de las Infancias - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbHhaZkZ2ZF9pMjNhMFlOOFNuaFo0N1hJMDhZZDF4UHBGemoyZ0pzN0Ryb2xwVzdraHo2RTVfREFjSWstZUs4NEhpMG5yVFI2UElTd2xkYjVpLVFrdlZndnc0eWZ6dGdKcXZ3Mmo4TnhBcVhsRXdPVm95cTliU2VWUW1rRFh5NVNGYS1FcGVvS0ZGRi1KLTRVcHREMldOeDg0WmxQaVMySmQzMmZwRjJtdENqZ3V2UW_SAaMBQVVfeXFMTlBGNUs2bXFvT2FpSHFjS1JfRGY0ZUxLWWJLczctR1YxU0c2WVhBR2ZuNUV2blpRMFkzbkp3aS1DanZ4cElQdVE1N2hLTk5tZzF1aUhfbFlaY2ZydjR4aldlOFQwRTNKalFUTEpUcTVXM21YNVlsdko1amZHNEpLVUdDcVE1RmNMUFFNaDgzZGdUSHlzdXBoX1VDZkZ3NlRfbmNESQ?oc=5",
+          "summary": "Campaña solidaria reúne juguetes para celebrar el Día de las Infancias Elonce.com",
+          "published": "2026-08-27T03:30:19+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
