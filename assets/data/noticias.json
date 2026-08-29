@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T18:40:29.533677+00:00",
+  "updated_at": "2026-08-29T02:10:29.426443+00:00",
   "status": "partial",
   "description": "Titulares y enlaces; el contenido completo permanece en el medio original.",
   "groups": [
@@ -10,6 +10,17 @@
       "type": "Web",
       "homepage": "https://lacalle.com.ar/",
       "items": [
+        {
+          "title": "Michel reunió a arroceros para impulsar las exportaciones a Europa - lacalle.com.ar",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMXNza2RkNk5HV1I2cU9Wd0NNMVZua1hNM28tTzFsUzhvZmRVUWd4c0RPSDdrV1I5Y2FJVV9YOUVlRDlmNTdhV2JwRzJYWUpNN09sa0VuSzZnMjhsUmZ3c3dPMlpyRFo5WGlTeGpDbU5fbW4zWm9ENzRVMUpDOHhzdjliTWZyN1dlZVdZazVyMzE2YWxw?oc=5",
+          "summary": "Michel reunió a arroceros para impulsar las exportaciones a Europa lacalle.com.ar",
+          "published": "2026-08-28T13:24:39+00:00",
+          "source": "Diario La Calle",
+          "source_url": "https://lacalle.com.ar/",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
+          "source_image": ""
+        },
         {
           "title": "Legisladores cuestionaron los datos oficiales sobre la situación de OSER - lacalle.com.ar",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONWhnMUZMYk1ONUk1UWxUY2l2YXhMeEhvU2NqMWg2RmZROUFyWHdudEFWOUs3cjBDRGFxX2tjdnZUOWlpNDNORnJBNGdsamFSdG1teFFFS192UXRzNFF5T3AtaXFVQjFzeGNJRWl6ZURMNTJYMUhsd3djQnRjZEhmWGw0LWdHQUI1Z0xPUjFFWUh5WldYOG4zbXk4NTc?oc=5",
@@ -26,17 +37,6 @@
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRmREV1ktMzhHWVd2STRZXzduU24ydmlwU2pLWEstQnZzUHl5eWdHTkpOdHdCQ1VJNjk2V2hRYlNtSjVvR0VEclYtRmsyOW9vZlVGTXh4MlNFVHFHX18zdU5RNXU0M1B4SGhpZS1ETFQxaXZtNW1QNFlvTmU5dzJFeXJnQTdwaVRBYklWSmN3?oc=5",
           "summary": "Jóvenes participaron de una capacitación sobre seguridad vial lacalle.com.ar",
           "published": "2026-08-27T17:46:49+00:00",
-          "source": "Diario La Calle",
-          "source_url": "https://lacalle.com.ar/",
-          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
-          "source_image": ""
-        },
-        {
-          "title": "Gran convocatoria para la charla sobre niñez, adolescencia y salud mental - lacalle.com.ar",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPS2l5SDRQRU9hWl8tQ3dVd29Cci1XM0RNdUY4Z1F1Q19IcXJieVRmaFQtVFVvZXFlbXFWd3RnXzVVcC0xT2JaUTgtT2QxZ1hYZnprUm5XQllCa0IwRW5ROTRTMzRmdWNHUEgtRDZSVFREclVwYWFacEFFUTYzSlZhd0E2MDRrX1VxeDlnZ1lGckxyYVhWckZkYktxWFM?oc=5",
-          "summary": "Gran convocatoria para la charla sobre niñez, adolescencia y salud mental lacalle.com.ar",
-          "published": "2026-08-26T20:46:05+00:00",
           "source": "Diario La Calle",
           "source_url": "https://lacalle.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -64,10 +64,10 @@
           "source_image": "https://www.lapiramide.net/images/custom/logo-social.png?_v=v3-27"
         },
         {
-          "title": "Llegó a Concepción del Uruguay \"Roco Traslados\", un servicio de traslado para mascotas",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQazAwMlNmS2htelh6MTlZc1FVTXg5amhKYUN0VDhIVlFoek1TUVlJTVY3YkdZeXo2MGlMZ1dhbzdIWm5KZXF4cVNJbXE3anQzQjc4dzV2b1AzRG1KaENwSlphNG5weEU2eTBNV3BrSVBJTEJrQjlxRmY0dXhUSGhJUjVkb0twQXhibm9xNWRuUkFBUFJud0lkQ3lsT2MzcHRNcGFSUXhETUxGN1hBdUkxYXpVSW9pTFl5RUY1LWY4R2hiWEI3ZGZuYVRuT2FkdG9HWU5z0gHYAUFVX3lxTE9seVhKWGlybnZ2NE8wV1BKd2ZRMUYzSkdFM0NsMHlNUkZLQnMxUjMwcFJtTUx4XzFPRjF6RUE2QlVTeFRvZDNYSXFJbldBdUVnQkZzZFZ0cnMwOXZTUi1DTG5QMng0MXVydU1HakVWTldJUC1rdWw5b0JNZ0Z4Z2l4UndIbWNVOVRLNWZVOEdlRjRiLUg3YWQ0TmYzQUp3ZkpWRnN5U1VUb1ZhODV0ZEx1YXRzdjZkLXZqTUNCaHIxSENCbUZlT3BpcV9wbVBIY0xEczR4Snk4Xw?oc=5",
-          "summary": "Llegó a Concepción del Uruguay \"Roco Traslados\", un servicio de traslado para mascotas La Pirámide",
-          "published": "2026-08-28T12:16:47+00:00",
+          "title": "STIA calificó de “decepcionante” la audiencia con GTA S.A. tras la ratificación de los despidos",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcXluUUJKM2UwZ3RVZnA1cExrLU1GREhVQUp5YmVFTUZBa1o4cXFSb3pGalU4QjQ1QnlDRThiU0tkZnY0XzA2VzZHTzJMX0x1eXhDcUVGVFFoTk8tYXpTOHFCNGJBRGRQdmVvbWRYMzV0YW5sdXBaMmM4dkRUQ1J4NmR4SEQwQXQyaUhFZ0tWLW1JUjdzYmFFdE5yMUdkc09XSWRIYllMTVYtTGpVY0JOLW5fZWlwRFZUMm83N2YyaDlrUno4Q0NUQU82bjdNTEF0NTR3SnNSNnZHTjlCTUHSAeMBQVVfeXFMUHJoQUx0WGFGeGF0UmhCTFc4SEZIQVRNUi1fT2J6WFFyR1pjREMyMVctUkkwOG9abm5zWDhRUjRSVEp2Rjh2Qzd6bmNKMnl2dlM1MlpYd2JCTFFSdGc0RG14Z01vaTljYjlLd1FCUWFWTnJZbkg5ZlB3Y1BmdFNhUlUwenZTWWlzMFhkS1JNMm5NWkx4Rk5FSFgzbHN6YUxvUFFNVm1MWjdPNDhLVXBuOGVsVWJFWmlmS3BlbXo5MFc2MTFPLVNwQVo5M0t6aFZWQmFkWVpKZDI1aVluSEtYVHZreWM?oc=5",
+          "summary": "STIA calificó de “decepcionante” la audiencia con GTA S.A. tras la ratificación de los despidos La Pirámide",
+          "published": "2026-08-28T22:16:58+00:00",
           "source": "La Pirámide",
           "source_url": "https://www.lapiramide.net/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -115,10 +115,10 @@
       "homepage": "https://www.elonce.com/",
       "items": [
         {
-          "title": "Violento choque sobre avenida Ramírez: una frenada habría desencadenado el accidente - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYmxvOC1vemRFUjdWNGs3SFFaczRYdm5uVUJCeEJUMnNLbk9UemZocW9tdXdqRTduN0lDMzlGdjVMRzBDbWJUajBVN0dua2xsTmQ2eWVISzEtSXdvRmg3S3p6U2RJN3h1RHQwTm9SMVhFVFY5NU9paURnVkJ2Vk4xWkl4aDJ2QTA5ZkZuUC1zcDV0V2J1TXdTTXE4d0VGcGfSAZYBQVVfeXFMUHZfSEhrSll3b3V6WEFjRXotYWpoM3BGSlJfX2lGR2QxSXdFTXMzVXc0ODJIR2RiZ0ZSbHNRRzJXMUdIQ29wdktkR0JSazRzNzFWTnA4QUVUU25QUEhCUWpPQVh2dHc0eFZSTC1fSWdBSDNDWV90M3NuenUxWkVCOVFGbks0RTZ2V2lpbW4zRjFWelBwbVVR?oc=5",
-          "summary": "Violento choque sobre avenida Ramírez: una frenada habría desencadenado el accidente Elonce.com",
-          "published": "2026-08-28T15:20:43+00:00",
+          "title": "Organizan el 3º Encuentro Internacional de Pesca Inclusivo: esperan participantes de varios puntos del país - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbEUwSzBPNS1LeUNDUDdtVE9vRzJMSWRpa0tCQmRnbHQxM2pnYTNOZHpJTVphYzNRZmVNT1MwQUZydGh3dDJMMUY0Mm5QdVdpejlfTGxlYXV3YTljVGxZWHdVX0xqZ2cwOHY5Tnd1NU54M0pMMVhpQW4wQVF1ajc1T0h3SnFhd2VhNDFNbmJVdWh4dGlWRDlmSzFTUWQ4QkV5QmFhZGlUd2pzQ3E0MjgxVTZHQW1HLVpVcVdHQmtjbEYta09YVVd5VTlBSlo0LUR0QmpEankzcVXSAdIBQVVfeXFMT1pCbmZvd3RvSDZkV19aMUd0VUVIVzVPR250VGtFYlgtcW83QTVLM3dLUU00Y1lqWnRHdkpfc2JxcjhQcmNmUEFXbmtDc0UxallyZWFmbVUzMHZKX0xaclVFeFo4bjhrYVJ5ZFpPSHFJUUVZWlFGd3VsRWxDQjcwQWdzck5sdTZZckJzSFZqUDFxQUQzRUZCWW9rTnRTVEp0U1lVak1XdEg3Qk1ZVjdpYzV6V2RFMG0yckx3dWJ4U1cxa0RWeC1VVTVmR3FuQjhsdGdB?oc=5",
+          "summary": "Organizan el 3º Encuentro Internacional de Pesca Inclusivo: esperan participantes de varios puntos del país Elonce.com",
+          "published": "2026-08-29T00:33:00+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -126,10 +126,10 @@
           "source_image": "https://www.elonce.com/galeria/sitio/marca-de-agua4-jpg.jpg"
         },
         {
-          "title": "Eligieron a los ganadores del Concurso Nacional de Dramaturgia entre 44 obras - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd1V5RlcwUWxJSUNUV2tvbm9QWFRra1BIMjZCN3AxcnlFLTh5S1prODlhT09TMmtFbUExVFJUcWptbm4xVkRDeGZDYUYwbHhqeXM4VkRNOTJxNXFGUDMwWmR0c29JNHhLSEdJRFRiTUxsZmpaTlItU0dzWFBfNDBuWnJ3dkEzNXZ4ZF90cVZaMkl6R2tNUXZZX2V6Tlp5VmVSdzR2eGg2QUJVQkdu?oc=5",
-          "summary": "Eligieron a los ganadores del Concurso Nacional de Dramaturgia entre 44 obras Elonce.com",
-          "published": "2026-08-28T14:53:10+00:00",
+          "title": "\"Antu\" González vuelve a Rocamora y afronta un nuevo desafío en la Liga Femenina - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU2JzakN5dGpaclRtR2kydGxMZWVCVHZycVRpUzloa2dkamo0aUR0ZXVUbjNKbHpuTUVEMUVGSXFEeE1oZlJrVHVwZ2R1cm5yQWRZeDZkVGFWX0ZIWVhZekxDTER2VmIxa2tKX1BTM0VjVm45SFpnQm01dWNieWFKRGRFcVdSYUdkWGJNWmNHdUhIZFVVUjE2S3BjRkxrcExmYjVPWVZCNWlXVGRTQlJybmpWZEbSAa4BQVVfeXFMTldXNjAxMnFnYWJ3ZXpsenVwb0RIdm1wVU5YUlRzbFR5NU5XTGdmQVZxbkhzbW1PcXhFTUV2YmdTbEh4ckZtcGdiUXhTTjYwVkg5YUhBVW5IYmp0cXVvQ1ZHQkFjSjRkS2ZiYXZOUjFfX0JINVJNLU1YSS1CdWQxNC0wdjBLcm1MS3BqcXZ2TzlvRzY0RURTOHVzVnVyWXp3Q29fYzRGWlRud2laTElR?oc=5",
+          "summary": "\"Antu\" González vuelve a Rocamora y afronta un nuevo desafío en la Liga Femenina Elonce.com",
+          "published": "2026-08-28T23:42:21+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -146,10 +146,10 @@
       "homepage": "https://www.pagina12.com.ar/",
       "items": [
         {
-          "title": "¿Océano América?: Trump dice que evalúa cambiar el nombre del Pacífico o del Atlántico - Página|12",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdXlhZml4c2tReHhrSk1hYndFUGJaQ09QSWQ3X0gxSm0yZ3F1cXIzNzFLWVB5SnVGek4zeTFfNVlTeWg3TTdBejJRdTR3RVhldDVXajBPaVBXU2tpWVVQLUVrV2NHR09XZ09RcDZzRFY4ODBfSFNvUzd5dEVSa0YxeGRfM0hzSWhPczd6clM3S2R1b1A5cWpMNFVzN0NmbHNramQwUjNPNlNlNllHWDFqckdDUEFQUzV5ZFppZFhpaEc?oc=5",
-          "summary": "¿Océano América?: Trump dice que evalúa cambiar el nombre del Pacífico o del Atlántico Página|12",
-          "published": "2026-08-28T10:50:56+00:00",
+          "title": "León Gieco, Natalia Oreiro y los artistas que dijeron presente en el velatorio de Ruben Rada - Página|12",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMmg1MkdNY2E3Z0RBXzB0TnNjanlXUG1pRld0QlpJbXlSWklPRGFWMW1VZ3AwOGZUb1pSU2NoRWZ2dm1Gb3Zha2daWmRRWWE3T3RmbUpvR3RCUTRUSGZXSTk2NGxBeklnRjlJUE9rcWZiS1BRY2ZVejlFSEVtNk12YTdXby1FOHlqSlpDS1VnTjlDUWFYRVM5emJKWjNhN0ZJMHFhTThwcnlKb01FYTdxamJlTzYtZktrZXZVSjZGY1NLYVZWV0lsRHNnYw?oc=5",
+          "summary": "León Gieco, Natalia Oreiro y los artistas que dijeron presente en el velatorio de Ruben Rada Página|12",
+          "published": "2026-08-27T22:21:42+00:00",
           "source": "Página/12",
           "source_url": "https://www.pagina12.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -157,10 +157,10 @@
           "source_image": "https://www.pagina12.com.ar/resizer/v2/https%3A%2F%2Fwww.pagina12.com.ar%2Fresources%2Fp12logo.svg?auth=811d0fc63a912d1f8dc56b650f3a0054e089ac9c81bfee069a62717e10cbb54a&width=1200"
         },
         {
-          "title": "León Gieco, Natalia Oreiro y los artistas que dijeron presente en el velatorio de Ruben Rada - Página|12",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMmg1MkdNY2E3Z0RBXzB0TnNjanlXUG1pRld0QlpJbXlSWklPRGFWMW1VZ3AwOGZUb1pSU2NoRWZ2dm1Gb3Zha2daWmRRWWE3T3RmbUpvR3RCUTRUSGZXSTk2NGxBeklnRjlJUE9rcWZiS1BRY2ZVejlFSEVtNk12YTdXby1FOHlqSlpDS1VnTjlDUWFYRVM5emJKWjNhN0ZJMHFhTThwcnlKb01FYTdxamJlTzYtZktrZXZVSjZGY1NLYVZWV0lsRHNnYw?oc=5",
-          "summary": "León Gieco, Natalia Oreiro y los artistas que dijeron presente en el velatorio de Ruben Rada Página|12",
-          "published": "2026-08-27T22:21:42+00:00",
+          "title": "El pueblo se volcó a las calles para despedir a Ruben Rada - Página|12",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQWZyTUh4azAyUkc5NG1TM1NfckZoUjFZZW1qWFhrUVQzRXZtTHZndk4yX1VmdWJlaHN1RTZIWTNNSXZ2RUJMT3JDdUVReWs0SDJvOUJhODNkcXVNYnQ1R2ljREVwNjc0TlJMWWp1QnE5eVRDa3J4X0c4SHVEUXYxeHdMalhKd2ZnQmVMQVlFTlBzQkhzck04YzJ2S3o1aEliT0hhaEJQb1JPUVU?oc=5",
+          "summary": "El pueblo se volcó a las calles para despedir a Ruben Rada Página|12",
+          "published": "2026-08-27T21:18:48+00:00",
           "source": "Página/12",
           "source_url": "https://www.pagina12.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
