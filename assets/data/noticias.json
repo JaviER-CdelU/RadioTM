@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T17:28:21.156039+00:00",
+  "updated_at": "2026-08-30T21:04:04.771143+00:00",
   "status": "partial",
   "description": "Titulares y enlaces; el contenido completo permanece en el medio original.",
   "groups": [
@@ -10,6 +10,17 @@
       "type": "Web",
       "homepage": "https://lacalle.com.ar/",
       "items": [
+        {
+          "title": "Concepción del Uruguay será sede de la presentación de la Supercopa Entre Ríos 40° Aniversario - Lacalle.com.ar",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTmlsMXZZX1Rva2JNZGdZaDd6NVh1YUZQLXYzMFpzV3Ywa0VmRVVtYkZsM3ZfUG4xTDFPMkVES2xEUWRUNjFjNmg2M2x3cWJucEdsZVU1V1I4cEhGZTM3ZDR6SlJrSFl2bkVDeXVIeklTUmd5ekV0Z3V3ZGlOQ3Q0M0FaREdyUG9GdFNDbHk4UF9TV3V6TXUwbDNIS1BuS2FaQkFVaU1ZRjdqSmpBNnZSOVktMC16akpN?oc=5",
+          "summary": "Concepción del Uruguay será sede de la presentación de la Supercopa Entre Ríos 40° Aniversario Lacalle.com.ar",
+          "published": "2026-08-30T15:33:27+00:00",
+          "source": "Diario La Calle",
+          "source_url": "https://lacalle.com.ar/",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
+          "source_image": ""
+        },
         {
           "title": "Michel reunió a arroceros para impulsar las exportaciones a Europa - Lacalle.com.ar",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMXNza2RkNk5HV1I2cU9Wd0NNMVZua1hNM28tTzFsUzhvZmRVUWd4c0RPSDdrV1I5Y2FJVV9YOUVlRDlmNTdhV2JwRzJYWUpNN09sa0VuSzZnMjhsUmZ3c3dPMlpyRFo5WGlTeGpDbU5fbW4zWm9ENzRVMUpDOHhzdjliTWZyN1dlZVdZazVyMzE2YWxw?oc=5",
@@ -31,17 +42,6 @@
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
           "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
           "source_image": ""
-        },
-        {
-          "title": "Frigerio entregó certificados del RINI y destacó el crecimiento de empresas en General Galarza - Lacalle.com.ar",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUjNHejAzdVNwREpmY0szTnhGZ2NrbXJjdjhycGlLN2VTeTlyQnB5M0tzMGZLX21QclRnLVl2Qk1Xak1CR25GcklLTGxUS1ZoZG5rTkxycUIya3Z5Y2hNTHBNd0tCWGpYV3FUblFDRTZsUUlrbXM4RUh4NFVEZFdUaG55bUtzWXQwSmppSnI1SGFCVWgwUTJ4dU5KWUNJN0ExLS1mX2ExV2ZTckNLUUxNZXE0dG1SbURrZGc?oc=5",
-          "summary": "Frigerio entregó certificados del RINI y destacó el crecimiento de empresas en General Galarza Lacalle.com.ar",
-          "published": "2026-08-30T12:01:50+00:00",
-          "source": "Diario La Calle",
-          "source_url": "https://lacalle.com.ar/",
-          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
-          "source_image": ""
         }
       ]
     },
@@ -53,10 +53,10 @@
       "homepage": "https://www.lapiramide.net/",
       "items": [
         {
-          "title": "El SMN anticipa una jornada agradable, pero con lluvias hacia la noche en Concepción del Uruguay",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOMzB1bnBTc1lQVjNSVGhHaElNeW50OE9HSFhDckY1Q091U00xTEhwS19kTGhUMkdWSjEwR2h6RTdkUjNHZVNvWHRPX1BPMUJFZXdLMTVzOHgxMjBPYkE3LURfQkk2VF9hQlZ1YjR4RW5QR2VETjE5dlloMFBRU2kwcE9yZVZvb1NkeVRWRk1iVWJHLURyeDIzR190RWkyTXBhM0U4XzEtbTU5RWtqU3JFUWRhaUwtemFzMVk0RXJSWGZCY0dldm1mODgyR25CQ28xcnhIMUJ4LW5raXZpTi1MeWV2a9IB6AFBVV95cUxQNmo0amNTdUV0aXNNeWNLMWk0NFN4d0xlMTdHUzg4Qzk2WGpJMlBLMlNHcjE2ZUtDVnhpaEhsY0s5UTVpcEhibkczbnNlZFdhQWcwai1DOTBVS0VyVnMwRF9aUW44dWRFQWMydEJKa3BqMHZjclJkYzA1blJDZ2t3RlM5WHlTSzdGVC03MEpUZ3ZYT0NwMDNPX1p0aXZNamhoZHlfOTFJcHVqM0R6bnJTckl0MVk0M29oU1ZUUXVfOTFlMHRwLW16VzJ5Y2JFN0phY2ttMFVUUGJCQUZnRjMxNzVzYXItVVBH?oc=5",
-          "summary": "El SMN anticipa una jornada agradable, pero con lluvias hacia la noche en Concepción del Uruguay La Pirámide",
-          "published": "2026-08-30T11:22:12+00:00",
+          "title": "Principio de incendio en una panadería de Concepción del Uruguay",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRWgzV0pqak5xUnUzQzA3M0QtT1QwU0VlZ1hteXZ0ckZJMUlMZGpsUkpiclpPQ0dfbzI1ZjZQN2IxM1hEOVV1ZmFiZF9oMjZCNXZ3LTdJNTRUcHlZNm9JanFnUlVJOGpld3ZHQmJva0lCdWt0NW5VdnJiVTdfUDhoOHpxOW5OMm00U3FsUEdla3VuSWUxcUxBNDc3aWJ2blNoZ3E5d3YtX29WSDhjbVNyNWhfV2hOQzNQZVHSAb8BQVVfeXFMTVdHMC1yM0M1dnNNMFBCMFkzdFdBdHB0b3lCd2pMeXZ6bE5KSkhJMW13ZFpMNWdsMWpTbDNSNTl0cjBQYUlxdkJpYlNqdmYwYkppMFpSTHVPMDRCUUdYcDNRbThJX1RVRUI0QU83Ylp0cG00UkNUUld5MDFKWHhsVy04ZHBsMTE0YzVjZVNaVmRCQ205V0IxZGJGX3drOV80TmdzZFN1QTNHVW9zcjNRcVV5UE1uVHNPV2pjTU5lQmc?oc=5",
+          "summary": "Principio de incendio en una panadería de Concepción del Uruguay La Pirámide",
+          "published": "2026-08-30T13:52:12+00:00",
           "source": "La Pirámide",
           "source_url": "https://www.lapiramide.net/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -64,10 +64,10 @@
           "source_image": "https://www.lapiramide.net/images/custom/logo-social.png?_v=v3-27"
         },
         {
-          "title": "Recuperaron una moto robada en la zona de la Terminal y detuvieron al presunto autor",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMTEyREdSZW1GRVlLWG1Da3FYd1hCQWdhWFlhVGVLN1QwaEp3RVVRRS1yX3J4Nk9Cem1NY2hPbEE5cGp5YXIxaHJpS3poUWIwTDFwSUs5bWJtYi1yM1VIZGdHQlpRQlJYbE14SnQyZnNLemJabllWczYzWmZENzBMRVk5RjB2UHZtZVBlUVBPb2ZMU085TTlGT0hmMUlHVGJma2VIQ09Uei1BaXYtNlo0elRqNXcxSmZhTzN5WEg3WEF2WFN5UURZMDZaLU04XzhhVEl0ONIB2gFBVV95cUxOSC00d3Ixa0pYUTNkV3NlNUVTTy1QWVo0TGZIaEpvQmFSTkhwdkNGWkE2TGgtSGVGaWhmWlVCZF9mN2JESDhMNGNLUUZyMW9MRm5mSEFoN0ZGVjM4eFlJRDFxT1oyTU9sVUliRWMwdXNpcEVFTFNhaWgtMUY3elNhVlJCNHU4aTF0bFEtdnVRWVd4Qm1lTmd4aEpXM2l4dDRkVTRoYWlaVElqdjBoS1pMSkFZcUxzVVYxb29WdnVSWWREVGJUOVpjbkEtNy1rVmpmak1TcHQ0QW9PQQ?oc=5",
-          "summary": "Recuperaron una moto robada en la zona de la Terminal y detuvieron al presunto autor La Pirámide",
-          "published": "2026-08-30T12:52:44+00:00",
+          "title": "El SMN anticipa una jornada agradable, pero con lluvias hacia la noche en Concepción del Uruguay",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOMzB1bnBTc1lQVjNSVGhHaElNeW50OE9HSFhDckY1Q091U00xTEhwS19kTGhUMkdWSjEwR2h6RTdkUjNHZVNvWHRPX1BPMUJFZXdLMTVzOHgxMjBPYkE3LURfQkk2VF9hQlZ1YjR4RW5QR2VETjE5dlloMFBRU2kwcE9yZVZvb1NkeVRWRk1iVWJHLURyeDIzR190RWkyTXBhM0U4XzEtbTU5RWtqU3JFUWRhaUwtemFzMVk0RXJSWGZCY0dldm1mODgyR25CQ28xcnhIMUJ4LW5raXZpTi1MeWV2a9IB6AFBVV95cUxQNmo0amNTdUV0aXNNeWNLMWk0NFN4d0xlMTdHUzg4Qzk2WGpJMlBLMlNHcjE2ZUtDVnhpaEhsY0s5UTVpcEhibkczbnNlZFdhQWcwai1DOTBVS0VyVnMwRF9aUW44dWRFQWMydEJKa3BqMHZjclJkYzA1blJDZ2t3RlM5WHlTSzdGVC03MEpUZ3ZYT0NwMDNPX1p0aXZNamhoZHlfOTFJcHVqM0R6bnJTckl0MVk0M29oU1ZUUXVfOTFlMHRwLW16VzJ5Y2JFN0phY2ttMFVUUGJCQUZnRjMxNzVzYXItVVBH?oc=5",
+          "summary": "El SMN anticipa una jornada agradable, pero con lluvias hacia la noche en Concepción del Uruguay La Pirámide",
+          "published": "2026-08-30T11:22:12+00:00",
           "source": "La Pirámide",
           "source_url": "https://www.lapiramide.net/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -115,10 +115,10 @@
       "homepage": "https://www.elonce.com/",
       "items": [
         {
-          "title": "Felicidad de domingos - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40c21jbWJzdG5RdTA5cTJBOVV4U2xQZGEzMXlnQUU1VTA2TzExWm0wOFNEVVZsdFJic1JpYld3Z3d5OXIxS2ZVV1dsV3pnTUpPei1IVlVXZG9Lelo1X3M0MUVIZ0vSAWJBVV95cUxQb0pDeHRrQXZ4bkNncnBzN0gxSW10bGlHWDlwV2hfdUlwLTd6VWJJcmY5c1RSanRyTDdqTkpQYXpaRVZ5eDdOU01MYi01X1laaHVzVVhoeEdObUZyUHBCNmpvQQ?oc=5",
-          "summary": "Felicidad de domingos Elonce.com",
-          "published": "2026-08-30T17:03:29+00:00",
+          "title": "Patronato recibe a Almagro en el Grella con la intención de sumar otro triunfo: empata 0 a 0 - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVkVZZ2I1TnpmZjJlYnhua2trbDFBa01IVGwzOFFfZWpORTlnNXQ2X3ZOdkN1N3NWSmlFRHE4cFpmaF80TTg0WG4taEFDSFVvaF9PVFI1djk0X09VbFNhNFRYcGpOY2syRjlGdVVVaTM0aFU0cW1xd0oyTWNveXhVb1hkN3ZVSUF0WXd5Q05BSkNVN3U4U2NnbW03MV9iRnpGYVJSNjRVVVpaaHFMMW5KWXQ0aDl3cUhRNlU2VkU2ZWlqMVFoWkHSAb8BQVVfeXFMTW5mUk9fX3AzZkI2Ul9GWE9PRDRsQ1FfUm9MV1IzUzYwdVRQNjZKdzVHdkJpT1NlVVdnMk5DRWVHUm1LYlRWTVU2bzZnZWhyeU5FR1V5WnVWRHpQQmE2YmJlX18yeU1wY3lna2Q2OTJUdkJfZzMycUFWUklvdXF6RzAzNEJnTktkVGpidlEzSFFZSEpMUGZqbGdYcFF5bGFnLS1KeXA5MFppUEdnaVFTZnNTYU81RGxnY1lyTk05TDA?oc=5",
+          "summary": "Patronato recibe a Almagro en el Grella con la intención de sumar otro triunfo: empata 0 a 0 Elonce.com",
+          "published": "2026-08-30T18:09:45+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -126,10 +126,10 @@
           "source_image": "https://www.elonce.com/galeria/sitio/marca-de-agua4-jpg.jpg"
         },
         {
-          "title": "Irregularidades en adicionales policiales: el motivo por que el flexibilizaron la perimetral entre los investigados - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRkdFSDZITFBlR1NUUG9DYV9oNk9WblpKMm9XYmtzV18wVUUzeDg3SWNkN3ZkclZXam1WNEN1MlhWUGN1Y2Vqd3NKRU5VNE84M1BzQWd0eTZqVTd3VFktX0twX2xwWTNFeVRJNXhHMURSWllCQ2lKbG5BN05PQ0dqNUJ0V3o5TDJvSUpjTjg5WmpPam1Ob1HSAYwBQVVfeXFMTjFQNjZCeXNaU05hbXB2NW1seFFpNmlXNGZ3U0xXU0E3SndiWU1Nd0FJWF9na1dBalR6UWlvTU5hMVVrZG1iaTlDdnhnQTZyUW9kQ09lTGk3R1dRclFWZ2JMdWoxNXREM1BCek5PV3g0Zjg1S0RsejVJQUM0WFV6MXFyaXpFN0FXSEZ2QUk?oc=5",
-          "summary": "Irregularidades en adicionales policiales: el motivo por que el flexibilizaron la perimetral entre los investigados Elonce.com",
-          "published": "2026-08-30T15:04:38+00:00",
+          "title": "Un hombre murió en Concordia tras desplomarse mientras circulaba en bicicleta - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWl9wMWU4N2U5d3BmRmxjWk9LeHVvcmIyc1VpYTlWV3hhYmZTTWVGXzQ5aWxvUFhmZUY4R28yZ3FtVWRpSGlkTExIcURlbEN0bTFDdC1KNjIyWjktcDk3WjFtcGJIQkI5clA4cFkzTUdrb1dMbEZwb202TjVmZFdXWXNYQUxaV09pT1NyT3FEWE40RlA0YTJyMTRvMkhBb3ZuQ3R5M9IBmwFBVV95cUxOYmE5VGFDWmN4X1MyeG1iaUo3dXgtNjlqVy1BcnpBRTZmT3FIRS0tOWxycnNPeGhGd3lDLVRhQk1tZUFrZWJDLW5adlJ5RXcwR01lTk4yMXgzR3pMTWVNblZxVUI5djlHRDBFUzZSeTRZMXpyU2xiRGRHZlpWN0NtZTQwRVZ4YlBrN1RHWGJPRG5PMXo1S29hZmw2QQ?oc=5",
+          "summary": "Un hombre murió en Concordia tras desplomarse mientras circulaba en bicicleta Elonce.com",
+          "published": "2026-08-30T20:41:00+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -146,10 +146,10 @@
       "homepage": "https://www.pagina12.com.ar/",
       "items": [
         {
-          "title": "¿A qué viene Peter Thiel a la Argentina? - Página|12",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeDF3VDl1NkMxYTZ3QnQ3eEFMM01fdUtDclVxb3dOUVhvdnN6ZmRGNmc2Y0lZcnVNd1AwOEgzeTV2cm1ndkI4anh1RG9MbG5TZWdWcmpvSXZmeGNVSVItSVRrWGFNMmpyeDRpdzdjUjJTVUR3eVU5dEtzajBLclh1M2l3N0s?oc=5",
-          "summary": "¿A qué viene Peter Thiel a la Argentina? Página|12",
-          "published": "2026-08-28T23:01:00+00:00",
+          "title": "Milei y el traumático sepelio del modelo - Página|12",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUldHQ3ZhN1lVZnpNd2xacEJzTkZuUE9Mb0Y5RUZKZ2NhcTU3NGFLbmQtVHlva2FCR2ZkQzRfNzQtZ2s3RXg5U0Q1WllsYzZ1MTRIR2JxbGpwYlZXUVVHN2hiZmtvVG05TVpPa25NQnh5S1lQS0RyenczeEhrTlhJUTA0UHlURzg?oc=5",
+          "summary": "Milei y el traumático sepelio del modelo Página|12",
+          "published": "2026-08-29T23:01:00+00:00",
           "source": "Página/12",
           "source_url": "https://www.pagina12.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -157,10 +157,10 @@
           "source_image": "https://www.pagina12.com.ar/resizer/v2/https%3A%2F%2Fwww.pagina12.com.ar%2Fresources%2Fp12logo.svg?auth=811d0fc63a912d1f8dc56b650f3a0054e089ac9c81bfee069a62717e10cbb54a&width=1200"
         },
         {
-          "title": "Milei y el traumático sepelio del modelo - Página|12",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUldHQ3ZhN1lVZnpNd2xacEJzTkZuUE9Mb0Y5RUZKZ2NhcTU3NGFLbmQtVHlva2FCR2ZkQzRfNzQtZ2s3RXg5U0Q1WllsYzZ1MTRIR2JxbGpwYlZXUVVHN2hiZmtvVG05TVpPa25NQnh5S1lQS0RyenczeEhrTlhJUTA0UHlURzg?oc=5",
-          "summary": "Milei y el traumático sepelio del modelo Página|12",
-          "published": "2026-08-29T23:01:00+00:00",
+          "title": "¿A qué viene Peter Thiel a la Argentina? - Página|12",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeDF3VDl1NkMxYTZ3QnQ3eEFMM01fdUtDclVxb3dOUVhvdnN6ZmRGNmc2Y0lZcnVNd1AwOEgzeTV2cm1ndkI4anh1RG9MbG5TZWdWcmpvSXZmeGNVSVItSVRrWGFNMmpyeDRpdzdjUjJTVUR3eVU5dEtzajBLclh1M2l3N0s?oc=5",
+          "summary": "¿A qué viene Peter Thiel a la Argentina? Página|12",
+          "published": "2026-08-28T23:01:00+00:00",
           "source": "Página/12",
           "source_url": "https://www.pagina12.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
