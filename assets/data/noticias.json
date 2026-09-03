@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T09:51:52.377617+00:00",
+  "updated_at": "2026-09-03T14:33:43.292998+00:00",
   "status": "partial",
   "description": "Titulares y enlaces; el contenido completo permanece en el medio original.",
   "groups": [
@@ -10,6 +10,17 @@
       "type": "Web",
       "homepage": "https://lacalle.com.ar/",
       "items": [
+        {
+          "title": "Estudiantes de Caseros recorrieron el Parque Industrial - Lacalle.com.ar",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUmk5Y2J4bzhmQUJUa2JqU1llT3BIQ3M0NUJpNllRYXVQVkRvQkh2YkhDS1FMRXI0TWRXVHRSc1l5b3J1Z1JkY1ZBZFJHX2J4RS1qTlJCWFQ5MEZqN0hGNFZ6aGFhakZyRDhBZ2VGaDVuRG9pRmJDMERhdTM5aHhleFRtNG5zQQ?oc=5",
+          "summary": "Estudiantes de Caseros recorrieron el Parque Industrial Lacalle.com.ar",
+          "published": "2026-09-03T11:20:17+00:00",
+          "source": "Diario La Calle",
+          "source_url": "https://lacalle.com.ar/",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
+          "source_image": ""
+        },
         {
           "title": "Septiembre, mes de concientización y prevención del suicidio - Lacalle.com.ar",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNnBiRnhQRlZGRld5VUUtdHBRN1hxd2I2c1JBNF9NN3Vnejh3eFNTakRXVFIyQXJsU2NNV1lQYlp3ZkRIaTNKZkRiNUpOMDJsOUVLLThDTEVBaVdpd2Z4eHhDV2hqTHd6R2QzdnJxWGNaMFo4MDU5LXZvUGEzXy1YcTRxZTRrOEFDV2tF?oc=5",
@@ -22,21 +33,10 @@
           "source_image": ""
         },
         {
-          "title": "Curso gratuito de programación en Python para jóvenes - Lacalle.com.ar",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOd2d3U0JJc3ZxUm5pNEhVUGowOGdrczg3aXF1Q01OUTcyUk11bGtmQ3lFVG1FSDhneVRWUXlWSjJLN04teUxsQVhTRjRneXU1WTRhNDhuVUVoblBId0ppV1hSajZGRG9aSG1rTEptMnRsZWR1MFh6YkVMNUF6VVBzWmQ1RQ?oc=5",
-          "summary": "Curso gratuito de programación en Python para jóvenes Lacalle.com.ar",
-          "published": "2026-09-01T11:38:05+00:00",
-          "source": "Diario La Calle",
-          "source_url": "https://lacalle.com.ar/",
-          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
-          "source_image": ""
-        },
-        {
-          "title": "Formación docente para fortalecer la alfabetización temprana - Lacalle.com.ar",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYThwc1B5WV9NUVh5Zm1hNWsyRFg3UDF3aHFkWmZTOTRkMTJMbm02S0g4eGJ6cUlnc0NMdjlubEdrRTNEUEMxRldBTTROeS0zNHZhWEJDN0YtVDRfVGZOeVNTMTFYNVZrZEVOdlZVa3F3a2J3OXIwUkFHcDBrMDFYbG0tZkdXcGIxQUUwbQ?oc=5",
-          "summary": "Formación docente para fortalecer la alfabetización temprana Lacalle.com.ar",
-          "published": "2026-09-01T11:21:37+00:00",
+          "title": "Nuevos salarios para el personal de casas particulares en septiembre - Lacalle.com.ar",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOU3VMSkc1YWtSMU5GMG9oR1BXQ2hCWjBvYkJ0ZGNEX1J4bC15TmVYY0xablV2WFd3M1YwZWpoZm93SXdXNDJzV1cxRXFNVk0tRU92LXE0T1czTnVnWWg0NENmZFUxeU9WV1hqbzZYczJ3cEtqdUFTOVd4M29sYUJFSmljRUgxajFIdV8taWRTbFFQZmJBVGY0?oc=5",
+          "summary": "Nuevos salarios para el personal de casas particulares en septiembre Lacalle.com.ar",
+          "published": "2026-09-03T11:32:27+00:00",
           "source": "Diario La Calle",
           "source_url": "https://lacalle.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -84,10 +84,10 @@
       "homepage": "https://www.r2820.com/",
       "items": [
         {
-          "title": "Alerta amarilla por tormentas para este jueves: qué departamentos afecta",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdlhzSUwtQU43UWZlNmVmM2JXTm83Qzd2Q1UtUHBBbHp1UXpuTWdnYmxPR1JxTy0tZVhJWnZEYWR3M1Z0TlZ4SVBIZG82VTBRamNtUFRQbFdlaS1qYVNSXy14TFZORXNTNFJYMy01VDk4RXRYei04cG5nQThzTE9yczNSUzFqaW40NVJEbEVlcnU4Yko1ZTdlZFZ1YTc5UUl5N0wwT19UVzExcEt1SGlkOGg0Y2c4cGI3V0g0RNIBwgFBVV95cUxOUURHamNqYXphX3lzMHQwOWRlcjhhcmxuZ19oLVpXOU5Oczk5bmFwVW1jd0lMTXpnZS1mVE1odVNkUkpmQkRrQkxBU0FKbkxOSGJsYXFTS3paOTd5cUlaZlNCR2pLWnN4N21ZcTl5M2lkdjRLdk0zSHE0VDM0dThpNnJVbUZRS2RZMHozZjF0WXdSQXpfMEZBc3hQSjc3bFhqTUVtWHNFcXNrdU04OVZvMncwV1ZXVFFuRWZpcDU3WWZtdw?oc=5",
-          "summary": "Alerta amarilla por tormentas para este jueves: qué departamentos afecta R2820",
-          "published": "2026-09-02T23:57:35+00:00",
+          "title": "Jubilados entrerrianos: habrá un pago extra con retroactivos y el código 1650",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQX2o2RFl6VmRjeWpNN1ZnM0VVanE5VDI1ZVZNNXA5S1BPSGp1a0gzMzZuMXlkX3p5NjlxODJYcE5FSHE5UzVweTBWd2dBSmMzRWVOX0RVQnF6MWNtRnBOTGtVVXE1Wk83UVNCbW0tY3RhSElIMVlpNEpUSEhYb2s2eGpRUmI4NVcxNnBIWWVJd1R2YS1pd2tHMWlfMV9qVlFsWEkxT0hxRnFHbktXTlA1cXVZQ3ozYzgxdkZoTnJfaUo0aGfSAcgBQVVfeXFMTjFYVHRLdDVOODFubWc1b2NWdlVqb3pxdGo1bDUwcTJfSUtYRExfZFNuVXp6U0l6Ui1nQ2VieE1RaGRubW5GckVTUU1OLXBZTGpKZGRCNFJoU2dhYlVIWGJEbFUxVXl6dFA4aVlGVmY3d3hFamdqY0tkZm9WVHdnUnNfNjc4aU1hRGtZVjlUNkxlYUZaZFVUdVdLV2lSWEFjaG40NHZ0c05PNGdwc082UmdSc0NxS2l1Wk5RbmprSmZGNXZNZTBnWlI?oc=5",
+          "summary": "Jubilados entrerrianos: habrá un pago extra con retroactivos y el código 1650 R2820",
+          "published": "2026-09-02T14:41:14+00:00",
           "source": "R2820",
           "source_url": "https://www.r2820.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -95,10 +95,10 @@
           "source_image": "https://www.r2820.com/images/custom/logo-social.jpg?_v=v3-45"
         },
         {
-          "title": "Jubilados entrerrianos: habrá un pago extra con retroactivos y el código 1650",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQX2o2RFl6VmRjeWpNN1ZnM0VVanE5VDI1ZVZNNXA5S1BPSGp1a0gzMzZuMXlkX3p5NjlxODJYcE5FSHE5UzVweTBWd2dBSmMzRWVOX0RVQnF6MWNtRnBOTGtVVXE1Wk83UVNCbW0tY3RhSElIMVlpNEpUSEhYb2s2eGpRUmI4NVcxNnBIWWVJd1R2YS1pd2tHMWlfMV9qVlFsWEkxT0hxRnFHbktXTlA1cXVZQ3ozYzgxdkZoTnJfaUo0aGfSAcgBQVVfeXFMTjFYVHRLdDVOODFubWc1b2NWdlVqb3pxdGo1bDUwcTJfSUtYRExfZFNuVXp6U0l6Ui1nQ2VieE1RaGRubW5GckVTUU1OLXBZTGpKZGRCNFJoU2dhYlVIWGJEbFUxVXl6dFA4aVlGVmY3d3hFamdqY0tkZm9WVHdnUnNfNjc4aU1hRGtZVjlUNkxlYUZaZFVUdVdLV2lSWEFjaG40NHZ0c05PNGdwc082UmdSc0NxS2l1Wk5RbmprSmZGNXZNZTBnWlI?oc=5",
-          "summary": "Jubilados entrerrianos: habrá un pago extra con retroactivos y el código 1650 R2820",
-          "published": "2026-09-02T14:41:14+00:00",
+          "title": "Puente Mitre: las demoras responden a una obra de reparación de la calzada",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbXB4YVE5NDRtaUNSRm9PX0lsSjhoYkU2V0tTand2bmNLSTI2UkZhSHZWQV9HQkMzV1VKOVhSbnhtQWJFemlPai1iRFY3eWpVbDlNUWY0VlJFMGVnSHl0LVFKRGhWUUZQSjlhaFpKU3I5X254dHhTU0tMY05lWXFwb3VKeTdLdnFNci1WLXdIYW5Qc0hSUzVuUkRuMnhEQWdNVkFaRzNXZVViN2IwZHVNY3RUTkVvN3ZiZEFaVzFwVdIBxAFBVV95cUxQVUN6SjZ5T3NpU3JNZzVSRFZIUmxSekc1WDZQclRUb3BUUVJvdTZWTW5pd0pLOVM2amhvSXlrYlBuNnVvcHl3SEpkOUsxNFpxTFV5VV94M0hKSXVzRW40Y204cmFMYjVTYUswNzZHcjdwZ24wOWFLSHdjUjFVRFV5QzhsQjlMYXprTDdmY3lUVFYxWVp0TVJEWUtIU0g0c0ZUZFIteWdPcENfSjlKMXpLYVJqUkQwYVBiTFBEZlBob19VMUI0?oc=5",
+          "summary": "Puente Mitre: las demoras responden a una obra de reparación de la calzada R2820",
+          "published": "2026-09-01T01:24:21+00:00",
           "source": "R2820",
           "source_url": "https://www.r2820.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -115,10 +115,10 @@
       "homepage": "https://www.elonce.com/",
       "items": [
         {
-          "title": "Muerte en barrio Paraná XIV: hay “claros indicios de violencia” y la identidad del fallecido - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVmxCQjdlSE1BeE9nSU1SMV9PeWwwQkRqMmxYLVp1TUo4RzNEZ3RnNWRvWDhGdzBXRFRSLUJlbzhLT2FkYV9JUkpxZk0yZXdSSExDMGdRYXdDZzZ2UDI1YWtDSWxuZkhpY2F2TFdQVHN3aGFpRE1wOUV5VXpiOUtSa2dfZzNBQUxmc3R2YWxFMU5zeEdYd1U4cndrelJscUtiWW9YMkVSR2RLenJsVlJFWmxmSC02RnRnZnQ3UjQzc29Oc3hxV0pWSE9YRUpxUdIBxAFBVV95cUxPNkhEWlppS2xNSUVydTF1Um5oeTdxemNhbzg0UGQ3b25ocDZvRU53Y29IVnpmd191ZFZBcnh0WG9OYkZLcHhuUEFObnFwcjYwU0padnFla1JjemU2QXBqSmdUcmFqUlJySWNqdXZrTmdfWS1obkZwV25zTnR3c3hRVXVrbXBzUlZEbEQtZFRmZFpfZzBYSHZkZENJNTl3S3dFVXotNnBKQW9vZmNOZWVVMVJvaFczNUpXOUdFU2htUXlTTXhG?oc=5",
-          "summary": "Muerte en barrio Paraná XIV: hay “claros indicios de violencia” y la identidad del fallecido Elonce.com",
-          "published": "2026-09-02T21:21:00+00:00",
+          "title": "\"Blanca Irradiante\": cómo funcionará la subasta de obras de arte - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMzZmempEal9laWhZTXYyTEJtaEEwSk9IQ29zQ3lSbjlOOFQ0SXlRcnJqZUl4YTdhdjMxNm5jZHA1Ny1tX0pMeWh0c3dSTFQ3S1N6XzVmdTZmeF9EUG1sZnRpcHRFcEVLT1dwdERiX1hiZnkzTXRTR3RtZTNhYTdya1UzZzlaNzg4ekhrUjBaNkp6X0Ftbkg5M3phWkk0ZmfSAYsBQVVfeXFMTkZaWVZZSW1JYXA1MHUwYy1XQUZoTzBLcUtaQXotZkVhYXNFRXpkc2FmbzdweUxWR3oxQk54Yi1GREpuNkRiVzNwbDN3cUlRMFBhZHl3U2FJMWVpcE8wa1pXRzd4d21iOEJHX0doTTdJMmdrUGZkQU5yeWg0ck5GNmQ5NzZ3bWZmSWJxYw?oc=5",
+          "summary": "\"Blanca Irradiante\": cómo funcionará la subasta de obras de arte Elonce.com",
+          "published": "2026-09-03T12:26:38+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -126,10 +126,10 @@
           "source_image": "https://www.elonce.com/galeria/sitio/marca-de-agua4-jpg.jpg"
         },
         {
-          "title": "Aprobaron nuevos circuitos electorales en Entre Ríos: qué departamentos abarca - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWHJBOXFwdzc1cTAwUVMxUlo4TktadDc1bG1kUVFkdENTQkJGNk1ZLXBlOVgwcDFMZnIzMVJkZEJUajdpMGE2VFRDQmIyZXJfYVBhTGthSENSclBKWXMxdVJWeDhjY3ppNjlSWWs0T2pfWlkyNE5FY0l4OHRfNzNPU1ZidElQQUxCQW1DRFUwVlZtcExLbXpzRFFOaWpXb3M1UlR4Ymp3bmRiQmhPal9Ic21n0gGrAUFVX3lxTE1KMUpaeHZkRmNCaXJKUlh3X1ZNVl9nbnJoUGRYS21mTmdKTXJMdEJoQktIbU5tNlRxeU1hT2M1N2JtQ3JWLVFMU01RWFlwakhBV09xeTllaHZJcVEyLVVOd2VCaUdHZGpaZGIydDhnVzZXZGNiZlpPVC1iNm1IVWRZUHZpMW5UZThXTTJKSGxGVjRoRUp0Mm1DNXdJbmFfaWJFNU1ZRnRCM29fUQ?oc=5",
-          "summary": "Aprobaron nuevos circuitos electorales en Entre Ríos: qué departamentos abarca Elonce.com",
-          "published": "2026-09-03T07:43:53+00:00",
+          "title": "Fin de las pensiones vitalicias en Entre Ríos: cuánto cobran los 11 beneficios vigentes y qué cambia desde ahora - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQjQtR2ZrWmp4Mm1TRXdQZWRMMDB1dll3WDlsZkVncEJFTGdTRVBHa0ZPMnBRZ2szdHp5MUcybmtZMlB1OERoYThPaHVTcDZSVDB2TkxCNzBLNHdDMEFzNk5zcUJINHJZRldpVEZvVkdydS1QbWZiUXBOZHpGeEUwa1Jzdm5sV2J4LThSb3paNnFxT1dNeDlud21QWWd0d9IBlwFBVV95cUxNOTNKTFpNNHpFVGJDXzR0VzVhMzhXZU9VRDVDUzBTejFRTGFOU1VrQ2s5aUtLc0ppUHJQRXZZTEwzWkNDT1dIcDJTeXFVdUNqOXplaW9nT3FxZ2thTEZha1BEQ1hTbVVkQng5SkNLZkJVYjRjWURHYXM5UVI0QzNnRG9QQ3pnVUhTd2c3dUtZTlB4WUFPYTZ3?oc=5",
+          "summary": "Fin de las pensiones vitalicias en Entre Ríos: cuánto cobran los 11 beneficios vigentes y qué cambia desde ahora Elonce.com",
+          "published": "2026-09-03T12:21:00+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -171,6 +171,8 @@
     }
   ],
   "errors": [
-    "Andrea Pacinelli Noticias: red social, requiere selección manual"
+    "Andrea Pacinelli Noticias: red social, requiere selección manual",
+    "La Pirámide: https://news.google.com/rss/search?q=site%3Alapiramide.net&hl=es-419&gl=AR&ceid=AR%3Aes-419: sin elementos",
+    "Página/12: https://news.google.com/rss/search?q=site%3Apagina12.com.ar&hl=es-419&gl=AR&ceid=AR%3Aes-419: sin elementos"
   ]
 }
