@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T18:23:43.068753+00:00",
+  "updated_at": "2026-09-04T21:27:47.182371+00:00",
   "status": "partial",
   "description": "Titulares y enlaces; el contenido completo permanece en el medio original.",
   "groups": [
@@ -64,10 +64,10 @@
           "source_image": "https://www.lapiramide.net/images/custom/logo-social.png?_v=v3-27"
         },
         {
-          "title": "Allanamiento positivo tras el robo a un comercio de marroquinería",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYk95Y1oxN19JODZ1QUxqNXR1cnJwMDRhX0o0V295WHJKRmdpdkRnQzVwNk1XWGlxcmVZbm9OMkNWXzZjcWg0bUZweGdBa09KQmJzZG5VUDdvaVlKYXFobC1pdlAzZmV5bGlTaXNHclUtXzRpdkdDdVpHWXVRb0c1Z2FPNGdkR0hyQkN5ZjJCMGxaN0dWNW5uMk1FZjIxalpkb1BnRy1IZnIweExSYmRmQ3pvaVF4WlFKNTZZ0gHAAUFVX3lxTE9uUGoxUTgyOGlPeXFLUnUzSHdIS2dHS2piNVk0c1R3WFhlWDBMQzY3Y3ZhMFl6M0V4QXBQYnB0Tk1KdkpKMERsT0NLWmQ2NDhhd0Q3VDY1SVJCWFVWaGNWRU50d3FNVWh1Uk05LXpKcWhhZk80SERaVEFMVUJXQ0J5VFpPMWh0ZGVhTUdQbkdYeUhIQm9DZFZEempjNVVpby1QcENwZ0xQSmlCeV85N0RFbEs5RE1obVZkQUJ4M1VKSw?oc=5",
-          "summary": "Allanamiento positivo tras el robo a un comercio de marroquinería La Pirámide",
-          "published": "2026-09-04T12:38:14+00:00",
+          "title": "Allanaron una vivienda en el barrio 30 de Octubre por el asalto a un camión de reparto",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcGNrZ0NzUzNIMlEzT3ZSYWNCdDE1ZVl6bjUzQ0ZlV2V4UHEwT0dPUEY0Z1ZRdXphMTFadElEeHVJSjBhdks3UFd4WkxBNE9sYTFsQ3FzYmVvOFVsM2ZYVTdKazVXWTM3Z2Q5QVVHZjdsWExyU0xpRkJPaW5xNy1YLU1JU1NEeUtxWXBVd2tnQUNtay1SWDNhcnFDUEhJSHNsYVdjRklxX2l5TFEzei1FZFZFNC1VLXhIUlJrVjNzdFFNZGY2M3liMnJhenJvekVNMDg5eWQwa9IB3AFBVV95cUxNMVVvVXZXdjgwTDNydV9tOXE2N1hOblc3YzliaVpvOVFyb0wyeXZQLUFSMno5YmJoS2MtVVBJQ0lXRFlnalBDbWdaM2VCdnAxMkNWMUtMMy1kNWVKZW5KRk5oaUFjbXF4UEtodTBFS09KRGhndnZxMzE3azdZUm5PY1pxZGRCdVkzR0FZdUVIb3dsNlJwVlVER2RsNTRzZ2ttUDF4SmI3dVlZMHlNR2d3WEFYQldOb2NiZFFFVVoxSHYySzlDeWNUU2VlY09zdXVjQm9oMzlLd3RKWVBo?oc=5",
+          "summary": "Allanaron una vivienda en el barrio 30 de Octubre por el asalto a un camión de reparto La Pirámide",
+          "published": "2026-09-04T16:24:22+00:00",
           "source": "La Pirámide",
           "source_url": "https://www.lapiramide.net/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -171,6 +171,10 @@
     }
   ],
   "errors": [
-    "Andrea Pacinelli Noticias: red social, requiere selección manual"
+    "Andrea Pacinelli Noticias: red social, requiere selección manual",
+    "Diario La Calle: https://news.google.com/rss/search?q=site%3Alacalle.com.ar&hl=es-419&gl=AR&ceid=AR%3Aes-419: sin elementos",
+    "Elonce: https://news.google.com/rss/search?q=site%3Aelonce.com&hl=es-419&gl=AR&ceid=AR%3Aes-419: sin elementos",
+    "Página/12: https://news.google.com/rss/search?q=site%3Apagina12.com.ar&hl=es-419&gl=AR&ceid=AR%3Aes-419: sin elementos",
+    "R2820: https://www.r2820.com/rss: syntax error: line 1, column 0 | https://news.google.com/rss/search?q=site%3Ar2820.com&hl=es-419&gl=AR&ceid=AR%3Aes-419: sin elementos"
   ]
 }
