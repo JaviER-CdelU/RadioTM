@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T12:45:42.611274+00:00",
+  "updated_at": "2026-09-05T16:03:40.987033+00:00",
   "status": "partial",
   "description": "Titulares y enlaces; el contenido completo permanece en el medio original.",
   "groups": [
@@ -10,6 +10,17 @@
       "type": "Web",
       "homepage": "https://lacalle.com.ar/",
       "items": [
+        {
+          "title": "Capacitación sobre gestión inteligente de motores eléctricos en el Polo Tecnológico La Nube - Lacalle.com.ar",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNX2lWYXhlelZUbi1UMTdzekFMeU9YRmRnbncwSElWWlVQV0NjWkhCd2tvZTVna1VRS1dXbXB1V2RKUVBaS2l4UDhITFY3dnljcE51ejlTekg0QUd4NFdBVXp4d0VBR05RODl3aTB5TmJZNkVXa2xBYkxjb0V0THJwVjFYNnd2bFM1NTh5RktubE5xZ29PcFVIQUJ1eVJmR1pFSTBSLXM0a01oc2dtaUJ4VWZrbDdPUQ?oc=5",
+          "summary": "Capacitación sobre gestión inteligente de motores eléctricos en el Polo Tecnológico La Nube Lacalle.com.ar",
+          "published": "2026-09-05T13:32:09+00:00",
+          "source": "Diario La Calle",
+          "source_url": "https://lacalle.com.ar/",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
+          "source_image": ""
+        },
         {
           "title": "Rescataron a un animal que había caído en un foso - Lacalle.com.ar",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBRTlNHR2pULWpCOXoyNUtZdnlrUTNEUVhYd1ZhRmpsMDhObzFYOHp6T0NYWnhUVUR2WENkSzlac3FJc2ZhOFJqTHFVclJ5cHhYcUtHVkE5cTNlOWNRbzBiRG90RnktTDhQT3l5TjlJQ0ZMTmdJX3hUVFIwbkRKUQ?oc=5",
@@ -31,17 +42,6 @@
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
           "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
           "source_image": ""
-        },
-        {
-          "title": "Sindicatos advierten por el impacto de la crisis de Granja Tres Arroyos en la economía local - Lacalle.com.ar",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRXFyYjM4ejVjdzBlcS1oc3E3NDQzeG1pNk1oLVlMdXVURmNjV2Z6blNXVDJjMjFjSWdWdUl2WTNuc3JFZlUzN0VwV19IVldzWlJSTWpRdHNacDVkX3cyZmpIeDdSS0dfQnhFSnBFYXVRd0czb2NUTTFhLXVUQzQzck5Td3cxYWt0SmZrVGFUanl6NHlvelV0bXVoRmkyTGxzTTFEb0ZOSTRYREpSMXpIRkZ3NU1MYzQ?oc=5",
-          "summary": "Sindicatos advierten por el impacto de la crisis de Granja Tres Arroyos en la economía local Lacalle.com.ar",
-          "published": "2026-09-04T15:36:13+00:00",
-          "source": "Diario La Calle",
-          "source_url": "https://lacalle.com.ar/",
-          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
-          "source_image": ""
         }
       ]
     },
@@ -53,10 +53,10 @@
       "homepage": "https://www.lapiramide.net/",
       "items": [
         {
-          "title": "María Luisa Lescano negó estar detenida y explicó su participación en el caso Loan",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN2g3NmRuVVg0cnNGRldpZ0UyZUpRMDRJYnpHamVJYjc2ZTRlcTE3amlmUUFfQkk1eW9xMVBjOFZQSFdIU3MwdzNxVlMwUjlsZUxHcWN2WnoyUi1mc3Q4bUlyZnJOMThwU0N6bXV5Y0JEY2RXU2prQXFsU0VNdHZEMmpxU0k5YUtWb1BKX2hJLWJFUF9fVm53NjRxQU5MVWY0V0xNYTB2bGFVT1JmVjk3UzdMcUN0ZXFILWZQYlBlREdzWkc4Y0c5bmdLWDdsZWdQMkHSAdcBQVVfeXFMT1hWLWk3YlYybjBHcmZGZG5pOUhxUkxwWlZRMnBEd3V0b0lYRG5IQXhncXAtYXhYN0ltSGZjOVJRUnZ4QmRzVEZxa3otaGVqdGQzeWlqWURfZ0pkMmNaSUtqdlpmYUNCTGNJemEtVjZHc2hTZ0JEcGlzMHNoUlM4TXFBTlk5MkVPaHpqNXN0RmJfSkVXRzdvNWFtQXBSdGl4akdwVWwwT2hvYUpGTEZpRTNjR3N2OUZCS2I4SXFFTEFBMTNicy03RXZvc3dnVVJIU2tCUHZyTFE?oc=5",
-          "summary": "María Luisa Lescano negó estar detenida y explicó su participación en el caso Loan La Pirámide",
-          "published": "2026-09-04T11:32:45+00:00",
+          "title": "Persecución y agresión a policías terminó con un joven detenido y una moto secuestrada",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUnFqZFp6REl3LUZQdEd1VHBvbVVLTGFnNXhBOVBqbUZpcm5tQWtJNmlLYlEtV1Jaamw0cWJSQ3NtLXdwalplbnVKQS1oTTBIMUI1VTNTelVHRVVGWnlXa3h2LVZiUW01bTZCRlFXVmdhWEN1UUZHbDZUbFlfSk5sT3dBX29PYURwdGwycWgxOUNTNVVXV1gyUFBYMTdVSWd4R0xFbDlTejlwZnVwNmRfbUhUU3lPZWNQWDllNDR6SXZlWW1zYjk4U0U2eXdsU056b2VnZmczVdIB3AFBVV95cUxNNEUtX1Njc1I4YzlZTEJSUm5pVmRyY3ZNaXV2czMyeURpa0tDQzVtSzJ6RWQ3bDNPYncxMW85aUF5Zk1kN0FYeGZUTUwxS0g3VmFDWWs5dnpZbjR1Y1F0ZnA2bTdKQ01kd3ItSE9yYjNLOVBHRTNyMWRyRUZ5WjFERk8tcWNkMkRSbGtsLUEzYUdKRFdoN2NseUhhVmVlOEx6VWdyWUx0elNxV0pCSWhtM0F6SU1FZnBRVTEwd2tESkNFNGoyVE1yUmFQdE9tVkJsMlZ6LUd4WmtEN2Vr?oc=5",
+          "summary": "Persecución y agresión a policías terminó con un joven detenido y una moto secuestrada La Pirámide",
+          "published": "2026-09-05T12:18:01+00:00",
           "source": "La Pirámide",
           "source_url": "https://www.lapiramide.net/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -64,10 +64,10 @@
           "source_image": "https://www.lapiramide.net/images/custom/logo-social.png?_v=v3-27"
         },
         {
-          "title": "Volcó un camión cargado de maíz en la Autovía Gervasio Artigas",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOUJ0WUdseFBRMklfTnA2M1M2UWEySUlTbkl2Zm5jb1I1Y25BZ3pldnVSZ21vQUJJRlJFODdtMG53UU1hQXFJbm5CVi1sRjBJUWNYNGl6eUoweWU2eTdrTW5mTkR4SzZFalp4WTdlbHJjLVE0N2ZpVU81M0RaNHYwekczWkV5SGV5bWlDbmphYnl0dUJvYkZYY0pRSktVWThSMmtfSDVkZTBaRzNKQXFxdHY4WVR4WWfSAbwBQVVfeXFMTkhfVEdsV2RDd3Nhbk5sMGZHMERmTVFIcHhfUXM3UXlOR0kwN1UzOExtUHViLXU5WTh4UC1FWW5FbHVzS1hpbWpnQkdvWnlsMlN1c011SExCWDA2aTZvV0Nvd2dkSUt5bXN0NHNoeVJzMGttWXM2VXJZTXIyRV9HVzdtMnpWbVJONGFWMEZINHM5bFdEM2Q4UC1ON0p1S1g5b2pRTEFUT0RGd0JwWW1xUlVkeWlsOXRjd3g5UHA?oc=5",
-          "summary": "Volcó un camión cargado de maíz en la Autovía Gervasio Artigas La Pirámide",
-          "published": "2026-09-04T21:31:37+00:00",
+          "title": "Maratón Solidaria ALCEC 2026: recorridos y cortes de tránsito en Concepción del Uruguay",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORDRjMWpTc3lyRzljc3l3OVJORVpldzlLWERnb282Nm5FZ0lQRTJLSlFDaTNGb09GS04yakg0OXdRM2VhOGVPNElybFprTDFzN0FfZXhNU0ZhRFdOOFlCQktvNDFmdDc3RHVCLTQ4UnFsYTlBRDdZRWVyWnE0aTRlcnllX194ODd5OGdvVmQwWHFQeUpZR2U3M0E5dUVrenRZcFhNYWNqam5NUlpSeGZDRVdFMVZGWFNSeVNRd0ZYM2ZNTGZtalctYjVIQjd0N0hCTE5sT25pc9IB3AFBVV95cUxQaFpaMGZodXVseVR6akRvMmtqTU80S1BISmF2dmlrSFRsblR4Wm1sZUZ0dmg5N3pnVlhLOHFVVDQ0RFhObmR0SmNQekdnZXJaQmVGejVVZHh1WktWcVFYOWZwakhvdFc3TTNQYnVUV2FCSmxYUlRrSmhBTzdrTVQxLXBBSENkc29idk9RTDhHUDk2cExVX253WDBzckJPOFBGaHZURG1LaV9MQm10SEpkdl9lT0Z3LVhwTGFSODB4NFJ6eDRvazgxVEpkVHgwbi1tTWVmQ3YzOVA0U0x2?oc=5",
+          "summary": "Maratón Solidaria ALCEC 2026: recorridos y cortes de tránsito en Concepción del Uruguay La Pirámide",
+          "published": "2026-09-05T12:32:06+00:00",
           "source": "La Pirámide",
           "source_url": "https://www.lapiramide.net/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -115,10 +115,10 @@
       "homepage": "https://www.elonce.com/",
       "items": [
         {
-          "title": "Hallaron cigarrillos de contrabando en Concordia valuados en más de $25 millones - elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUVpSbjNYaHJmaDVLR0FwQm54bXczQ2lEb0FYQU03bGMyUzcwX0tOOHN5dGJVWjdEMkY3NnpUZWZ2T09HOEhXczlwdWRqNTRxR29IX3Rkam4wT0FBRmhNaDdpQ1NQcU5UWXJ3d2N5LXI3S2prVDNQY2FTcDAzQ3lvRWJSMmVKWmxhc1p6U010SWZRMlpwRnJtNWRmaTlwODloZGZKRVQwMTdsYlptaFFSdmNxemRkeXV50gGvAUFVX3lxTE96NDdBZnNuNWJEZjUyaXF6R3lBX0RKQU1qdUpUYk81dnkwMl9XQlRSanRtWWFJTExJbm5JdkYtYWQ4cTFRRmZHRS14Vm9lZXZyeGIxYk10RnJFNDBzdExaUnZabmd0Y0N0aXdTWXZRY3pnNFlMdmN3ZkJGQjllLU5XOUNLd0tOUU9JRVFCeDZiRlZsaVZUNHlXd29wM2xBUl9kNE40NVVVQ0lhVlJsdVk?oc=5",
-          "summary": "Hallaron cigarrillos de contrabando en Concordia valuados en más de $25 millones elonce.com",
-          "published": "2026-09-05T11:46:35+00:00",
+          "title": "Se realizó un taller sobre lesiones deportivas en Paraná: qué aspectos cuidar más allá del entrenamiento físico - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2NGF1bFlCSkRzVUlWR01wcWZfNTU2RkRPb2JWTkNhYWJwSjUxV3BFT1NJWG91SXJYQk9SYjI2ZzJ4dFY2Nms4MUVJellsS3RxdzFyRzVFdnh5ZVZoRGtEYXYzalBDcVd5RFZHV2E3X3dmdWJ5QkHSAXJBVV95cUxPMnRvRUtFckJycG1aVGFoNHVWOXlrSW9DUU5kVGxtck0taFg3Mk5tSmdsdlBZX1hUVXhqeTlUQ25CbDA1RXk0eWdBQnlkazdTQ292ZmhHdHJEWkE4Tmw5THdKR3V0OXBNTlJUZUNxRFVYS2c?oc=5",
+          "summary": "Se realizó un taller sobre lesiones deportivas en Paraná: qué aspectos cuidar más allá del entrenamiento físico Elonce.com",
+          "published": "2026-09-05T14:21:46+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -126,10 +126,10 @@
           "source_image": "https://www.elonce.com/galeria/sitio/marca-de-agua4-jpg.jpg"
         },
         {
-          "title": "Denunciaron a Julián Christe por presunto abuso sexual de un menor y avanza la investigación - elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNlg0bFBtMF9NdmlIT0g0UnRfOVJTcHVzOVZabGVWMXlOSVp3WVRFYndGbm1CUnllNFNFLVJCTGYwVThFZEFZcjdvbV9na1VGMVBFYlJWbHlEczRSeDl1cmI2UEF0NlQ3ZndNb2Q0Wk9SQnpTOHBCbTFEWEZPdzZrZkhBUVViQlNFalhDd0ZFWW9TMzlDbzI5bDU1N0JhR1NmaVZ2bDkyeTF0X0hsMkxKS3g3YS1jX2Ntc0k3WlV0OGtHeFE2X2tDNjExek1CdTVIU0HSAcgBQVVfeXFMT2NYRXA0UnRQZGdKVHgySE45aFk2Njh5bkhZQ21tcUREdGlEVUhMbFRYY2ZRWXdCSmhYTll6UnItb0w3UnFpMFVQRlJjWFg3WTgwSUltNjhXamJwOGt6eVh4V1NaelRGVHlvNzBzNWRUSmY5VFR0d0dyTWE1UjczMlZaYVl0OEVrNjFpdG9VN0N5am8tNWJMcmxacHdtelNMajMxZEl1NXpjVTJCQjgtajNpa3ZVUjAzR3ZyNEd5VkJIeUg5LXhsY1M?oc=5",
-          "summary": "Denunciaron a Julián Christe por presunto abuso sexual de un menor y avanza la investigación elonce.com",
-          "published": "2026-09-04T20:49:00+00:00",
+          "title": "Violencia en la terminal de Santa Elena: un hombre fue golpeado mientras esperaba a su familia - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcktMZ1ZHUXRwa1Zpd0ppNEllQW1kbE43Z0VrdEk0cEIySnpTbTc5MUM3NERwaGEyOGxpUnNFUXgtdGJ2ZmdheW1jREtleUR0dENEelhfTmhZY0lrdEJTemJ4SjhYcXk5aVlzQm9XUVpUYkN1RXRiRzZvcXJfc3pnd1ZoTkNRNzFqQ0dOaEJ2V0NvNjdhMXZ1MUxTa1ZQdjRlMm41UXQ1dGlTWjRkZWtoTHVqRGpuYUJBWWlsWDUtenk3Zm9PZDB1NGlxY9IBwgFBVV95cUxQdHFKZXRBalFJaDVLaU0tRjYtZHllUUpULTU4Uy0yUFRUVkFWY3V6QmVJakM0SzU4OHpUdjZBQzVPbmdFcnEtejluNXlGM3lNb00yb21RZk0tU0lxWWI5UERodVJLZWZDeHp4YzIxZ0p5dzNsd1Z5S3A1LVBXaktJZXRkV3VJUEZoeDdWNzBEMkZfWlRQZnR1N2hCWHF6MjZWcUV1TzkyRXpWakIxdlhEcXV5R2lOVkdRWnhBOEk1UkJEZw?oc=5",
+          "summary": "Violencia en la terminal de Santa Elena: un hombre fue golpeado mientras esperaba a su familia Elonce.com",
+          "published": "2026-09-05T15:46:44+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
