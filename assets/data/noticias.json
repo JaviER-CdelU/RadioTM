@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T15:09:36.317844+00:00",
+  "updated_at": "2026-09-08T18:39:21.601561+00:00",
   "status": "partial",
   "description": "Titulares y enlaces; el contenido completo permanece en el medio original.",
   "groups": [
@@ -11,20 +11,9 @@
       "homepage": "https://lacalle.com.ar/",
       "items": [
         {
-          "title": "Concepción del Uruguay homenajeará a Jorge Enrique Martí a 100 años de su nacimiento - Lacalle.com.ar",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMkMxVVZMa2EwaEdMcjhIS2tuemtXVlhvV0JhMlF1ZHZ5R0JOSXNwYndPRERkRVhvWWo0ODMzemVnVHcwbERDSF9CYm9MT0l0VWFpYUhrVGd4MTZTOEtxWkdNdTdTcS1helRYWktVTDRWdkkxUEN2MnJaakN0Rk9ndks1SlI3bXVXYTkzMGFKVVlIU2lUZWF1U1htZGc2andBLVFsRFFFNnlTd09u?oc=5",
-          "summary": "Concepción del Uruguay homenajeará a Jorge Enrique Martí a 100 años de su nacimiento Lacalle.com.ar",
-          "published": "2026-09-07T11:37:02+00:00",
-          "source": "Diario La Calle",
-          "source_url": "https://lacalle.com.ar/",
-          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
-          "source_image": ""
-        },
-        {
-          "title": "La Estudiantina 2026 ya comenzó su recorrido por las escuelas - Lacalle.com.ar",
+          "title": "La Estudiantina 2026 ya comenzó su recorrido por las escuelas - lacalle.com.ar",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOejNYbzRzRlYzZ2lGV3prS0dEa2lEdjRuaUJXcmIwUmlvNHhWbXhMWWUxOU9mQVNrazNKZ2RmZ3JWOFNQdkgzYUJQYWhPck9ZWDV1ak5SNE0xTmlFOHZfMTNqLVZJSjYwdjczZGgtNnR4X19qUVA0alVPSjdwTFMyWWs0QW04ajB1blBqOGh3?oc=5",
-          "summary": "La Estudiantina 2026 ya comenzó su recorrido por las escuelas Lacalle.com.ar",
+          "summary": "La Estudiantina 2026 ya comenzó su recorrido por las escuelas lacalle.com.ar",
           "published": "2026-09-07T11:30:40+00:00",
           "source": "Diario La Calle",
           "source_url": "https://lacalle.com.ar/",
@@ -33,10 +22,21 @@
           "source_image": ""
         },
         {
-          "title": "Historieta y humor gráfico: taller y muestra en el Rectorado de la UNER - Lacalle.com.ar",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc3JKZ1VVSFRCV0JLZ3ItNVpWS1NOVUh4bUFmWkZiY1BoTjhPLXRVbC01dHNab29iWDdON2VrWEZMUnhsUmhEVHhyb0dSU2t6SVdBVWxRZU8zWV9zN09WaWQzMy1mMVVDY0xzOHVqWE1jWFV0SjJNblhUanEzUmdKMXp3V1Z0S0VTVjRGSTR3RTRSYmJPa1FDbUx3?oc=5",
-          "summary": "Historieta y humor gráfico: taller y muestra en el Rectorado de la UNER Lacalle.com.ar",
-          "published": "2026-09-07T20:41:52+00:00",
+          "title": "Concepción del Uruguay homenajeará a Jorge Enrique Martí a 100 años de su nacimiento - lacalle.com.ar",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMkMxVVZMa2EwaEdMcjhIS2tuemtXVlhvV0JhMlF1ZHZ5R0JOSXNwYndPRERkRVhvWWo0ODMzemVnVHcwbERDSF9CYm9MT0l0VWFpYUhrVGd4MTZTOEtxWkdNdTdTcS1helRYWktVTDRWdkkxUEN2MnJaakN0Rk9ndks1SlI3bXVXYTkzMGFKVVlIU2lUZWF1U1htZGc2andBLVFsRFFFNnlTd09u?oc=5",
+          "summary": "Concepción del Uruguay homenajeará a Jorge Enrique Martí a 100 años de su nacimiento lacalle.com.ar",
+          "published": "2026-09-07T11:37:02+00:00",
+          "source": "Diario La Calle",
+          "source_url": "https://lacalle.com.ar/",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
+          "source_image": ""
+        },
+        {
+          "title": "Once ordenadores viales comenzaron a trabajar en la ciudad - lacalle.com.ar",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaE9ZbnBuaHZqTWlOVjJfMmVyM1V6WXVyYy10c3ZsZ253YXAxMkViZzZJdlo2bTdqdVJaR21SbnM1LTg4RVh0ZUVNYlFrRXowcmFrNWQ2dl84UmZqTmRSc3pVTzlGaEVUX1NITTZiLWRCTFlHZExiLW5iMW9Zby1zN2JqSUxSbWxQNGc?oc=5",
+          "summary": "Once ordenadores viales comenzaron a trabajar en la ciudad lacalle.com.ar",
+          "published": "2026-09-08T13:59:48+00:00",
           "source": "Diario La Calle",
           "source_url": "https://lacalle.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -53,10 +53,10 @@
       "homepage": "https://www.lapiramide.net/",
       "items": [
         {
-          "title": "La Comparsa Aimará fue declarada Patrimonio Cultural Inmaterial de Entre Ríos",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNR2h2b1FBSkRLX28tOF9rbloycGVNVkk2VWFheWJDQUpFVlgtUllXWmVSay1ONEppR0tXRHctODFwSVdFczlCUnpuZGViY0FicHFlUGZvdGJLekdpMjQtRzk1UGRzTmF4VHpHV3pZZVpuZkFuZFhaRGhTbEN2MHJkMl9uRGk5ek9UVTg1Rmc2N0tUNjZBNU03dVpnUGJZQWkxU01xOS0tZUZ5WktYcUJDNTh5UmZScGlwbDAxVjg4V1M5dXB0YkJZdmw2SdIB0AFBVV95cUxPNFRTa0JLNWlVYkxmc1NuS2l3cTlCcHVXTHlSS21oNTBFOVJsaURoamxZM0pDMkRFamFjSTB2aW5YRmxMV2pBbGxVM0hzUFN5RE9qQlRoanB1dmNna3hTVUNMTHFQYUZWNHBTeEZiTUFkSE82aXdaVXFLWlQxc2pZWl8wSURBWGs5cE1uUW5qaUlXRlVwdWhyQWRSdVFlaUZPRkFNVVlvVzhUTDJRRVQyTWtJT0hUdEgxLUl3d1dvdWZkN3VySUJwbklTNkJJakk4?oc=5",
-          "summary": "La Comparsa Aimará fue declarada Patrimonio Cultural Inmaterial de Entre Ríos La Pirámide",
-          "published": "2026-09-07T13:04:58+00:00",
+          "title": "El Municipio suma Ordenadores Viales en puntos estratégicos de la ciudad",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPempPbFAxYkJJMWV0RXdNb1RXSlVWWl90aFlwNGstMFhKUEN4R0plaUd4S1JvcDMxSUkyTk9Hb3ItQnoyMTJuaE90TWRtR2QwdUpaanZwMm9pNndDZ2F6c1pXV3JPd2g0Q0N1a3JsTW1reS1ITTc1bU1xYlpFcElFQWd4WVdoY1lPV0MwTWtBanVEX0liZHVKSC1hOVo0QUlRZGVjTFpsVVdTeWJCQ3NHVHJsQ09RTktpdW9KajZGLWZOT3Bz?oc=5",
+          "summary": "El Municipio suma Ordenadores Viales en puntos estratégicos de la ciudad La Pirámide",
+          "published": "2026-09-08T13:10:08+00:00",
           "source": "La Pirámide",
           "source_url": "https://www.lapiramide.net/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -64,10 +64,10 @@
           "source_image": "https://www.lapiramide.net/images/custom/logo-social.png?_v=v3-27"
         },
         {
-          "title": "“Primer Viernes de Abuelos”: una propuesta para compartir, charlar y disfrutar en comunidad",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTU40RzZsQjV5aXdWQW9SQkd4TTluNVJDNFp2LVBpQlNPOHBWc2tDRzRNOXlReXZtZTJPZGN4dTJ1VVNna3NSRnl6VHJHYW44V3FjUVNFVEpqaXRabHFGazlIc05QSXZuNWo0RkxLQm9BM2V5TmZLN1MtdXE4cGZidklxMVZUM0VpWjVVWmNtaHRnWTJjNFRadF81cktxYUdrdDVfWWw3ZkdXb2FUakdXNzdyZGFRTkJJdzZYbC1nTGNTZ3IwN3U3NUhFWWZWSEw5WUxiU2JVY1fSAd4BQVVfeXFMTllDMTRzVlp0eTJzWEdLMGYtdlFWYWNkM0d1bHdkY2VRYS1FejEzdnZVdzZkeTFiSXM4V3lnTEtYbHA3bmVtWXhMTW1jMXZTMDVQeXE5MndaMF8tbVNuVUliTDdRVThDVHFCMGF5Y1doMjBReUlKNlpBZG4za3lORDlHTjNaM2FZdzA1bVhOMndkbGo0MVpnLWpEWHRmUVE4VGF4b2hsWm43QnlaLWVyd0ZYSWFFYWw2ZWhDRWxFd2kyRkpjSDY4NHA0d2dJRHFGZGY3U1dxeW9jb21Kcml3?oc=5",
-          "summary": "“Primer Viernes de Abuelos”: una propuesta para compartir, charlar y disfrutar en comunidad La Pirámide",
-          "published": "2026-09-07T12:19:58+00:00",
+          "title": "La Feria en tu Barrio vuelve a recorrer tres plazas de Concepción del Uruguay",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMlBRWUtKVmpnQ3h3dUJ5aXF1dVN6RmsyNGVpelVkYlI1dkczT2MtRmVqblA0R2dIbHhSNHlCT2Y1NXdpdThvRHlmSlNHaXZmQzRaRkhmWV9CQWw1bVRSZUNid0tGRmR5UEc3NnczSVdKQ1RxRUJUT2w3N284VmNneWJESnVGTVJJWWsxQkhBLVFDbXh1X2hLLVc0OVhjc1BzQVVwVzgwdzdENzBhTjc2NkJjSlR1RVZfTFppVS1SZlNwWTBJUk42SEI1Z9IB0AFBVV95cUxQMjJ4NmVhWldlMmZCUk9tbnNOYUNIYWlocWFUaXY1WUZCYlVPa2dKMmljb3NNXzlPbG1aQTdrVE5saHZtdUp5dWVtQ010QVV2eFNWb1dXRkdNamZDaFlNZW5xaW9LVXpGVHhhT1N3VXZQTE1pZHhfWlRkNERNY0FsTlFtekZVT2o4dDk3Ri1GNVg5d2FPdmVSTG5Jb2JvUlJoRTBNTnk5VnRxbHJ1RUpRaTZRWWdKZTNvcDRHTlg0ZTZGalViUGxfR1RKRi13WnJF?oc=5",
+          "summary": "La Feria en tu Barrio vuelve a recorrer tres plazas de Concepción del Uruguay La Pirámide",
+          "published": "2026-09-08T11:40:28+00:00",
           "source": "La Pirámide",
           "source_url": "https://www.lapiramide.net/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -115,10 +115,10 @@
       "homepage": "https://www.elonce.com/",
       "items": [
         {
-          "title": "Nueva edición de Miércoles de Paseo Modo Feria con descuentos y espectáculos en Paraná - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMkE1XzR3YkJvS1l2RlV1N0NLanQxUkVBTUVjVHU2LXpSMHhZTGFpcjBRaFhXVnZRRXl5UEoyVzgwdTJDQTFCMGtPMTNUTWpxNjQ2RDNXWml6MEpmZnhRVXFwVjhQUDRYSU5ua2dSMzl1aGZuSlBXXzNudkNJNTl3dDJsSHhUTXBWaXhYa3lIZ3MtZkxNRGt2RFlmRm4yVnJoRFJNaDZYTkRfWl9JcjJIUW5GcDFuRGZJdUliY9IBuAFBVV95cUxPaDRabXBLZkJtVHRHbjJ1d25SRWg5MUpBOXhGSENvM3R1SUEtanNlTUQ4aFFkUllmNy1zZElBWFBYaGp4eWk5WEVZMVFyM2tIMG90d0RxcG9JZmNyMGxJRTFzaGIzUmkyNUJKQlI2Wl9uOW8xdXRBdHR6ei1IMHRlTU1RWXgwOVZGeEo4VnJ6VmtjZEdIelNTdlVvT2RiT3ZaR19TSUVQeE1Ib3kwd1FiZG5kZnZSTzUt?oc=5",
-          "summary": "Nueva edición de Miércoles de Paseo Modo Feria con descuentos y espectáculos en Paraná Elonce.com",
-          "published": "2026-09-08T14:21:06+00:00",
+          "title": "Avanza la renovación de veredas y arbolado en calle 25 de Mayo de Paraná - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdk1odXZoa3lRZ3JIWHdiejNCa1dOUU5VQWxVS2RmUTRzbVpVOHYyUU94ZWNFQUlIOHRCN3djelgtOVB3OGNUZkVtd1ZRa1JUQldwUEZYR1Rqb2RnRERnUUdIZXpic1g3dGxwVnB0dWFJQlhBZjlzMXRpLXYxdThzbEV0WUJubnFjZWZodnNyakFTVHFmYXfSAZIBQVVfeXFMTk1iUWZwM1o5VjBOMEtJdHg5WW5WUFd1VGg1cEI3UThsdFhVMUJCS3JxUzZZMzNjdnFFWnZtRDA5ajNyMVFCNmRBSkpXNmo5aE1FQ2NRbEwybTYxdDNiQkpoZWp5M3pieGFSWWVTOWJCYV9lV3dQb0E2aXJ0T2VrbHM5c1dVekI0aEpQVGNINXBoSVE?oc=5",
+          "summary": "Avanza la renovación de veredas y arbolado en calle 25 de Mayo de Paraná Elonce.com",
+          "published": "2026-09-08T16:11:23+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -126,10 +126,10 @@
           "source_image": "https://www.elonce.com/galeria/sitio/marca-de-agua4-jpg.jpg"
         },
         {
-          "title": "Expectativa por los créditos hipotecarios: “Entre Ríos tendrá la tasa más baja del país” - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMkJhWG9zWHYzaDNfdkVfR1J6MEpGNGJHZGppdVdYYnpPaG5MSGVyRG9WX0RCZDUyRUY2b0RMb1NJd0RTd2RMMGNHN19YOUVHMlZGQl92QUswRmpMd2xRR0pMUzJkT3ExTlJLWjBheXdlNlh6M0s3dDZEVXVlSXdrX2p0Zmg2ZEpqNGtIUHdlOG9aTHA5VFRHRFpWNlVqNjMxMWtVUTk5eFV0QzB3eV9pWXROMNIBrAFBVV95cUxOMXJQZVF5TEhrNFRBR1RtcDRoUmVHZ0tlMWFpbF9RdlRSZUxhbmdqeFY2SElRUU9ESEVsclZub2pwaU42a2NPbkhNUEhXRWp1S29fSzdGSjl2OFVCLTF6NlBkQzkxU1VOX1I2MXpiYmZFYVVrbXhTQkdpSVNGSGliZ0NqZEpnVmEwWExSVW5BbTg2b3J1b2szZVlMdzVwckFXRWstdi1ETzlkNTBX?oc=5",
-          "summary": "Expectativa por los créditos hipotecarios: “Entre Ríos tendrá la tasa más baja del país” Elonce.com",
-          "published": "2026-09-08T12:31:46+00:00",
+          "title": "Maggie Cullen vuelve a Paraná para presentar su premiado disco \"Décimas\" - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORnp2OVVIeVQxdUFOLUU3NmdCT1NXQmNsT0l5bnZkUUxEMmVySjNlS2ZHTEN6TWNUZV82dUZsU0lJODc4NmZiTHF2ZWVaelBycV84bEZ2em1ic2ttUnB3TldSUkdHLUNJS0JLV0JueDVXeHV2UDFkVE9ldkZIeGwySkUxWkdOekN4Q2xwbVRJRTIya1hBeDNWN0ItLVBLdGtEYnRDLThyQ1BRQWlFTC0w0gGjAUFVX3lxTE5XZExldlpfVFFtSE5hZnpvRnRfYkNaWEJ3d29WXzhHQXFuS2dwNGZmb3dJeV9JaW1laWZBTEVXWEhhbEluSUU4QzZDT29ieVEtQU84Nkw2Rk0tcDlPeVN2d3VPTF8yZEN4UmhYTkZ3d3RuTnJ0WHlLNFRqTERjRFRacE45UWxzVmpPSzNuT3NPWDJkVVRQN2Z4eGszSWRDUkxodjg?oc=5",
+          "summary": "Maggie Cullen vuelve a Paraná para presentar su premiado disco \"Décimas\" Elonce.com",
+          "published": "2026-09-08T17:19:29+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
