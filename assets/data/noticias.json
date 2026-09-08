@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T01:12:01.240012+00:00",
+  "updated_at": "2026-09-08T05:57:30.283827+00:00",
   "status": "partial",
   "description": "Titulares y enlaces; el contenido completo permanece en el medio original.",
   "groups": [
@@ -10,17 +10,6 @@
       "type": "Web",
       "homepage": "https://lacalle.com.ar/",
       "items": [
-        {
-          "title": "Interrogantes sobre la ocupación de una vivienda dentro del INTA - Lacalle.com.ar",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTVQ5bkRLenNLM3d6dDFiNzNNdDBKY1ZTZ3VHTTEycHBqa3lWVkd2M01scXU0cmR3ZzdxdTBKMERUV0phTmw3YnRkV2NhT2VOOUVzNDZtcHF6Zmk2cFFfdXphUmozZ3V6aUxjeXdVWHJleGI0bVdUYk16cmlSejFrVUFDVXJ1cDNHWVZabE5vd1B4UQ?oc=5",
-          "summary": "Interrogantes sobre la ocupación de una vivienda dentro del INTA Lacalle.com.ar",
-          "published": "2026-09-06T11:18:24+00:00",
-          "source": "Diario La Calle",
-          "source_url": "https://lacalle.com.ar/",
-          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
-          "source_image": ""
-        },
         {
           "title": "Concepción del Uruguay homenajeará a Jorge Enrique Martí a 100 años de su nacimiento - Lacalle.com.ar",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMkMxVVZMa2EwaEdMcjhIS2tuemtXVlhvV0JhMlF1ZHZ5R0JOSXNwYndPRERkRVhvWWo0ODMzemVnVHcwbERDSF9CYm9MT0l0VWFpYUhrVGd4MTZTOEtxWkdNdTdTcS1helRYWktVTDRWdkkxUEN2MnJaakN0Rk9ndks1SlI3bXVXYTkzMGFKVVlIU2lUZWF1U1htZGc2andBLVFsRFFFNnlTd09u?oc=5",
@@ -42,6 +31,17 @@
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
           "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
           "source_image": ""
+        },
+        {
+          "title": "La Estudiantina 2026 ya comenzó su recorrido por las escuelas - Lacalle.com.ar",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOejNYbzRzRlYzZ2lGV3prS0dEa2lEdjRuaUJXcmIwUmlvNHhWbXhMWWUxOU9mQVNrazNKZ2RmZ3JWOFNQdkgzYUJQYWhPck9ZWDV1ak5SNE0xTmlFOHZfMTNqLVZJSjYwdjczZGgtNnR4X19qUVA0alVPSjdwTFMyWWs0QW04ajB1blBqOGh3?oc=5",
+          "summary": "La Estudiantina 2026 ya comenzó su recorrido por las escuelas Lacalle.com.ar",
+          "published": "2026-09-07T11:30:40+00:00",
+          "source": "Diario La Calle",
+          "source_url": "https://lacalle.com.ar/",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
+          "source_image": ""
         }
       ]
     },
@@ -53,10 +53,10 @@
       "homepage": "https://www.lapiramide.net/",
       "items": [
         {
-          "title": "Mañana comienza en Concepción del Uruguay el juicio por jurados por el homicidio de Pablo Bedogni",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPSV8xdFRCT2huWWtieVpzdTZXdTFpRXRreWg2TEREei1jZHVMTGVWREJjeE9TYjBRSWRoRTJzNHRKdW00dS1oMHBTNWVLQTdQa3RYbjdDcHRKdkk0NnFPQ3kxaXNlR2l3UjREUnpKdGh5UEFJQmg2VzhsMzF6STlvM3JXZEdIajRIaEd2aENHdkFyMl9vMVUwcXZFZzVfc3JtRGVUSXVjVFdjd3FXbzUzSGlZZUNVSVRnUGVreXEwUGxOS3BIMGhwZ2FtT3JGRFdxZ2FfSkNhWGx5UWxlQlh6SlNDcjB2d9IB6wFBVV95cUxObVdocWFwVzFfa2xiNjBIb3dTTVlUTFNiX3ZxNHA5azQ1SzlJa1JQelJZQXlTV3dlaDdSeldQUnVKZkt3SGlrWk9hbVRZU044aUtNTFVLampNQjhUdms4RE13QWJVQVE2T05PazR4NzJxYUdzNU9aVXZTN0lTNkxxd0VQbEhyTG1xOVVKczB2enlYc3BmNGF1aWlMS2VwNjFDeVF4cjNnanIxTGYzeDJRV3lfWlFLV2JBbUQxejNFTi1TQnk0M25sX3lDZTJRS2haaGlmbHVOZWI4cm9ta1JzQmFfenhDMFZOM0tN?oc=5",
-          "summary": "Mañana comienza en Concepción del Uruguay el juicio por jurados por el homicidio de Pablo Bedogni La Pirámide",
-          "published": "2026-09-07T19:39:58+00:00",
+          "title": "Se refuerza la protección en el terraplén de la Defensa Sur",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNODJqdklHOWpoSFdJZFRvc2V1VUZCNXYwbVpOdUhYN2I0a0lfemN0WXN6T21Rb0xwMTV6NjFkS1hGZVhvbG5Qd3gtZHJqUjF1X2JtcDZzZHB6bzAzZDJyclZCSGNYMG9KTG9wYlZWdms2aEI3bDNacWJNQ0hWcTUtZHJhZG1xcEZZYkVBYXR2d2VKUUlaMFY1VjJiVmtpbWY3UDlhNHZkUThnR2VOMnQtWEVrZ9IBuAFBVV95cUxPTlNkYjcyUUhkTWZYZC1xaW5xNGxJbVhYZVcwRlFqZmY3UDBWS0ZHLS00c3dQOXZSQUFlUk5sY053eEJiTTU1QUJzaWU1NVQtbGpKWmFBNUpoTkVtUmZmSTVENkpTdVBMTVI5RmdPNF9NOWR4akRIaURVTEU1MWJUNG8zUjVjMlpsZUlNSmQ4MmY0UVpZeU00RHp1WlY1djc3T200S1k2RVVVRjhXSFdaSWNLSmdaUURw?oc=5",
+          "summary": "Se refuerza la protección en el terraplén de la Defensa Sur La Pirámide",
+          "published": "2026-09-07T22:24:58+00:00",
           "source": "La Pirámide",
           "source_url": "https://www.lapiramide.net/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -84,9 +84,9 @@
       "homepage": "https://www.r2820.com/",
       "items": [
         {
-          "title": "Reunión en Comisaría Sexta: reclamo de vecinos y una realidad que también interpela a todos - r2820.com",
+          "title": "Reunión en Comisaría Sexta: reclamo de vecinos y una realidad que también interpela a todos",
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWFctUXpVNmFoZU10MDZITURvcEQxUG1KbWxmMkc3WHRpbjJ3d2pfZldTclFxejVVTmhwZTRIYUwwUk1HQXBFTmdlZUg3dC1TdkxuYjdQT3NHRFNjb3l6SXVMMVhTSGRYNUd1eW1jcnRqTVp3S2tnaVEwU29MaGpJUVlTUGJuRkZFQm9pSjF3X0R3U1AzeERTb1p1MHluQnFqNDNtZkd3WnByYzhTdVZpbS1XYmoxRTFOQ2FpV21saTJTYk1ZTG5oRldVN2s5OVBpT1I0YtIB2gFBVV95cUxNYzJTMTF5MW1hakVDU2gzRElhZENqNE1MUWlKN2JHTy0zSkpjbE9LeFh3a3NSZUE5dDlSZTBxZmVmeVJEVWFNbEZEbkduR3VmRHpyZWlyZVp2QWtveVhoVE5zWHhvdHJJOTFMZDNlV0JhNEo3YWNwNGFadVFCR3RMajNKckliTXhjaVZQQ1FCSGhhdWJYdzBSYkNCMGtnQ1AyUWtfSTVMSVFXaERMUzJzbVdGZUVQNlFHUlYtV0lER010SEZLQk54REx5elkwcFdrLUNwLUgtemFzdw?oc=5",
-          "summary": "Reunión en Comisaría Sexta: reclamo de vecinos y una realidad que también interpela a todos r2820.com",
+          "summary": "Reunión en Comisaría Sexta: reclamo de vecinos y una realidad que también interpela a todos R2820",
           "published": "2026-09-07T03:06:09+00:00",
           "source": "R2820",
           "source_url": "https://www.r2820.com/",
@@ -95,10 +95,10 @@
           "source_image": "https://www.r2820.com/images/custom/logo-social.jpg?_v=v3-45"
         },
         {
-          "title": "Un gualeguaychuense ganó más de $12 millones en el Quini 6 - r2820.com",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTkRyMFNJbmtmNURJdHZfZkJUcWR3SlN2MDloUkRZaUtBVUhUOGtBR01YZDhUd3N4R3Z6d01sZXlXUy1PRkdGWjg5Mndwd1I4U2JPQ0Q4WUNUNHY2X0NPbThxN3I3dW1ONlRYYUt4OUlNeXVCbEN4RnRfMHFkc0RhWmQwY1lIU0k4M1dWRDhBUk4weTNST1hYb1ltU1U5dVVJaUYxVnhVcVVGd9IBrwFBVV95cUxPbTdEbUpfSE9qUnk3OFJqWTBjU25Qa1lnUTQtd3FyX3RXRGNaM2NZMG5wMWtlbm83N01zRGFkRHVkMHhyWFVjMEtRMVB5RXY0WVpUVTN0eFIzYnN3OHVUdkJUazEteEl1aldYTEJUY3RyUEw3V1c5aWY4TEhhMzhaQlZLNjRyVE1udXZ3SC1iV1VSVWkzVENYcTRoS2h4bUdXc19kRTM1elIzQ2d6Qnpj?oc=5",
-          "summary": "Un gualeguaychuense ganó más de $12 millones en el Quini 6 r2820.com",
-          "published": "2026-09-03T14:49:37+00:00",
+          "title": "Federal: en tres allanamientos detuvieron a dos narcos de la ciudad",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZGVYcnM3bk8zZ3RCUFBfMUZVSXlsN0V5cE5qVURJRGkzdWJfR1pNNVZkMjU5MjRSRUtEdUhYSjA3bWVwbzhSRlNfalBRbHJVXy0yNkFrM2c0SHAtOXVzVVRSSElvQ3BIUHpKTHlIN1lSbVpyUG4ySnFVNHZSMXVwVGRHUEpRZUpxRFJpTmk1TkpaUHlVeU53VW5ZcHJSMGR3NWtwZmllb1lNTHFuMDZ2dUptclBDUdIBuwFBVV95cUxOcG9oTE44UjRoN3NwTUh5MEFUamxfeDFKZkpVdUUtTW94RkwtYVg5VV9DR3QwYUNMcS12YWVmQkN6THc1ejJJWXdNblZFdEREVTEwcTI0WVMtR3AtdktmelJ5MHl6dTlzT0pDODc4d1ZDdFlQaEJRTHVrNlVfX04ybVB6eTc0cGZwVmQxeDVreEhLUG1uZ2pWVGJtdWEyTm1lRkU2aEIzOXZ1cUNhTkxGQjFERUR5SGpSbEpB?oc=5",
+          "summary": "Federal: en tres allanamientos detuvieron a dos narcos de la ciudad R2820",
+          "published": "2026-09-04T02:03:55+00:00",
           "source": "R2820",
           "source_url": "https://www.r2820.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -115,10 +115,10 @@
       "homepage": "https://www.elonce.com/",
       "items": [
         {
-          "title": "Asamblea Ciudadana Vecinalista: autoridades detallaron avances de obras de recursos hídricos - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOY29BZUlpMk9ubFR4cVpEZm9xTF9SamlHSTJoTWRWSFduSndhYl9EaDFYT1d1aHFPbjFyWXFtV19FbFc1Zl9ScWdnZ0J3djdRdG8ySU51TV9Mb1NMM05FbDZTNVRIZURqU2Y2SDl2VWJISFozWTFmR3V6c2RYQXpNanUwcGptT1FxRzRrYXFfcjVYQU50UURCczh1WHF2ZWI1RjZaQkQ1UXVDaUxiYXpveDd1ekY4LUFOZm8tVUN2aG5wUmg3eUE?oc=5",
-          "summary": "Asamblea Ciudadana Vecinalista: autoridades detallaron avances de obras de recursos hídricos Elonce.com",
-          "published": "2026-09-08T00:19:08+00:00",
+          "title": "Carrere se prepara para aportar su experiencia con un proyecto político en Paraná - elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdWN0MGlKMWxRUHYyMlZoNDNELVJma1NFR241X3VLckktOTZONFIwZnd5em9FVWVWeW5rMm0wNmdEMVhyVDNULWtMMzRWcmZfUVJ1Z2Y3NUtoMldQMmd4MGR4d2UwNE9lbzlVWGJDWkdNTGtLd1lMLVJZcW9ESWdBN2Q4ZWtmblV5dUtyNWRuSzFpVEJpa1FzUjZrU0dobVNuR0pWLS1SaHBhRG9kT3htQm5uYWhCVGZv0gGyAUFVX3lxTE5yZ0tRZmFTSXZLYmFiYk1FWXlZYmVpdGFUNkFrb0dTY2l6ekdxS0NoZS1tbXBBQmpyMVk5b1dMSlRpT2ZScUtPVjc3SWFIS3RoQXZhX3RTXzRQNzVFWlMyQTRmcjJjRU9GOWRuZ1haSDVwZ0hnbVN2WmVjYmcwVExpcUF2SnBVZW9BS21Oa3RSRnRYMjI3d0MtYnR1ZDU3bTVsM01yMk5GMFAyNXVLSEh6NlE?oc=5",
+          "summary": "Carrere se prepara para aportar su experiencia con un proyecto político en Paraná elonce.com",
+          "published": "2026-09-08T01:51:41+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -126,10 +126,10 @@
           "source_image": "https://www.elonce.com/galeria/sitio/marca-de-agua4-jpg.jpg"
         },
         {
-          "title": "Rotary Club Paraná Plaza renovó autoridades y asumió Luciano Cozza como presidente - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSDl3aFlvMTVKQlBPY1Etb0JlQUc5QzdROVA4bmFSbTg3M0Y1SGU5YmtrWWJlQ0lVWDZPdWNwTmtQTXZ4LXJnczRVZ3NTRGVIcmhDcHl1LWVHTDBhRnlLWmtFV0JDc3RaNVhQYjByOTZPbDJnQi1xd3ZHbm5DdE53QTRKbkpWc3FuLUEwaFFPb3g5NXl6cHBsYUxKZHROLWt5Sl9QbkhWNUJGVUpzU3FtYnBMYkt2RlZINU5MeXM3QXNucWw1MVHSAbIBQVVfeXFMT2dqZWdQSzFEbFdZdzBPZDlqa0lXdXZSTmUwWE8zYVRxTFp4M0JlRjNfaXEtZmtIajBHRHFFV2xCeGJ4amJtQmhBRnJHcGpFLWVlTlh5UTZsQllCeUczQm84SkZQMDlIT1kyb2ItNnhBWmdob3FVNFd4c3BNZ0VWTU93RGRSaXFMa0tKaXRYaVU2ekxpWlNZaXA0Wk9CMmxwWHZtbEVpRGdCSktqVFFNcXlBZw?oc=5",
-          "summary": "Rotary Club Paraná Plaza renovó autoridades y asumió Luciano Cozza como presidente Elonce.com",
-          "published": "2026-09-08T00:02:01+00:00",
+          "title": "Accidente en Paraná: una motociclista resultó herida tras chocar con un auto - elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNLTdZckRadXRNbUtsNkhYX1BJUTVkT0txd3dNZWprb2M3RVZ5Tzkzcmd4TDB5VnNzR1ZmbDRQTWZyUkpMajRxSFFiRE1NZ2o3UWQyNk00MHl5ZXNiYjFVNmo4S2Zwbm9rNnpwWF92RWlXX29YYkNSallKNkxFZXdodThBeEh3N3FKSFZHVDZjZlVfVzU1YTZlNTEzallIdHNXR0RCMlVLclFIVHhWR2lWWWtiWdIBqgFBVV95cUxOU25KZXZfc3R3LU00SzhrWGFFV1F6azcwdjhLeXh2b2tOQ1B2dkJwSGg1SFh2M2ttem5DTXViZ21PWEpmZTBsTXlxMlRxZFZsZ1d5b3R4bkVDMmdiNldUa1VmcTlyZU5tNXRTZXdSRGhZczRqM0lGNEpPQmMxRkdrMmptMlFJTW0tMFNJaFdNWTJHWndKMmk1SDM1RW1HZmZRRjNKbXJGOGZUQQ?oc=5",
+          "summary": "Accidente en Paraná: una motociclista resultó herida tras chocar con un auto elonce.com",
+          "published": "2026-09-08T01:03:25+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -146,10 +146,10 @@
       "homepage": "https://www.pagina12.com.ar/",
       "items": [
         {
-          "title": "Internas en la Cancillería: Nadie cree en el supuesto giro malvinero de Javier Milei - Página|12",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQnVtSFFFWGthMms1MzFiUkpJRTZjemJ1c2JuTmUwYnR3UEROcUUzdE14TlM0MXZmTXo2ci1aNXdlSlVWekNkbHhqU1FrZWZXY0VuRGN5V2QxNEMtdUVnX0I5WU5JcWExZE16RlhXNUtra0NPamxGS2ZReUpwbzFETm1WVTFQTDlOZEpHc0VhN1dEdDJ5SnlpRWt4Wi1PeXJ1d1hlUDZaSU1pZXdqSmVPRWZtQlVDOWFqajJxNk52eS0?oc=5",
-          "summary": "Internas en la Cancillería: Nadie cree en el supuesto giro malvinero de Javier Milei Página|12",
-          "published": "2026-09-06T23:01:00+00:00",
+          "title": "Murió a los 90 años Norberto Galasso - Página|12",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTVpkYU41SWl2X0wybC1pRXk5eDFoSWxpWktFX0NDZlNYUXFmRi1ZVU1LaU5IS01TN1o0bHI0bXZic0NjQUdHb0tUX0Frc01PZ0w2YWJ0Nk02QjdGS3NIdUh1SlEtV1FaX0dCcGJsX0Y1Z2t2MXk0ZXY0RUVYWUVhSnd3?oc=5",
+          "summary": "Murió a los 90 años Norberto Galasso Página|12",
+          "published": "2026-09-07T16:46:37+00:00",
           "source": "Página/12",
           "source_url": "https://www.pagina12.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -157,10 +157,10 @@
           "source_image": "https://www.pagina12.com.ar/resizer/v2/https%3A%2F%2Fwww.pagina12.com.ar%2Fresources%2Fp12logo.svg?auth=811d0fc63a912d1f8dc56b650f3a0054e089ac9c81bfee069a62717e10cbb54a&width=1200"
         },
         {
-          "title": "Murió a los 90 años Norberto Galasso - Página|12",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTVpkYU41SWl2X0wybC1pRXk5eDFoSWxpWktFX0NDZlNYUXFmRi1ZVU1LaU5IS01TN1o0bHI0bXZic0NjQUdHb0tUX0Frc01PZ0w2YWJ0Nk02QjdGS3NIdUh1SlEtV1FaX0dCcGJsX0Y1Z2t2MXk0ZXY0RUVYWUVhSnd3?oc=5",
-          "summary": "Murió a los 90 años Norberto Galasso Página|12",
-          "published": "2026-09-07T16:46:37+00:00",
+          "title": "Internas en la Cancillería: Nadie cree en el supuesto giro malvinero de Javier Milei - Página|12",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQnVtSFFFWGthMms1MzFiUkpJRTZjemJ1c2JuTmUwYnR3UEROcUUzdE14TlM0MXZmTXo2ci1aNXdlSlVWekNkbHhqU1FrZWZXY0VuRGN5V2QxNEMtdUVnX0I5WU5JcWExZE16RlhXNUtra0NPamxGS2ZReUpwbzFETm1WVTFQTDlOZEpHc0VhN1dEdDJ5SnlpRWt4Wi1PeXJ1d1hlUDZaSU1pZXdqSmVPRWZtQlVDOWFqajJxNk52eS0?oc=5",
+          "summary": "Internas en la Cancillería: Nadie cree en el supuesto giro malvinero de Javier Milei Página|12",
+          "published": "2026-09-06T23:01:00+00:00",
           "source": "Página/12",
           "source_url": "https://www.pagina12.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
