@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T14:06:32.275470+00:00",
+  "updated_at": "2026-09-12T17:08:26.647931+00:00",
   "status": "partial",
   "description": "Titulares y enlaces; el contenido completo permanece en el medio original.",
   "groups": [
@@ -10,6 +10,17 @@
       "type": "Web",
       "homepage": "https://lacalle.com.ar/",
       "items": [
+        {
+          "title": "Concepción del Uruguay fortalece su participación en la Red de Concejos Deliberantes - Lacalle.com.ar",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ3lPZ0RKX1BYLUdEVzZOZUlqMmI4Vl9TbF84TldVVWlIYWtDZUh6NnpUdGZNOE1feFVvUzdqZnNEOW9xODluOC1wTlRnT3pUWWhRVklzNll1WkRXaTAtcU9jY2hjaDI5aFg0bHIxbkI1MUgtZFQxcVRNWHRmUXBoQ0tIUHhpNlVneG5nLVJpc3hEOTBtQzNGVjM1QmlZczFJeDZWU2ZjZ1B5czIx?oc=5",
+          "summary": "Concepción del Uruguay fortalece su participación en la Red de Concejos Deliberantes Lacalle.com.ar",
+          "published": "2026-09-12T12:12:34+00:00",
+          "source": "Diario La Calle",
+          "source_url": "https://lacalle.com.ar/",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
+          "source_image": ""
+        },
         {
           "title": "Capacitaron a equipos del Ministerio de Desarrollo Humano sobre prevención de consumos problemáticos - Lacalle.com.ar",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaGlNaWZIZHdJcllFVkxZcldEb3c0Ym5YaGxjbS1Kalh0bjM2OFFzSGpfcHNsSjBfSU9OSjh2dGlWYmpMTkt5MERhbDB1Q00zQUZPdFlyMEo4eE5zMktpU3RPRHFMMDNGUXFRZFMyN04ycFdWTVprNE1PQ2QxNnpoYk1GenJ1NUdHT29Kc2lTaFRPamtHWlVUU3ZmbjFBS0pRMVVWTTQwSHBLbHVTU2czbDB2Z0JwV0tlYmhURjdESmFrZw?oc=5",
@@ -26,17 +37,6 @@
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOF9HNWZrRzVnZkZfRWhYQkxpWk5aNmhtdWcwSDRVdXVVTVJPblVraE5QTU1NSmxISXZIcVpodTJfenU4T3FfbmhYRVFiSzE3V0txWG83MGszcGRuc0o1TFYwc0taU29IMnRYeW1KQmQ1MEVpOXQ4eHVXd0IxaTlBd3ZlVjJFcmVFQ3pkLW5yRm9NNThFdC16cmZTcnRxdw?oc=5",
           "summary": "Agmer reivindicó el trabajo docente y la lucha por los derechos laborales Lacalle.com.ar",
           "published": "2026-09-12T00:11:38+00:00",
-          "source": "Diario La Calle",
-          "source_url": "https://lacalle.com.ar/",
-          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
-          "source_image": ""
-        },
-        {
-          "title": "Concepción del Uruguay fortalece su participación en la Red de Concejos Deliberantes - Lacalle.com.ar",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ3lPZ0RKX1BYLUdEVzZOZUlqMmI4Vl9TbF84TldVVWlIYWtDZUh6NnpUdGZNOE1feFVvUzdqZnNEOW9xODluOC1wTlRnT3pUWWhRVklzNll1WkRXaTAtcU9jY2hjaDI5aFg0bHIxbkI1MUgtZFQxcVRNWHRmUXBoQ0tIUHhpNlVneG5nLVJpc3hEOTBtQzNGVjM1QmlZczFJeDZWU2ZjZ1B5czIx?oc=5",
-          "summary": "Concepción del Uruguay fortalece su participación en la Red de Concejos Deliberantes Lacalle.com.ar",
-          "published": "2026-09-12T12:12:34+00:00",
           "source": "Diario La Calle",
           "source_url": "https://lacalle.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -95,10 +95,10 @@
           "source_image": "https://www.r2820.com/images/custom/logo-social.jpg?_v=v3-45"
         },
         {
-          "title": "Tránsito secuestró cuatro autos de choferes de aplicaciones frente al Hospital Bicentenario",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWThQbk8xY0UzUnBSLVh5VnBFM19sSTZXVDhmTF9GNHhKSGZPaTd6VnhBZFZfUzhxbk10bmlLM25DNzc1NjdmQVdVbzJkZXg4U3lZRWZTdHdSQ3dxdWUwSU9IU1laOTltOW9zdkxHdGktUElKRy1nZHhvZURFMzhEVjlod1R2NEVIVzJRRDYwS3FpekUtNmdtWjZnZV9Cd0phUldtUENkWWt1aXFlT0V5OFNkSlFyaEVLbTBsYzVaaGZiQklzVVhFbEJONk56a1hyY1dMUVJtd9IB3AFBVV95cUxQY05GelRzNlJWRF9HMWhQQWZCQXVnS0RNUGFOYTd5anRMaVVVdHdyQ2pfbU93NzRucjVidmt5RkJDVllEVC1VdXFUc0pvWXM0dlFDRU1ZMl9Sb2wzampKck9WeDZzZWlUUUNGSWNSUmNHM0R2WUloUWpQc3dLMmFHOWg4SVFoZ3h6MWg0QU5pUHU5cTJROWpTendKT1o5bWxoZjZRV1pwTzRDSEs1ekVZOXFxLVNNbEU3Z2twUUpFWm1zendKZWdtT3lvWU5aRUgzS0NVaW45WGdDQmVm?oc=5",
-          "summary": "Tránsito secuestró cuatro autos de choferes de aplicaciones frente al Hospital Bicentenario R2820",
-          "published": "2026-09-09T23:56:27+00:00",
+          "title": "Así son la celda y el pabellón donde estará alojado Sergio Urribarri",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNE5fSEc4NmFSSFJuS2xrS21ybTdiMnFRT2I2aGc0NEZHdlVXUlI4T2h0SkNfQkx6bTN6Z2N1TlFjaENTR2ozeUVobmFqZ0JqTVRjc0lZbmM0OWhqTjdXelNtRnVxOVI1aXNsYlNzZ1F3SG9mdWdUd3c1S2I2Rzl1UGZZWXYxcHJGY2NKN0RBQi1WVmctNFl0eG91Y0laU241MHV3eUtPTXJrbGFrc3ZvSzhNTVB4WG810gG-AUFVX3lxTE5QVS1Hd2s5bFNCbUhWdUMtWHVyWHJpSmxfSHAwMHBRb0d2cnJyUTZ1aF9jWjlLYXVDZ1hlTHBRNGwwSjUwUWVXQzhiQjRFMWdyR3RyUl92eXZDOE0tV1RIZkRyTUVVb1g5alNlV1Q2YV9yNUoxODAzMlgtWjdqeC1tWnIzcVU4QVN4c3FNQTFkN0FwRnA0VXp2RFYtZ204TmdpeWw3MFFwVXZiUElFLUN2Sk9qNXAwUWtJRVhGQnc?oc=5",
+          "summary": "Así son la celda y el pabellón donde estará alojado Sergio Urribarri R2820",
+          "published": "2026-09-11T14:20:59+00:00",
           "source": "R2820",
           "source_url": "https://www.r2820.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -115,10 +115,10 @@
       "homepage": "https://www.elonce.com/",
       "items": [
         {
-          "title": "Realizarán un simulacro de atención de emergencias con \"múltiples heridos\" en UADER - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdEJOMkFCQVZnZ0ItRlRLR090UW9hMTMxakpuRDVlWHZlSmR0LVVaSHlQRHBLYzRaSU1WeTZxc084UjJ1ajF5NnlNNDZ1TGJTSnBFeWt3My0xajdZMUYtRXdPQlFtY0xqc2RBclRndWg0bklJZGdaOXpIVkJWRnhPWEVUc3NKN1RRS1hmQW1IUm40Y19MVWRmN25iU21MZnhMSURvemR3VnY1VG1pc0otTXp3ckJFa29LUXNlYlBRVGpyU1N6YXfSAbIBQVVfeXFMT1pOa3BCd0tsRi1wV3otYjUzcmJFUzZMNkxqMFZ2NDNiX3dOdW4tMWNFMm5VZWRMT3dwZkNWYUFLVUdpYlM0VmZrdjRydmk2MnVKZFlwVm5tdXJYVHg1Rml5ZURMUEx4UURBblk0VkdZMTlpOHpoQTl0TFJhZkRCLUFOZ080N1ZWakY4azdvUjJNbW00U1N6S0t2UGZtdUY0eVdRdXRzdjBLQm9Mc0NtSGNFQQ?oc=5",
-          "summary": "Realizarán un simulacro de atención de emergencias con \"múltiples heridos\" en UADER Elonce.com",
-          "published": "2026-09-12T00:20:00+00:00",
+          "title": "La Feria en tu Barrio de Paraná reunió a productores y vecinos con precios muy accesibles - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWUN2VTQ2Wi1YeF80RGN6X28tTF9FaVFQdEJJeW5FeDRUWkNJSUNydEF2N0VhVXlEd2E5WGc4V3dxLUZnYzZ6SWNiZzM5Q0RqOWhXZzJ5VHZiV29ZX3pMbkYteXNPazhqRTkyMkF3dFh5b1lBX2t4c2tyQWFVbjNsLUFXZVNUTEs2Q3RxYkFNcXVnaW5LMnFYZ1dHZGdNQURQV2h2RG1xRUlSM3dVSFhuOGFYX3Q1ZFFYdnZobTlqLVM3RW8yWXV2NXJHSUllUdIBugFBVV95cUxORWU4VmJlMk9MUWxNVzRJRzFuQW9EYXhSbGp6TllHRThId2lQQ2YzajVhdkljYk9kcHhEMzNqWGM0RFRFZFJ2MXgxaGxXYV90d3R5VGt2ZVJ1SVFsRVlHRVhoWHpNVFlhY2l2Skw5SHpORHhCa1lUcGVpbHhYcW1aazNjYlB4WFA5czUtdFkySHJlQUo5LWlaamtIMmNiV19Cc01CMnR3VUpSblZTV2tMRk1MNkVtR2JnbUE?oc=5",
+          "summary": "La Feria en tu Barrio de Paraná reunió a productores y vecinos con precios muy accesibles Elonce.com",
+          "published": "2026-09-12T14:17:22+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -126,10 +126,10 @@
           "source_image": "https://www.elonce.com/galeria/sitio/marca-de-agua4-jpg.jpg"
         },
         {
-          "title": "Detectaron dos cargamentos de marihuana en el río Paraná y secuestraron más de 400 kilos - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWkMycEVQTmdoWlIyUlFTTXNfd0tyYlRzMjR0TmtTRjZlT2V0bTVkc3A4cFJVOG5Sbzg5NXBGQXNPYWp0Vm0tMlRZeHNxVk9BSmNzTXk5YXVPWl9SSmJudmM2N3hwSHhwcElTcHlzazBpTEYtOFVEVzVwbUFkYWdHTE9tcFppeWM5eXBTN0xDY3hvekdsVEVpMm9MMzh3dmFzenAyREhUNUlib2RzSDhrRXJnOVY5SGx2M3ZtN2NzSG1vbUcx0gG7AUFVX3lxTE1FNTVrWlZLUW11Z3pta291RVNvM3dDZUZ0aGtJaWpTNS12Ui1faURXWGZxbkhUYzZCYm0zeGRuTWxfT0NlZ2xUMUxZY3lUZ29iMTh4WnN4ZVpZQ3JqVkYtc0V1ZXRzOHVLWHZlRlNfZnJKZ3FqeTd6bTZtemVwOW5zUHRLQ0JuRHVjeU9ncUptSXpXNWpNTnY3MlREUkN3VzVLU2tOdk5vVE14NEdrM3lxUXZfYmVNcGNta0E?oc=5",
-          "summary": "Detectaron dos cargamentos de marihuana en el río Paraná y secuestraron más de 400 kilos Elonce.com",
-          "published": "2026-09-12T12:26:35+00:00",
+          "title": "Policía, Bomberos y 107 entrenaron cómo actuar ante emergencias con múltiples víctimas en UADER - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdmxuVGkxamRhOEh2dE5JRzdvbXMwWFJ1TTFaTTVGTkwzZXc2RS05YktzMmRIVFd1b3pkR2xmUVhWSWoxdlVGLTg3X1ZsOG05QjZ4ZmR5SHJvR2FyWFp3NnUtSFBoV2VNXzBsQ3RJRlpyUVFYY2ZjVHFsVWJqaTB1VVYyV012dGdnbjJxSnhndGk4VEpLSV8zcU9MWDljeXBTMUk3emp3THpfTURGdTkwRE02YUJ2eGp0Q1lja19MRGtDTVc5aGVhNnQ0YnZnb1RDaVV2Z9IBwAFBVV95cUxPZFJrVDB1d29KeW12MVpnNHRteDlrSjY4eUN0a1BJRXNqdGdwRWQ2Ym9qZzJ1bGFLWkg0bkczaHhMd0tRaUp1OTFyS1RQeGFLSXQ2OUNkSENFTzJRWTFXQ0dmX2xLT0p2N2Z6eC1rNHgxY2NzM2V5TjN4bXlSdEZMRkhpWFdQQ25oVmxzdWpyTGJjWjExaWNPQXZzUFlkWUN1b1d5cHFMOFpQYXotd0dxVHpiaTFmYTBQd1FTOVQ2ZUg?oc=5",
+          "summary": "Policía, Bomberos y 107 entrenaron cómo actuar ante emergencias con múltiples víctimas en UADER Elonce.com",
+          "published": "2026-09-12T14:35:10+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -146,9 +146,9 @@
       "homepage": "https://www.pagina12.com.ar/",
       "items": [
         {
-          "title": "“Escandalosa agresión”: encontraron en Tucumán una carta de 1833 que cuenta la ocupación británica de Malvinas - pagina12.com.ar",
+          "title": "“Escandalosa agresión”: encontraron en Tucumán una carta de 1833 que cuenta la ocupación británica de Malvinas - Página|12",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQ2ZiS3pUT2wxQ3FOVmgzclVJbXFyckhZc01qWDRvbjV2QlhzTTdMTU5TTkt1M3B6bFRZeTU4aEF3QWtlTFF2WFVVajA4amVfemhzVHJjVUJ1d25yMFRiWHNFS0pzM0o2d0hoUW01TlNjZE1oVzJxZ0diMGlQM1VZUWlzcExDQkVGOENROFpIdWJFY0FHTHN4X3ZFaWJoUV9NUjMyOTMyTUllVFFkelU1RU84QktVREJtSmxTUWltNTdvLVpyZ1FlR0pXUDVKOEFK?oc=5",
-          "summary": "“Escandalosa agresión”: encontraron en Tucumán una carta de 1833 que cuenta la ocupación británica de Malvinas pagina12.com.ar",
+          "summary": "“Escandalosa agresión”: encontraron en Tucumán una carta de 1833 que cuenta la ocupación británica de Malvinas Página|12",
           "published": "2026-09-11T12:37:25+00:00",
           "source": "Página/12",
           "source_url": "https://www.pagina12.com.ar/",
@@ -157,9 +157,9 @@
           "source_image": "https://www.pagina12.com.ar/resizer/v2/https%3A%2F%2Fwww.pagina12.com.ar%2Fresources%2Fp12logo.svg?auth=811d0fc63a912d1f8dc56b650f3a0054e089ac9c81bfee069a62717e10cbb54a&width=1200"
         },
         {
-          "title": "Brasil: una mamushka de escándalos de corrupción sacude a Flávio Bolsonaro a un mes de las elecciones - pagina12.com.ar",
+          "title": "Brasil: una mamushka de escándalos de corrupción sacude a Flávio Bolsonaro a un mes de las elecciones - Página|12",
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQVJ6T1RvOUI3dkpHRjduRzRkUDBDMElneXAwTWJGQlBpUlFrMUNQcWxRMEZ5Um10dHNHYWNnOFlhNUVuWk9FelJaWURmVnlkQnBiT0JVNW9OZkV1MnBJcnVvSXprXzZ1emVub1hSX0lwSTNzWWZTalZGcnA1ZU9TM3llZmtnSGJiWVRyMkhCTmQzVmcyWThxYWo2bVZUVm95anNuamtJeWctMFR5N1owbmZtLWM5RUU0RWNMTHliLTlSbnRRbEVta1BOQjRsdXdEelVzMUhWZw?oc=5",
-          "summary": "Brasil: una mamushka de escándalos de corrupción sacude a Flávio Bolsonaro a un mes de las elecciones pagina12.com.ar",
+          "summary": "Brasil: una mamushka de escándalos de corrupción sacude a Flávio Bolsonaro a un mes de las elecciones Página|12",
           "published": "2026-09-11T16:00:42+00:00",
           "source": "Página/12",
           "source_url": "https://www.pagina12.com.ar/",
