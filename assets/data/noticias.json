@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T18:37:52.495246+00:00",
+  "updated_at": "2026-09-15T01:27:10.086587+00:00",
   "status": "partial",
   "description": "Titulares y enlaces; el contenido completo permanece en el medio original.",
   "groups": [
@@ -11,21 +11,10 @@
       "homepage": "https://lacalle.com.ar/",
       "items": [
         {
-          "title": "De bibliotecas y bibliotecarios - Lacalle.com.ar",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE15MzdwVV9qRTR4WGN6bDlxNWRvRFp5YXZESU5HREFSSFUxTnI2YjZDSEs4c2NNeUwxT0JQTXdBaDB6eHdtVEFVaDk2Nk1zUjBENEFuQnNGNUgxX2tJZ2hWN1dVWFJtZw?oc=5",
-          "summary": "De bibliotecas y bibliotecarios Lacalle.com.ar",
-          "published": "2026-09-13T15:08:41+00:00",
-          "source": "Diario La Calle",
-          "source_url": "https://lacalle.com.ar/",
-          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
-          "source_image": ""
-        },
-        {
-          "title": "El federalismo se construye con hechos: Entre Ríos integra la Hidrovía - Lacalle.com.ar",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZVFjM0w0Z1NVNXhUWTI0aUYyVDhfdklqeHRTbE5MaEE0WUJCYVJDUFlSX0RCMGR4UWdMLTU3ZjBjUTVHVkVZblhnLXZMSHRnakVOWHpCelNmYnRVQ244TkhjVWhyXzhWTXRCYjBpWTVuRGRkSTMtOHNCN2NDY1RVQWgxZ1lJdFIxS3VwSlNveGtKOHAxa1psbg?oc=5",
-          "summary": "El federalismo se construye con hechos: Entre Ríos integra la Hidrovía Lacalle.com.ar",
-          "published": "2026-09-13T15:18:19+00:00",
+          "title": "Concepción del Uruguay se incorpora al Observatorio Económico Turístico de Entre Ríos - Lacalle.com.ar",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcU5KNi1qVDR3a1V2LUpKeTNiN204LWdtWlVRMksxSWZvTTBGazdpY0p2N2hrZmVXalpRVklvTnY4dkVpdHJIS09sdVloaTJhRTRSamo4RlNjTEFwdXlVYUszMnNRN0JNeHBiUDdMTDNtY2VFM0FKOE45NERUSk5rejZWZGlzOUNtZW1UTW41UE9PaGNpU1JacHllaTA4QzZyaU9wUTBaaXVrcXc2UHc?oc=5",
+          "summary": "Concepción del Uruguay se incorpora al Observatorio Económico Turístico de Entre Ríos Lacalle.com.ar",
+          "published": "2026-09-14T15:53:19+00:00",
           "source": "Diario La Calle",
           "source_url": "https://lacalle.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -42,6 +31,17 @@
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
           "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
           "source_image": ""
+        },
+        {
+          "title": "De bibliotecas y bibliotecarios - Lacalle.com.ar",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE15MzdwVV9qRTR4WGN6bDlxNWRvRFp5YXZESU5HREFSSFUxTnI2YjZDSEs4c2NNeUwxT0JQTXdBaDB6eHdtVEFVaDk2Nk1zUjBENEFuQnNGNUgxX2tJZ2hWN1dVWFJtZw?oc=5",
+          "summary": "De bibliotecas y bibliotecarios Lacalle.com.ar",
+          "published": "2026-09-13T15:08:41+00:00",
+          "source": "Diario La Calle",
+          "source_url": "https://lacalle.com.ar/",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
+          "source_image": ""
         }
       ]
     },
@@ -53,10 +53,10 @@
       "homepage": "https://www.lapiramide.net/",
       "items": [
         {
-          "title": "Tras seis días sin conciencia y diez días internado, un niño continúa su recuperación en casa",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMlZoMm03ZG43Z1M5VHFhTkZhSlB2UlZUWmRaMGhIc3M3V29FSG9HSEEzSHFfQ3VmcEtoMHc4WWRnQS1qcUtLc2FfZm5KUVJhWXdGc1puTFBJUFRVVy1TVm10bU5mRERhcjJGWDBoVnItc05mR0dkT3RxeFk2aWVRYjljYlFkNXFIRi1sM0xZbGU0enF0Z0RzZnVYak10OWROX0pLRkVaMVNZTmJFN1ZGdlFESXlNU2pHUVFlMG02ek5nNUJFRG9VWHRCM09vcDIxekFQSFZuOExXajBCeDlj0gHkAUFVX3lxTE1aUEpxQWNBSUhRamZiSHpRUmduWnJKR3lzeThiYWc4S0NHV0c5R3A3Mmxtc1MzOFFHQXM5UjMtSWtydWM3QlhwQUZzb3FFMHZjWE91TEdYVU95VHFGUlJ5SEVfRGpoR29YdlVqMlE4YTdvX2VDbVo2M3VReWgwZTc5SXY2Y3JPR2ZYQmRHUW1UVWJsUVA1OXpucUVjRXFhNXdqRkxzWkpvand4Tm1FUm9lSnd2MUhmbFlpQmFEbXBkTnVndkU0SnctZ3k1RVlnbUVHbWNwLWQ1V2V6U193dlhZNkRfYQ?oc=5",
-          "summary": "Tras seis días sin conciencia y diez días internado, un niño continúa su recuperación en casa La Pirámide",
-          "published": "2026-09-13T20:59:28+00:00",
+          "title": "ANSES: quiénes cobran esta semana y cómo sigue el calendario de septiembre",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc0JiWFNCYVBqVEJwMmMtYWUxWlJMNmJjdGxtSGN3QXlIczZKaHdkeHdHOHlBUFFwcGdwTlFlX0J3bHM3cHVCcmtPb09faWQ3MkhKX2x0VWpkODJMOXpTb1VIcnprZWRZc0NJQlFMN1BaWEdib2tjUWFkNklaZGZTTFJFYVQxak1IenpzX05najlhQV9kblc2d25CdXVCeEJ2bS15UGJJeWJiNUNRcFhveTJLSnZuS0tLeXhNeHZPb29BQlIwVlHSAcsBQVVfeXFMTXFhNUxUSzNWdm5VYlRqN3ljcmxCdDZlUGhkbjFnc1ZfN0hzd1VwcmNRcmg4VFdFdThNcURtNFBaZzVCTXJscFRHb3ZNZENaRXFfSXR4RXNWdGxlRVJiaGlVYXZEVmNQNmF5elUzcFlrcXFqT1hzcDlQbDliT3A5NURQblMyemJ4bExvSHR2UVVsQUNMc1FmWGJwSnFVbGE4cVhyVXlaaDVPS3NYWjlEU3Q5dm1mM3QwS2xkTzQ3bkYyMV9iSHVXOFFRc2M?oc=5",
+          "summary": "ANSES: quiénes cobran esta semana y cómo sigue el calendario de septiembre La Pirámide",
+          "published": "2026-09-14T10:00:45+00:00",
           "source": "La Pirámide",
           "source_url": "https://www.lapiramide.net/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -64,10 +64,10 @@
           "source_image": "https://www.lapiramide.net/images/custom/logo-social.png?_v=v3-27"
         },
         {
-          "title": "ANSES: quiénes cobran esta semana y cómo sigue el calendario de septiembre",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc0JiWFNCYVBqVEJwMmMtYWUxWlJMNmJjdGxtSGN3QXlIczZKaHdkeHdHOHlBUFFwcGdwTlFlX0J3bHM3cHVCcmtPb09faWQ3MkhKX2x0VWpkODJMOXpTb1VIcnprZWRZc0NJQlFMN1BaWEdib2tjUWFkNklaZGZTTFJFYVQxak1IenpzX05najlhQV9kblc2d25CdXVCeEJ2bS15UGJJeWJiNUNRcFhveTJLSnZuS0tLeXhNeHZPb29BQlIwVlHSAcsBQVVfeXFMTXFhNUxUSzNWdm5VYlRqN3ljcmxCdDZlUGhkbjFnc1ZfN0hzd1VwcmNRcmg4VFdFdThNcURtNFBaZzVCTXJscFRHb3ZNZENaRXFfSXR4RXNWdGxlRVJiaGlVYXZEVmNQNmF5elUzcFlrcXFqT1hzcDlQbDliT3A5NURQblMyemJ4bExvSHR2UVVsQUNMc1FmWGJwSnFVbGE4cVhyVXlaaDVPS3NYWjlEU3Q5dm1mM3QwS2xkTzQ3bkYyMV9iSHVXOFFRc2M?oc=5",
-          "summary": "ANSES: quiénes cobran esta semana y cómo sigue el calendario de septiembre La Pirámide",
-          "published": "2026-09-14T10:00:45+00:00",
+          "title": "La familia agradeció el acompañamiento recibido durante la recuperación del niño",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeVpuNHdtZVphOEwtbVkyUWVQdU1OcFd5TGJTWGVTSnBRcEthQU9mUlNuQnQwc3I5UGxYN2s5SEMwcndubi1PTmZiN1FURDdTazZlN0tLbUY2YVhlcGpKRHZLb2dLLTlaSFptWW5FSXk2bjM4RjBacHpNc2gwMVl1VGpncUV1V01kdEJzREhRaVhtYUZWZ3VUUU9QY3BtWmRiYU5pY1c5Z21mMmpnWTlhTUJMUncxRmNzak1jbURQeXpGMURFOGNkT2w2RFk5eEXSAdQBQVVfeXFMTlMwRFVKRG91dFdkWWhGbEJwUkM4UktSUHBzMnNFV2VBVmo2andZTmtrUDdnb2VWNEN4dU1LVGViWjhKQVkxRmpuOFhLRnZseUhpOTFtNGNaaHZpT295d2VkbGV3SW01UDhoMGl6RmdHQTI4Q19BTkxQcVhsMWtwWTR6cTY3N1NtOS1zUXM4Y2xiMEg4bThTbnN5bmpJcXZLZ1JkZVd4cFhaek1Vbjk4SFlpOEtZOEtoMjIwTmI2TVZ4eW1tazhnMVpCUXg0WGxwOUd2aUc?oc=5",
+          "summary": "La familia agradeció el acompañamiento recibido durante la recuperación del niño La Pirámide",
+          "published": "2026-09-14T00:47:05+00:00",
           "source": "La Pirámide",
           "source_url": "https://www.lapiramide.net/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -95,10 +95,10 @@
           "source_image": "https://www.r2820.com/images/custom/logo-social.jpg?_v=v3-45"
         },
         {
-          "title": "Piedrazos a la Policía en el barrio Fiorotto: así fue la batalla campal por un detenido",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNT0VWWUZVTFFpd0pITVJ0d3ZubUV6YkRVM0RTUUhyTjV4UkdwNW85WHpLSWpOSmt3VXhmS1JVWnVVdktqSGtZNmNMS0pPbTJsVzVJNWppU1c0a0hpYzdiaGg4X1kyaUNoaFptMmpiUFR0Nnc5UW4tS2czT3djSkc4amZhMGtPTGRIYUNvS3F0Z0FEQXlyZTFucFJnWUYycVpQSDVNRGJHR1lUYkdORnp5VGJNMjh0UGJYUHZLVlJDWmhMX01SOVI3QnB3WTJrRzZp0gHWAUFVX3lxTFB4S3JhTTdBMGE5UzlISG1YSjBxYmoyNHFlc2dkUlZOOXBYLUFBa2Z2dHp6MnFialpNOEhENklsbEZNLWUzMTJmaWxXOTdBelFDdGEwR242UXdVRjR3QTRmSUN0aEpyYmoydXRwcElDaWJvUHpjQ3lfRjF0eE15ODcyMlUyeTk1aHVubHVwMzVhR0FoekV5MS1lZ0ZwT2xuLWdRN2FmdjJ6aFppZzltcS1xdGhUYnY2WnFNWXhpQVJramRsTmQ5SUpqY3BVc0ZpUjlSQ0xFTGc?oc=5",
-          "summary": "Piedrazos a la Policía en el barrio Fiorotto: así fue la batalla campal por un detenido R2820",
-          "published": "2026-09-12T13:11:40+00:00",
+          "title": "De Entre Ríos a Vaca Muerta: el estado crítico de los 1.474 km de la Ruta de la Arena",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPM2pRbFZGdUw3Y1dfcmZXS1IwVmVDLThSWVlSQnAyTmx4WTQzMzczM283c1lPWGc1TjlIZEtPaTI3eVgxOFpDLVVSVGxRd3RBWmFrc2RDVGlXVzd2aEZJYlFiX0Uta3BiVkoyRHFpZmkya29FRnJaY2V1NFhva3VWQ2hfQmJaaFdIM2RxbDhWaUdFWHhqVmJ5amFQSjdRRkEzODZmZ3RiVkxOVWdOWUROc1IwZFYzSjdJa3FSNVlzMVRmMTJFdE01UGVYRXbSAdIBQVVfeXFMTVgydmktVmNMVDFxX3U5Z0g3TFhrVVZBRGFrdkdqaVRtdmVKOHhWRm1faXlvODJKZVhkaXFvc1d2bFc1SWpfREZkVlZ1MkpXQ2Z6S2NPenB3ampqQlJjVjZLYndTamNZVGZDQ3gtWm9NMVhZS3pQUloyVHJWT2lUNXU3WHdISmxkQUdldlNsTVJ3c0VvbkdmaWZlTE1vMmQwV0IyYnlMbDNnUzNINGdxRU92Zk5ZcXdrSGpfdEpZeVN1UWhGYmlkRmZSUk9VTTdmN3ZB?oc=5",
+          "summary": "De Entre Ríos a Vaca Muerta: el estado crítico de los 1.474 km de la Ruta de la Arena R2820",
+          "published": "2026-09-12T15:38:07+00:00",
           "source": "R2820",
           "source_url": "https://www.r2820.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -115,10 +115,10 @@
       "homepage": "https://www.elonce.com/",
       "items": [
         {
-          "title": "Juegos Deportivos Universitarios de Paraná: 800 estudiantes competirán en cinco disciplinas - elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZURyWWVlTm1VdVkyV1RMRV95SVdWQlZ0VEZsMkZ4TmhNNndKc3NzcUY4QVg2dlBMUFlMUGprV3hpSW5PQ3Q3aHZUZ1VtNGhBUDlyR01rUWdUdl9xd1pPRUVwa19VTzF2UDJoTlhSa2xGRmM1YXMtQ1BkN0Z5c2prUHRBRl9VdUllUU1BSjg1ZFhoNmpqd1ctMXBtbUJMMktCSGx6cWVxdmhxel9xMkltU0tVZEJiZUE2N2VUV1pCQmRHUQ?oc=5",
-          "summary": "Juegos Deportivos Universitarios de Paraná: 800 estudiantes competirán en cinco disciplinas elonce.com",
-          "published": "2026-09-14T16:34:03+00:00",
+          "title": "Asamblea Ciudadana Vecinalista reclamó respuestas por el transporte y sumó otros planteos - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZmp2YmFQa1haZGtjN2ZBUWw3MEtYLXF6eWtXM0NuVDU2Ym5TenVKY2ZWWTFLSlJybHZSem1xMjY4MUNlejJjalMwWUg5R3JjZkQ1azRhVlVvQ1prc1d6VkdGY2J5Zm83aGVybmRwUFFNSFBZZkNMU05kSTBfaHpBMTg5dHlhT2I5MzdzNkcwWFZmdHFiVmVjZXk5MzV2bmJjdGppc3pYUU11Q0tPZVM3aFBaZ0ctLVdUbXBTaDVqeUXSAbwBQVVfeXFMTUlpazJ3ell6cS1QRW8xM3BhY0hHMlhOV3JQeGdweXh0Vnp1SzlBeU1PN1pOTjlXcFlQMmNiWTByeWJKY1VoX2lhX2p4ODdZTms3U3NDS25NSXQzR0xRNlVvN3JzSjlhMFNYY20wbU5uaGFpZ3hXY0V5Sm9FaElEc0NXckhjYWhTTG1CY0xkTXBZSHhmZEJWdFBRbGFZR245anNMTWNNdzFDMW1RaDNCSUVUUVNPNlQzMmxKaEU?oc=5",
+          "summary": "Asamblea Ciudadana Vecinalista reclamó respuestas por el transporte y sumó otros planteos Elonce.com",
+          "published": "2026-09-15T00:58:15+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -126,10 +126,10 @@
           "source_image": "https://www.elonce.com/galeria/sitio/marca-de-agua4-jpg.jpg"
         },
         {
-          "title": "Alergias en primavera: aumentó la demanda de medicamentos y advierten sobre la automedicación - elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUldaOGlBXzIzWUZzS2w0SzI3YkxuR0s3WExmLVlWSkFLWEZRa1VZOFlOYjVneDVZdFBzUFJUNFJhc1BtU0U4NVZCLURBUzRrQ3RjMnUwVHdKU3BYNElQVnRkRHMtSWV1eDREXzZBcFhNU0UycklKT0pCMEEyTWdZOHVaSXgzWkI4ZGZmbzhhVmFZejZlZHF1ZnlwY3NyVldWSk94QXItSjhQai1YU21DUlREcDVBd3VFMFU2cWVwN1dXSWZiTlhHUjFhVVJic1NzX3dIWtIBwAFBVV95cUxNNHNrd1Y2NkNZeFp3NFJEbGo1QTNQQVh4VDI3ZnM2bEw3cnlOZVZ1SXo0RVRJZS1UaFNNanYyMzBGWDRDT2p0SWY2YmtzZVR4X1Q2MzhUSGZPMmx2R29CZlZJamdtQ3dUam5lZkFqNkFsVTljX19QTzNTU3dMN3NmcVlXZ1d4Zm5pdDJoM2RlNUJDVTZzbVRpZWNILVJDUVpzVzYxOHMtVFowSnAtR21QSDhyb21UZVRKZlJ1d3FMT0M?oc=5",
-          "summary": "Alergias en primavera: aumentó la demanda de medicamentos y advierten sobre la automedicación elonce.com",
-          "published": "2026-09-14T15:23:55+00:00",
+          "title": "“Es un premio muy importante”: la alegría de la agenciera que vendió el Quini 6 ganador en Paraná - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcFBOb1RMeC0xck9BNkQ1Sk1jcFJIWHkzZ2FsY2NraTJFNW0wTDktOGV5elpUN2dJRnB6MGJMaTVwYnozNFkxelhQQUdEalREYlhrbXZBb1pXSVVoMTlCT0ZRT0g3em1CS3o0SFo0WG5LVUNTZ2Zydkk5ZVB5RS1Jc0lic1JjS0JnMHlXeEpkVFZmQ0kyRzV1TERDbXFab1FSNE1kRXYyaTdjNzY3RjZjYW5zQTBmWHNURzkyR28yMlRMcFg1X1hz0gHDAUFVX3lxTE9BUTMtOEo4WE5vdkJGSXVYdFh5YnhUdHliZV84SWhMck9SNFhpUVdjLXFYSmx0RnVNWG9zeUl1RWNJMW04MklpS1NwYmc2Z095OVhDaHAtX3l5alBsYWFRbi1MWDRRaDZYWS1IZGYxSHFrZWtMelA1cmo1V3lDN0pxWVAxOHNSN1VCU0NhU3BCMzdtbXlkQ3JMSkctYWlwMlRmeWRiTTVvLTlldFdDX05JajlNa24yYUs2bWZGR2M1UERydw?oc=5",
+          "summary": "“Es un premio muy importante”: la alegría de la agenciera que vendió el Quini 6 ganador en Paraná Elonce.com",
+          "published": "2026-09-14T23:52:26+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
