@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T13:32:10.343641+00:00",
+  "updated_at": "2026-09-15T18:11:26.142417+00:00",
   "status": "partial",
   "description": "Titulares y enlaces; el contenido completo permanece en el medio original.",
   "groups": [
@@ -10,6 +10,17 @@
       "type": "Web",
       "homepage": "https://lacalle.com.ar/",
       "items": [
+        {
+          "title": "Universidades vuelven a movilizarse. - Lacalle.com.ar",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE43Qk5nUXVZVUdTQVlELXBzbzhyUzZEZXY2eVVMc3FYVEZUZWhhTldwb0lpYWFCT1JLV0N1ZzNyQ2poQmdmakx6R3dIak5odFFqYnRYdDFxd3dUNzZlVXZWd1JmVEVhU1FUTFU0?oc=5",
+          "summary": "Universidades vuelven a movilizarse. Lacalle.com.ar",
+          "published": "2026-09-15T10:51:02+00:00",
+          "source": "Diario La Calle",
+          "source_url": "https://lacalle.com.ar/",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
+          "source_image": ""
+        },
         {
           "title": "Concepción del Uruguay se incorpora al Observatorio Económico Turístico de Entre Ríos - Lacalle.com.ar",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcU5KNi1qVDR3a1V2LUpKeTNiN204LWdtWlVRMksxSWZvTTBGazdpY0p2N2hrZmVXalpRVklvTnY4dkVpdHJIS09sdVloaTJhRTRSamo4RlNjTEFwdXlVYUszMnNRN0JNeHBiUDdMTDNtY2VFM0FKOE45NERUSk5rejZWZGlzOUNtZW1UTW41UE9PaGNpU1JacHllaTA4QzZyaU9wUTBaaXVrcXc2UHc?oc=5",
@@ -31,17 +42,6 @@
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
           "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
           "source_image": ""
-        },
-        {
-          "title": "Gimnasia ganó sobre el final y aseguró la permanencia - Lacalle.com.ar",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMXZuQnVnZVRaNGs2cmVNLWhBMjVOb01feWVkbVRmM2VkZThkS2ktN0gwZ3J6Nk0xVFVla0JoRHRBQ1JVRVMtUXhMRXNpNDRfQnJFeVE0Mm1oVThvaG1Rc1o3T3M2TTF3NjV6UV9QWExlRmNZNkxEMVlQc0d1ZEI0Ny10cw?oc=5",
-          "summary": "Gimnasia ganó sobre el final y aseguró la permanencia Lacalle.com.ar",
-          "published": "2026-09-14T11:02:45+00:00",
-          "source": "Diario La Calle",
-          "source_url": "https://lacalle.com.ar/",
-          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
-          "source_image": ""
         }
       ]
     },
@@ -53,10 +53,10 @@
       "homepage": "https://www.lapiramide.net/",
       "items": [
         {
-          "title": "ANSES: quiénes cobran esta semana y cómo sigue el calendario de septiembre",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc0JiWFNCYVBqVEJwMmMtYWUxWlJMNmJjdGxtSGN3QXlIczZKaHdkeHdHOHlBUFFwcGdwTlFlX0J3bHM3cHVCcmtPb09faWQ3MkhKX2x0VWpkODJMOXpTb1VIcnprZWRZc0NJQlFMN1BaWEdib2tjUWFkNklaZGZTTFJFYVQxak1IenpzX05najlhQV9kblc2d25CdXVCeEJ2bS15UGJJeWJiNUNRcFhveTJLSnZuS0tLeXhNeHZPb29BQlIwVlHSAcsBQVVfeXFMTXFhNUxUSzNWdm5VYlRqN3ljcmxCdDZlUGhkbjFnc1ZfN0hzd1VwcmNRcmg4VFdFdThNcURtNFBaZzVCTXJscFRHb3ZNZENaRXFfSXR4RXNWdGxlRVJiaGlVYXZEVmNQNmF5elUzcFlrcXFqT1hzcDlQbDliT3A5NURQblMyemJ4bExvSHR2UVVsQUNMc1FmWGJwSnFVbGE4cVhyVXlaaDVPS3NYWjlEU3Q5dm1mM3QwS2xkTzQ3bkYyMV9iSHVXOFFRc2M?oc=5",
-          "summary": "ANSES: quiénes cobran esta semana y cómo sigue el calendario de septiembre La Pirámide",
-          "published": "2026-09-14T10:00:45+00:00",
+          "title": "“Primero en casa, intendente”: Karina Percara cuestionó duramente a Lauritto por las prioridades del Municipio",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOS0QxZkxnNkluYmFRZDBweW9ZNkJVcGIxcnBMemdqRWptOVBMNmlSdFhiNmk4X3NKWk5kdGhRYW5OZ3dFTXVWTjhhWTQyT1RqQWlzNkNicVJEcENIYXNxcU1TZ3VPcUVKalp4QThrb1BpN3BzX29rUGF0cnB1a1QyX0g3VG01a0h2Sk5BbmFIX2hMRGdFWkhiZXg3YjhRQl9jZU9VMnZUbUxqZmtZc1pTRnVWcm9nRXdoSzBHVVFlYTdZVC16TlVza2NfcHRfenpPT1VSZllqQS0yWkI0elJGTExKVnhQRWRPVkNlTTlodmh4UdIB9wFBVV95cUxOcmdzTGg5RUVZX2tzUzJjYkc1N051LUVVTUh0VndTUmRHQWR6OXBIc1pObHpfd2RRV1dDZGo4RDF5a2xuNG50MzJYSl9ZNGxxUlRoMi0yaXJ4N1NoZG9hSTV1dmFOQUlXQUNHelA2WlZ2dXBxSEI1M0x4Nkc0Y2hHN2QzeVZuYWVkX3VtWmJyQ2trbWdMc2RIVHFjX0kxV2xrSHd4X242OS1NTy1LQk9FLUtGTUR1OUx4Q1N6dHVESmlHS3h3dFQ3Ry1FZlYxN0RnZk9YTWZPeDBLYWpSamNBaXdMbUQyal9EUDhidU9oUTI0YXZwNWo0?oc=5",
+          "summary": "“Primero en casa, intendente”: Karina Percara cuestionó duramente a Lauritto por las prioridades del Municipio La Pirámide",
+          "published": "2026-09-15T14:05:56+00:00",
           "source": "La Pirámide",
           "source_url": "https://www.lapiramide.net/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -64,10 +64,10 @@
           "source_image": "https://www.lapiramide.net/images/custom/logo-social.png?_v=v3-27"
         },
         {
-          "title": "La familia agradeció el acompañamiento recibido durante la recuperación del niño",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeVpuNHdtZVphOEwtbVkyUWVQdU1OcFd5TGJTWGVTSnBRcEthQU9mUlNuQnQwc3I5UGxYN2s5SEMwcndubi1PTmZiN1FURDdTazZlN0tLbUY2YVhlcGpKRHZLb2dLLTlaSFptWW5FSXk2bjM4RjBacHpNc2gwMVl1VGpncUV1V01kdEJzREhRaVhtYUZWZ3VUUU9QY3BtWmRiYU5pY1c5Z21mMmpnWTlhTUJMUncxRmNzak1jbURQeXpGMURFOGNkT2w2RFk5eEXSAdQBQVVfeXFMTlMwRFVKRG91dFdkWWhGbEJwUkM4UktSUHBzMnNFV2VBVmo2andZTmtrUDdnb2VWNEN4dU1LVGViWjhKQVkxRmpuOFhLRnZseUhpOTFtNGNaaHZpT295d2VkbGV3SW01UDhoMGl6RmdHQTI4Q19BTkxQcVhsMWtwWTR6cTY3N1NtOS1zUXM4Y2xiMEg4bThTbnN5bmpJcXZLZ1JkZVd4cFhaek1Vbjk4SFlpOEtZOEtoMjIwTmI2TVZ4eW1tazhnMVpCUXg0WGxwOUd2aUc?oc=5",
-          "summary": "La familia agradeció el acompañamiento recibido durante la recuperación del niño La Pirámide",
-          "published": "2026-09-14T00:47:05+00:00",
+          "title": "Convocan a la “Marcha de la Bronca” en Concepción del Uruguay para este sábado",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNV2dBUTRwQVVPVkZiUXhkSjZ4ZjZ1LWstd3ptdXpzQ0hxYTBHYUlqWFRjWUxLdEUyT3RUTW5qMHc2R2lGRVlKZ1VRUWYxYm1zT2FUSl90Yk9UME5aNWhVXzBTVnF4WXdEUUpma2o1cHRuVWFra3dsNWNZMS1ad3JzLUJybTJONXItTi1UODYyU3NnNDJlN0ZwZUF3UjhaT3lrZy1LZnliSDNfQWRfNUx1b0tXYlh0UkVTUVdzWDFOaE1xQWlwMjR5S0dn0gHPAUFVX3lxTE51T1lSWWFzWHBIRFFZNlBhWnR2TEEzcHZLNVFEZUNGNDRsNlFEN1g2M1JCeGhrYkduTmlGb18zNG15THRTNkFIZExzWTR2MHU2NkhCeFJOeVFzdExmWm9PS2NlTzNRSHNrUVpyeTkyVTlPY3NvckJBLUl3Mm5TdGZCUzhnaVNRSjdVTS02VG14NndKUE9VQjczaFMzaEVoYnIxOWgwS3FfZWVWcS1KckpyQkZYdWpiQUxxZjhxcjgzNHVlaVlSVnQycFgyMDRpNA?oc=5",
+          "summary": "Convocan a la “Marcha de la Bronca” en Concepción del Uruguay para este sábado La Pirámide",
+          "published": "2026-09-15T12:20:56+00:00",
           "source": "La Pirámide",
           "source_url": "https://www.lapiramide.net/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -95,10 +95,10 @@
           "source_image": "https://www.r2820.com/images/custom/logo-social.jpg?_v=v3-45"
         },
         {
-          "title": "De Entre Ríos a Vaca Muerta: el estado crítico de los 1.474 km de la Ruta de la Arena",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPM2pRbFZGdUw3Y1dfcmZXS1IwVmVDLThSWVlSQnAyTmx4WTQzMzczM283c1lPWGc1TjlIZEtPaTI3eVgxOFpDLVVSVGxRd3RBWmFrc2RDVGlXVzd2aEZJYlFiX0Uta3BiVkoyRHFpZmkya29FRnJaY2V1NFhva3VWQ2hfQmJaaFdIM2RxbDhWaUdFWHhqVmJ5amFQSjdRRkEzODZmZ3RiVkxOVWdOWUROc1IwZFYzSjdJa3FSNVlzMVRmMTJFdE01UGVYRXbSAdIBQVVfeXFMTVgydmktVmNMVDFxX3U5Z0g3TFhrVVZBRGFrdkdqaVRtdmVKOHhWRm1faXlvODJKZVhkaXFvc1d2bFc1SWpfREZkVlZ1MkpXQ2Z6S2NPenB3ampqQlJjVjZLYndTamNZVGZDQ3gtWm9NMVhZS3pQUloyVHJWT2lUNXU3WHdISmxkQUdldlNsTVJ3c0VvbkdmaWZlTE1vMmQwV0IyYnlMbDNnUzNINGdxRU92Zk5ZcXdrSGpfdEpZeVN1UWhGYmlkRmZSUk9VTTdmN3ZB?oc=5",
-          "summary": "De Entre Ríos a Vaca Muerta: el estado crítico de los 1.474 km de la Ruta de la Arena R2820",
-          "published": "2026-09-12T15:38:07+00:00",
+          "title": "Vecinos se oponen a la instalación de una nueva antena 5G en el predio de Obras Sanitarias",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRGNJQTZFTHBpVThKRmFRc3NURFFYN25tMEV0SzFnYk5uMWlwM3lQS2t5RXktMkV2VFhPakVLdVBiN1UxY2x4VnYtMUdwSVlBLXl6SVdWcXhsTm51TENBbTI2djlxWmFKNUVMN204TW0yQWZJYTZIQXJTZElRWDRocWZrN0dVZ1NvTVdXTWZuSGFsV29yZUVBY3o5cXJUMUpLX3VSb3NpWTAyemlZMzhkbnY2T1JibHBnTFV3bWtiNVdSN3JXOXlXUlJJRXV4ZHZsTUFpcGNB0gHbAUFVX3lxTE96NXJJOTFIVEhOMG1RMWd2QV9OVDZfNHFEYUR5VEw5Q2dfZ09KdUwtQnJfbGUxZDJFVFotRGZSN1R5QVhlaG9Uc3B6RHNyakdFRktCSDQ2NTR2blhoVHZWTUEwVldqZ3lCckF1NUV2RWdBWkprU2g0RFUzc3UzS1VISnJqRk1UUk9LZEJCTHlYNDZTZzU2T1VUYUVCb3NoNUFVRkFIb2pVWWZCNjRrclptaXlya0x1WWZSeDdhRmt5UXpfYXV4ZEQ4b2plR0NTcllTcGNYUmxTMUlKSQ?oc=5",
+          "summary": "Vecinos se oponen a la instalación de una nueva antena 5G en el predio de Obras Sanitarias R2820",
+          "published": "2026-09-12T14:03:23+00:00",
           "source": "R2820",
           "source_url": "https://www.r2820.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -115,10 +115,10 @@
       "homepage": "https://www.elonce.com/",
       "items": [
         {
-          "title": "Retención de colectivos del área metropolitana: controlarán los servicios y anticiparon posibles multas - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQazI4dTJZaEZhQWhWSG52b2FSSzZJWTBWdF9JUGNhSzI0QmpQSVRHem8zckg3Z0kzbV85dDdlcG5hLVRjTUlLcWpISDVwXzdkMUN1T2F4Sl8tMHFfRFdBLUtYVGE1eVhSZTFNT3k0emc2emYwNXlCNG5yQ0hPSVBlZVVWMGkyTUVzMzNqNzh3YXJ3MU5iMVFVSU1BTGhQc2R2ZW84Yk130gGiAUFVX3lxTE9zNkw2RTJ5Y0NLVlRMd2JsOV82WjJzdjlpWnBfcXc3UDFxOWUxXzNldEFUR1BVQmFkSEhiUmFQYlFZdzRrMk1ISnZwYkpKdVJwWm9OY2V0Q3MyMV9rTkFqM2FRTFJGM0RweHpHWEZ0ZmtlQlNkaldVazZ1NndjWFdZNUdCVTA5X3dfUy1UMWwzQnNJaHI5U09hYklDRVF1MWpwUQ?oc=5",
-          "summary": "Retención de colectivos del área metropolitana: controlarán los servicios y anticiparon posibles multas Elonce.com",
-          "published": "2026-09-15T12:03:55+00:00",
+          "title": "Bailarines anticiparon la celebración por los 131 años del Viejo Almacén Sauer de Colonia Yeruá - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbEpXUm5tOUpVck5WY3RKZGNVLTFzNXppMDlMaC1mQ0JFbjQwVkRVRTE5QW53Q2swV3JFdEQ4ZFFrN1hBZ21Pc1FtVENQM0hfd1BQTjBnOGZvMFNyMHl6SGJob01ON1g4ejV1eFRmTjMyZ3ZnbEVhRWhuZ1FOaElhTlFYVWN1M284eUhYSm12OHhjRjFoQ0HSAYIBQVVfeXFMUDhaakozNmVKT3VvTzN0VEkzNTRkZDcwV3dzSlEyQjBwWE1EcXUwQUFEb19rNFRBdm9lZ0NTamJHS2JEbHk1Z2Vvb3RxUTFRWHZLdXpfdFB1cDVBMWtFVjFxSmlVZG1IUS1WNThnNFpoekJlN3JWUC02YTczQXFhLUJ1QQ?oc=5",
+          "summary": "Bailarines anticiparon la celebración por los 131 años del Viejo Almacén Sauer de Colonia Yeruá Elonce.com",
+          "published": "2026-09-15T15:54:13+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -126,10 +126,10 @@
           "source_image": "https://www.elonce.com/galeria/sitio/marca-de-agua4-jpg.jpg"
         },
         {
-          "title": "Paraná: prevén un mes de corte en calle Córdoba por las obras de repavimentación - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSVZFRHFObkgwVE5WNlBTanpaajdLVkQ2MVk4cExhZW9NNVlNMWM0Q2tXNnJwV2FOejYtdkkwYi1hUHcxTXVDYkxxbjRTU1VvOVJlWVB3ODY4d05TVnNZcm1ZZDRpZFhMMVVmUFdKSEtRenhwdGRCTEJjVHVzMWc0bnJxM0VGcWluU2JFVDJ0VjctX040cGNLcUJSZ3QzVF9YU3J2dDdKeENLdy1ReGNhZjRwYVhaZ9IBsgFBVV95cUxOMUN2NWZrNEFMRXZLeXloLXY0NWpYbUFiUzVHMkRkQ3BkTXh0QzRVc0RSLXNfZWRCbWFwbV93WXR6a3VQckw2LWxkNXY5NWhoek9WTWtuNndvNW9aNkFNRGMxMy15dS03NVRDYkVDZEo1aGNmY3lHTm5jN2N6TGxveDRndEpXTTg2N0x3UzlNVVN5Z3F1ZkVZS2RHYlowUmFFMVNLUklaS3Y3MEptdlNEelNn?oc=5",
-          "summary": "Paraná: prevén un mes de corte en calle Córdoba por las obras de repavimentación Elonce.com",
-          "published": "2026-09-15T12:49:59+00:00",
+          "title": "Cierre de concesionaria en Concordia: confirman 30 despedidos y esperan por sus indemnizaciones - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTDlwRWZiMXhmaVdwb1dkT3NhY0JOUHF6cXZKNURYMm05NUNzd1hvRklMQTNQT1FSb1dVUW9OYjIzN3p0d2pkMWc0YXRfanRTeWZYWE43YUZTeDNuUFU5NXN3bWlmZGszMmNJV29MX3VsOEduZ09Vc2U1a1VraGRhRGlOMjVNekV2dHFta3A2c096VkJnejFCX3AycUNyRmQxZFktNjNlV1AtemFZWUR4UDNIeHhXRlFKLWpxcmFmRVRDRUpNcDhGRVNR0gHDAUFVX3lxTE1tM3JFSFVVUVRkRVBBMUdEQjJnWjBqOWZVWVdONW5OQnhGd2R0MkNlZmNxVjRZaGRmaFJOdi1kazQ5alBjdUVzLWV0VmUwU1RtOUxFRTF5NzlERVZJLTE5bTNMZG5RcDZ3Q19WZ0FqLWEwVkN0SjQwaGlnQmlBSy1NUnpYQVV1YjR2d2VyaG9ncVMtQlM4aEpUOVR1ejFxNmNUUEg5RFhZYlYyZENobndyaDFzS1NxZlBkdlBzUXF5S0Z2bw?oc=5",
+          "summary": "Cierre de concesionaria en Concordia: confirman 30 despedidos y esperan por sus indemnizaciones Elonce.com",
+          "published": "2026-09-15T15:45:39+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
