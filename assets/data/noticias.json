@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T15:08:40.033147+00:00",
+  "updated_at": "2026-09-24T19:09:21.762300+00:00",
   "status": "partial",
   "description": "Titulares y enlaces; el contenido completo permanece en el medio original.",
   "groups": [
@@ -10,6 +10,17 @@
       "type": "Web",
       "homepage": "https://lacalle.com.ar/",
       "items": [
+        {
+          "title": "Estudiantes de Paraná participaron de una jornada sobre consumos digitales - Lacalle.com.ar",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd05OSTFRVExWc0R0anZTcTdJZmx3bUNObnQ0TXJQYVVMZzdkWlotTnF5T2tZdHUyZTB1RUdfOGxFVWtDX2htTjJxYU5Da1BkNmtMeVE2cmF4SDM4UERTUTlseVAzMjBLbWVUSnRIc2h2eEhvUnJlU25lMElTR0NkbjNWMTlDM2pvNk5pUHRVQ1BjTG44U25ITmRjdWJTV2c?oc=5",
+          "summary": "Estudiantes de Paraná participaron de una jornada sobre consumos digitales Lacalle.com.ar",
+          "published": "2026-09-24T11:29:55+00:00",
+          "source": "Diario La Calle",
+          "source_url": "https://lacalle.com.ar/",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
+          "source_image": ""
+        },
         {
           "title": "La iniciativa combina formación técnica, reutilización de materiales y concientización sobre la salud emocional - Lacalle.com.ar",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQmw5T09hdlN0Q0xld1NZRWxKbTE1dWpPM19ibHNQLXBYNWhSMllUQm9SNmxKOFRDa0FkelVjSG1SN2NBX2l0WFNrMXZtWm5NTkdqQ2dxS25LZHlaN3l4WXQxSmw1S2R0Uk9ERGlsdi1iejlDOHV1cWg5VTdyeHdvR251bWVrb19ySllmdU1QNXh4SWY0aGlPU25pcms3cmJTVmUxWkx5bHdUMUVSVm1Tb2JRb2YzMUwzZXFqNnhQazR2RmlSVkI5WTN2UDRjSk0?oc=5",
@@ -22,21 +33,10 @@
           "source_image": ""
         },
         {
-          "title": "Gualeguaychú recibe a 330 jóvenes para la Final Provincial de los Juegos Evita - Lacalle.com.ar",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdUQzaUZmSWUyekRIUUZtVzVXNzJrVkdISk1Ddjh2LVM5aTkyRHBWWjV6UWp5R2FaYUF2Q3VxbVU4TzYxVWcxdkdRc3NQclZMdl9vWXBOdHJqTWt6Y1pNazhhQk5wdmZPdUZfWFJmLWEtTGkxa1pvTmwyaW95c3IxSWdXbGpIc2VGeFhQaXcwSFdENGVvVmpEQkN3d0VFRXgyZDBvZA?oc=5",
-          "summary": "Gualeguaychú recibe a 330 jóvenes para la Final Provincial de los Juegos Evita Lacalle.com.ar",
-          "published": "2026-09-24T11:23:46+00:00",
-          "source": "Diario La Calle",
-          "source_url": "https://lacalle.com.ar/",
-          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
-          "source_image": ""
-        },
-        {
-          "title": "Recuperaron una motocicleta robada durante un operativo en la Ruta 42 - Lacalle.com.ar",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRzZjTnhUaTh6M1VrZ1p0bnZ5LURLdk5Md2NjM2hmT2NIa05JVW1leGRwcHZhQlpfQ2hVdHdfcU9XN25jcFNGV1oxME9hRk56Y21GNlQ4N05NV3dJdy1mRnlLWHR5SHhFY3RpWkhPUUtmOHBhcXNXSWNzbzNKMkVtTFJmNkRKb3JHSGQ4TUl2M20zOXVDUkQ1TQ?oc=5",
-          "summary": "Recuperaron una motocicleta robada durante un operativo en la Ruta 42 Lacalle.com.ar",
-          "published": "2026-09-22T23:58:16+00:00",
+          "title": "Los Iracundos se presentarán en Plaza Ramírez el 11 de octubre - Lacalle.com.ar",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbld1c1I0UHRzX3ZNZWV6RHZXN2hMNnNuN0VkTU0teEhSRmwyeXFWakE0dVg2eEZ2ck40SFA2RFRMZXpTM2xxeWJOTE54b0psRjdUYlJvY0ZMTWtGZmtxYUhvNUllcE5KWnFTSHBtQ04yUEZrWUZFcXg1TmVhSmVCMEZWcUQ4NVNsNWRaVVVKSQ?oc=5",
+          "summary": "Los Iracundos se presentarán en Plaza Ramírez el 11 de octubre Lacalle.com.ar",
+          "published": "2026-09-23T17:13:37+00:00",
           "source": "Diario La Calle",
           "source_url": "https://lacalle.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -53,10 +53,10 @@
       "homepage": "https://www.lapiramide.net/",
       "items": [
         {
-          "title": "La Gloriosa Promoción '57 prepara un emotivo encuentro en el Colegio del Uruguay",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOW5Rbk5kWlFWbWRkRHlZN21sVXktcU1JTWU5QW41MWMwa19ubEZleW1hZUpZYkQ1cFBHSnc3dTU3YkJqbDluRWpsYVNtZUZUTEZFQWFNd09QVXpOVnEzamIzLVR2dnN3dWxrU1BVYXI3c0pXU3hUbG9yWGxOWjRvTG51bkJpTGRCTHhKckxnbExkNUM0dUFvZ295amw0M0N4OE4zZWIxWDN6ajZzYjFKenNubmo3LVIyZDV4M05wUkF1RGk1RFRKR0g4MjRoZ9IB0wFBVV95cUxQODNPcGN1RS1hX19kV0NhN1FzWUxORUpBV0oxdlZDMF9BdVh3YVhfSTRHdEZyeWx4VnRtaGlmaU5TMjN5UE5KRGp0VDltemRNTm9FelJVb1hlNXNSdHFLOUEzN3BmeWNnZW0xYVZjTU82VUQ3cll0dVJnejFHckVpQ2dIT05ZOE93cFI0TlRDQVhyZzU2RjVfX3ZaZ3FKZUMtbEVFdjBtc0xscTRqSXdTWkRXN3lKcFl4czhkR2pwZTZEeURpUVR5S0ZvLU9YZkgyUkZz?oc=5",
-          "summary": "La Gloriosa Promoción '57 prepara un emotivo encuentro en el Colegio del Uruguay La Pirámide",
-          "published": "2026-09-23T19:06:11+00:00",
+          "title": "La Fraternidad concretó la adquisición del inmueble de Rocamora 420",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTGk5ejF5U1p0bGJQTmF6dFRCa1F2bEQtMWpJYWVfbjQ5RWJlYzNva3BGN1h3TWpRWlpzUTVxTnVyenFjcGxzVmVPZ3U4LXlna2lUY0QxdkxqUDF1TWZSZVZaMVdkR1duS1hvSUp5Rk5YV281YmxNRTZxalAxSG1JSGhINUVzNG5QdGVTeEVaU0JRWmFzTWRGOVVRbHZHZDdwbENXNElJUHdKUGZoVTZ2STV2ZGJaeGt4WmZpV3pn0gHDAUFVX3lxTE9Va0V1V2U2VFpsXzBLM3dEWXJDOG9KTnR4aHRQa2RRdy1MRUJGTVRUczVMZmhFVFJTLW1DWC0tSEFLekFESGI1M2U2X0FOdlktQ3o5djFrbFFXRkY0TzdMUW1INThSU2hXWTNTX1VuNkhYTWJUazdxemFnclRTS2ZJWEhUbHE0WEFUQWRmd01fVHBYcFdkQVlmOVF2ZXFFWnZBUWJ2WGlORGQzdkk1ajVLdnRUclBWQnlXd3draWNCV05kbw?oc=5",
+          "summary": "La Fraternidad concretó la adquisición del inmueble de Rocamora 420 La Pirámide",
+          "published": "2026-09-24T16:09:22+00:00",
           "source": "La Pirámide",
           "source_url": "https://www.lapiramide.net/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -64,10 +64,10 @@
           "source_image": "https://www.lapiramide.net/images/custom/logo-social.png?_v=v3-27"
         },
         {
-          "title": "Una nueva propuesta para la costa: buscan preservar y potenciar la ribera uruguayense",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVmFYV2Z1eDVscWZ6aDRJUU45WTE1NkFQWXBhZ0N6ZnRJc1B3bUpLb2E0dXdSdWg3YlhEcDZfSzE4OG1rQWZjeEgwaWdPbVdWLVEyWjYtWktTQkZPVnV3bERCSWlfcTVQdjF0Vl9nNFVVTW4tWDd3OEczOUNwN25ib0p1TzhiUWRoRW02MVo5c1VPajM1UnBia3R0NGc0MUdUc2N6YkUyOTJUam5lUk9qejQxWFFXRWd4eGxKRkR6LU9TRlRmazhRbTlDVWljSWx6Q29ab9IB2gFBVV95cUxQWXc4OWlCZnM4RHpkNGIyT3Eza0xiVy04UlVHYndhTURqeXB4NHZRQ2RGdE9aT0xVN1BpNGJ6cGtFREQ5TGhTeFNvTlVudzJwX2ZCME1CbG9GbkFDellJcjlzU2N1ZzRsOTZhTDhMWDExSmZYeTVnbU1hNGNmWEwxUnZQNm5GX3JPVThhdDJaSzNtZWVrdThuaHFab0lia05UTC1ocW9GRVR1Y1Z4dzgtV0lMNUFTMDV3VE14THNYZklUcE1TVElwd3hWZXlRUUdOaW9VRXNJd1h0dw?oc=5",
-          "summary": "Una nueva propuesta para la costa: buscan preservar y potenciar la ribera uruguayense La Pirámide",
-          "published": "2026-09-23T16:26:11+00:00",
+          "title": "La Gloriosa Promoción '57 prepara un emotivo encuentro en el Colegio del Uruguay",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOW5Rbk5kWlFWbWRkRHlZN21sVXktcU1JTWU5QW41MWMwa19ubEZleW1hZUpZYkQ1cFBHSnc3dTU3YkJqbDluRWpsYVNtZUZUTEZFQWFNd09QVXpOVnEzamIzLVR2dnN3dWxrU1BVYXI3c0pXU3hUbG9yWGxOWjRvTG51bkJpTGRCTHhKckxnbExkNUM0dUFvZ295amw0M0N4OE4zZWIxWDN6ajZzYjFKenNubmo3LVIyZDV4M05wUkF1RGk1RFRKR0g4MjRoZ9IB0wFBVV95cUxQODNPcGN1RS1hX19kV0NhN1FzWUxORUpBV0oxdlZDMF9BdVh3YVhfSTRHdEZyeWx4VnRtaGlmaU5TMjN5UE5KRGp0VDltemRNTm9FelJVb1hlNXNSdHFLOUEzN3BmeWNnZW0xYVZjTU82VUQ3cll0dVJnejFHckVpQ2dIT05ZOE93cFI0TlRDQVhyZzU2RjVfX3ZaZ3FKZUMtbEVFdjBtc0xscTRqSXdTWkRXN3lKcFl4czhkR2pwZTZEeURpUVR5S0ZvLU9YZkgyUkZz?oc=5",
+          "summary": "La Gloriosa Promoción '57 prepara un emotivo encuentro en el Colegio del Uruguay La Pirámide",
+          "published": "2026-09-23T19:06:11+00:00",
           "source": "La Pirámide",
           "source_url": "https://www.lapiramide.net/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -115,9 +115,9 @@
       "homepage": "https://www.elonce.com/",
       "items": [
         {
-          "title": "Tormentas en Entre Ríos: anticipan más de 55 milímetros entre domingo y martes - elonce.com",
+          "title": "Tormentas en Entre Ríos: anticipan más de 55 milímetros entre domingo y martes - Elonce.com",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQXzJTNVgtZ2pLb21Ldk1FZXpJZF92S3AzUUk0QmdRU0gwZW1sUlQ3aThQRUlxSEVKYy1GRXJfUE1mekszcWIteWJ4TDB6N0tRUHNUS0JOUFF3MzZCMUlKcDdMZTBHcTJGbFlNUm5hdUw5djlkeTk2Q2dTREdRX1ZfWk9WMDdJWllBTzVERHZFdDU3Y2tzaV9vREZkQ3dJN1B5R3hva3ZIQmxUd3dnVEFPVHZna9IBrAFBVV95cUxPWFVjTmdNUHRVWVNEWi1vb0VRZHdEMDVuVURHaEMyVGRCOFBUS2ZXLU0xTTJ6dnMtU195VFJTRkN2RzRueDNZTXdfMS1sZmVzdUp4MmxmQWhGb0dwZ1BaZVdVWTczMlV1dV9pUzkzQlI1R05vLUUzYzNTUVdTYVZCWTZSWDlHMnJsR0x5Q2N2dmlDRWVlMExHRVlnQzRmZnEycHBaeDRoVXNIY0lh?oc=5",
-          "summary": "Tormentas en Entre Ríos: anticipan más de 55 milímetros entre domingo y martes elonce.com",
+          "summary": "Tormentas en Entre Ríos: anticipan más de 55 milímetros entre domingo y martes Elonce.com",
           "published": "2026-09-23T21:03:49+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
@@ -126,9 +126,9 @@
           "source_image": "https://www.elonce.com/galeria/sitio/marca-de-agua4-jpg.jpg"
         },
         {
-          "title": "Sube la temperatura y se esperan hasta 27 grados: cuándo volverían las lluvias - elonce.com",
+          "title": "Sube la temperatura y se esperan hasta 27 grados: cuándo volverían las lluvias - Elonce.com",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNkJDQUFDNy1BRnd0NVpDRXg4dDl2MDR3bXJJbExpUHBaUVNFSzNjaHpMUE9ndC1LZmdpVmowQmd3OEQzemRsNWRJczFQbkYyZ2d2V1ZLYlB2ZUJlTHZrcGczZ0dqc0Y3WnJEd05sXzYyX1JTZXVaVXlxSTRGeVd6cjVwVl9lUUxBQ1FkTjZHbFZmUERVcTJVbGhSX1liMnBqT09NVXhnNG9yYTdHdkVzZlVmONIBrAFBVV95cUxNSVE0dXJUZGN0STlia1REOWo2U0JyOGN5VW5nVFUzQUs2S29lX0hiN1ZqYms0ZER5U1hza3VWSHZaWXJLWkFob2tBckdyOGxNZkFxZDk4T1lXUzlmOEllTzhORUFTQjQ4Zmg1QWpTRXBWVU1tbVg0ejFiUUJ1MlRZOXN3LU9za2dCTFhGeFlNQnFxZEhZaUtMdDhjZHhhZDg0NWRFMWdGVFZVRE4y?oc=5",
-          "summary": "Sube la temperatura y se esperan hasta 27 grados: cuándo volverían las lluvias elonce.com",
+          "summary": "Sube la temperatura y se esperan hasta 27 grados: cuándo volverían las lluvias Elonce.com",
           "published": "2026-09-24T07:53:30+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
