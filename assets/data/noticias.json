@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T00:44:16.939337+00:00",
+  "updated_at": "2026-09-28T06:52:09.628015+00:00",
   "status": "partial",
   "description": "Titulares y enlaces; el contenido completo permanece en el medio original.",
   "groups": [
@@ -10,6 +10,17 @@
       "type": "Web",
       "homepage": "https://lacalle.com.ar/",
       "items": [
+        {
+          "title": "Patinadoras de Zaninetti participan del Campeonato Nacional en Miramar - lacalle.com.ar",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOUVUekNrY1lqUDkyZE4wc2ZXMGtMQ2FrTXhsc1BVa2NzblZpN3VkNUFXZV9uYmZJdWlNWUZwNGc3NkJuZWlxNWwzMWpjRV9DVkdkcGVYTzJMMHFlN3ZncXZVSkU5RGM2VzFINEJCZFF5YUtKWmNnaGotbWY0dEZwTU9tZzZQVFpWZjY4Y1kxTmotY250RGJ4R1pB?oc=5",
+          "summary": "Patinadoras de Zaninetti participan del Campeonato Nacional en Miramar lacalle.com.ar",
+          "published": "2026-09-26T15:11:36+00:00",
+          "source": "Diario La Calle",
+          "source_url": "https://lacalle.com.ar/",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
+          "source_image": ""
+        },
         {
           "title": "Una propuesta cultural para toda la comunidad - lacalle.com.ar",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB5SWNKMWV1QW43TjRQRWJraElxRUFiaXpOc2FRSGhfUTNzdUxDalIzNnRpRTBvbUE2eXd5c3Nzd1VMVW01c01LWDI5aWZMWWRHRjU5cFhCOXFVUkQ1czUySEpiTnF3VXBPXzMxMkRpY0c0anlqLXBHRA?oc=5",
@@ -22,21 +33,10 @@
           "source_image": ""
         },
         {
-          "title": "El seleccionado uruguayense disputa el Provincial U15 en Concordia - lacalle.com.ar",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVzhVcW5FRjljeUZCSDNiMi1XZHdBenhKRHFkM2Z1cEpVajBMZGMyZFBabFZIWmJVd0ptQUJyZXUtX1E5NjNjb09LbW1mZDZldWVxRmphbmdCSjYwM0M5SU5DdFJuNHQzN0hvLXpxcHBRd0ZGTjJLYVZFLXZ2TUxGeXE4endxT3U3M2swVlhkdUtnNF95?oc=5",
-          "summary": "El seleccionado uruguayense disputa el Provincial U15 en Concordia lacalle.com.ar",
-          "published": "2026-09-26T15:47:10+00:00",
-          "source": "Diario La Calle",
-          "source_url": "https://lacalle.com.ar/",
-          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
-          "source_image": ""
-        },
-        {
-          "title": "Rocamora será sede del Final Four - lacalle.com.ar",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1wQ1FxTjRJd05uR0RaeXRpWkVsQzJZNUJ6eXBZZUd5VENCUVRVZWgwQ20tcGlzRmhDY1I3Q2NaanVsdU91VmdfN3hEbUhMSkd2WDk4ZnM1TW1YWHViZk1nWmp5U1dsNjkt?oc=5",
-          "summary": "Rocamora será sede del Final Four lacalle.com.ar",
-          "published": "2026-09-26T06:12:16+00:00",
+          "title": "Estudiantes de escuelas entrerrianas participaron de una jornada de educación ambiental - lacalle.com.ar",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMkUtTXd0Q3EtWnV5LWlMUHktYXlOQzI0eGI4Q1BobGZvbVM5Z0c2UjJWY1NoZDJYSUF6VGlyTEQ4NmdUOGhzRFZYNGN5RC1WV0FKWUpCWkJZVFFrQk54UjRRcFk5bW1BVjVsTDMtanQxZXJici12eTF2T0hSYUdLRnR1RVBsTVYtMXZTX0VjRi1CWi1FWWRBNXgyS28tdEZObENWWmlQMHJLRlZmZVFJLQ?oc=5",
+          "summary": "Estudiantes de escuelas entrerrianas participaron de una jornada de educación ambiental lacalle.com.ar",
+          "published": "2026-09-26T15:19:18+00:00",
           "source": "Diario La Calle",
           "source_url": "https://lacalle.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -84,9 +84,9 @@
       "homepage": "https://www.r2820.com/",
       "items": [
         {
-          "title": "Cayó granizo en la ciudad y la Ruta 14: el SMN elevó a naranja la alerta por tormentas - r2820.com",
+          "title": "Cayó granizo en la ciudad y la Ruta 14: el SMN elevó a naranja la alerta por tormentas",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUjdGZmRmU2RCX1B0TEFhRUlsSl9hNjgxMnFzeERmMEprNEx2YjdxeVF6MW5XTzF2YTM2dE1DNUhKTUlXSUFSQUdtV2g1M0hpT0tVUWNvZUhFd0xoazh6T3BaTGFYN1VkMlEtc051RjczQ2taczVSbS10ZXJfYnh4d2pSTW1Bd0gtTVB4SjZpdFFTRlljMVhUcXVPLTk5VjYwNy1MV2tidDZ6bnpJZncyUkFMTkNPR3MwaUd3aWpvMURBVXZ3UTJMMGQ4TEhxQTTSAdQBQVVfeXFMUHdIOUR0NTFxa1hkTmp2RndXb0VESTNYUU14R0hpUTJSSnRsOGtOWmYyTzhtRmFQVXpjeHVxQWladmhiVlFyLWN6ZTRDS0NCbmFEejI5ZXVOTkt6REJyNl9JLXp0YVhTRW1yVG9TbUxJcDNhOWFNNzJkSldqcmhGRHh6dFBndHdRM2dlLTBuZWxlZzdoR2cyc1dJcS0yZl8zWTZJcDJBMWNzV3pmc1NuQ0pRcG1GRHFXVUhid3ZQS0IyYnlaNDBBZjdpMkVRcEFNYnZ2cWM?oc=5",
-          "summary": "Cayó granizo en la ciudad y la Ruta 14: el SMN elevó a naranja la alerta por tormentas r2820.com",
+          "summary": "Cayó granizo en la ciudad y la Ruta 14: el SMN elevó a naranja la alerta por tormentas R2820",
           "published": "2026-09-27T19:44:21+00:00",
           "source": "R2820",
           "source_url": "https://www.r2820.com/",
@@ -95,9 +95,9 @@
           "source_image": "https://www.r2820.com/images/custom/logo-social.jpg?_v=v3-45"
         },
         {
-          "title": "Los vecinos se llevaron la carga de pollos congelados del camión que volcó en la Ruta 14 - r2820.com",
+          "title": "Los vecinos se llevaron la carga de pollos congelados del camión que volcó en la Ruta 14",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOGI1TGN2S3J3RWUzTEVYY1pmR0F4T1hiRkpjVFdFTjM1M3JNemVXNkJuYjB2OXdRQ2RYV2treFlLRDR1b1ZObEhfTHpfN1RMakpqaU8xTzdhYlBQNmZLZlR3M0xna0NjTmVxU0VldFRCeGtVaHlRcmlnbEVEQ0RHZTZGcFd2X2JuOW9CT3NzLTRISlhuaW8yblVEUThINWhKRDdPWlRQMTZWUUlySFRybVhkc3JxYVBkZnVESXlzS05NU0tWTFZYZ0Myb1RkdWUzMkZR0gHYAUFVX3lxTE5ULUE0VFdNRGV4SlJBYU5seTlwcGh0YmVKSUJfTzI4OFVYc1BqdDN0RUJka0s5V1VXV01mTTd0aUJIQjVaUzc0MHdpTEhaeTMxYXp4MHlzWkhDQlJmd28tNmx2RjVvLXJRSUFQU3RNMElFOU5obXFzV2lkUmtJNHVLM0hjcjFQZlRsMnBxNTA3NF90YjRpelZ6UTBVblR6STVnWmhxbTg2RE9MOEFsWkpEVFd5dkJra3ROOF9pd1FrUkxvLTdWUHpSTGQyR09iZk1zbFJ6VENUSA?oc=5",
-          "summary": "Los vecinos se llevaron la carga de pollos congelados del camión que volcó en la Ruta 14 r2820.com",
+          "summary": "Los vecinos se llevaron la carga de pollos congelados del camión que volcó en la Ruta 14 R2820",
           "published": "2026-09-24T15:35:51+00:00",
           "source": "R2820",
           "source_url": "https://www.r2820.com/",
@@ -115,10 +115,10 @@
       "homepage": "https://www.elonce.com/",
       "items": [
         {
-          "title": "Boca y Racing se enfrentan por la Copa Argentina: hora, TV y posibles formaciones - elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVzctZkFWOTFTdEc1cEdOdS1uWTZYRXFCQ1VIZXJJX190eWcxTDRLZTRXOUw4M051MGVPTVFoVFk2aWFIS1M4Q1pYRnVNemt1a0ZXUFZHUjNsYjlTc2lwZ1ZaZjRwdzd3Y3hwZjJTZURNTFUwM2ZGWDR6RUpBTlFlbUV1T2VOSjVXTWRhQVFFWU9wTzVadlFtd2ZzVm42TXp1Sko2LXJXcnZWWmRxQzJ6Z283X3dMZ9IBrwFBVV95cUxNeHlLdkp1Y3BrcnBDekwxZFpEdDJPLXNzWUpRc0psbVI4aTdPaU95bktKNkdBalpsRHVPRTdmQ3k1VUdNNGp1d1ZWVDFWTEw5RUs4RW5rZ09oRTN3ZWJDS0lyTUg0Q0R4STdZR0MxWmE3V2U2LW9yY0hUaFJkeHZTeFBmTXQ2SzY2eE15NFRyRlBPNmpsUWNtT2lLWng2d0dTbzZnNUlXelVyYXNFQnZ3?oc=5",
-          "summary": "Boca y Racing se enfrentan por la Copa Argentina: hora, TV y posibles formaciones elonce.com",
-          "published": "2026-09-27T13:04:28+00:00",
+          "title": "Festival por la Noche de los Lápices reunió a estudiantes y artistas en Paraná - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaEpsWDMwVXdBZGN3bGZtMWxCNnVEZUpIUC0tY1AyYmNVaXo5WjJhRk9qMVMzV2EydVNyd2M4TlV1YUI4THhCam9oUnR4V2N3MjJkNktuSlQ1WGJLNWx1SFAyejI3WWJsUmIwR2VlbExVSGFlLUhTMDBMN0tUY0JFcG5iZUI4MlkwWm5LdV8zQ3cyUjdsUWhYaU5lUHBwMnZzcUNQV01MazNMR2Y1UGxzMUln0gGuAUFVX3lxTE1seUhOR0pWYmRiUlJRSGNxV3JJS0QwU3FHYlp1a2J4RVBiU1hzUlhUQV9hRDFVTVRvd193Q3VHaDdCNlF1NVpNWlM4NkFpaEFBT0hPdXNTMDNnS2J4RWJjb09pelNST0REbFdYb1RuOTVKTC04Nl9zYWpfYmtjb1hUOUZmUnExVm5od0VDdzg1NDlaU1c1c0lheTNsMDRwdUhVdGFDM2pZajNyMEIzUQ?oc=5",
+          "summary": "Festival por la Noche de los Lápices reunió a estudiantes y artistas en Paraná Elonce.com",
+          "published": "2026-09-27T23:40:11+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -126,10 +126,10 @@
           "source_image": "https://www.elonce.com/galeria/sitio/marca-de-agua4-jpg.jpg"
         },
         {
-          "title": "Festival por la Noche de los Lápices reunió a estudiantes y artistas en Paraná - elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaEpsWDMwVXdBZGN3bGZtMWxCNnVEZUpIUC0tY1AyYmNVaXo5WjJhRk9qMVMzV2EydVNyd2M4TlV1YUI4THhCam9oUnR4V2N3MjJkNktuSlQ1WGJLNWx1SFAyejI3WWJsUmIwR2VlbExVSGFlLUhTMDBMN0tUY0JFcG5iZUI4MlkwWm5LdV8zQ3cyUjdsUWhYaU5lUHBwMnZzcUNQV01MazNMR2Y1UGxzMUln0gGuAUFVX3lxTE1seUhOR0pWYmRiUlJRSGNxV3JJS0QwU3FHYlp1a2J4RVBiU1hzUlhUQV9hRDFVTVRvd193Q3VHaDdCNlF1NVpNWlM4NkFpaEFBT0hPdXNTMDNnS2J4RWJjb09pelNST0REbFdYb1RuOTVKTC04Nl9zYWpfYmtjb1hUOUZmUnExVm5od0VDdzg1NDlaU1c1c0lheTNsMDRwdUhVdGFDM2pZajNyMEIzUQ?oc=5",
-          "summary": "Festival por la Noche de los Lápices reunió a estudiantes y artistas en Paraná elonce.com",
-          "published": "2026-09-27T23:40:11+00:00",
+          "title": "Marcelo Fuentes valoró el 3-0 de Patronato: “El equipo fue superior” - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMVFqbHR6OWJJNWNkbUhLSmt3MGRXUkk5eEpVcFZYOVFUS1B4emV1MVlDbkU5d2dmOFhDOE9fazV2eWQwaTZHWTd2OHNtZS00NGduS0NVdk1pNmlfdGJNaFd4U0tvSzNPOXNMTTVidjN1Y2hnUjkxdlhoUlEtNnRsX0tyVEwxd3BGUmNHSGZ1bzdZZ2dpZ2k0aWs5SDRUWmRid3g00gGcAUFVX3lxTE9oUHN1RmFiTmZnMWVfU1VhTFhBMWN3UjM5OGhZTkwyQXV3eUI4REpWZS1SR0MyX1g1Ym9KaGNKOFBuSkxhNDUycDBSRkNpTVBmS2RINW8zSmRkdkhKLTh1ZGg1N282NUJ3QlIySDhrN2tYaUI3Rk14V0NXOElpUC1KSnRfZnY2bW9HaWFDQy13M25EUUxBVGxSWE1PNg?oc=5",
+          "summary": "Marcelo Fuentes valoró el 3-0 de Patronato: “El equipo fue superior” Elonce.com",
+          "published": "2026-09-27T22:46:30+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -146,10 +146,10 @@
       "homepage": "https://www.pagina12.com.ar/",
       "items": [
         {
-          "title": "Hablemos de censura - Página|12",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVOUI0LTVSZ0RCbzdoajY2emhqVnk3blpJZGtDYUtla2dEZEtVUTFwU2dpcXZHR0lCR3g3bV9sczRXdElFWUNxV2xBalBqNlZuWGRFWEs0U3pScnZsaFRtdmlvY3ZFeTVKWVN3?oc=5",
-          "summary": "Hablemos de censura Página|12",
-          "published": "2026-09-25T20:58:34+00:00",
+          "title": "Genocidio - Página|12",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03N2E2QWZPNVVrNzNWN3ZRdWZsQXo2THdHU2NhSEFJOC1uR3FxOHZuQmwwZlJlODBpVUNHbjNtV1BxVE1OR19KREpwMkhFNmdfUDdiaXZHTy1UaHRBS2c?oc=5",
+          "summary": "Genocidio Página|12",
+          "published": "2026-09-26T23:01:00+00:00",
           "source": "Página/12",
           "source_url": "https://www.pagina12.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -157,10 +157,10 @@
           "source_image": "https://www.pagina12.com.ar/resizer/v2/https%3A%2F%2Fwww.pagina12.com.ar%2Fresources%2Fp12logo.svg?auth=811d0fc63a912d1f8dc56b650f3a0054e089ac9c81bfee069a62717e10cbb54a&width=1200"
         },
         {
-          "title": "Lula denuncia que Latinoamérica vuelve a experimentar injerencia externa en las elecciones - Página|12",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWVg3emxiM1lwMGdkanFyRlRoQ3ZGa3A3NDJaYkpwRGtoTzhiZk5Id2V2TTMtMDRvbGpyVU9CRmt3Wkl6TDNENkhOcDBoTFFoWUVIdTZ6V29hTFR3QTFvOTdBdTlCZ0U0ZmpQOHVhMDhMR2VKVllVSVliMHlGSUhqVVhfRTJaTll5RHFrYnNrMll1aEEyTEQzOGkzUjFXRElCaGxPbjdLb0hiNW84OXhmLXl5ME1Hbkhya293a0xBdEhTTUw2U0w1M3BB?oc=5",
-          "summary": "Lula denuncia que Latinoamérica vuelve a experimentar injerencia externa en las elecciones Página|12",
-          "published": "2026-09-22T23:01:00+00:00",
+          "title": "Hablemos de censura - Página|12",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVOUI0LTVSZ0RCbzdoajY2emhqVnk3blpJZGtDYUtla2dEZEtVUTFwU2dpcXZHR0lCR3g3bV9sczRXdElFWUNxV2xBalBqNlZuWGRFWEs0U3pScnZsaFRtdmlvY3ZFeTVKWVN3?oc=5",
+          "summary": "Hablemos de censura Página|12",
+          "published": "2026-09-25T20:58:34+00:00",
           "source": "Página/12",
           "source_url": "https://www.pagina12.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
