@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T21:59:40.788585+00:00",
+  "updated_at": "2026-09-29T01:56:14.060718+00:00",
   "status": "partial",
   "description": "Titulares y enlaces; el contenido completo permanece en el medio original.",
   "groups": [
@@ -10,6 +10,17 @@
       "type": "Web",
       "homepage": "https://lacalle.com.ar/",
       "items": [
+        {
+          "title": "Aprehendieron a un adolescente que llevaba un cuchillo de gran tamaño - lacalle.com.ar",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOb2FfN09YeE5sSmRSY3VhNTRkQnNlSnhwMUR3cG9SYmpjVUw2X214Wk1Jdm4yeXZFa01DM0UyVElzWC1jYmZYUkxmUlNnSEdXeDk2QkVhcHhOTzgwSm5DTk9hNUpGM0ZOV3diVnVtZGxKcUlURU1fMWczM3J0X3o0SnhiRXNqYlA4QkZuUk9GYS13WXMzcjA3Vw?oc=5",
+          "summary": "Aprehendieron a un adolescente que llevaba un cuchillo de gran tamaño lacalle.com.ar",
+          "published": "2026-09-28T15:24:11+00:00",
+          "source": "Diario La Calle",
+          "source_url": "https://lacalle.com.ar/",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
+          "source_image": ""
+        },
         {
           "title": "Patinadoras de Zaninetti participan del Campeonato Nacional en Miramar - lacalle.com.ar",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOUVUekNrY1lqUDkyZE4wc2ZXMGtMQ2FrTXhsc1BVa2NzblZpN3VkNUFXZV9uYmZJdWlNWUZwNGc3NkJuZWlxNWwzMWpjRV9DVkdkcGVYTzJMMHFlN3ZncXZVSkU5RGM2VzFINEJCZFF5YUtKWmNnaGotbWY0dEZwTU9tZzZQVFpWZjY4Y1kxTmotY250RGJ4R1pB?oc=5",
@@ -31,17 +42,6 @@
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
           "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
           "source_image": ""
-        },
-        {
-          "title": "Concepción del Uruguay sumará un espacio para la pesca adaptada - lacalle.com.ar",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQm5QYXYyTEZFaV9KaUJDeGZSMjJGeVdHNFIwNFJ6SjA5bFRicUhzZEZNVml2OWUzX09ka0Y0MVFPUUtGcko5OWgxbnhKV1FWVUZiMHhfeGZ2UXo1aTVnaFVRdVc1Qk9ERW1WX2dhcDI0WWxuUnRlOGtfVnpoVEw1RUJDSWdJaHVGaVVERGpjRUg?oc=5",
-          "summary": "Concepción del Uruguay sumará un espacio para la pesca adaptada lacalle.com.ar",
-          "published": "2026-09-28T15:02:30+00:00",
-          "source": "Diario La Calle",
-          "source_url": "https://lacalle.com.ar/",
-          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
-          "source_image": ""
         }
       ]
     },
@@ -53,10 +53,10 @@
       "homepage": "https://www.lapiramide.net/",
       "items": [
         {
-          "title": "La Municipalidad entregó un subsidio a la Asociación Síndrome de Down para construir un playón deportivo",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOa1FIS0ZfZ3FlNmZXOU1CRzdvb0dWQTVRd1ZKRUVGWFVSNm1ZR3VoRzlOLV9SdW5IWFBhaGt2c1FjdGhtd3IxNzZmWjd4eDhMcEJwNHM2djZsTndqS216eUtPYldYNTFueUFjWmJwSEpYSHFSNFU0enRXaTNkcFF0RV9BbjhMWkhxS0RvX01rTW9qNVpQZHFscnZrSk5MQ1p6YklHZHhMdzN1T054YzlndUxObVIzM3IxWUNPQVFFMHZ1Z0czeGhOSHVYR0MzMk4yOG5kQ0FEUHQ0a0pSWndfajVOLTEtTGNHRlpsWl9KWdIB9AFBVV95cUxNc0RpY0NlUERPaF9ZOEdqTGdiVlBqMncteUx1YlYyVmVXY2NZZzVFc3M0eFRWekZUdDVFTGExbDg0Mnh6SmFSMGZSdFdqSVQ2bzJacXd6U0FSRWJHczlMMlI4VVB4czYzNUlWaEdDRmZwUUtBZF9QLUVlYTVuOXBGWGppOWx6QlZfT3lTcHBkZVRVNHFleGYyNURuUkVnY1hUQkNoTmlqS3ZxYV9UdUVMVXFhT3pwSVRaeDdYRmxyajMyNWlEc1l4aHBiaktEM2RudDdwcXpaM3F1RE1wRUM4MHB5RVNwQWlpWFM1REFDcEhYZ0Ux?oc=5",
-          "summary": "La Municipalidad entregó un subsidio a la Asociación Síndrome de Down para construir un playón deportivo La Pirámide",
-          "published": "2026-09-27T15:33:58+00:00",
+          "title": "MIGUEL DOLORES BIANCHI Q.E.P.D",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOak15NDdiUVRMcC1HMm80SzQ0M1pnMGVYQlBRTU1zMnd2NjJ0TGdacFJRRmhKY1pmcGxnaTVBdm9GWDVqS1U5dVVCR0R6Q0t0Y1NYVndLaDlLN0RDNG5zalppd3VBMlVORmVlN0tvczdqeVBrZ2NFQnRZVWpyS1UxZklvT0J1V1JF0gGOAUFVX3lxTFBkRHhGTzZvandRYy1BaTJPTHNGSnNOQUlNdU5zX3pzM0VGZldPc18yZWxMT1ByZVZoVnltNHIwR1BTQlBWU2c1X0Q2dzFHc3Y1ckZ2TjJaWkxTZ0VBVFZuSTZ6cmg3YnY5a1paMDhiclllb0pUckdSakM2b29oUlFHbV8wSV9FdWY5NHpsekE?oc=5",
+          "summary": "MIGUEL DOLORES BIANCHI Q.E.P.D La Pirámide",
+          "published": "2026-09-28T18:22:37+00:00",
           "source": "La Pirámide",
           "source_url": "https://www.lapiramide.net/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -64,10 +64,10 @@
           "source_image": "https://www.lapiramide.net/images/custom/logo-social.png?_v=v3-27"
         },
         {
-          "title": "Ante una multitud, se realizó la quema del Muñeco de la Estudiantina 2026",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWVAtNmtKdU15bkY5YjVLVms2TkJaYTBXVlNjbjZ5bGdsYmJnX3RyVVdCcFY3VlUwM1IwRWhxWHcwbTZWbXlFalo4anZiV1ZTdzFiV0RNa0tRckJ4dEZ4UWhYajM4WmllWV9xSXNPUDV3ZXp2UDJLdGd4XzVvY3hxNnNaMmZ3NzRhcTFnTE9GVjdLeU9VWEtkVUpwUlJEaXVpWE5kazdBXy1rNnpCLXp1U1oxNXZTUDJ4ajFBaWZkNkpZb1ph0gHKAUFVX3lxTFBxYzVmdDFPMkk0UGplLWdkNlJtNy11TVFpZDlJZnZvWGlPdkR2d2FPMk8xS2I4bTB1Sm5hVmtlNF85WU54bWxISElqbHZTd1JycGF1UHZXR3VncWdRSXk0cEpXVk9fT1p4dURCU0VINHVDYnNfZ0tyOGN4RE9aVzhabVpOOWxvV2x0TlRfcE5pVURTeWxKUWxILVFPLVZMVmozX3FFT2RxOXhnYl9iQ3MxSTlfZTNmaWZRVFozbGtiXzhHZmNYSEVFcUE?oc=5",
-          "summary": "Ante una multitud, se realizó la quema del Muñeco de la Estudiantina 2026 La Pirámide",
-          "published": "2026-09-27T20:16:50+00:00",
+          "title": "Quini 6: 52 apostadores ganaron más de $9 millones en el Siempre Sale",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWG1ERDVhY0drbnRGRXNET0E0bFgxLVROWmFPSFhhYlR3aGN4WS1WMU5sWG1tZmo1MVMyTVl2a1FINkFveXBOTHBHajVBNEdWVEl0bDY0cHBhWmRoTWFWdFctZE1CUDE5QVd3RDVOTVg4ZHBEWldCUEtxcTlxdmFVTjh3cXduSWl6Sng1OHhENVJUWUNtaFRPWWJCVzk1b3lURnpfWGFsNzIwNXVFUnljaEw3azk4LTduUGJ0N2Fn0gHDAUFVX3lxTE5sTHlVS2lYalYxQ3NuWGo4ck9zY2lXOHhWQ25ZWUd0eml1amdPZ19JazQ0dnJ1bzMzWWVUWTJ6SVJDaHZ6d0N3RXVTWG85QXhIdEZzcFNMSGl0Um15VUlfZU1PM2FlM0FmUVZraFd6V1RERFkzNE9RZUpIVm16MzZkdWYwYTBLX2ZSMzdHNXYxRmlPeUVYbnVpQV84V29pcFZxSzAzeFROcndqR0FhZnEzTTlySFlkMkUzdE9BRk82ODZ3VQ?oc=5",
+          "summary": "Quini 6: 52 apostadores ganaron más de $9 millones en el Siempre Sale La Pirámide",
+          "published": "2026-09-28T10:44:45+00:00",
           "source": "La Pirámide",
           "source_url": "https://www.lapiramide.net/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -115,10 +115,10 @@
       "homepage": "https://www.elonce.com/",
       "items": [
         {
-          "title": "Oficializaron el feriado por la visita del Papa León XIV a la Argentina - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeDZvUW5kWjJEM3hBbk1SaDEyYnRqOTNpUzJfb3NiUHFPZzhBNnpPd1hNNGdGQ3hOUFUxRC1CbGRERjJLVXVxN3pVSm16OFVabEphd3MxWjV3eEt4ajlEb2dNSzJ0T3hOWlRrcjlGSW1DX183bUZaOVJCekx6Z2JxTUMyczBxVlRIUkdmdEdRTGs1MTFYMjZqeW0zdnhaUHVMU1pwNVh5LVUtOVHSAaQBQVVfeXFMTzVabmRPUnlVTkQ2QWh2NkVJNFJMVjB1ZTZjcHdnd3JLR0RHcjdwcjV5NTREajhvWl9nY25meDlyRE52c1VFSXpfLVEwOEYzNUY2bThEeGZJTjZ5QWVIaDgzZUJSNUE1b2F2ek8tSHphZHhuRWtZMTNGb2pidWY2NTNXNUVlSmZsUGFDcnBMc0JBNmJTVFNabDlSM0xYV2lGdG5oc2E?oc=5",
-          "summary": "Oficializaron el feriado por la visita del Papa León XIV a la Argentina Elonce.com",
-          "published": "2026-09-28T07:39:15+00:00",
+          "title": "Día del Empleado de Comercio: qué negocios estarán cerrados este lunes y cómo se paga - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdDROSE4tbENsNDhpNUxoNVEtT2JWMFp6eV9LcTNWazlCMmo0c0NrNHI4MEdxdjlsZk9fVm1FY1p0dlhuVUFmdGV0NEtEczFlcnAwRlFnaFRKZ1FlMlhqTXNkRmJxMUhFSTVTc0dWMWFyRVhVUGFLSjhSUXdZSWllTV9yaGtYak5jVS1jMnZQMzJyRlAyM2xvT0t4OUnSAZYBQVVfeXFMT1dCZ3FQdEFYY0pVZTZteWVSQmh2dWN1ZnowbHdaMUNiVTNBcDdBX1YxT1ZFWms2S2kyelFOeElVUnRydWRfZE95MmZkMEVZUVAxeC12RXhhWjhieW5yRWpBZmV0dkVpOXF6V21aai13YmNuV0k4QVltR1lTZ29ONHVIY0RpMHNzd3lYMHQ5X2xpNHhZSGZ3?oc=5",
+          "summary": "Día del Empleado de Comercio: qué negocios estarán cerrados este lunes y cómo se paga Elonce.com",
+          "published": "2026-09-28T07:03:32+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -126,10 +126,10 @@
           "source_image": "https://www.elonce.com/galeria/sitio/marca-de-agua4-jpg.jpg"
         },
         {
-          "title": "Ovejas Santa Inés: la productora que apostó a una raza sin lana y sueña con su cabaña - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTjdzNm5saVlTeVZPM3NPdWhwUFJyZndHRlNDMUl2QjM4MDVaOXRHcktscVBLeW10RVJ5ZHVZYmJIRm1pa2JWd0lSM01KSXZjcEFlTGJpc3p3NmpXczhzbkdjY0xwcHNXWEpfbnpGaExVaXVXWVgzV3Qxa1lxSzZoYzdXOTZJSnBUZzVxZEFEWDVua0lvenpTSUQtT0I1dEFRQUVBRGgxdnFoVjVhU0Z2TWtFMFByc2ZTcXc5StIBtgFBVV95cUxPYjR1eTlPcGNXalZCX1hzQW43bjBBXzdwaXRuOVJZYlBhMzB3cXozanUyR2NRQ2plYmdSZXFmVnhDLUV4MHJWaXpENDQ1WHNxYmVpNUFnN2xITGF2LThhY240b2IxY2ZwMUg3UnVmRFhLYXFTRmNsdDZJVjQ0amVxeFBuR0dYbVFVYVJtNXJqNnBDeTM5NEc0VkZ6RmZiMTEzbFdPOXlKdXE3TE9VNFBPU3VUWTF4Zw?oc=5",
-          "summary": "Ovejas Santa Inés: la productora que apostó a una raza sin lana y sueña con su cabaña Elonce.com",
-          "published": "2026-09-28T21:24:04+00:00",
+          "title": "Oficializaron el feriado por la visita del Papa León XIV a la Argentina - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeDZvUW5kWjJEM3hBbk1SaDEyYnRqOTNpUzJfb3NiUHFPZzhBNnpPd1hNNGdGQ3hOUFUxRC1CbGRERjJLVXVxN3pVSm16OFVabEphd3MxWjV3eEt4ajlEb2dNSzJ0T3hOWlRrcjlGSW1DX183bUZaOVJCekx6Z2JxTUMyczBxVlRIUkdmdEdRTGs1MTFYMjZqeW0zdnhaUHVMU1pwNVh5LVUtOVHSAaQBQVVfeXFMTzVabmRPUnlVTkQ2QWh2NkVJNFJMVjB1ZTZjcHdnd3JLR0RHcjdwcjV5NTREajhvWl9nY25meDlyRE52c1VFSXpfLVEwOEYzNUY2bThEeGZJTjZ5QWVIaDgzZUJSNUE1b2F2ek8tSHphZHhuRWtZMTNGb2pidWY2NTNXNUVlSmZsUGFDcnBMc0JBNmJTVFNabDlSM0xYV2lGdG5oc2E?oc=5",
+          "summary": "Oficializaron el feriado por la visita del Papa León XIV a la Argentina Elonce.com",
+          "published": "2026-09-28T07:39:15+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
