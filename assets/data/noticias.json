@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T23:47:34.233680+00:00",
+  "updated_at": "2026-10-01T05:50:12.879612+00:00",
   "status": "partial",
   "description": "Titulares y enlaces; el contenido completo permanece en el medio original.",
   "groups": [
@@ -10,17 +10,6 @@
       "type": "Web",
       "homepage": "https://lacalle.com.ar/",
       "items": [
-        {
-          "title": "Profesionales del Hospital participaron de congresos nacionales de Pediatría - lacalle.com.ar",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV2RWU2NpdUs5Sm0tR3hxc056QmNFdGc5cUMxdllHUkxXQ3lQb3VxcDBHVFpsVlBjREh1N2ttMDl5eGZ0aXNBSWxPUE5xUmxyTXl3S3Z6UTVGRkRNM3NkX1RJNGhoQVdlTGZQSjhJY1NrTDZnYWdiV1ZIT1BFRnVPNVhJYUpOUlRUSHh2Ym13dlhZcUVCWWtyZnRZbEo3NF80Unc?oc=5",
-          "summary": "Profesionales del Hospital participaron de congresos nacionales de Pediatría lacalle.com.ar",
-          "published": "2026-09-28T15:30:47+00:00",
-          "source": "Diario La Calle",
-          "source_url": "https://lacalle.com.ar/",
-          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
-          "source_image": ""
-        },
         {
           "title": "Paraná inaugura un ciclo que une cine y literatura - lacalle.com.ar",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5aWoxOGF2cmVGYUVOaE1Vc2xrUU1DNzhSbVIyM2picW1vc1BIRXc0NUpDeklIUTQyaDdsQmtBSllQU1E2cGpXNFNMREE2MTFNUTVaV1NiVFI5ems3LVpyYmdlU2tyNzZSY25KYm84NVBnOTdTSlpkTFlETWpJRGc?oc=5",
@@ -42,6 +31,17 @@
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
           "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
           "source_image": ""
+        },
+        {
+          "title": "Fernando Ferrara, DT de Las Leonas, brindará una capacitación gratuita - lacalle.com.ar",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVnJaaUw2aUZEdF9JbGlqc1RrU0pDUE9FRFlLRzNCd05QWTQya1JiSzJHTmtFb0t1eldGV0ZSUGZsVmtUSVk1WnlwN014RGRjU3I5a3AyaXcydWhOODFGU3E2MDBJUE1wUFRFSE5kWnd1TjFqU3MtOWxISEFEQ3gtMkpQZU9pd2dBbWxMdzZZanJrTzNVdm9n?oc=5",
+          "summary": "Fernando Ferrara, DT de Las Leonas, brindará una capacitación gratuita lacalle.com.ar",
+          "published": "2026-09-29T23:46:54+00:00",
+          "source": "Diario La Calle",
+          "source_url": "https://lacalle.com.ar/",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
+          "source_image": ""
         }
       ]
     },
@@ -53,10 +53,10 @@
       "homepage": "https://www.lapiramide.net/",
       "items": [
         {
-          "title": "Steren: “Garay debería explicar el desastre vial que dejaron después de 20 años de gobierno”",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaTN5WldkSVdJVm5nQnFHaW1RSG0wMmJBSEtCczZ3c3g0RFpRQW80NVBnQ004RUhtX0p2T3AwbHNoMnlucHNUY2VnRjM1c3I5MVhIU29NVExpX0VndHdpcmk4aVVWdnBYWjNYUTJsUnVkRjhNUXlVS1RTRmFmZW04dGVhNHkwZ2tyWUstTUVjSHE4V1Nwd1M1MGFfTklsOFlCNDFjWkpKYXNHdGZUSFd3TmJlQnBGaXo2TVJFNGQ4ZHBqUkRVd3J1V1k5bmdVXzJvekMtaDZLblQyQU3SAeABQVVfeXFMUG1EaUdWTElBVjR0TWhCN1UwZXg4UXJrMEhsSlU5RjNvcDFxLUc1dUtjeU9ocUFpODlQTFBVT1VKMTA4cExOTmFrektsWGNtakdxVHNQMGpTbGhQUmdVSVF5RV9temFnSDg3TjJOa1JCamxEdVhJYVZYZzRoY2lxQkxZS1VrMnptS2xfTzRROEpHN1VZYVp2TVNtMDhROU1KLVg4Njd5ZVZkaE56NnAxVllXN3BHUDlfZGF5TUM4TFpGWHpXSzNUVl9wMVl0OVc2RHB3SW5vYmxSQkRZNmxlQm4?oc=5",
-          "summary": "Steren: “Garay debería explicar el desastre vial que dejaron después de 20 años de gobierno” La Pirámide",
-          "published": "2026-09-30T16:17:56+00:00",
+          "title": "Trabajadores del frigorífico profundizan la lucha y convocan a la comunidad",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQN2s4cWFhX3I0cVJzaV9Zczd2VnBaTDFBcURmZm5Pd3dMNkI4QzJ5MEpONk9xUXlORDRVUkN0aEEyWTd6NVBiVlF5aFVCRERvSzRXcktqSEFkdko2aFhYV3NuNDhhZW41RFhSQVdzdmJKRHNmS09pdDBJbGtpMndGbF8yaTBTLXphcjI5bHgwT0ttd21lTlE0OEFoODd3Y3dOamw4YzBGdFRFZzJwc1p3Vzk1NjhBQ09udkl4al83eW9Kd3hIcWtSNdIBzgFBVV95cUxOcThtbU01WEMyZUFZVVktYllnem9vaW9LMlZ1d3ZZcXRlMlZ4X2VCNDNZTFNhdlNzVVhxWHpvMlU5LUpCMWhYajJBVlFYNUNOMVkxM0pheXIwRHFVN0YxdWM2aTNCSnQ5RFpiellfdXF4N25wbEhGY1hTeHRrQ1d3Tm0tbjBvOEdkQWdkUkdqbmFNalpNNVI2NElKTV9pcDdxOFQ2dzdBa1RDNTgtU3RubVdrNGFRZzdlMlA1Z19UZEN6dlZ2VnY1ZEw2bHZSdw?oc=5",
+          "summary": "Trabajadores del frigorífico profundizan la lucha y convocan a la comunidad La Pirámide",
+          "published": "2026-09-30T22:31:50+00:00",
           "source": "La Pirámide",
           "source_url": "https://www.lapiramide.net/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -64,10 +64,10 @@
           "source_image": "https://www.lapiramide.net/images/custom/logo-social.png?_v=v3-27"
         },
         {
-          "title": "Fúnebres",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAwWWxTd0toUnFlb2hpdzJkQmI5OG45YnN6Q3V0d0NhVTY5emE4VW1jYzhDSnppYTJrUVBSa3Qwdkh3dDZuVVIxNVI2TQ?oc=5",
-          "summary": "Fúnebres La Pirámide",
-          "published": "2025-12-31T13:40:41+00:00",
+          "title": "Steren: “Garay debería explicar el desastre vial que dejaron después de 20 años de gobierno”",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaTN5WldkSVdJVm5nQnFHaW1RSG0wMmJBSEtCczZ3c3g0RFpRQW80NVBnQ004RUhtX0p2T3AwbHNoMnlucHNUY2VnRjM1c3I5MVhIU29NVExpX0VndHdpcmk4aVVWdnBYWjNYUTJsUnVkRjhNUXlVS1RTRmFmZW04dGVhNHkwZ2tyWUstTUVjSHE4V1Nwd1M1MGFfTklsOFlCNDFjWkpKYXNHdGZUSFd3TmJlQnBGaXo2TVJFNGQ4ZHBqUkRVd3J1V1k5bmdVXzJvekMtaDZLblQyQU3SAeABQVVfeXFMUG1EaUdWTElBVjR0TWhCN1UwZXg4UXJrMEhsSlU5RjNvcDFxLUc1dUtjeU9ocUFpODlQTFBVT1VKMTA4cExOTmFrektsWGNtakdxVHNQMGpTbGhQUmdVSVF5RV9temFnSDg3TjJOa1JCamxEdVhJYVZYZzRoY2lxQkxZS1VrMnptS2xfTzRROEpHN1VZYVp2TVNtMDhROU1KLVg4Njd5ZVZkaE56NnAxVllXN3BHUDlfZGF5TUM4TFpGWHpXSzNUVl9wMVl0OVc2RHB3SW5vYmxSQkRZNmxlQm4?oc=5",
+          "summary": "Steren: “Garay debería explicar el desastre vial que dejaron después de 20 años de gobierno” La Pirámide",
+          "published": "2026-09-30T16:17:56+00:00",
           "source": "La Pirámide",
           "source_url": "https://www.lapiramide.net/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -95,10 +95,10 @@
           "source_image": "https://www.r2820.com/images/custom/logo-social.jpg?_v=v3-45"
         },
         {
-          "title": "El IAPV sorteará viviendas disponibles en Gualeguaychú",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYnB3YjdMejNzSi1DLTFxNEp1OS1RSFlUWjZ5aHdKQ2s3d3I2WC1qb0NjV2FCLV9iLVhoSEFucXhubDhoZjN4M1c4OVhwLWhFZ1Yya1IzSmt0ekdHNUc2RTdUTnRwNnFTVUpGa1Ixcm41ZEdJQkVDWVNicGhWSExndVl5Y2lLVTFjaE8zanlzaEZsWHdRdUFCUnRwMWxHYjN2aTh4S2pB0gGrAUFVX3lxTE5pcG1IRUduTHhsQkNTZ05BMGpwZk84NTc1QTBub0ZiVlR0c3JSZHZ5R1MyMUwwNlJmWnhhbE90R0x3ZEZoYzRySTdqa19nX182U0hEeUlxZ2htTVAyRV9QZUJZN1FXWHI5MWd2dVFMd21KUHNIdk14bnNXRC0wbmtUV2dobS04UG40UTMzT2pEcU1LQWY2Y1hhekhjLWwzWllBZVJmZm5kdTFuRQ?oc=5",
-          "summary": "El IAPV sorteará viviendas disponibles en Gualeguaychú R2820",
-          "published": "2026-09-29T04:50:08+00:00",
+          "title": "Mejoran la conexión de la Costanera con el ex Frigorífico",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOTBqU3dSSmlTU0xjcDVjcU5JNC0tWUllRmMwOXY0YURSNm9BV2s1dWNjREVRT19ob281SUN1eWlXTV8xVnhfNzFoSWtwbjlLdHljLS0zTDRoSVdxbzRRRHpkUnVyeWd2X1p0dzFpY05fWWxEVzJOWVpVX2RXSlZka2ozV3o0dkFtaWVfZE14ZkVTb190b01VbVZuRVNQSU10T0FmeDlOQnhmd9IBrwFBVV95cUxPemtrdDFJTTNVTHZJWm1YYVR5S0VvWmZTOGtYSGNzcHlPSXRiekMwSUk2NElmeEZTZGZBOU02SWV2OU1hY1E0UmNXa1NJQ2xZSFRkWnNEdHdJQzBKNjJEU1pFa1E5cGlMRzZCODBsZnJ6djNpNkp2eGVsam8xd1JFR0gzMUJKRVlqTlp5d2VpVFBXTVd3Qjc3TV94SXFwRlF1ZE1UY3JGOG0xbzEyb3ZB?oc=5",
+          "summary": "Mejoran la conexión de la Costanera con el ex Frigorífico R2820",
+          "published": "2026-09-30T15:26:01+00:00",
           "source": "R2820",
           "source_url": "https://www.r2820.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -126,10 +126,10 @@
           "source_image": "https://www.elonce.com/galeria/sitio/marca-de-agua4-jpg.jpg"
         },
         {
-          "title": "Policías en bicicleta: capacitaron a 38 agentes para patrullar calles, plazas y parques - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWFVvN21sUXV1bFY5ZG92TUdtZENlWDhOQUh5VDVJdXFEYlQwdzNlNHI3MVhObHN4Z0E3ckhZdWcxN0ttSVdLLTAxVkdPaDhOVWEtV2d2LTdXY0RMbWZwWUI2STVDanhQTGxseDVsUGgwTnVud1UwY2JPaEpnR0tNSExVdkk3eDhvdjdwLXEzTVNJY011R1NmRUZDZHRwVGRfTFdLLThNY1JLd1dOVkVqbDFsVFg4VTZaMThuQW9RejFYX2doeTI2Z1Nzc9IBtwFBVV95cUxQenhOSlhRb3Bsc1hyUmd2S2VQSFhoREl3WlV1dUJIb3FRdHFGQ3pmMEZOclJyT3VFTGpDUWFHc3otdFdSb1FsNEs3Ym13elk0M1NtR2xPanpKLVF6X05XRFladGNfRnhqSWt2N2dVQzBUSkkwWThMc2RqenMtNjI0b1BSN29BVFVkMDNDcWZXMzVGcnFULS1yVTczTW81QnMyVDFFbU5kX2VENlVRcGNydlRyS1NkN0k?oc=5",
-          "summary": "Policías en bicicleta: capacitaron a 38 agentes para patrullar calles, plazas y parques Elonce.com",
-          "published": "2026-09-30T23:03:09+00:00",
+          "title": "La periodista de Elonce, Bárbara Brunetti, sigue internada en terapia intensiva y continúa su recuperación - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNjduLVJLNGhzcTNrMTBfWFVMOFVmV0ZMLUFGQ3lOcms1VzFKcUtyY053ZVRDQ0R5Y3pxQTRtVzU3M0JZRURHNWdoM3NyeUE1eG1qRFpDWXVuUjhkeVY3U1o5M0JoM0hTQ2pSVDg3ZzVMQmJOMHhsSmhORHdGcThvUjROUFBiWVRoQ0NmM05CQ3FpMHhkUk5XUmQ2Q0QyNXNjdmlmekN3Y2JfdWJ0LUE3ZWY4SGZ6QVhGb1dMTkNBRGV6Y2RkMXZCYUd4b0xhUlphQ1FkSdIB0AFBVV95cUxQbzhnb2lkZTk1a3I1NlpXa1BOZ2dqQ0JZTkM2ZV9fdWViVDF2bm9kN2NFVHcyTWh0ZzA2RFNPanFkTFBBOFhRSkdpcmtGOGQxWFB5TFUzSEcwMVlPLTc2dWlpd2QwS29SdVF2MWZ2bmJYcGYwYjRWQ0xqdmY1djVuY0lQS24zQWl1OXRKMUg2anhQQTUwXzFibk9BSzliZ1IyMjdaLUpOUHdhVDhRSVVUaHlYbnV3eThSMDRIWlBtUHRYX3A5OUZmNE4zZnp4VFhm?oc=5",
+          "summary": "La periodista de Elonce, Bárbara Brunetti, sigue internada en terapia intensiva y continúa su recuperación Elonce.com",
+          "published": "2026-10-01T01:45:50+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -157,9 +157,9 @@
           "source_image": "https://www.pagina12.com.ar/resizer/v2/https%3A%2F%2Fwww.pagina12.com.ar%2Fresources%2Fp12logo.svg?auth=811d0fc63a912d1f8dc56b650f3a0054e089ac9c81bfee069a62717e10cbb54a&width=1200"
         },
         {
-          "title": "Vivir en la Ciudad de Buenos Aires, más caro - Página|12",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUTZCdVZoemFZNXZlcU1TbTBJNEFQcndnOFhLdndVN3lscV9GdzNQdmJqS0lFNW9YYnJHenlxN25GU3IyU1YyNVYtX1JtaGlnY3RHVnRWSG5rMnBLSG5SRWVtUUdWQ3Rnd2RBMXlRQnltNjlpN2JFUklJT0E0eTlJT1BrUjNCRmNsNm9Z?oc=5",
-          "summary": "Vivir en la Ciudad de Buenos Aires, más caro Página|12",
+          "title": "“El negacionismo es un delito” - Página|12",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9DZVlJck8yOE1kdXNLbWsxSTJkUVIydTk3eThPb3gxakVuQUQwWF9PTWFzazNSajJXLUF0RGNMcmsyMzJBRGJxbnZ0RnFOMFhOYkItQU1LSEpMR09YeElWOTZoNVpKZFpkQUpCNDZZM1cyQ3JwYWRJ?oc=5",
+          "summary": "“El negacionismo es un delito” Página|12",
           "published": "2026-09-29T23:01:00+00:00",
           "source": "Página/12",
           "source_url": "https://www.pagina12.com.ar/",
