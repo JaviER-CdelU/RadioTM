@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T23:11:21.521078+00:00",
+  "updated_at": "2026-10-02T02:14:31.135748+00:00",
   "status": "partial",
   "description": "Titulares y enlaces; el contenido completo permanece en el medio original.",
   "groups": [
@@ -10,6 +10,17 @@
       "type": "Web",
       "homepage": "https://lacalle.com.ar/",
       "items": [
+        {
+          "title": "Municipalidad y UADER proyectan acciones de salud mental para 2027 - lacalle.com.ar",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTjRNbFh0WHNEeF93aTBNNFgwREJfN0gteUZYYWxDa3JsVzhBQko3Tm1HNFV1dFgzV0ZWX1pnWGcyNVZfU3VjZDRNQ0Nidzc5SDBFRlRFMmdfZ3RNVUtZQUtrZExEY1draDlwUFVwLUZsQlJfTlZBbFBFVDVMY3gwR0xGbFlEdUNwMEVFNUU3YnJQMlRW?oc=5",
+          "summary": "Municipalidad y UADER proyectan acciones de salud mental para 2027 lacalle.com.ar",
+          "published": "2026-09-30T23:49:24+00:00",
+          "source": "Diario La Calle",
+          "source_url": "https://lacalle.com.ar/",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
+          "source_image": ""
+        },
         {
           "title": "Paraná inaugura un ciclo que une cine y literatura - lacalle.com.ar",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5aWoxOGF2cmVGYUVOaE1Vc2xrUU1DNzhSbVIyM2picW1vc1BIRXc0NUpDeklIUTQyaDdsQmtBSllQU1E2cGpXNFNMREE2MTFNUTVaV1NiVFI5ems3LVpyYmdlU2tyNzZSY25KYm84NVBnOTdTSlpkTFlETWpJRGc?oc=5",
@@ -31,17 +42,6 @@
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
           "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
           "source_image": ""
-        },
-        {
-          "title": "Periodistas de Concepción del Uruguay se capacitan en Inteligencia Artificial - lacalle.com.ar",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWlU1VW4wcG9YNGJ4MEFSSHVyeDh1R1lyTHhyd2hCZlhnZ3JXc2U0bzF3VEhPWEZadnF2R3hXWElXMktIWlhSRmpBZ1VqQWNBUzlYTFMyOFhTX3l0QVdXUHA4emJwM2pBclA2Z2M4M09xY2lqa09RWU1nVWE1SmdxR2hVejBYa1VsU1luc1JMd1RSaDZ5VTNoTE5QMGpQSmhQQjNv?oc=5",
-          "summary": "Periodistas de Concepción del Uruguay se capacitan en Inteligencia Artificial lacalle.com.ar",
-          "published": "2026-09-30T20:06:21+00:00",
-          "source": "Diario La Calle",
-          "source_url": "https://lacalle.com.ar/",
-          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
-          "source_image": ""
         }
       ]
     },
@@ -53,10 +53,10 @@
       "homepage": "https://www.lapiramide.net/",
       "items": [
         {
-          "title": "Trabajadores del frigorífico profundizan la lucha y convocan a la comunidad",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQN2s4cWFhX3I0cVJzaV9Zczd2VnBaTDFBcURmZm5Pd3dMNkI4QzJ5MEpONk9xUXlORDRVUkN0aEEyWTd6NVBiVlF5aFVCRERvSzRXcktqSEFkdko2aFhYV3NuNDhhZW41RFhSQVdzdmJKRHNmS09pdDBJbGtpMndGbF8yaTBTLXphcjI5bHgwT0ttd21lTlE0OEFoODd3Y3dOamw4YzBGdFRFZzJwc1p3Vzk1NjhBQ09udkl4al83eW9Kd3hIcWtSNdIBzgFBVV95cUxOcThtbU01WEMyZUFZVVktYllnem9vaW9LMlZ1d3ZZcXRlMlZ4X2VCNDNZTFNhdlNzVVhxWHpvMlU5LUpCMWhYajJBVlFYNUNOMVkxM0pheXIwRHFVN0YxdWM2aTNCSnQ5RFpiellfdXF4N25wbEhGY1hTeHRrQ1d3Tm0tbjBvOEdkQWdkUkdqbmFNalpNNVI2NElKTV9pcDdxOFQ2dzdBa1RDNTgtU3RubVdrNGFRZzdlMlA1Z19UZEN6dlZ2VnY1ZEw2bHZSdw?oc=5",
-          "summary": "Trabajadores del frigorífico profundizan la lucha y convocan a la comunidad La Pirámide",
-          "published": "2026-09-30T22:31:50+00:00",
+          "title": "Nicolás Vergara renovó su contrato con la AFA",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTXRKNHpaM0JUaFRxSlNCYUdfN3NVc3VjZ2Q2TE1BRUl6dTFxNTZrWk5ITWE0TjVsUjNvVnlyamhaRHBuWUZxS3JudFRZbHlDRWx4d0ZUdTdESm1odUUzLTNCTVpBQmVaQ2dXQU5HU0wtYUR5R3VBUEFVY1BtMDVJZFNGSHVpeHVya0FlbG05UlJ1RHhsejFJNXVVZEJLdXhR0gGmAUFVX3lxTE5UUXlCdlFhdDRGUWpzRnZrbGZWYWRLSTV5Y2xJQUFacUh4Y0d1dWFieU5BaGE3cEY3NkxveVp1Um9vU0JTVk5mLUcxTmxYbmRtNnE0SmVkcExfZFVwVXFEWm5ibFR4RGNZV3MtV2dWT0pvUFYtcFIyLXN5dUZmWnJTSHExbjdockR5Nmo4VlJNTXdFMVZLX25hVHZVOGFtMUVqdmkyTXc?oc=5",
+          "summary": "Nicolás Vergara renovó su contrato con la AFA La Pirámide",
+          "published": "2026-10-01T01:36:53+00:00",
           "source": "La Pirámide",
           "source_url": "https://www.lapiramide.net/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -64,10 +64,10 @@
           "source_image": "https://www.lapiramide.net/images/custom/logo-social.png?_v=v3-27"
         },
         {
-          "title": "Nicolás Vergara renovó su contrato con la AFA",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTXRKNHpaM0JUaFRxSlNCYUdfN3NVc3VjZ2Q2TE1BRUl6dTFxNTZrWk5ITWE0TjVsUjNvVnlyamhaRHBuWUZxS3JudFRZbHlDRWx4d0ZUdTdESm1odUUzLTNCTVpBQmVaQ2dXQU5HU0wtYUR5R3VBUEFVY1BtMDVJZFNGSHVpeHVya0FlbG05UlJ1RHhsejFJNXVVZEJLdXhR0gGmAUFVX3lxTE5UUXlCdlFhdDRGUWpzRnZrbGZWYWRLSTV5Y2xJQUFacUh4Y0d1dWFieU5BaGE3cEY3NkxveVp1Um9vU0JTVk5mLUcxTmxYbmRtNnE0SmVkcExfZFVwVXFEWm5ibFR4RGNZV3MtV2dWT0pvUFYtcFIyLXN5dUZmWnJTSHExbjdockR5Nmo4VlJNTXdFMVZLX25hVHZVOGFtMUVqdmkyTXc?oc=5",
-          "summary": "Nicolás Vergara renovó su contrato con la AFA La Pirámide",
-          "published": "2026-10-01T01:36:53+00:00",
+          "title": "El río Uruguay continúa creciendo y alcanzó los 4,10 metros en Concepción del Uruguay",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNGZjbjdpaXM3ZE9Nd2xGa0g2YUFmVXc1WmJpVGpQVnRVaHJ4Ul9FelpZQWdMVEpub1o5NDRSVzdFczRPZ1dKVm5nU1pHSEJYR1BCdEp1MHFodkZuMHJJVEtmdGZycWRXQWhVVktmRXhYZnlycFVrTEY5UVRQVDNyQ1JYcE9fV2NsWDdTVEFsRHBtMzBuRnZNOF9SSEVTZlY5TUhDcUFESmluNGlrSk5JOGpBU1hBbS10dGhiOFN3WHNKek9UcEh6Mm90TS1TV1YxeHp1Q2Vn0gHbAUFVX3lxTE5iWWtWbnNwNzJPMkNySjRFM3ZhXzRMdGlGNnVqNFl0c0NjdFFaQkNfNU9nOWhOcTVySTQ3UnVrS2xrUUlONWdjdlV3SmRLNWVjT1g5clRKTm9FN2JBQzUyUW4yaFNMVldscndLbUxrWjNVSTJLSmxFQUxSN1VkdlpaRGNTaFpmUHAyQjdSakFHOF81N01SQ3lXMTllV01hRlkwWU1VR0JwZE11Q3BnTFpJZy1SWkUtWGI2eFpQQWFwSm4wV1RBNWZhRUlhR3hHYzRQYUViUFFkX3B5aw?oc=5",
+          "summary": "El río Uruguay continúa creciendo y alcanzó los 4,10 metros en Concepción del Uruguay La Pirámide",
+          "published": "2026-10-01T12:22:38+00:00",
           "source": "La Pirámide",
           "source_url": "https://www.lapiramide.net/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -115,10 +115,10 @@
       "homepage": "https://www.elonce.com/",
       "items": [
         {
-          "title": "Allanamientos en Paraná: buscaban armas y encontraron 42 dosis de cocaína - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVVdDUWNuOVN1RWplTS1nTjdOajlYLVVjZEJTUmQ2ak5GU2tzTC1vYUoxY2lJU2dEV3lMaEJad0J3UUw1TU9RVUpXY0pwUWc4dHR4LTdqRjhZeE92UTB3MVVKUUprd1dhenJEYjNqZUVsWUZZcnM4WldrMmpBc3BWekt6clk0NGRlVEU5Sld4VkxwY0oyVW5ZS05SRkZGZXFKTnR6dVE5TDgwdDZEWkxj0gGmAUFVX3lxTFAxQ3p4VnV3WGJESnFGRU80dk1qX2s1QmRFY0dUY2NxdjhaSUpKU0htWjdLd0VRZHlONXlqcnVCanYtTHJtX3BmZ3RkOEJRNndXMTYtamZqeG9WVlJnZlRpeU01aUs2UnRueTI5WWJpU2pXTjAzdjhYVFRsdEFwbnBkdUJtRWlNbkNza2hacnJDVjB4OTkyY2NTR0NZbEpxclFldjRSMkE?oc=5",
-          "summary": "Allanamientos en Paraná: buscaban armas y encontraron 42 dosis de cocaína Elonce.com",
-          "published": "2026-10-01T22:50:00+00:00",
+          "title": "Joven permanece grave tras ser hallado inconsciente en la vía pública y su familia pide datos: “Queremos justicia” - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQd3VpVlFDREdQdHV4bWo3UEQzbW51RUNpQXF4X1lxbzBMRjFPZkZoQV9UMjB2S3pLeFpYOV8ybG41OGRFRm0zRTNNblJBVUlwZmlvQnpfSjcyTm52LTByQjFZTGRuMTNJWi1mUmJVb0VYOWUyVncwUWhYOU0tQ1VfblRmcVlpSWFFdmtaSDJ0UExqMUhUUUpwTU55WkhfMURUVkpSREdpNGV3VkM1OHgwcnUzZENBVlE5Zzhld3BlblpQeHN5M044UHpaRdIBwgFBVV95cUxOTE03QjRwamVZM0VEVnZKd1RYVWZDRHVmZVRKbW5TbzFlaWZEX1BNaHI1X2p6WGN0OVdhSVBrVjNQTGtjdlN3ZWl5bGMzVXFhMkFlREh1aWNwaE13R3BlazR5S1BvUUJWelNpX1lGU0wzdVoxWjlNcHVEOUJnaFk3MzE1SGdxak1NWlhxUWg2MTFsOTF3MlYtV2tLb2FQejkzTUR6enp3cnlkTmt1cjduRVZBN3hodlFBMUttZVhlSGp3dw?oc=5",
+          "summary": "Joven permanece grave tras ser hallado inconsciente en la vía pública y su familia pide datos: “Queremos justicia” Elonce.com",
+          "published": "2026-10-01T23:18:20+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -126,10 +126,10 @@
           "source_image": "https://www.elonce.com/galeria/sitio/marca-de-agua4-jpg.jpg"
         },
         {
-          "title": "El huevo, protagonista de la producción entrerriana: \"El consumo no para de crecer\" - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOXVrOWVaZVFRSzV5ZzZuaGVldE02Z01rZHhqWnRzSkQ2UC0yeVhQdU5PRzhscEpjUHFvX0R2ZS1DWDRqQVN3UWhZTUF5V0VNeXEwMHF0UkpDdHZMcXNqMDluVTZvVjUtbXRjSk8zd2tORm45OVlScC01OTNwSnA4Wkw5aF9CbVFRVlVqWTZaYnRKX1RBMmtZUWFQWmgwQ2FwOGlCRk42Vk5VQUnSAaQBQVVfeXFMT2JBUXM5dGE4aDZla0RHV21pNlJkS25TOGczNV8zaUtHOWJQU09YRDhkeEVOcjltTUdrdDAxc0F0TXRBbldRUkk4Y2tES1RiZTdwM0ZHN0h3ZGxuYW5WbUR3dkp1b282TXhpaUJCYnY5NzZMYjUtekRHT2RKNlFuekFCMzVGQUVYbjZEcXFQTUlGTVg4dzhBTnVuNTA0aTNHOEVKeEM?oc=5",
-          "summary": "El huevo, protagonista de la producción entrerriana: \"El consumo no para de crecer\" Elonce.com",
-          "published": "2026-10-01T21:49:49+00:00",
+          "title": "Allanamientos en Paraná: buscaban armas y encontraron 42 dosis de cocaína - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVVdDUWNuOVN1RWplTS1nTjdOajlYLVVjZEJTUmQ2ak5GU2tzTC1vYUoxY2lJU2dEV3lMaEJad0J3UUw1TU9RVUpXY0pwUWc4dHR4LTdqRjhZeE92UTB3MVVKUUprd1dhenJEYjNqZUVsWUZZcnM4WldrMmpBc3BWekt6clk0NGRlVEU5Sld4VkxwY0oyVW5ZS05SRkZGZXFKTnR6dVE5TDgwdDZEWkxj0gGmAUFVX3lxTFAxQ3p4VnV3WGJESnFGRU80dk1qX2s1QmRFY0dUY2NxdjhaSUpKU0htWjdLd0VRZHlONXlqcnVCanYtTHJtX3BmZ3RkOEJRNndXMTYtamZqeG9WVlJnZlRpeU01aUs2UnRueTI5WWJpU2pXTjAzdjhYVFRsdEFwbnBkdUJtRWlNbkNza2hacnJDVjB4OTkyY2NTR0NZbEpxclFldjRSMkE?oc=5",
+          "summary": "Allanamientos en Paraná: buscaban armas y encontraron 42 dosis de cocaína Elonce.com",
+          "published": "2026-10-01T22:50:00+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
