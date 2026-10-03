@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T19:56:51.806478+00:00",
+  "updated_at": "2026-10-03T23:02:25.653232+00:00",
   "status": "partial",
   "description": "Titulares y enlaces; el contenido completo permanece en el medio original.",
   "groups": [
@@ -10,17 +10,6 @@
       "type": "Web",
       "homepage": "https://lacalle.com.ar/",
       "items": [
-        {
-          "title": "Municipalidad y UADER proyectan acciones de salud mental para 2027 - lacalle.com.ar",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTjRNbFh0WHNEeF93aTBNNFgwREJfN0gteUZYYWxDa3JsVzhBQko3Tm1HNFV1dFgzV0ZWX1pnWGcyNVZfU3VjZDRNQ0Nidzc5SDBFRlRFMmdfZ3RNVUtZQUtrZExEY1draDlwUFVwLUZsQlJfTlZBbFBFVDVMY3gwR0xGbFlEdUNwMEVFNUU3YnJQMlRW?oc=5",
-          "summary": "Municipalidad y UADER proyectan acciones de salud mental para 2027 lacalle.com.ar",
-          "published": "2026-09-30T23:49:24+00:00",
-          "source": "Diario La Calle",
-          "source_url": "https://lacalle.com.ar/",
-          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
-          "source_image": ""
-        },
         {
           "title": "Funcionarios y gobernadores recorrieron el mercado mayorista de Rungis en París - lacalle.com.ar",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeFp4TVJXMHU2dm1rd2VHOVVzd3hGZHJ0R0xaYlpNelFnRVpSV2duclVIRThEUC05bDJtbGpHVW1tdEMtV182a21QY2pXandFcEJzTTlqWkhGb0ttTmQ3VWRsT2xJUkk3YjkxQkUyZkNQQ3p6REhiaFpCOFFOSkxORHNabEEwQ2xrSWItU1hjUDhnUEtha0RDOElYQzhpYnZsYlFNR1FB?oc=5",
@@ -37,6 +26,17 @@
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZU9jNThudHg0OUpDWVVfajlWVEFDQnZjZUVmbVhRdWF0NXFZc1NhZzQ0SDRrcGJjbG9Zbkg5ZGx3RmZQbWdVa0h6TjRYbTdDdEZLWmFCZWM0YTBmQlQ5OUt6ZG9lb2w5eFJYQnMyWDNUTDQwczRIX1cyMjdFSXJDeFBfdHVZb3lZY1J2Z2dvMFlyazlzTERkSDNDOThZN0lDWEowelFQSFhKRXFRV1E?oc=5",
           "summary": "Lauritto recibió a autoridades de la UNER para fortalecer el vínculo con la comunidad lacalle.com.ar",
           "published": "2026-10-02T11:09:41+00:00",
+          "source": "Diario La Calle",
+          "source_url": "https://lacalle.com.ar/",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
+          "source_image": ""
+        },
+        {
+          "title": "Festival Iapser: una tarde de música, cuentos y espectáculos para toda la familia - lacalle.com.ar",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOHp6aVBTNkU0eGNub3c1ZGhjTnY4RG5lcU5tUGhCM0RzZFV5TEpYT2dFTExEZEJjQ3Zrd3lsMWd6NGUyOEhfSDNkQ3FscE5jZ2t6cXNla25Mdk5vM1lCbHFtbHl0b3ROMERvNFctb2l3cmVYWWRjZ3FhQlY4WnBqWC1sUy15R2dTNVdxV1VYaHBwOHoybFIxMlhIaDdlRG9kVUFIT3hR?oc=5",
+          "summary": "Festival Iapser: una tarde de música, cuentos y espectáculos para toda la familia lacalle.com.ar",
+          "published": "2026-10-02T16:02:26+00:00",
           "source": "Diario La Calle",
           "source_url": "https://lacalle.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -115,10 +115,10 @@
       "homepage": "https://www.elonce.com/",
       "items": [
         {
-          "title": "“Es vitalizante nadar en agua fría”: participantes contaron su experiencia en la Travesía del Paraná - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYUtna3J1SnJfQ0RPZ0pSWHF2dlU1ZU80UUs4NWdxNFg0SXF1WnduV1RDaGlxaUI1dE9MZlZCY0YwWXI3NGFIWF9MVUNBYTlpWHc1NlV5WFc1OG5vNjkySjFDOVR6eFBLcXd4TEp3ZVNEdEt5aXM5ZThjOTMxY01aT2ZDSWl5Zm5vZXpXX3NQQ0JwQ3ZsRy1WeUJjWnkzbjc5czJDXzVmWXFLdm1DMjNmRVYtNzJsSnFZUDRtcEs0YUdNM24wRmpfWEVmWdIBxwFBVV95cUxNQTVwYmROeTlZT0ZFMk12S2pvb1pUMXV5NTJOQ1JaUk41bHZ4dlhNX1F4Z0hmaE9PbmNlQjZYR09Kc1hEMF9lUWNWQ3NQOHhYSUhHU2thRUhHdUROQ3RndTF1RkZiT0QwUHktSjNFVnJTRHZienp4Y0hvQ2VXZHo2bTlBTC1oNGZ3QXJpMHI4LXJaZGx1X1RqV3V2NDd2N0F6QmxNQllKUkZxeDNnckhJbEpZSEFXZzg1OUNyTE0wc1pnZ0ptcnhr?oc=5",
-          "summary": "“Es vitalizante nadar en agua fría”: participantes contaron su experiencia en la Travesía del Paraná Elonce.com",
-          "published": "2026-10-03T16:22:58+00:00",
+          "title": "Hockey sobre césped: Paraná recibe el Campeonato Regional de Clubes de Damas Sub 16 - elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV0ctTUdaWHd5MFd1cU5sQ3hvTlBpa0h1M3ByNzRvb0diQVY0YXlxOU1Ka1FmRDZhUjlkZnV1WDNVMXpvdFlPRVVaQXJ1THFhY0ZKNTNsV2xCd19oVjJHVGF3TzlYXzdzVFFndXJFUlEzYnptUkJHX1ViTmdzMHYya3NpQVgyeDU5eDZDT1RxM05BY3BiTUpEVHJpVHM1cVnSAZgBQVVfeXFMUFRiNGZUWnpQQjFoMXlRY3g0MTlxMEpQVWZmWWZJZUw1T2RkRHpULUVhQlZnTjFXS2c4My1mZng1UGw2Uk5RdDlVdGVoVVhoeE5SV01OTkZtQXZtbE1Ddk1QXzMzay1jRkdVSlFoSzBFSTFuTFNzcUFGdlNZbWxwcEZfTHhnamNpaUhvemRFR1VGVzUtckNlaV8?oc=5",
+          "summary": "Hockey sobre césped: Paraná recibe el Campeonato Regional de Clubes de Damas Sub 16 elonce.com",
+          "published": "2026-10-03T21:44:28+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -126,10 +126,10 @@
           "source_image": "https://www.elonce.com/galeria/sitio/marca-de-agua4-jpg.jpg"
         },
         {
-          "title": "Flor de Edipo - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xYnFWWjB5aDZOam9mcXhrLWh6WFN2WjFHLVdVd1J2eWVYa2xsUFdOYkF6cVlGN0dzVUxGMkRpY01hbGM2SnhaZTVRaThLelhYanRoUFNnMzRsUdIBV0FVX3lxTE9jNDRweTNQRDMzMWJqNHI4QnZucWpxWGdkV1JOZGlpRk14elNvVlcwcnotYWZ0Tk5rWC1pazB6eVQya1ZQT1EzZjczbl9pR2xuS0JBUi1LNA?oc=5",
-          "summary": "Flor de Edipo Elonce.com",
-          "published": "2026-10-03T16:34:12+00:00",
+          "title": "“Es vitalizante nadar en agua fría”: participantes contaron su experiencia en la Travesía del Paraná - elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYUtna3J1SnJfQ0RPZ0pSWHF2dlU1ZU80UUs4NWdxNFg0SXF1WnduV1RDaGlxaUI1dE9MZlZCY0YwWXI3NGFIWF9MVUNBYTlpWHc1NlV5WFc1OG5vNjkySjFDOVR6eFBLcXd4TEp3ZVNEdEt5aXM5ZThjOTMxY01aT2ZDSWl5Zm5vZXpXX3NQQ0JwQ3ZsRy1WeUJjWnkzbjc5czJDXzVmWXFLdm1DMjNmRVYtNzJsSnFZUDRtcEs0YUdNM24wRmpfWEVmWdIBxwFBVV95cUxNQTVwYmROeTlZT0ZFMk12S2pvb1pUMXV5NTJOQ1JaUk41bHZ4dlhNX1F4Z0hmaE9PbmNlQjZYR09Kc1hEMF9lUWNWQ3NQOHhYSUhHU2thRUhHdUROQ3RndTF1RkZiT0QwUHktSjNFVnJTRHZienp4Y0hvQ2VXZHo2bTlBTC1oNGZ3QXJpMHI4LXJaZGx1X1RqV3V2NDd2N0F6QmxNQllKUkZxeDNnckhJbEpZSEFXZzg1OUNyTE0wc1pnZ0ptcnhr?oc=5",
+          "summary": "“Es vitalizante nadar en agua fría”: participantes contaron su experiencia en la Travesía del Paraná elonce.com",
+          "published": "2026-10-03T16:22:58+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -146,10 +146,10 @@
       "homepage": "https://www.pagina12.com.ar/",
       "items": [
         {
-          "title": "Pagina12 - septiembre 30, 2026 - edicionpapel.pagina12.com.ar",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5SRnVYWnZ6TDZwWnBlSlo1TmNyeF85dVFaYjRiQXVlbmlBZXZVZ0VrUzdka3A3cG5FSGVPWW9jQVJiZXV5VnZjTHpxNjYyMHJCYUtPOV8wR3djbVhma3ZsTjh4T29tMEpycXNF?oc=5",
-          "summary": "Pagina12 - septiembre 30, 2026 edicionpapel.pagina12.com.ar",
-          "published": "2026-09-30T07:00:00+00:00",
+          "title": "Danielito Tinayre y una cadena de encuentros extraordinarios - pagina12.com.ar",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRTQ3aGxYRE01cnd3UmtDSFRqbHpKZXdKd29PbU1UVWk1bThKaDlKeUUzcGFtYXhwY21FYnZFSmRGNHBwaW94eFozSDVYaWhndVZMY0hJZGFNdWxYQlE0ejM1cXNZR1V5QmxuN3JCMTVweEdzUTE5bTZxNUFYa2pBZXRydWpOaWNHaklveGtjYWpmUHpkNnpxR1AxUTIyeWRmZXc?oc=5",
+          "summary": "Danielito Tinayre y una cadena de encuentros extraordinarios pagina12.com.ar",
+          "published": "2026-09-29T23:37:00+00:00",
           "source": "Página/12",
           "source_url": "https://www.pagina12.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -157,10 +157,10 @@
           "source_image": "https://www.pagina12.com.ar/resizer/v2/https%3A%2F%2Fwww.pagina12.com.ar%2Fresources%2Fp12logo.svg?auth=811d0fc63a912d1f8dc56b650f3a0054e089ac9c81bfee069a62717e10cbb54a&width=1200"
         },
         {
-          "title": "Un decreto no puede derogar una ley (y la Corte lo sabe) - Página|12",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQk16bjBaejdlOWtUX2lvZlNJYmFfNWJieS1VNTVVZEM5cmsxUjBMejBlWGRpWjJoTjBZSGwxamVZb2o2OW8tVDdRTUowZG5xN1l3eUYtczBYNnZfSzRCN2V0QldSVkxMWnY4bDFYbjNPOGxGQXV0ZzRzNy1pNjNZbFFhSjdfMmwydU41X3duZEVxOFF4ZDVRdUhB?oc=5",
-          "summary": "Un decreto no puede derogar una ley (y la Corte lo sabe) Página|12",
-          "published": "2026-10-01T19:30:58+00:00",
+          "title": "Pagina12 - septiembre 30, 2026 - edicionpapel.pagina12.com.ar",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5SRnVYWnZ6TDZwWnBlSlo1TmNyeF85dVFaYjRiQXVlbmlBZXZVZ0VrUzdka3A3cG5FSGVPWW9jQVJiZXV5VnZjTHpxNjYyMHJCYUtPOV8wR3djbVhma3ZsTjh4T29tMEpycXNF?oc=5",
+          "summary": "Pagina12 - septiembre 30, 2026 edicionpapel.pagina12.com.ar",
+          "published": "2026-09-30T07:00:00+00:00",
           "source": "Página/12",
           "source_url": "https://www.pagina12.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
