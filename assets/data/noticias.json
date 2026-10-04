@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T19:36:03.162455+00:00",
+  "updated_at": "2026-10-04T23:08:27.088190+00:00",
   "status": "partial",
   "description": "Titulares y enlaces; el contenido completo permanece en el medio original.",
   "groups": [
@@ -10,6 +10,17 @@
       "type": "Web",
       "homepage": "https://lacalle.com.ar/",
       "items": [
+        {
+          "title": "Nicolás Berruezo, pasión uruguayense rumbo al Mundial Absoluto - lacalle.com.ar",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOFNXeGJJcFh5OF91ZHdwb1hMODdCOHdERS1Ka2diaU5IbjJyVmV0dUpJV0twSXFNcFY0WFJhVDl1dXNiRko4QlZnRjF5YUx4ZEkwcFBsb3lLc0w0OTN3d3RqTF9XT0VtUnd4MkhRbUhBMFMxWHZUU0R5YjExOXhQVWpLNUVQM1FMYXBKRHFn?oc=5",
+          "summary": "Nicolás Berruezo, pasión uruguayense rumbo al Mundial Absoluto lacalle.com.ar",
+          "published": "2026-10-04T06:15:22+00:00",
+          "source": "Diario La Calle",
+          "source_url": "https://lacalle.com.ar/",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
+          "source_image": ""
+        },
         {
           "title": "Festival Iapser: una tarde de música, cuentos y espectáculos para toda la familia - lacalle.com.ar",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOHp6aVBTNkU0eGNub3c1ZGhjTnY4RG5lcU5tUGhCM0RzZFV5TEpYT2dFTExEZEJjQ3Zrd3lsMWd6NGUyOEhfSDNkQ3FscE5jZ2t6cXNla25Mdk5vM1lCbHFtbHl0b3ROMERvNFctb2l3cmVYWWRjZ3FhQlY4WnBqWC1sUy15R2dTNVdxV1VYaHBwOHoybFIxMlhIaDdlRG9kVUFIT3hR?oc=5",
@@ -26,17 +37,6 @@
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeFp4TVJXMHU2dm1rd2VHOVVzd3hGZHJ0R0xaYlpNelFnRVpSV2duclVIRThEUC05bDJtbGpHVW1tdEMtV182a21QY2pXandFcEJzTTlqWkhGb0ttTmQ3VWRsT2xJUkk3YjkxQkUyZkNQQ3p6REhiaFpCOFFOSkxORHNabEEwQ2xrSWItU1hjUDhnUEtha0RDOElYQzhpYnZsYlFNR1FB?oc=5",
           "summary": "Funcionarios y gobernadores recorrieron el mercado mayorista de Rungis en París lacalle.com.ar",
           "published": "2026-10-02T11:25:25+00:00",
-          "source": "Diario La Calle",
-          "source_url": "https://lacalle.com.ar/",
-          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
-          "source_image": ""
-        },
-        {
-          "title": "Nicolás Berruezo, pasión uruguayense rumbo al Mundial Absoluto - lacalle.com.ar",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOFNXeGJJcFh5OF91ZHdwb1hMODdCOHdERS1Ka2diaU5IbjJyVmV0dUpJV0twSXFNcFY0WFJhVDl1dXNiRko4QlZnRjF5YUx4ZEkwcFBsb3lLc0w0OTN3d3RqTF9XT0VtUnd4MkhRbUhBMFMxWHZUU0R5YjExOXhQVWpLNUVQM1FMYXBKRHFn?oc=5",
-          "summary": "Nicolás Berruezo, pasión uruguayense rumbo al Mundial Absoluto lacalle.com.ar",
-          "published": "2026-10-04T06:15:22+00:00",
           "source": "Diario La Calle",
           "source_url": "https://lacalle.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -115,10 +115,10 @@
       "homepage": "https://www.elonce.com/",
       "items": [
         {
-          "title": "La periodista Bárbara Brunetti presenta \"indicios de pequeñas mejorías\" y piden \"seguir rezando\" - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQjhfVU9GQUJSeGIxMDYtWXhqM2VpajJtdmZvRjMyd1NPeE9pblpTbkFEWTBnT0ZTVEFBWXVBcFloT2steWlBZmVpN1l4MU5xMG94Yk14YkVoNndJYVlZZ041RTR0eHdKZ3Q2a1llblhuci1uZHB6dmpOS2lvUVNiNFRCUW51aHFNdUhnWUtHalJRa1RqcURnZjA0UUZXNzhRdk8tYlpQMzdiN3NVZnBKcjRtWTY4bmtyM3dQU3FHY3JZQzV20gHAAUFVX3lxTE5IWThudFhsN2lLQXpIU3d3MFZ4a1NiRzBEekx1VDRHeE5LVi1mb2l1aS1HNlNqcm1relJ0R2lhc3J4c1c5UkIzYTNKQXBhY2dYUm1IVnNyek9CWll4a0RSLTh2T054WWJFQk1MbUNaQ1A4aGR6bWtLNUVqUVdzYVRxZDlRNU5iSkFyZTJJQmFfcWktbElad0pBSnMxalo0ODE0NWlIUzlyTlhQNFFUN2RpVlV3M29zUVI4QkE3N195cA?oc=5",
-          "summary": "La periodista Bárbara Brunetti presenta \"indicios de pequeñas mejorías\" y piden \"seguir rezando\" Elonce.com",
-          "published": "2026-10-04T17:54:10+00:00",
+          "title": "Marcelo Fuentes analizó la derrota de Patronato y ya piensa en Güemes - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYTA3QU0xdU9HbmFzdldxdVVqbDhKN3hVVnUyaHc2YmVkMVpXaEtkaDRxMmE3VjFibFVhYnF5V0dnY201WVk0U3NvWEpJMVdhNEJBRkktUE5yM2FTaENwb3F3dXFqYnNnM1h6MG1vMklveExUZm81S3NqSmdTY1daUk54LUZBRkZockZ4NmRqenAxSkNRME1DZy1BcUhPRFQxX2VPQW0yLVTSAaIBQVVfeXFMTXBzMldkSnlXVVBOUG5nZzRTSVBpOHlFZG5ISnFXQzBHZllpLUFWR3p4TjNEWkJrYW95YjhJemJVUmN5MUZ2bEJLRDk5WHJQS3lHelUwTjhfZXpiOHBrWWs5SzRGa0U2bmNxbkp3cUpvX096N01PaGpiYUJKTG5lUEVSSFFxZmJfc2VuU19lemNCY2Vjb2hZY1RfTWlJbk10TnFR?oc=5",
+          "summary": "Marcelo Fuentes analizó la derrota de Patronato y ya piensa en Güemes Elonce.com",
+          "published": "2026-10-04T22:10:00+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -126,10 +126,10 @@
           "source_image": "https://www.elonce.com/galeria/sitio/marca-de-agua4-jpg.jpg"
         },
         {
-          "title": "Patronato empata 0 a 0 ante Chacarita en un duelo clave por la permanencia - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcGJueXBtM3BoZ291d3Q0djJHcXpkam9CY2s0RlFfSzZCZlBXeThtYkttS0tRWGlZdHJ2MWpCUUk2LTl3YXZ4Q2w1NGNXUjFoUkZNcHBiLW0tUEhBV2Q0ZE55a2UyUGZyZHRQRFN2NmtySVZVYVFTOXlvVS05Z3ZOT1IwNk5uUFNMYUtyOFpDeDdlUUVFMWsxUUxicVg1b24zZ3ViQlc4ZlBiRTNhdzNF?oc=5",
-          "summary": "Patronato empata 0 a 0 ante Chacarita en un duelo clave por la permanencia Elonce.com",
-          "published": "2026-10-04T18:30:00+00:00",
+          "title": "Qué provincias están bajo alerta meteorológica para los próximos días - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORnBoOTFTLUdoUW84RFpEWmkyZG5RV3E2STlfWUJNZER6blE4UGt5QVVSLWxZR3NJR3JpZ3JvclpQMnZLUWFtVXE1WnppcmI4TnRBRlpqZnZDd0RMb0dSX2lsX2tWZzY2UGtBeDliWW5nMVhzYURoSVFXTmdRbVlZQURYckJCaEg5UEpVWGlUak5JYjAxOEx6Q19ZSHdVZ3lJajZfN0kwaljSAaIBQVVfeXFMTzk4eDNLaG9ISFpCcC1DTDBScklhUUFlWEN0LUQ4VXBSczdhMjQySUMxQk82NG8wdnB3VlNiSk5sekdLQzM1SXl6VjU1Qjc1YVR1dEl6XzNrNjZuNVJEM2lONV9QNWljaWh2a2MydHVBSS1HcDlQR0NiSkViaVRtaE16VnV5aF9jenVCZ1QtRV9CUG5yNTBZb05VVE5RUEdDQVR3?oc=5",
+          "summary": "Qué provincias están bajo alerta meteorológica para los próximos días Elonce.com",
+          "published": "2026-10-04T22:43:00+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
