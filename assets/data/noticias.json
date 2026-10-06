@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T00:48:18.592104+00:00",
+  "updated_at": "2026-10-06T07:33:09.919067+00:00",
   "status": "partial",
   "description": "Titulares y enlaces; el contenido completo permanece en el medio original.",
   "groups": [
@@ -10,6 +10,17 @@
       "type": "Web",
       "homepage": "https://lacalle.com.ar/",
       "items": [
+        {
+          "title": "Estudiantes universitarios recorrieron el Parque Industrial de Concepción del Uruguay - lacalle.com.ar",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNUw0dTlBWWI3X1FGMFo4UWNVQXFURUYwWWxwbjQzNHRUVjJSYWxTbW5VR2dINkVQMUt0OFpIZlktSlg5RTFaaTJ1WjhSRGVIZkFxcnFLN3ZWYnJNZXhvZVVRdmE2c0tadFhTekM5bHJza0lDcng5WjZiNzR5ZDNZdUhVNWhRTVA5WHNrQ1V5Z1R6eTg3cDlPSzd3WVVJSkd4NTZwQTJKVTZVeW9jRlE?oc=5",
+          "summary": "Estudiantes universitarios recorrieron el Parque Industrial de Concepción del Uruguay lacalle.com.ar",
+          "published": "2026-10-05T18:03:34+00:00",
+          "source": "Diario La Calle",
+          "source_url": "https://lacalle.com.ar/",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
+          "source_image": ""
+        },
         {
           "title": "Capacitaron sobre el rol de las Fuerzas de Seguridad en el Código Procesal Penal Federal - lacalle.com.ar",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQnNXcTFTbG1MTFdtSFBNdG9VMjkxSGlqUEs0V3Fma1R6aUMtWVJOZkI1Nk4xeUc3Q2JPdW9JaE9RY3VlMmI3c0pOaEtuTHRmby1NTU02WHpsV1FaeFdTQUQ5SnR4YmgyaDlVX19PRDJTelNURmlIRnJQTkF3Z05vYl9vQlR1c0MxSmFBYWNyRmwxUjhlQy1ZZTR4a3k4R0Faa19tTWI1a1JoaXcwQ2xfdW53?oc=5",
@@ -22,21 +33,10 @@
           "source_image": ""
         },
         {
-          "title": "Cdelu Accesible impulsa la “Misión 200” para ampliar el mapa de lugares accesibles - lacalle.com.ar",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMWdNdm0yR01FYUExS2dQV1BrRjJRd2lBdnVWYUpmSEsyVzFIUnZ3amtLSFE5QXI1bFBkZUZ4N01TUTEtTmVCdkczZXV2YkprZUJFRUxWVzhVejBZSlRsckYyU3kwWk1jY2RGSmdiSUM0UG10R0NkdlhmR3V4NFp3NU1KN01uUENGemtUQ2FRdkRwRDlzd3hZV3pMTDBHZXpLMTJReEhJSQ?oc=5",
-          "summary": "Cdelu Accesible impulsa la “Misión 200” para ampliar el mapa de lugares accesibles lacalle.com.ar",
-          "published": "2026-10-04T12:36:06+00:00",
-          "source": "Diario La Calle",
-          "source_url": "https://lacalle.com.ar/",
-          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
-          "source_image": ""
-        },
-        {
-          "title": "Adicciones: comenzó el ciclo “La recuperación es posible” - lacalle.com.ar",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWXNqS3hUeFVkczFicWN2OVk5NGQyQWNsblpGbzhkVnYzWjg2VTBTNlh5ckxNWGNPckk3V1hUTzZXUmRjVFhDOEdVanpZelNWZmN5Z3FZTFplRnV0TEtSY0Q4WDFnOVktdkg5UjFDMW5OWk1oOWx2RlJrXzUyZnZmaXlWcF8?oc=5",
-          "summary": "Adicciones: comenzó el ciclo “La recuperación es posible” lacalle.com.ar",
-          "published": "2026-10-04T12:33:54+00:00",
+          "title": "Tres científicos recibieron el Nobel de Medicina por sus avances en optogenética - lacalle.com.ar",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcE5hbjBFSC1GNWpuQUdKcG45X183OVc3WFhiY0sxUnVIU2JtX0NmUHhQdjdUUDdpOTZYR19vRmZsd1lxVVRxQVU4UUtyRWdvVG53UmJNcmxKbk9LMEw1anBFR0hXT2oxU3UtVzFDdUJrTVFBb2pWMmpyLVE5R25kSFZNQTI5c3ZOUzNoQ2JvSzRTcnVObHJCSnVfOU4zRlNMUmw5NmJDOA?oc=5",
+          "summary": "Tres científicos recibieron el Nobel de Medicina por sus avances en optogenética lacalle.com.ar",
+          "published": "2026-10-05T11:35:44+00:00",
           "source": "Diario La Calle",
           "source_url": "https://lacalle.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -53,10 +53,10 @@
       "homepage": "https://www.lapiramide.net/",
       "items": [
         {
-          "title": "El pádel de fiesta en Concepción del Uruguay con un encuentro de escuelitas",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdjhaQ0Q4UU1YREJGTFZIUWVoYzljaWs2M2hLbDVFYXlyWUFJanVzTExrQms2eUc5aWlOa09JR1p2OFFJdHhIcEJoYzlXa1BZOU5NeHozU1Bhb0RDSG9mUmExTXZUUko3Q0NmWDhtNWJFWmx3RUw0UDRDTy01QnY0SktCUGFfUmZBVkcweUdJY281aFB5M1Z0em9YU1FlNUk0cFVEbXdKSi0tR1Rpd3lfdkpnTVJUTW5uWkhrYzBCSTVqaEY2cEh5Z9IBzgFBVV95cUxQRTBVX1RNQWdmRzR4T1NMLWlnSTlnWHRrdmVubUZwN2psZDdJTTR1aVEzbW8wZ2RqWDlHaEJCZUQ1YzU1VEFFVXExMlIyc25kMkRDRGlqSXZnbFdQeThtOHRaN0pubTRKR0ZaNzYzTXRieTVuVVc4bFFmc0pYQUhsdUpfeFRFNFZZTmFlQWFCaHZUZm9OLTE2V3BCdHIwTUl4UUc1Q29Wd29EYUR4WG03OE5lNl9TZXdJWVFJUWp1VWRtVU1WZ2stVWdwR3gzQQ?oc=5",
-          "summary": "El pádel de fiesta en Concepción del Uruguay con un encuentro de escuelitas La Pirámide",
-          "published": "2026-10-05T01:13:03+00:00",
+          "title": "Una joven resultó con lesiones leves tras caer de su moto",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWnpCb1lqdXRVMzVZVXIzcW1qelg2NE5mZ216YkxjRXF0NEhwbVJTMnB1ZXNfZ2xOa3FGaHFiaDNOV3RFUkcwUDJYelcwVlJvNndlSzRnNDZqR19xZXU3c1lCWFVlU1BMMUt4YjRxS2ljb0hRWnNqT09qaWdqcGxXZlp4OTB1NE9QOFlxLVVRNnQ5Z3pMa1Zpel84YlRRTEhKMEUzMTF3RVlMY3lYQzZla9IBtgFBVV95cUxPS1RFLXJBb3ViV2R3U29acWpqQ2g5RmNaRy14VVBoNFQtU2NJVDhaZUdkajFtX2JCdFRnTEw2bmtVZmRod3g2RGpyRmo1LURGODI4bnJSWXFyOW83ZGFlNmlpRkZIVGd3eGVvaHlKd1h5SHZOZ3pvUmppZm5RbmxKZDlJQ0k5SE11WFk5Z1lSazFrdGVKZWhIQXp2X2piZjN6cUpVMTc4WVpIbTVvcG5PM3pqTl9EZw?oc=5",
+          "summary": "Una joven resultó con lesiones leves tras caer de su moto La Pirámide",
+          "published": "2026-10-06T02:53:17+00:00",
           "source": "La Pirámide",
           "source_url": "https://www.lapiramide.net/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -64,10 +64,10 @@
           "source_image": "https://www.lapiramide.net/images/custom/logo-social.png?_v=v3-27"
         },
         {
-          "title": "Choque entre un auto y una moto en Bulevar Yrigoyen y 14 de Julio",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcm1DajJCMU44cXNmYUgyWDRZVmdCckJRd1FNdldWQ0g3T0Frck1PTk9WeHdIeV9xLW1pYXdvUE9ERE11QWxhSlZLVTlNUHJTZUdvSzk0SENhQWctcWFqd0VTek53bWwzXzlQeVVHZ3BlbFVBOUtZSG5MMXRseXhwSGpVNjI3V0F0d1ZqZEM1RENhT05qN3dVSkZZdDFhVk0tRW1aN3hGUkJBeDZibnl1aHlSZkxkN25UTExZ0gHAAUFVX3lxTFBETVl4WG5GV1dIdXdQLThOM2hjTHlwVUFJdzBranMwQ0tfSTI0UDlNRlh5MTNHSWlIbUJrSUxQamJrOEI5Z0F0Y1BZM1E0RE9vVFByQi0tWm5KNGZWbWE3dEx1aHVPZkRlMjdTTGF6d0hmYy02M3dOMXVYcVhDYzU5bkNnc0V6azhzVzVGcEo4amFBdk5SMXVGWjQwd1FHRDY3cG94UWdHZGtFNklYMV9yaGhybjJUdElUWUs1M1l0dg?oc=5",
-          "summary": "Choque entre un auto y una moto en Bulevar Yrigoyen y 14 de Julio La Pirámide",
-          "published": "2026-10-04T19:14:13+00:00",
+          "title": "El pádel de fiesta en Concepción del Uruguay con un encuentro de escuelitas",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdjhaQ0Q4UU1YREJGTFZIUWVoYzljaWs2M2hLbDVFYXlyWUFJanVzTExrQms2eUc5aWlOa09JR1p2OFFJdHhIcEJoYzlXa1BZOU5NeHozU1Bhb0RDSG9mUmExTXZUUko3Q0NmWDhtNWJFWmx3RUw0UDRDTy01QnY0SktCUGFfUmZBVkcweUdJY281aFB5M1Z0em9YU1FlNUk0cFVEbXdKSi0tR1Rpd3lfdkpnTVJUTW5uWkhrYzBCSTVqaEY2cEh5Z9IBzgFBVV95cUxQRTBVX1RNQWdmRzR4T1NMLWlnSTlnWHRrdmVubUZwN2psZDdJTTR1aVEzbW8wZ2RqWDlHaEJCZUQ1YzU1VEFFVXExMlIyc25kMkRDRGlqSXZnbFdQeThtOHRaN0pubTRKR0ZaNzYzTXRieTVuVVc4bFFmc0pYQUhsdUpfeFRFNFZZTmFlQWFCaHZUZm9OLTE2V3BCdHIwTUl4UUc1Q29Wd29EYUR4WG03OE5lNl9TZXdJWVFJUWp1VWRtVU1WZ2stVWdwR3gzQQ?oc=5",
+          "summary": "El pádel de fiesta en Concepción del Uruguay con un encuentro de escuelitas La Pirámide",
+          "published": "2026-10-05T01:13:03+00:00",
           "source": "La Pirámide",
           "source_url": "https://www.lapiramide.net/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -84,9 +84,9 @@
       "homepage": "https://www.r2820.com/",
       "items": [
         {
-          "title": "Franco Riva retorna al TC2000 con un auto chino",
+          "title": "Franco Riva retorna al TC2000 con un auto chino - r2820.com",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRU9EcUNhdGg0RG5VeVV4YTFBV01QMHMxSUktbng3MGJQT2dReXZHZGFXaG5vM0ZScUhteUpCU3gxNWtOalBjVVQ4Zy12N2RfTk8yRllaYXFsTHpHV1NkTEZaeEtHWGFNckxfT3cwN1dtMUFFUTZrUVVTdWFUZEd5RkdVRy16TzgyUTJ4X2RmbXlkYUUzY01xTGFrUmjSAaIBQVVfeXFMTjJucDRpQTRQYVc3SjF0Q2hncVJLTGJqcVdhN0hTbnBqRms3S3NXZGRvV3ItSVdwNG80c0tOYkpjMTZpRmppNG5VRDg3Rkl0NGh6SzJib1dVNDFtMXktblBOUlF5dXJKQWVNX25zQVBKaktEQ3F6Yl9xMFFRTWk1Tmg0d1EtbjV6eWwySHRsOGVGSlItMGZjajFBM0toeUhkWmx3?oc=5",
-          "summary": "Franco Riva retorna al TC2000 con un auto chino R2820",
+          "summary": "Franco Riva retorna al TC2000 con un auto chino r2820.com",
           "published": "2026-10-03T01:44:21+00:00",
           "source": "R2820",
           "source_url": "https://www.r2820.com/",
@@ -95,10 +95,10 @@
           "source_image": "https://www.r2820.com/images/custom/logo-social.jpg?_v=v3-45"
         },
         {
-          "title": "Así funcionarán los servicios municipales este miércoles 7 de octubre",
+          "title": "Así funcionarán los servicios municipales este miércoles 7 de octubre - r2820.com",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ0RVczRjRFRkcnFzNmV2Y0RmNTl6anViQzYtSjRQYVR2ZEtNQzBmRTJLcXJUSWs2d1M2TlEzOTk1eHp0QkhfdWl6bzBseWoxeF95QTBiN2RmbDNhTXFiNTM1UzJUNnQwbHNjVGhIbjVicDctSTFGczJrMTRvSGg0QkhVdVNTM3ZSREFRLWxFMENBNUNBOXNENGpZN3lUQ3E2dFRpak9zaGNyNU5PVVRNZVVoZWVPdFpVMHfSAb8BQVVfeXFMT3JGUzdTcVpVYXNPX1FTZkdBYjdQUVo1R3g5LU14dVoxcTM4SDN5ZzAtUGQ2aGl1NElBMDdfRkFFdVRhZFVmTUVCU2lONVZzdEp4dHZrbHkxOGE4VUVzOXUxY2d5ZXZjaUNwOGpRck8yT2tRd2FTTUdWYTlCSFVDNG43bjJ1S2dBM1d6dDFfNnNraWtBZmxpN1dSZ254NzMzZFkzUWVYZ1FCMTlaVWgxcWFoWXYzWGpaaUl1Nm40d2s?oc=5",
-          "summary": "Así funcionarán los servicios municipales este miércoles 7 de octubre R2820",
-          "published": "2026-10-05T14:56:25+00:00",
+          "summary": "Así funcionarán los servicios municipales este miércoles 7 de octubre r2820.com",
+          "published": "2026-10-05T15:07:23+00:00",
           "source": "R2820",
           "source_url": "https://www.r2820.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -115,10 +115,10 @@
       "homepage": "https://www.elonce.com/",
       "items": [
         {
-          "title": "Situación socioeconómica de los paranaenses: hasta 20% tiene dificultades para llegar a fin de mes - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdVdUYVBBR1E1TkY5Q1BrZ2daUVZCZV8zQklJcTY2c2thMmtEMjZyUWtHbVkwUnZwODRLTEZlV0J4NzR5UC1RaEFaa1RZQ2gyODVBMlFid2t6dmRzZHNwS0N6ZlNmTG4zSzlHLTNpZXRVWTV1TkUtY3FTYXNndm5oRUI5MEE5TFBMa3I1QkdsRDF1WTVtV2ttdDlOQTFOOTRuTWluQkFSTTBYOG8taHF4cDlrYWF5VW5HQ016cTBMX2JFeHhwX01CRGZaS0nSAcYBQVVfeXFMT3g0a05DQ0JVenlsajNOMzRrendIejZ6V0ZCNjRQUlpoLTJIcS00TWlkUFZ5NTk1ZjBPbHpiUEVjVUdwLWVMQjRlWDNvWjJtZWJmamE2SUhVZkVEY3N5MDZ3WEhKNktCd19iUU9hLW82aXR4Y3c4bkpOUHFVcGJWeU9TX2ROODhxUmw4NTF4dGhzdS10V0gwUUkxbnpieHJKNHowODBQTG1zNUExMGxybHJjMjJyZlM0dDdzRU1YeUlSRHMxX0h3?oc=5",
-          "summary": "Situación socioeconómica de los paranaenses: hasta 20% tiene dificultades para llegar a fin de mes Elonce.com",
-          "published": "2026-10-05T23:06:22+00:00",
+          "title": "Una escuela de jóvenes y adultos celebró su estudiantina con música, juegos y taekwondo - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVUhvVURFbGlYcGozdndIcTRDRHZieFZnY3RuQ3Z0QWVCYkhMT1lVRDV4LUVsb3BMMVN5Z1h6VUxpXzRTaUJzbDd3RXVYdG9NeWxiWXdXdmI4N1BlclF5T1JUZl9ZS0JqNlR2bGQteWJocUV2V2FjMmFTRWxtU2NEcVBSdEw4Rjc4c1Ztd1R5aWwtbXJIbWxyZnE0MTZxOFEzX2NrQldKSllxOFJJUjVEZlpwcEo1eGpuZjQ2ZWtLd2RMZWpQb3lmYWctNGjSAbgBQVVfeXFMT0p3NzRXbUlaMkF3dXZ2MVQ0S1JndzFaeEhHOTRrVVg4a2ZqV0ZjU040UW9IOVRRNlhSZzVvOUpmWjFtSklTSl84eW1zSUJEZm5fSzdDcE1kVWQzdmM0N0lQb1hKYmhyVnFwRWh5TjJ4Sm1Wc3RCQ2YtUFFHTWdUX0NnRXFQTlRzRktLd1VpSUliLVpiNXFCREJGaUQwQ09IWktubWhDSkV1bnk2WjA2a3Q4Ry1JVl96Mg?oc=5",
+          "summary": "Una escuela de jóvenes y adultos celebró su estudiantina con música, juegos y taekwondo Elonce.com",
+          "published": "2026-10-06T00:03:36+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -126,10 +126,10 @@
           "source_image": "https://www.elonce.com/galeria/sitio/marca-de-agua4-jpg.jpg"
         },
         {
-          "title": "Cáncer de mama: la historia de Stefanía y su mensaje sobre la importancia de los controles - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdDVTZmdHVWthRGlMM1lnXzhJdnY5Ukc4UURvdXRwX1FhYnVGMnFYY3RCVElsYUZNaVh4MFZ4S0ZSQzJpREdHMUZfT3VzR2F3R0Qyek1ubEV0MGdxREhSQl94bXJ5X1ZXMnkzVUlvckVaNFZUUHBiSlotSHNLTHc1RzZuWXl1WEt2ZGoxZFMwZnVxRmtFQUN1c2FvRGdhS2FycmJ4S2lPWFFJcjhmc1pFM2ZFWW93b1F3clBGeFQwNkVsQ2PSAbwBQVVfeXFMT1M4akoxbmRHNzlEdnVwT19fdWhIWG5vaEQ4aGx0Y2FjdUxSbHFxOWpfVHk5RXRRem5BeXhhN3RxbGlUemVZamRVeno4ZTl3UGFST3JtT3JLZ0JQLXQ4SFNfbndNRVlRWkNnSk9BZWQ2Z3U2bHJUQkFjVEcydlFiN0hsZlpYOXFxdkZRY2d4TWJiN1B2SjJvaUJiZ0ZqUk9VUEcyM00wV3JqTzlXbk5sZGhncWRiT3JtZ1Z4RG0?oc=5",
-          "summary": "Cáncer de mama: la historia de Stefanía y su mensaje sobre la importancia de los controles Elonce.com",
-          "published": "2026-10-05T21:16:47+00:00",
+          "title": "Obras en Sauce Montrull: iniciaron el cordón cuneta y confirmaron un cajero automático - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOanRwSk9yRXh4eFMtSEZqYzNkbEFDV2JjRkM1aGVrTGpwS05NTmJZTGlWTUJrNy12N2Vfb1B3cFN4Vlo2RUI3ZXloUjByOE8tQUwyb3YzTEhhWmI2UGJmVGVkNllHRGpWYm5uOGlSenZMdDFRZFN4Z1REZGFoWEJXc1dKMzJOaExjNnF0XzU2MDNrUUxidTN6bWRCTUtiOFpyZFJHaWxuWnN3WnV5YkRsQWVtaG9HQ1M0b3lhd0pVQzVEVEhXM3JoSlZaMNIBtwFBVV95cUxNb3NBQ2NOUnFQNkZxY2FiT3pzWVV4RnUyNlBIOXZhQ25hM3diWklDb1JvT2F2VFh0NE9UXy1QaEFob3BCSjZnX0RGZ014Q1VEVDZjRzdlbkdkLTcyS0llcndVNTltUEQ5d0dNSHZLQTM2a0I3NVAtSVVNZWVwT0pQVUlESWJXZGlEb2FOUWRTclE4ODc4OGd6eC1oTkxWdy1sZG5pYXdMNXc5Rm5OelBiTnlFaGxGTHM?oc=5",
+          "summary": "Obras en Sauce Montrull: iniciaron el cordón cuneta y confirmaron un cajero automático Elonce.com",
+          "published": "2026-10-06T00:48:01+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -146,10 +146,10 @@
       "homepage": "https://www.pagina12.com.ar/",
       "items": [
         {
-          "title": "Elecciones en Brasil: Ganó Bolsonaro y disputará el balotaje con Lula - Página|12",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWkdYZ3FLM1g0LWY2aEowUTV4Qk12d2FOWVJUdnFsLXNLMkt2Zl9xOFg3NzJXU0VubU94MTZzMFVQbTNzQkRnYVF6eVJxRUdmTXRyVTFGbVg1d0FuSkZQU3p1OVA0THVsdExrbDdGT2tEYmNKZ1dqUG16UkJUYjdlMDI5U0pkQ3JBYkUzbnVNaDVIaEFJS015VU0yY0M1MGlwMkp2RFAyODVkcThE?oc=5",
-          "summary": "Elecciones en Brasil: Ganó Bolsonaro y disputará el balotaje con Lula Página|12",
-          "published": "2026-10-04T23:01:00+00:00",
+          "title": "Lula ya trabaja para remontar la mínima ventaja de Bolsonaro - Página|12",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOR2xSV1dWZDFMczE2blJ4U2FKTHcteVlvOTdhSlplbjIwd01xYWRIaFV0ZDFCZDBXcXFXbF9oaHBMU0lzV1RnTDhGU0drWmUzdjZ0Qno4dS1lQmNpaGVicnNncFVpWkpmc2lDNmprWUlsc0JHNTFnRXdvM1BHUW1sVjRKUlEzaUdMRjhvZVVOZ3BUNUJxb3ZpdmxtbVUwTURRU1E?oc=5",
+          "summary": "Lula ya trabaja para remontar la mínima ventaja de Bolsonaro Página|12",
+          "published": "2026-10-05T23:01:00+00:00",
           "source": "Página/12",
           "source_url": "https://www.pagina12.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -157,10 +157,10 @@
           "source_image": "https://www.pagina12.com.ar/resizer/v2/https%3A%2F%2Fwww.pagina12.com.ar%2Fresources%2Fp12logo.svg?auth=811d0fc63a912d1f8dc56b650f3a0054e089ac9c81bfee069a62717e10cbb54a&width=1200"
         },
         {
-          "title": "En Brasil se vota si es Lula o Flavio Bolsonaro - Página|12",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSXV0Ri13dFdYV1YzMk9YNl9xOWF2TDBMRjAxSXM4bTc5cWVNa3JDbDlPSkl5c1FBOTEzZVpFbnpMVTk3Z3RHTkhRc2xaV3h6SW90a2tPV3c1bVNTN3k3MFdudTZMSDViLWItclVvS1lTM0pBNEE0WEV6OXhtRGZfaTRlbXlJaTRvNVNxR0ctWU4?oc=5",
-          "summary": "En Brasil se vota si es Lula o Flavio Bolsonaro Página|12",
-          "published": "2026-10-03T23:01:00+00:00",
+          "title": "Elecciones en Brasil: Ganó Bolsonaro y disputará el balotaje con Lula - Página|12",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWkdYZ3FLM1g0LWY2aEowUTV4Qk12d2FOWVJUdnFsLXNLMkt2Zl9xOFg3NzJXU0VubU94MTZzMFVQbTNzQkRnYVF6eVJxRUdmTXRyVTFGbVg1d0FuSkZQU3p1OVA0THVsdExrbDdGT2tEYmNKZ1dqUG16UkJUYjdlMDI5U0pkQ3JBYkUzbnVNaDVIaEFJS015VU0yY0M1MGlwMkp2RFAyODVkcThE?oc=5",
+          "summary": "Elecciones en Brasil: Ganó Bolsonaro y disputará el balotaje con Lula Página|12",
+          "published": "2026-10-04T23:01:00+00:00",
           "source": "Página/12",
           "source_url": "https://www.pagina12.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
