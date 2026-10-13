@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T03:32:44.930297+00:00",
+  "updated_at": "2026-10-13T11:45:45.878804+00:00",
   "status": "partial",
   "description": "Titulares y enlaces; el contenido completo permanece en el medio original.",
   "groups": [
@@ -10,6 +10,17 @@
       "type": "Web",
       "homepage": "https://lacalle.com.ar/",
       "items": [
+        {
+          "title": "Concepción del Uruguay continúa con las jornadas de salud mental en los barrios - lacalle.com.ar",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeTJSd2tOM0lFWndvODB2ZUNwanpRNThjUG50NUJOeEwyZHhDTVNaNUdYMk5GV0M3cEo3VEoySVhoRTU2eEVpa0RZMVdUeU90OTkxY1cwVTVXQ3QtYjMzUkxsQXoxUEc1T3IzWGVUdFZsZ3hHVkkwbjBvNWNMYXZTLWROY3NWdWFPcUZqUzNuVFc4ZV96R2pFdTNqNFd0SUJrakU4aEpn?oc=5",
+          "summary": "Concepción del Uruguay continúa con las jornadas de salud mental en los barrios lacalle.com.ar",
+          "published": "2026-10-13T02:07:01+00:00",
+          "source": "Diario La Calle",
+          "source_url": "https://lacalle.com.ar/",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
+          "source_image": ""
+        },
         {
           "title": "Los Iracundos hicieron vibrar la Plaza Ramírez - lacalle.com.ar",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE44RnBnbUVNNFlfaXhDb2d6S2U5Mko0WXlKamdrYWYtaWl0dlJJazYyNGN0dHVtNUVOb2tTVTBBYUw0RV85OEh0TFJxdXI5TnI4QTQ2aGFWd2xDd2Q2ajhlZUJ1R09FcFJrSkdJQzhNNmdiWHBRV2ZlNl9n?oc=5",
@@ -31,17 +42,6 @@
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
           "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
           "source_image": ""
-        },
-        {
-          "title": "Una donación en el Hospital Urquiza permitió que cuatro personas accedieran a trasplantes - lacalle.com.ar",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOR3E1ZnRfMXU2RVZiRG1MOEluOERRUTlnSG9rZkQ2TnpyQ2FHZHBaRzcxRkV3dHdCMDc3SFhnLVBuY2tTZlZOXzQwRUFxR09UWU1saWhNOGZ5LWN1SE1WemhPYkZuaEtDeDE3V3oxWEE4eDNiRnphcl9maDY1bkxnOHJnaWpDWVBZS3hGSm5KbG83Zk1jZ1BhV0t1NzZfbF9jWTFLZ184OHNSbWtQc3lMRkhtaw?oc=5",
-          "summary": "Una donación en el Hospital Urquiza permitió que cuatro personas accedieran a trasplantes lacalle.com.ar",
-          "published": "2026-10-09T11:08:22+00:00",
-          "source": "Diario La Calle",
-          "source_url": "https://lacalle.com.ar/",
-          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
-          "source_image": ""
         }
       ]
     },
@@ -53,10 +53,10 @@
       "homepage": "https://www.lapiramide.net/",
       "items": [
         {
-          "title": "Duelo en la FCS-UNER: falleció la Mg. María Gabriela Bastida",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ3llQXdVYkFoZnEtMnpPUXl4MTJvSi0wdlJXMmZBNUFMX2dzdDFXNXdpVGgyRkxaaEV1eC1Za0dFSTA5ZU1fN3ZPVXVLRzViWWx6VmxyZ3hySUZsUkxuXzIwaWJPaXJuVFl1TXVIa0E5VkRNTUVvSDgzb3JidXZNbVdIdDFjWHF1SEJQbF81RUE0akJFY0NicjJ0UG1mMjM4Wmc4SEd1b2tBREU3T29VWEd30gG3AUFVX3lxTE56T2dIVUwzSFBQdFFJRnhJNVJ1ZnJjT1VDZ2NTV2FQYzU4YldzejZrM2VRdzNYeFVkc1FicWJ0dXZacDVrM0JhYnVHT0Yyd09laWIwaTNHRlBKNHY1RUJUekNNbGRJOV9HYlEzeVoxdlppZDU4dDE0OEhPYXQ1cWJNd3NJR1dfVWhUQTNtbnUxRzJfVmtSUGJoRXRjOEM3S21TcERQdFFaNkpiOUtIOUtnblV1Nlhndw?oc=5",
-          "summary": "Duelo en la FCS-UNER: falleció la Mg. María Gabriela Bastida La Pirámide",
-          "published": "2026-10-09T00:12:31+00:00",
+          "title": "Avanzan los trabajos para colocar postes de luz en avenida Frondizi",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeS1BQWxteUN0WVB2Y2czeVY1RFVldTlMNmJHZ0J0YnJKb1FseE5yWUY1eW5fVUtldEhfMzhQeWx0enR2UXpuWnE1MzhvOFF5NFVBNFZXTTNYZVVLSnI5MWl0bmhmMV9aRlNUVWNlSk54SDNGNVJoa1UwSDBEUnREcGFYNmpfemNyNmJRZS01YXc1TUtEYm1XRXNGQ0lVajk4eXFtcFRQV0JpcGU1bnYyVk13eWpCZGlwSTBNUGJn0gHDAUFVX3lxTE9jVFZyUy1SRFVCcUtzTjhjMzgxaXBRXzR3QTQyOTZKSWw0aF9ITFkwWlgxNmNIX21DdjNSOU0xUWVRdmhFS0lKMExNYzRfMjJ3bXhIcDgtcElGV1dzbjhIOEVqX2V6XzRIT2pVQ1FSblU1bHdiNGlQd2pwdmZkdmlrVGp6dWZRSHh2cmFFUGY2cUFZLUpveC05clVqSWZnMzNEdktOczhzRGhFSUJfM21mYXlGc1l1X0pYa2MwOF85YkxWVQ?oc=5",
+          "summary": "Avanzan los trabajos para colocar postes de luz en avenida Frondizi La Pirámide",
+          "published": "2026-10-12T15:15:29+00:00",
           "source": "La Pirámide",
           "source_url": "https://www.lapiramide.net/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -115,10 +115,10 @@
       "homepage": "https://www.elonce.com/",
       "items": [
         {
-          "title": "Recorrido por el patio gastronómico del Puerto Nuevo: sabores regionales, música y familias en el cierre de Diseña Paraná - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNd3B6WkZZbE9PT2pPS0FaSDdManR0TjdrRktGVUx6UTctbGQxRDRabUlTZ3B0LWVLMUpndl9HVkFRVHpwZlBrM2VYT19oaGpOeFprSE9DQnNuY1BsMGFqYUUwRWM5OXRYRkxoOHN0Y09xQ0NMaFZsZWZoR2lkQTNIbFhMVDUzMWJocGVWaHh1VkZ1UWt4LTZudU1heGY2Z2ZjbWpmVVJqLVRJMWNMLXF4Vzk0S1ZWbUE1RmRZbFBXd0pOM2JaQ3VaYXFRNFRPZTB6dTBtVnc4MW9Edk1RZ19GdERodVRjVGV3RnRMSFFwQ1RSNW1oS2dDYdIB5AFBVV95cUxNelBRR2daOGNZQkdpbmN0WXpYSU1FdC15VG4td0lxVTduRGtkbzhDSWFXQ0RzRkVPaENjMHVubkdqaDVWUUMyWWF4MHFtZzhnZ056M053aHJoeUhKN2h5UnlaalFld0ZNenVaaW1VWGJ4eWVkdEFtTEp2dG1pM2xkdFEyLXlSUFg5bXcwRE1YaUxhbHNDQXl3aFYtM1Z0MFE0cjQtUTg4UHFIWFpRVS14VFdJakcxY0VVMzNPaVAtWnZSQWE4WUpkdlNXRVZVNmpISWFScnpVRENoQmc2R3NJMjhxSGM?oc=5",
-          "summary": "Recorrido por el patio gastronómico del Puerto Nuevo: sabores regionales, música y familias en el cierre de Diseña Paraná Elonce.com",
-          "published": "2026-10-13T00:48:22+00:00",
+          "title": "Clausuraron preventivamente un salón de fiestas tras la muerte de un hombre de 69 años - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVTlEd3VGWkFKelEwSFg2SDBTRDduYW5nemVNNDRLM3Yzd0xPeEhDc21yVDJEYXVhbVVtT3ozenNqM3Y2Y1hvS0p0eWpCQW5HdkpDT3dCanNFYkxuRnM3UEs4RHFWUlNVbjI1dTg1N0h2SEdKdkNVNzRqY0RCZkdDVnRjVmVDMW9VM01HZVQyUHR2TW1CN1HSAZIBQVVfeXFMUDlic1NZQUNacUhGQS13VTN1VWUya2NoamtJaWdlRU56bENKNkFxS1UwM0FRbWZxRXNWbnNQa3JrcnI2M2xwV2UxdUNic1N0NkNyRnphN3Q1NGhKZEVKNGc3UFdFZ2REY21FdDNZcFBDQWJLb05rczFYSDhIWXdrNXozNHNSX2NCSEV4LU1WeWZyQlE?oc=5",
+          "summary": "Clausuraron preventivamente un salón de fiestas tras la muerte de un hombre de 69 años Elonce.com",
+          "published": "2026-10-12T16:23:49+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -126,10 +126,10 @@
           "source_image": "https://www.elonce.com/galeria/sitio/marca-de-agua4-jpg.jpg"
         },
         {
-          "title": "El motociclista que protagonizó un fuerte choque en Paraná sufrió fracturas de tibia y peroné - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQems0R3JrSHRFTE9KTXZiaDRBb1lWbHV5NGpQd29hMzQzNUpqdzlucjVaQ08zRjlhckRpd2N2NVg4MGJpaFdPSGltVThXMklUSHgzc1dxMGhaLW90dVUzUGpUYTZqY2xjcndtQ25SNmpuOHRtcHBMenR0cXdzUS12WUJCYnlNQU5zSFFMQjREd0JHRERLZ3JBVjRBZ3I0bXI5SVlsRU1rYUdJM3o2eUMtbnJ6UFRVXzFOSndKbkpfZGlmQVVCRzcxakNpNNIBwgFBVV95cUxNRENxU2trLTBuZGZyQUVfR1hEMkNjZ3I1MUUzTXJLRzFoVkZtT1BJWktFa0FQb3o1VC00WjlVNS15Wjh3VHRBTlhqcmZDTm9RbUFUak1SQUdqSEJvSDdNaERjYzNDR2NIMXl1V1k1UG5uT3pHaE45TXJJT3NrMzFnTEEwcE9MbTh4NUl3S0JJN3lmd1hxc2xLWnAxZk1sTXlsN0hlZGJKQ28xVG1Fa2xxSzdMTXA3MzRQQ2ktRGstM2lSUQ?oc=5",
-          "summary": "El motociclista que protagonizó un fuerte choque en Paraná sufrió fracturas de tibia y peroné Elonce.com",
-          "published": "2026-10-13T00:08:00+00:00",
+          "title": "Gracias a un drone térmico, atraparon a ladrón que pretendió robar en establecimiento rural - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOc1VYTE9oRDlBVFhSYmhxNTV2b3BoWGJCQzNqeVg1VWlYSHFPMTFuNW1STWRuZkQyampGVmJaZ3VHSUNFZ1J6dWhaMGhPYTh4bERmOHYxTGotdU1oVWQyTndsWkh3N3dqdGRCdVBndjVBM21WTkpsam5KZE5mVVJ1bzZsdE5zTy1JcHJSR0k0c1M0UGx5QmFXQVYyeFE2d1VsbF930gGaAUFVX3lxTE52OWZJYVNCVzc4SGdWZkhERWJIYkloU2o4bTRGUkU4aVdDaFNGcFhDOF9uYy1xdGlpeUF3Y1B4YnJiNnlQVUxReWdFS2FFS0tJTGtablIzUzdQdnBHakxQaDFXYXBWV3JlaTJNRUljYm1YRklCMEhoSkpYQzZ0VFF1cEZsSENwYVN3VWxYZFc4VGVaSmMwS01mS2c?oc=5",
+          "summary": "Gracias a un drone térmico, atraparon a ladrón que pretendió robar en establecimiento rural Elonce.com",
+          "published": "2026-10-13T09:14:51+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -146,10 +146,10 @@
       "homepage": "https://www.pagina12.com.ar/",
       "items": [
         {
-          "title": "Vence el ultimátum Milei a Inglaterra por Malvinas: los detalles de la presentación ante el Tribunal del Mar - Página|12",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOYU1XV1d1ZkpyMjR0OWdGdHItRURfQ3c4OHFqVTB3V2R3NFo3WGdIaGNxbnlfUWVDb3MxUXptNFpDUlpqME4wbTJadGVkMHh6SS1iQTJuc3drUVp0TVFKdk5sM2FWNVJUYlQ5Wm9YSS1rN2dpcnhjbFk2R1VBY2FhUWtlZ2luakN4emV1V3M0eWdERjJVNWYwbXpfSEVvcmo5WmUzYWcxbW5IakcyV3paNEJBVTZrd09hUl9yeTNZLUJ5OWRxbmctSVUwc1ZVdVo2ZTk2bDh3T0pXX1JXWDdDZA?oc=5",
-          "summary": "Vence el ultimátum Milei a Inglaterra por Malvinas: los detalles de la presentación ante el Tribunal del Mar Página|12",
-          "published": "2026-10-12T16:02:01+00:00",
+          "title": "Vandalizaron los pañuelos que homenajean a madres y abuelas en Casilda - Página|12",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZzdrMTFwLXdpemUzSG1ZeVl5OEhzYVowdU45YTBqZ2hLcGJrTnRNX3p4dThGcUhSZEdoZUlLV1JJMmwyWVlGb0xmZ1c3MXRHclo4czBZSEpzdG85NGowTkNHalJBOFdjMk5GMlVsZmRSV0VVZmpXSGtPa1BFSktWaUxVSFRNdmt5a19zT1lXOHhacEh3Z1hDMlpPUlQ1SlUxZXJaRF90dmhQWjBWN0Rr?oc=5",
+          "summary": "Vandalizaron los pañuelos que homenajean a madres y abuelas en Casilda Página|12",
+          "published": "2026-10-12T13:34:22+00:00",
           "source": "Página/12",
           "source_url": "https://www.pagina12.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -157,10 +157,10 @@
           "source_image": "https://www.pagina12.com.ar/resizer/v2/https%3A%2F%2Fwww.pagina12.com.ar%2Fresources%2Fp12logo.svg?auth=811d0fc63a912d1f8dc56b650f3a0054e089ac9c81bfee069a62717e10cbb54a&width=1200"
         },
         {
-          "title": "Vandalizaron los pañuelos que homenajean a madres y abuelas en Casilda - Página|12",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZzdrMTFwLXdpemUzSG1ZeVl5OEhzYVowdU45YTBqZ2hLcGJrTnRNX3p4dThGcUhSZEdoZUlLV1JJMmwyWVlGb0xmZ1c3MXRHclo4czBZSEpzdG85NGowTkNHalJBOFdjMk5GMlVsZmRSV0VVZmpXSGtPa1BFSktWaUxVSFRNdmt5a19zT1lXOHhacEh3Z1hDMlpPUlQ1SlUxZXJaRF90dmhQWjBWN0Rr?oc=5",
-          "summary": "Vandalizaron los pañuelos que homenajean a madres y abuelas en Casilda Página|12",
-          "published": "2026-10-12T13:34:22+00:00",
+          "title": "El CEO de la empresa dueña de Fiat y Peugeot dijo que analizan cerrar sus fábricas en la Argentina - Página|12",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbzJMeEtOWG1Ic1EyMVl4bEY4UXZXcV9YLUhuSjZMZGs5blRmSnR0ZnRESldVQ1haRDBuZHNFMlBsbjE0UktzZEhHMmJiZUQ2ZGV3NkxsalpkcHVicXZuREp2YXNYcGZMTnhmY1VVVEFZbFllSFMwUXZXWklwV0NuWjJqcVRtYmwtSDYwRWZLVlVjd2puS29NczdwdFMzd0hEWXNNUHU4RzVWR2t6VGRXWVNucUt4Nlh0TlNqS0dTUWNDRGlud2t6V25wN1NwYnY4eHpCZw?oc=5",
+          "summary": "El CEO de la empresa dueña de Fiat y Peugeot dijo que analizan cerrar sus fábricas en la Argentina Página|12",
+          "published": "2026-10-08T14:28:55+00:00",
           "source": "Página/12",
           "source_url": "https://www.pagina12.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
