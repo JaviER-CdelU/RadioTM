@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T21:26:53.838141+00:00",
+  "updated_at": "2026-10-18T00:01:39.125314+00:00",
   "status": "partial",
   "description": "Titulares y enlaces; el contenido completo permanece en el medio original.",
   "groups": [
@@ -10,6 +10,17 @@
       "type": "Web",
       "homepage": "https://lacalle.com.ar/",
       "items": [
+        {
+          "title": "Inaugurarán el 5° Salón Anual de Fotografía de Entre Ríos en Concordia - lacalle.com.ar",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPU1RIaExhYlVXczJKVjBVOEhFUUxmMTVfTEY4eFhMUTBXdlBJbXZJSG1SR05pYkpMN1o0QzFEdUlrZjRqeFBpTk9qMWFfNFFFNlNwNmRmZzFHNDJtYm9kcFp3bzdqa05sV2tmOTlqbEdiNUhCODd6ZVd1VGJMTVpuWGhmRHV2X01ybWtTcU1GWllaclh2Vjhvaw?oc=5",
+          "summary": "Inaugurarán el 5° Salón Anual de Fotografía de Entre Ríos en Concordia lacalle.com.ar",
+          "published": "2026-10-17T16:22:55+00:00",
+          "source": "Diario La Calle",
+          "source_url": "https://lacalle.com.ar/",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
+          "source_image": ""
+        },
         {
           "title": "La competitividad no se decreta: se construye - lacalle.com.ar",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8yQXAtcnQwcDFSV3pvN0F2emZUZUktLUZNUjdWZlpVVHYyb1QtdzFpcTkyUG0tQVRiellkZkl6Y2NfeFZvcEtYYXl3OVJYVE1Eb29TNVpoaVQyQmdsR0dVbXY0UWRnYnZwQS1wMGk3ZkhSdjA3Vjdr?oc=5",
@@ -26,17 +37,6 @@
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaG5vU3QxR2gwSG5MNWUxVDdMZGxyczBxMkdoR2I4VkI5OGFtcVVTUHZocGptZDVSQ255OGlCbWI5ejhROFZWNVViY0V4N2ZQa2pmdzl6TGx5NDJPZnRSLWozYU1FZHNlR2ZDZkpNSDRUNE4zU1VOZmYzU05BUlZoaDJmVFJyZlBTTTJzZXhKVV90cGRFaXlsZmVWZmlidGhMX0hQVDJhdDlTZTlR?oc=5",
           "summary": "Doble desafío para Rocamora: debut en la Liga Argentina y localía en la Liga Femenina lacalle.com.ar",
           "published": "2026-10-16T02:23:00+00:00",
-          "source": "Diario La Calle",
-          "source_url": "https://lacalle.com.ar/",
-          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
-          "source_image": ""
-        },
-        {
-          "title": "Prevención y ante emergencias. Preparan una respuesta conjunta ante el fenómeno de El Niño - lacalle.com.ar",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVmNkUUM1UlVqY0xoaWxYY2Q5S0ZLQVpwc0trT1UxY3dJeFphX3dUV0tmdXg5a1BJZlFkWnFaOF92Nk1OelQyWUNKLWpIcVJTM24wLUNBT3N3X2xqNWZpbkgxR0JQSTVGM2N3Q2tmTDlKWE80bGNHTTZidkJUT2JtTU1mY3RaSV9XTmJhWTZsYjVKRnpuNEJKZkc0UkplMzllTk43TFlVd0ZRb2xqdzJVd2MtOA?oc=5",
-          "summary": "Prevención y ante emergencias. Preparan una respuesta conjunta ante el fenómeno de El Niño lacalle.com.ar",
-          "published": "2026-10-11T15:12:57+00:00",
           "source": "Diario La Calle",
           "source_url": "https://lacalle.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -115,10 +115,10 @@
       "homepage": "https://www.elonce.com/",
       "items": [
         {
-          "title": "Peregrinación de los Pueblos: emotivos testimonios de los fieles en el ingreso a Paraná - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRzlKdXl1T0prU0d3MGJJdGN1UURsLTRQTVh2RjBPeG9RdEdxb1c5M19xUGNFODdXRzNYeDVwT1hGdXgwSm9zN0kwcVd1d1pjajRyQlVSRjlVcU9EMDdRSXBOR2txV1hRMXItZ1Q2c2NYZjVNV1k0Rktrd1lxakhsZTRFQ1J5dGZlbF9iUDJmWUp0dmllNmNrWlB3T1dkZTV0UV9KMXhmUjJTT0NSVjVKY3c1NFBDMnUxd29ySWstYTN3Z9IBuwFBVV95cUxNX195d0VJXzFqbm1VLW1rUG9jdGd4Z1Z0T2dvMlFOYUcwZjhGNXdMNzQydTd0MHdSam5CeUVRTE1teFZvOENmbHI2SnZvZVdoRTlHMFQ0eTNjQW5ZNXN4bklNRHpNM01zQlQxTm9ES3ZEZDB4cnZfcW5sMUpUbUpiVnE2UUtlVnhqY3ZNU1BuSkM2dnJKdThkZGpuUUhqdXRFaXVoXzZ6Q08zSlpXSlBmc1FSLXpRcmNkX2c0?oc=5",
-          "summary": "Peregrinación de los Pueblos: emotivos testimonios de los fieles en el ingreso a Paraná Elonce.com",
-          "published": "2026-10-17T18:47:00+00:00",
+          "title": "“Lo vivido es incontable”: la emoción de los peregrinos que completaron los 90 kilómetros - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNU3dOZlhQQTBhM1BseFQxNmUwa0NrOU9CX3lNcnpEUFpST1ZPSWxJZWI5bzNXOGlxd19fbGNzRW5Uc29uS2pudkxPYVQ1Z2JkcmduanlxU0ZOQTFOSklDcDZMWTdHeExmOWdtMDFCVU5VS3ZUWjUwNy1kUmlPdGN4RnQ0QS1xcWFSSkhkTFFiUDNfWXZYdnpFZWlEQVNxaHd3cmZoRHpKRTJDUlN6Y0pHVWs5RjhjY240bURKX9IBuAFBVV95cUxQT3d2bDJmY3RvSURDVWJ0aDQzTkpBOEQ5R3AtUm5TQUhrNmhUSk9fMFF4RnRnTmxZNUZFRW15dHVHaWlMLXJtNmF2Y25yMkZFZ09qMjQ5VEpIRlFVQnZjU0c3TW5ubm8teDg2ZG5YekFyanlGMjJfSk5LOF81blotUVFvUi1xQUU0S19NTXg2UEN0akZsbzIwN3ctR2VBU08wVVVlT3E5MS04THFjR1N4WG4tRFItRUFN?oc=5",
+          "summary": "“Lo vivido es incontable”: la emoción de los peregrinos que completaron los 90 kilómetros Elonce.com",
+          "published": "2026-10-17T22:32:20+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -126,10 +126,10 @@
           "source_image": "https://www.elonce.com/galeria/sitio/marca-de-agua4-jpg.jpg"
         },
         {
-          "title": "Peregrinación de los Pueblos: con fe, emoción y cansancio, los fieles llegan al Santuario La Loma - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYjQwdV9xb0I4YmJvMktRSkZKZFBVX1BWamFFdWQ4akFIUWYzMlZtUlhZQUVTS2NWeHZ3NElnSFpvR0JRMFNUWVN1Z1NKLTB3T0t6UEVpM1BqWkZBYUlpRFRMTC03clhMME1fNzNJMUhURWVnOEZETGU4aGV2aFpnWG42dnVHNGxGZlJ1WmVaTXZTV0VocVZCY1FqeFFLYXV6d2sxNUJ6VENYX0JodnM3em9tcU5NOEpTOUM5d25IUEJvZ2xtRmZJ0gHDAUFVX3lxTE9mSTNTX1BMMXVYalViNks0TDJyZGJZYmFqYXl4WjVhRHJTY28yS1VCcVI2NWoyR2NNLV9kOTJwRjJERkhfMURuYUExa2ktNDQzYk1WMjBEWWozcTVMV054aGppajZRbjNGemoySUtzVF9KT1BFQ1R5MTBCVzJURVVkZnFOdGJmNS1pZG1DRTREWnlBdkFJNkZMblNySjVqWi1LTmU3d0ZHUEpfNFdUZ0Vic2ZfZHkweU8tZXRPd3JZOFhJbw?oc=5",
-          "summary": "Peregrinación de los Pueblos: con fe, emoción y cansancio, los fieles llegan al Santuario La Loma Elonce.com",
-          "published": "2026-10-17T19:55:34+00:00",
+          "title": "Testimonios en la llegada al santuario La Loma - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTmc2OEo0c3l5TkpmQ2h4T2RPZG5FWUJTdFBOMHliRW95UzFmMUVhTmVudFBFcjZtd1RldWZiSl9qLXI0a2FLd0dLT2JIdE1hb19Da1Q1MXNLYmhycmQ5ZWc5U25YNEV0YXR2Um9lM3M0UktrdkxkelVmeVZYRGJibnlwbzd4YnRLREtWeDFLRlc4Zw?oc=5",
+          "summary": "Testimonios en la llegada al santuario La Loma Elonce.com",
+          "published": "2026-10-17T23:39:45+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -146,10 +146,10 @@
       "homepage": "https://www.pagina12.com.ar/",
       "items": [
         {
-          "title": "“Se asomó y empezó a disparar”: el relato del fotógrafo de Página|12 atacado en la marcha universitaria - Página|12",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNT2VCR3VIcTdZZVZMSGQxMXh2cXdGanNRTWY2aUoxUTBlRjg2M3lMQ1F0NllwMXJfcC1BUFVob0M0M0JEY3NUYWdtcUJKMUs1N0Z2dGxUbjFsUkdmRGhSMm95QTNuR2lJUTB4UUNXZlo0Sko1eFlKQ29lNmtLZUxBVG5MRmQteVFEM1liQ1BzN1BxWG5SRG5tYUNxWHdERHBtVHlscUxucm51S1NrMEdvSkUzdkxKUGFWUVVfbHdNTGJ2SDNSZ1BVc2RMSjlOZnhkLVlOWFhn?oc=5",
-          "summary": "“Se asomó y empezó a disparar”: el relato del fotógrafo de Página|12 atacado en la marcha universitaria Página|12",
-          "published": "2026-10-16T12:44:33+00:00",
+          "title": "El Gobierno de la Ciudad confirmó que Zivals será demolida - Página|12",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNazlSTlo0Y1RyZ3h5NGlib3QyOVVUbVVKWmtYVWg1SmtHV1AzMi1pWWE5M0loSlVkRXVXa3UxWG91QWRKQVBPMkNmb1Q4SW1CUHVwTFB1bEhucWZCNmNaS2RWS3hCYkFRbzJPZXNxRlpXMlNNd3Y0bWJZVWlqcVd4UlllU2V1dVQzUE5PeEdXMERQS2RUS1YzejZQSW1lQVE?oc=5",
+          "summary": "El Gobierno de la Ciudad confirmó que Zivals será demolida Página|12",
+          "published": "2026-10-17T12:44:00+00:00",
           "source": "Página/12",
           "source_url": "https://www.pagina12.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -157,10 +157,10 @@
           "source_image": "https://www.pagina12.com.ar/resizer/v2/https%3A%2F%2Fwww.pagina12.com.ar%2Fresources%2Fp12logo.svg?auth=811d0fc63a912d1f8dc56b650f3a0054e089ac9c81bfee069a62717e10cbb54a&width=1200"
         },
         {
-          "title": "El Gobierno de la Ciudad confirmó que Zivals será demolida - Página|12",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNazlSTlo0Y1RyZ3h5NGlib3QyOVVUbVVKWmtYVWg1SmtHV1AzMi1pWWE5M0loSlVkRXVXa3UxWG91QWRKQVBPMkNmb1Q4SW1CUHVwTFB1bEhucWZCNmNaS2RWS3hCYkFRbzJPZXNxRlpXMlNNd3Y0bWJZVWlqcVd4UlllU2V1dVQzUE5PeEdXMERQS2RUS1YzejZQSW1lQVE?oc=5",
-          "summary": "El Gobierno de la Ciudad confirmó que Zivals será demolida Página|12",
-          "published": "2026-10-17T12:44:00+00:00",
+          "title": "El peronismo celebra el 17 de octubre en plena disputa por la lealtad - Página|12",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWlk4VmgyN1lWazNuNm9SQW5RRTd5anE3N1hFMmNoVmRJMlZNalVQWEJVVjRtV3ZrVU1rcVlFc29iZ1FnbWhWNC1ScERDTHZmZFdiVFBJWXI4c041ZDh0VlBMQzN2bXlGQjdBc0VwSVB4clFNVnFXN2VScnpTblhjeWRuLWRoRXVzUFlJQ1Z1WDFUUkRsVGhwOTdVY2UwYm9ocndISDJYb1NnZW1GVkw5Vw?oc=5",
+          "summary": "El peronismo celebra el 17 de octubre en plena disputa por la lealtad Página|12",
+          "published": "2026-10-16T23:01:00+00:00",
           "source": "Página/12",
           "source_url": "https://www.pagina12.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
