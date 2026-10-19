@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T13:18:15.424836+00:00",
+  "updated_at": "2026-10-19T19:54:39.224048+00:00",
   "status": "partial",
   "description": "Titulares y enlaces; el contenido completo permanece en el medio original.",
   "groups": [
@@ -10,6 +10,17 @@
       "type": "Web",
       "homepage": "https://lacalle.com.ar/",
       "items": [
+        {
+          "title": "Entre Ríos registra una mora crediticia del 13,4%, por debajo de la media nacional - lacalle.com.ar",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTHVhX3kybGgyU2tDVEFZTU9WM1BNYUZ4NEtRajUzOVdUa01hZFBKVjgyRElvdG9MMEVGY2JodGRiWFQ2amFmVkxPNzVWbnBHUVcxY3lWQ2pHVlFnNFdoa05GSThVZzdkMTlDdWdoc21yNWU4YXRLdkEwWkFsOGpNcUdTcGxkNHZuTDRCVDBhNmFDNk9HMTZjVjBXdW9PNGhBX1hjOWl3?oc=5",
+          "summary": "Entre Ríos registra una mora crediticia del 13,4%, por debajo de la media nacional lacalle.com.ar",
+          "published": "2026-10-17T16:17:29+00:00",
+          "source": "Diario La Calle",
+          "source_url": "https://lacalle.com.ar/",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
+          "source_image": ""
+        },
         {
           "title": "Rocamora visita a Deportivo Norte en Armstrong - lacalle.com.ar",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zRi1CSm5nSjZEWEtvV1R4MDJOWmxPRm1UNjJ3NE1FM2ZTYVpVaHdOV2Vnc1JlVGRmMjFQQ3ZvSlBtM2VHVFF1WUlGOUdrdmd0R3psS0E5R0JZeUlsZkc3VFIyM24xaHdaa3FidTYtS3FqZUpxM3BGeHlR?oc=5",
@@ -31,17 +42,6 @@
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
           "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
           "source_image": ""
-        },
-        {
-          "title": "Música independiente. Billordo: una carrera hecha a fuerza de autogestión - lacalle.com.ar",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOY0YxMGh4S0NPSTM0RUQtWkR0SDIybTR2Z0JOMTFEODR0OXNwYTNlZEJMT1k1aUREZE1VQW8yTmFWMTY3SHNHZEtTZjBOYkRGWmMtSFZOSHdqWjZHVGFWMkZmbDlOYm05bXUyMm14QXpELWVHMGowelZ6V0ctbVdTRkFEMjRXM2wxRFNzaU9UdmlVTWxZOVB1T0FHTQ?oc=5",
-          "summary": "Música independiente. Billordo: una carrera hecha a fuerza de autogestión lacalle.com.ar",
-          "published": "2026-10-18T12:34:46+00:00",
-          "source": "Diario La Calle",
-          "source_url": "https://lacalle.com.ar/",
-          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
-          "source_image": ""
         }
       ]
     },
@@ -53,10 +53,10 @@
       "homepage": "https://www.lapiramide.net/",
       "items": [
         {
-          "title": "Intensa actividad portuaria: ingresó el buque \"SANTAMARIA\" al puerto de Concepción del Uruguay",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORDNJOWtjVkVCUVZreENJeWNBbGsyUGcydm8wbk9sMjNCWlpUQU1DOHJFZ2FpTVc1eUpfdVFrZFZPRGw5MEdQa1FmM1JCN2xfSTNTX1hiMkg2Rm1xRVg2V25URUl5eUFlQjlMX1RzX3Q2eExZZEV0RXp2dEllNHdHaTBoMTU5X0VhTUVySEgyR2txdUdHa2JRdnpPOEJnc2F5SEx0Z0FOcTUwZmRXMzlCYlJlNzJMbEltM3pQTjBfSjBRNkc3Q1k3MW4wYmtRTE41UlFRVzhkcDVQZENiTFHSAeMBQVVfeXFMTzhIWXpWZnF5NEIzSzJybVp4b0kxc0JHV2l1N2RhS2ZEVnhVUnNpMTNsTTl5LWJnbm1GbFVqU3ozVUc2UHNNbUM3TWZ0bnk3cUkxZmpjZ0hJSENvNUFJQXhPa3YybEd2OVlnR2dkT1lpbDhlVGVaWDBxQnFPUGROb3pPX1NqZ0tNeWR1WDNQbkZINm9rbUJWd2hrZkZnS0l1M0dZd2U5dzJoQXFIcVhTMUp6d3VYMmp6ZWNyelpHTzE2WGZnRnRGa3hYUEN3S1RGNkZvOGZ0VEozQktqSFJQNHNVT1U?oc=5",
-          "summary": "Intensa actividad portuaria: ingresó el buque \"SANTAMARIA\" al puerto de Concepción del Uruguay La Pirámide",
-          "published": "2026-10-12T23:45:20+00:00",
+          "title": "Las Camelias comparía Fepasa a partir del 30 de noviembre",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSzdLa1RROUV1TUdCVlMzR1JtTVRQZ2lIel9wWTN2Z2RWQUVpOTZnc0tVd3lxM2praDl4R1ZwaEV2SDdIb3BkY1dDUEJyeHlnRzUyU0hOcnBCVHFoZTc4ZGRwanlUeXdJWFpvelF1XzFvbzVfTzlfTXRBOG5qT1lOR2lpcXhXd0NtTXRNRHFOcUJwVjNWOHRsd1BLX2ZPbVRkYjdlM1BuUEFndVJ5R0JsNNIBtgFBVV95cUxQdTNOZmt3eDJuS01nWlVUVW1CRjZ4NENUQ0VZNW85eHRPZEpmWmJ6VGZuU3VlM19JSWJoQzI1M2FUQUN3VTIxdl9SS2I1OGdwbUc4MjljOWVMS1dOWWZDRElxeHlYZGZSaFpzbFVQd25PREptbmp4SWNLbUxuRmZua1pvdDFPMWM4TE44TnZ5c3h3T2EyMnN3VlRlcFFtbkJ5ZFE0Tjd5WWJhQld1OVN5VlpnZUNXdw?oc=5",
+          "summary": "Las Camelias comparía Fepasa a partir del 30 de noviembre La Pirámide",
+          "published": "2026-10-19T15:33:14+00:00",
           "source": "La Pirámide",
           "source_url": "https://www.lapiramide.net/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -64,10 +64,10 @@
           "source_image": "https://www.lapiramide.net/images/custom/logo-social.png?_v=v3-27"
         },
         {
-          "title": "Noticias de Concepción del Uruguay",
-          "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9YT3ZyZDZ1R3pyb1hPVXNFdFpzdld5V2R5T3RLZjVJZ2NQaVhGYUhKQVZTLXJKX19MWWw1X2d0S0k?oc=5",
-          "summary": "Noticias de Concepción del Uruguay La Pirámide",
-          "published": "2018-11-21T23:16:58+00:00",
+          "title": "Investigan un segundo homicidio en Concepción del Uruguay: murió una mujer y hay una detenida",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQS1JEdDJ4TVZwVTNBbGV5VE8yazI0eWpfeW95SUhMR05sQnVqSnNBQ2R5Y0ItaktMNGZGVUx4dzVUMS13MkdoQ0xpX09IQjk0SnltMlgxbnVfaFdpd3VEdlUxNWNoNDhnLXc2Y2VRM19wYnlaaWFEQ0pGUGZaaFBZMkZ4TjRaeE5Tam9qSThVNVhlQzBvZEdNeHcxd0oxbXVOX3VoWDllMWIya0Fqb2Y0a1FrVFdCTXNwR2JDbGMwQmlXRGFsNGlrc0pCMjBRclJFdDlXSmxrWmVROHAxUkFr0gHkAUFVX3lxTFBOWHZ5c1dyb21PcXRVbWY0OTBjWFNKanhpTzBWWGF3WU42bHlTYU4zdkthRURXc2xpbDBRRHFoZF9TQTIzdW81MnR4dEdKQl9FNGw4Y3l6VHFidEJOVlhTVzZMdGNQRWU1QXBMaVBtcHo3TllmSElNZTd5OXN6VDBNSVdmRnl3dUM1cGl6YmlvYlJYVGxIcThza1RKVkVWUGFmbjhHcklPUWNyc0RNa2EtNGdUSGJjT2pGc1VZa2VvV0ctVG4wNjFqU1VBSnV5NFZmWFlycWl6SmY2NmtTTUdQbGVIOA?oc=5",
+          "summary": "Investigan un segundo homicidio en Concepción del Uruguay: murió una mujer y hay una detenida La Pirámide",
+          "published": "2026-10-16T15:38:19+00:00",
           "source": "La Pirámide",
           "source_url": "https://www.lapiramide.net/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -115,10 +115,10 @@
       "homepage": "https://www.elonce.com/",
       "items": [
         {
-          "title": "Habilitaron el boyado y el servicio de guardavidas en el balneario Thompson - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMHp2TVZOUTQ3NWNZRlBZM19od2hDTFFkOE1xNHBwRFR0TUtDVFc0V3lRalhYRTVQYmJjREdpOUx4ek9DdmtoaHJPQV94ZVZ1UlhNTl9KU0JGY0lDVHdnb1hZS0xSYW1ya05tdEJMbkk1MzdPMWlRRWJxSF9SOFdCSHhVUVJScjRFR2VkNkhCTFhYV3piMFA1T3RLWUQ5cjdPb3fSAZ4BQVVfeXFMUHVHVndYYjMzeU80LV8wODlkWUJRZk03M3dFNW9rRVNYRzJJOGpsUzRkUUZUMUNSR3A0WTk2X2JzU3J3YThhcTZCRFdrbWFvclZoTzQ1ZjJ3elZyUklTV0FIX3dSRGdIbkxJV0ljVDg1a2tnWEw2Wklvd3RibklzOWhEUGppdWdXSmpZLW5IWmhWaklteGhINzZjUTh3Wmc?oc=5",
-          "summary": "Habilitaron el boyado y el servicio de guardavidas en el balneario Thompson Elonce.com",
-          "published": "2026-10-19T11:54:50+00:00",
+          "title": "Igna Sartori presentó su nueva canción \"Será\", grabada junto a más de 300 niños entrerrianos - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOS253MWZVNENFU3hoU3RrdFo1ZXlIV3JrMHc5ZTc0MVByRTByLXhLZ0VuMkhnYTdhVUx4X3RJdVpmeUpvbklEbW54b09qQXd5WERyU0c2VDhCUEYxb3hTTVZKUFJwMUdocWF0dWFEVlZ0MlRyU1ZEcmdyUENxWmoxRXdDeGtILTJndUZma0NKaWFrNkhjRWZEWDBEc0pkMnVGbmZVTEdYQllLZm5Ob3VoZFFZYWNFdy1wR2NtY2NISFdGRktpajRHX9IBvAFBVV95cUxPWG0wejZmTDNLZ2dwY3RZWTRuVEd3RG11c29PMTJqS0dVZVJmWU4tSlQybDRUMjFUdHpnZ3JvMVVsVnNsNkVnZUlNaXh1TDhHcG5WdDE5ZU5qU2wyLXllRzFscTNVWGJYN2VFeTRNenRLU0ZfVE9nV0h3MWNvMG5XVGI4MnpSWUk1WjBWdDBNSERaS0g1N0RHYlNzLUZKc0dILWpzb2tSeVBLUEUtNDFHRkhpdWRpdk9Eajd0Mw?oc=5",
+          "summary": "Igna Sartori presentó su nueva canción \"Será\", grabada junto a más de 300 niños entrerrianos Elonce.com",
+          "published": "2026-10-19T18:44:59+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -126,10 +126,10 @@
           "source_image": "https://www.elonce.com/galeria/sitio/marca-de-agua4-jpg.jpg"
         },
         {
-          "title": "Una motociclista resultó herida tras chocar con un auto en esquina de Paraná - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSnYtZmtXSGxqNjBwd2VnQjdoUjVMcS1TRnZVV3FXaEthbFF5T1JRdTBQejdlVVpVSlBnWkZhNGo0cWdEb1RJaTBOSVZzQ0EtQXNkSFdKT0VHM2cwTFN1bi1obGNMRl96QWVGOXNuRGdzTkNCQXdXVG95cWNVR1dGYTR0cEJNWEI5NkQ1b05vR3dwUk83TnBv0gGOAUFVX3lxTE1ZZlRTQXFHM3BFLVlWZ09ZcVczWW5YTjFWWWVLemZXcnRHYlUzNnBvRFphS0k4cnBRZ3Fkc2N2OUc3WDRGaVhJRWFEbFBHcGhOVmQwenZra09SRW81dUJqd2t5TExPamFvdnBzdVphbzhYNUs1WllMNUpwbWtoVXcxdS1abkhlWWgybE8taGc?oc=5",
-          "summary": "Una motociclista resultó herida tras chocar con un auto en esquina de Paraná Elonce.com",
-          "published": "2026-10-19T11:07:23+00:00",
+          "title": "El ciervo axis rescatado en Paraná sufrió graves fracturas tras ser atropellado: su estado es delicado - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOX1IyWW9yRHlJTW1fejl4cW4yTkF1QlRaU2tTUzk3MEF2Qm9JdE9yZ1FnNVRjNkRJaVM4Mm1WT0xnUU96VURSdjBJZ1cxOE9pQkg4ZEpJQjd2VV83eFY4YlFaTl9CbndfaWxXYlZkZElYLUJfMzJkeHVZd2JJeUZkdmx5NWFSYzZVWEZ6d0JZeGg1S08zZDZXWHREQ3VIX2RURl91TVUxODJreW9qamRsc0EwOUljcnphOXQ1X3pFOThoeWVjOFdLNlFEMlF6OFdU0gHMAUFVX3lxTFBDakZvQnJIb2RsNVlXazV6X29WR2JHQkUtN05ONXJ1TUoxQzlzS0lWN0FObVR0UUk1cmJ0Nm1JZDVITEkzX21KNHMyYnBQZTBRWVloUnU1dTl5YVJYS3pzNDZjSWptRWQtVGkwTi1tWU5pbWJ4VjdEUlVIZnctN1czakVQeGJ3RkpWc01wdmpwQlNzdllEZHdXZUxReUVsLUtDQlRLeWZlRld4LXV5b3RybTdxUXZSQkdlZDFydGtYUXR5TnhSUHlyU1pNQg?oc=5",
+          "summary": "El ciervo axis rescatado en Paraná sufrió graves fracturas tras ser atropellado: su estado es delicado Elonce.com",
+          "published": "2026-10-19T18:32:33+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -146,10 +146,10 @@
       "homepage": "https://www.pagina12.com.ar/",
       "items": [
         {
-          "title": "El Deutsche Bank, exbanco de Caputo y Bausili, se benefició con las operaciones del oro argentino - Página|12",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVTFRdDBMcnNRdEdieGN5NEN3QjlsRVN1Sk5kZUR5LTVKaDRGRFJKZnZQTnZBTlpZX0lYd1I4S29TbmstVFR4d2ZMeVVTYzR4UjloNEtlZjl3ZW9TcGtrb0haTVJmMTgyWmtBVzRUY3RCczM1dVc3SV8xMk5iNDh3TC1yUGZ6SkdDRkhwZHZRZlRRUEhrZVlsTThZZzNrajFra0F0SW1rQ2NOeDY2ZHphekdaUGRPVmZ4Z1VKZXlleFJHOWQ2WHIyVWZ2ajl0N1Nn?oc=5",
-          "summary": "El Deutsche Bank, exbanco de Caputo y Bausili, se benefició con las operaciones del oro argentino Página|12",
-          "published": "2026-10-17T23:01:00+00:00",
+          "title": "Milei y Sturzenegger avanzan con el vaciamiento del Estado: abrieron nuevos retiros voluntarios - Página|12",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQelBibXJCZE9MLTE3ZlJ5ZFJVS3AzbVhteUVPSjFFXzBPR3lBckNiUjZpendrZHNiQUgzSVc2RVVhUlUycDItak9WM3ZGYkpZS1hTMXRWb1c1aVg3XzdoV05UV1VJT2p6UFBsU3ExbndUVFhJTk9JMGxNY05iVHh2NVVlX3JKbWdmOHdDUm0xb3VwbjlIcHJyZ2xEOUZrYldLbUJnYUxkM1ZSb0ZHQl9SNFN4WXg1Nk9nWVRETmdPTHpKTlZrdEtSdmEyX0NBTjg?oc=5",
+          "summary": "Milei y Sturzenegger avanzan con el vaciamiento del Estado: abrieron nuevos retiros voluntarios Página|12",
+          "published": "2026-10-19T13:29:29+00:00",
           "source": "Página/12",
           "source_url": "https://www.pagina12.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -157,10 +157,10 @@
           "source_image": "https://www.pagina12.com.ar/resizer/v2/https%3A%2F%2Fwww.pagina12.com.ar%2Fresources%2Fp12logo.svg?auth=811d0fc63a912d1f8dc56b650f3a0054e089ac9c81bfee069a62717e10cbb54a&width=1200"
         },
         {
-          "title": "Plan Cóndor II: Trump prepara otra cumbre para coordinar la persecución de la izquierda - Página|12",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPS2N5bHRmSGExVXhoRW9RNmVqTlVLM0twQTA5a1M2OUhRQV9JcXl6ZElvUXNBNl9zaXY1VURiWWppdy1KZ0pGSVpBU1lQbFl1Y0N1SkhkaC00NVJrMnZLc0NHWV95dktON1NKa2poSVp0UUk0MGxoRzBBVkc5Y0VIR00wUEtyQ1dGN05XWWo1dnNTUHMwWDZZU3JxN2laQUluNXFQWUNHV201VzZqVUJmRUxfd2Jaa2F6TjlmRjJ2TDctdVBZ?oc=5",
-          "summary": "Plan Cóndor II: Trump prepara otra cumbre para coordinar la persecución de la izquierda Página|12",
-          "published": "2026-10-17T22:56:45+00:00",
+          "title": "El Deutsche Bank, exbanco de Caputo y Bausili, se benefició con las operaciones del oro argentino - Página|12",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVTFRdDBMcnNRdEdieGN5NEN3QjlsRVN1Sk5kZUR5LTVKaDRGRFJKZnZQTnZBTlpZX0lYd1I4S29TbmstVFR4d2ZMeVVTYzR4UjloNEtlZjl3ZW9TcGtrb0haTVJmMTgyWmtBVzRUY3RCczM1dVc3SV8xMk5iNDh3TC1yUGZ6SkdDRkhwZHZRZlRRUEhrZVlsTThZZzNrajFra0F0SW1rQ2NOeDY2ZHphekdaUGRPVmZ4Z1VKZXlleFJHOWQ2WHIyVWZ2ajl0N1Nn?oc=5",
+          "summary": "El Deutsche Bank, exbanco de Caputo y Bausili, se benefició con las operaciones del oro argentino Página|12",
+          "published": "2026-10-17T23:01:00+00:00",
           "source": "Página/12",
           "source_url": "https://www.pagina12.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
