@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T10:02:32.573425+00:00",
+  "updated_at": "2026-10-20T15:03:59.945831+00:00",
   "status": "partial",
   "description": "Titulares y enlaces; el contenido completo permanece en el medio original.",
   "groups": [
@@ -10,17 +10,6 @@
       "type": "Web",
       "homepage": "https://lacalle.com.ar/",
       "items": [
-        {
-          "title": "Entre Ríos registra una mora crediticia del 13,4%, por debajo de la media nacional - lacalle.com.ar",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTHVhX3kybGgyU2tDVEFZTU9WM1BNYUZ4NEtRajUzOVdUa01hZFBKVjgyRElvdG9MMEVGY2JodGRiWFQ2amFmVkxPNzVWbnBHUVcxY3lWQ2pHVlFnNFdoa05GSThVZzdkMTlDdWdoc21yNWU4YXRLdkEwWkFsOGpNcUdTcGxkNHZuTDRCVDBhNmFDNk9HMTZjVjBXdW9PNGhBX1hjOWl3?oc=5",
-          "summary": "Entre Ríos registra una mora crediticia del 13,4%, por debajo de la media nacional lacalle.com.ar",
-          "published": "2026-10-17T16:17:29+00:00",
-          "source": "Diario La Calle",
-          "source_url": "https://lacalle.com.ar/",
-          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
-          "source_image": ""
-        },
         {
           "title": "Actividad legislativa. Obras, tasas y seguridad estudiantil, en debate en el Concejo - lacalle.com.ar",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVVkwX1I4dHkwT21vWTNzVHVyMUM1aHhFakhpaUMyZW1NNVk1RGtiRXRKZ3kxWkFOTVM0WTl6MllCUHBlZURrVjZjUWFOUWh6VmhCbnNlZjd4X1JLbzhPUUxjSGpmbVQxOThyd3JPMnh0RTI4bFlkcU91M1RNSWpXYzUwakZiNHlEak94WU1ZMmdIb1VPZFA0Y0M0UWNfOWZQdG5GM0hWRGw?oc=5",
@@ -37,6 +26,17 @@
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zRi1CSm5nSjZEWEtvV1R4MDJOWmxPRm1UNjJ3NE1FM2ZTYVpVaHdOV2Vnc1JlVGRmMjFQQ3ZvSlBtM2VHVFF1WUlGOUdrdmd0R3psS0E5R0JZeUlsZkc3VFIyM24xaHdaa3FidTYtS3FqZUpxM3BGeHlR?oc=5",
           "summary": "Rocamora visita a Deportivo Norte en Armstrong lacalle.com.ar",
           "published": "2026-10-17T23:36:06+00:00",
+          "source": "Diario La Calle",
+          "source_url": "https://lacalle.com.ar/",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
+          "source_image": ""
+        },
+        {
+          "title": "Música independiente. Billordo: una carrera hecha a fuerza de autogestión - lacalle.com.ar",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOY0YxMGh4S0NPSTM0RUQtWkR0SDIybTR2Z0JOMTFEODR0OXNwYTNlZEJMT1k1aUREZE1VQW8yTmFWMTY3SHNHZEtTZjBOYkRGWmMtSFZOSHdqWjZHVGFWMkZmbDlOYm05bXUyMm14QXpELWVHMGowelZ6V0ctbVdTRkFEMjRXM2wxRFNzaU9UdmlVTWxZOVB1T0FHTQ?oc=5",
+          "summary": "Música independiente. Billordo: una carrera hecha a fuerza de autogestión lacalle.com.ar",
+          "published": "2026-10-18T12:34:46+00:00",
           "source": "Diario La Calle",
           "source_url": "https://lacalle.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -95,10 +95,10 @@
           "source_image": "https://www.r2820.com/images/custom/logo-social.jpg?_v=v3-45"
         },
         {
-          "title": "ANSES: cuándo cobran jubilados y beneficiarios de asignaciones en noviembre con aumento",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaWpHNVFycTM0cnJ3VzcxWEhiSXVEd1dWcnlxVlFUdWUxS2lsRTMtLXhwQ2ZTbEJVaU42VmlGTGFpRWo0RDh3bFNRSFR1LWNMR2Izekw2Q0RYTVNSMm1NcjFBMHJmYzc5amFBVTNENW1MbTUyeEdUS3hDRVJFWXliRERqTVE1bThTUENwQkZRMnk5WXllTkg4bHNuN3pha1pDUlVwVlliazhuWTRoMEZnSElnYkdRYk1Oc29UeVpMSXlod1dNMEhjWWExTkg1aVhu0gHWAUFVX3lxTFBXbGZaV0l2YlB1Y3FlR1JlS3ZLdnpFVEZVcUppQlhtSlp0Q0FfQlh1em1uT1BvUlFlVHJPaV9oeXhiVWh5ZUdFZUpqbTNNR3JIdXljTGdzWXVna0Qzd3lIRlY2LTBRcGJQZmJZYk5fTTNlNUVtRnRMN0NRZVdMOGFsWDRuc2l0ZmR5Q3Q0QTQ2RDg2NGFTeDVkbnZMV3Uza2d3ckQ3cHBET21DSUV0dFFuNndwMWNxN1RObl8tT0NCWHQ0a3Y4UXZwV1NLLU02ai0xcjBwUHc?oc=5",
-          "summary": "ANSES: cuándo cobran jubilados y beneficiarios de asignaciones en noviembre con aumento R2820",
-          "published": "2026-10-16T23:55:20+00:00",
+          "title": "Un hombre fue arrestado tras intentar usupar una vivienda",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWk1aZWV0aVJONnN1LUdfZjFDNG1uZURxQzlxZGJnQU5nWHcxZE9PTDhNLTBIM1lVNGUwNjl5RVlEd3c5UE9Tak5Ga0dQTC1CVlVEbWF2bVlueTYyVGpDc3NQRVRZcG1Ed29HcDh3cUlHWTgwV3VEeUpxbmI5VGs0VDdqaW85QXdjYmpKZVpPLWRXeDg3bFhNbXpHbDZQZGNmRDh1eDVPQVFEUdIBrwFBVV95cUxNcWJRQWFvLTFYX3JubnZIMHFZRk1QRmhRS1FoNkItcTFuRU55NTZjY2sxSXpMN2dSX0c4R3NvQmUwXzRrTHBBX1Z5WGdFcUtsaW5qZDRURHZSZFBTMjZNRDljNWZpSE90c0UxZ19McFZVdGpZWVctUlAzUjVPRVE2T0paLUxoMEFEVU5rMXU1ekowVFFFQmdVVFFoM1lWUmYxMGRfZXdZTi1KbTNsQkJn?oc=5",
+          "summary": "Un hombre fue arrestado tras intentar usupar una vivienda R2820",
+          "published": "2026-10-20T00:19:48+00:00",
           "source": "R2820",
           "source_url": "https://www.r2820.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -115,10 +115,10 @@
       "homepage": "https://www.elonce.com/",
       "items": [
         {
-          "title": "Salud de la periodista Bárbara Brunetti: familiares piden acompañar con cadena de oración - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSTVVSXdET2M4LVRLRG5tXzdZMXJtc01DUkdpRE1LSk13Z3J6NE04RlcxVmwtaFJPQ2JjTlU2R3paamJIeDN4WGliUHhucjRONkNHdTliREZnVjF1cFZHVW9INVgzd25Jd2tCalRmNlpjM1FHVFliaGItOXN2Qm5jdU9tejVXRG0xZGsxZURVR2tkZVJCS05JdkpMSXpBRlpKMEN3S3VGWHhTaW94N1dkZE9tM2NQWTV4d3fSAbYBQVVfeXFMTkdpeGtMVWtqM1dJZl9pMnhOT0Q3MTEwZWVZNEZ5S2lOcWY4d09ROGRyc0ZjM2VNNlVBUWo1VmtvOU1FOFRGZzJWRklnVmVKd0NEZ2VfVWh0VTRGWVlKN2dnOHJvNjhuSW5qRzJ6Ti1KOUc0OFRoUHprbnF2dEpxYmZRZTVkSjBjM0l4TTVwOElkSG53cEZELXY0SU9LMDdGanNINXoyNTJZaGxfX1c2czZxYTNienc?oc=5",
-          "summary": "Salud de la periodista Bárbara Brunetti: familiares piden acompañar con cadena de oración Elonce.com",
-          "published": "2026-10-20T00:29:00+00:00",
+          "title": "El programa Cancheritos, que se emite por Elonce, fue nominado al Martín Fierro Federal - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZVdmSjlfZy1FVllGSDVkT3hWUWVkQWJwWG9zR1BoSmlPSjZoNTNHazV4QXJaa0FHc2NYWUo3M0xOazdJMXY4SUtoQ3lRaHJfN0N0LXJLVFJoczdaMGtrWnA3OUtDUjV2ajFJcE5GVVNITkh0WC1VYjJ1TnJYTWluWDN5M1dsN0FWU1ZxWlVJV0RFY1RsM1k5RjFvbmVseU1vVEHSAZsBQVVfeXFMTzNJZ3l3Y0tnaFFObEpmdWtYZGxTemVkbEs5TXRrZUlEcGVvMEJTMGhwa2hCVVNkVHVsSmcteHlRdW5Cakt1TDB5eHVVcjNJeENUaURfc3FEYkdsT3M3NW0xMkhwbmZWdXpZT1lxVXkxU0VRYmpiMUc0OUxFbVlzSGhLbG5Eazc5Q3RxYmsxTXpwUTJQWDdYRWJjOWs?oc=5",
+          "summary": "El programa Cancheritos, que se emite por Elonce, fue nominado al Martín Fierro Federal Elonce.com",
+          "published": "2026-10-20T14:08:27+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -126,10 +126,10 @@
           "source_image": "https://www.elonce.com/galeria/sitio/marca-de-agua4-jpg.jpg"
         },
         {
-          "title": "Niña paranaense se consagró campeona sudamericana de gimnasia artística - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNmo5SmNCbTVFY2FCb0RrQ0xFdjRfMF9EY28tY25taWNVV1RvaWZacVZfWkdSRzZERUlZOVk0UlMweF9uRzQ5eF82TTZvTFpGR2kyN1VXNnlmNVo0VzIxZ3RiLTlLckdVSG91S2t4WGhnSGY3Q2lrY3h6eTFWNGRJblBtMWJNWWFEck8zdnJNbmZMNWc2ZHE2LUxQTk5MMlJvWEFuR1R0YTZMdzQ0RHJ5YklWRFhUNHZhTnpz0gG0AUFVX3lxTE1EMWd4Tk1XVFhGamM3NkRnczVScTZkTTdGOXh2blRsNy1rVVdqakVrVURVUjk2c0pacjlKZDN6SFNQUGxDWHVYVUJpZnJOb0dndFB5enlQcGg0UGpSU3NDaldXMUlOSGdUMTFrdWNRNnJnb1RTUWNZcFU3U0JPLWhmbVJmRDhXWlN3Z2hqMFhSbDNjc3BXWnVybE80U2R3bnkzU2I0dmVHVmpjbHNZTGZqSE5ZTQ?oc=5",
-          "summary": "Niña paranaense se consagró campeona sudamericana de gimnasia artística Elonce.com",
-          "published": "2026-10-20T01:17:18+00:00",
+          "title": "Incendio en una sala velatoria de Paraná: una empleada fue hospitalizada y evacuaron un jardín maternal - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONTRLcU03Tmc3TDh6ZlJWV1p4TkNkb2Rja3AwQno1cjE0eGFFNnRLcjkybFU5T1hRb0JxVE95WjkyaUZqT3Q0bUFmV3kwTElzc3NhQWlPOFRjUVRBTjBfY2pnbXl5cWxJcEtEekNCd0lpSWI1WXFDaWsyZjRhZVQwTUFMcV9lQlN5Z0hrQ2VpeW1CMFRFd0JlUm9yNXlHTmoxMElPQVNmcmpKcjVwbHdVNDNnYThhVkdsdDdZenVUNGQ3T0pvRmdBN3FCeV9DU1Z5RkVmb1RYUdIBzgFBVV95cUxQMGVQN1Z0ekRmbndfTjRPemgtajVPVXgwM1VxV3RvdzFMa3Fpd3A5X25rY1p3cmRockVzbE5YN1BPYnR5RXBKUGh4VllkNVVVY0RpRmdoY19kTUg5aWZQRGhKNVpQOE1FTHEwQzJkNjhKWnREWHpHR2dGQmhycmVpTVBGaGxmSVVmZWpqQ2VUWkx5eU5kbzFQcTVRRVp5UGxualpMdlNrRkVVQ3QwdWUzNTFCTkhlc2U4ZE1ucGZpRTZMYmlkN0pYd1ZTNTBtZw?oc=5",
+          "summary": "Incendio en una sala velatoria de Paraná: una empleada fue hospitalizada y evacuaron un jardín maternal Elonce.com",
+          "published": "2026-10-20T13:33:01+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -146,10 +146,10 @@
       "homepage": "https://www.pagina12.com.ar/",
       "items": [
         {
-          "title": "Dos enviados de Trump llegan a la Argentina para controlar que todo marcha acorde al plan - Página|12",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORkJXbHRsSXFsQkRxR3FsZTVPZkw5ZnIxdXNlM2k2c2ZfbHdYaFBwVGkzMk5YQ3VRd2JtNDZyZU9zNS1BVXRhbFpHd3NQUmljcGxTekthT2FSQUF0ZUtjRWhkbDF4QlZKWnpGZG5UVXVaQUx2ZHZOV2RTY3lqSEstYnVmQndaU3piRkhnQTE2UkVtYUs2dDc1N3IzOUQ1bFJDZUpFVmlWUUVnOHk3ejlFTVZxWVhPVEpjbHhobTFKVnA4M3owcE9Qdw?oc=5",
-          "summary": "Dos enviados de Trump llegan a la Argentina para controlar que todo marcha acorde al plan Página|12",
-          "published": "2026-10-18T23:01:00+00:00",
+          "title": "El Deutsche Bank, exbanco de Caputo y Bausili, se benefició con las operaciones del oro argentino - Página|12",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVTFRdDBMcnNRdEdieGN5NEN3QjlsRVN1Sk5kZUR5LTVKaDRGRFJKZnZQTnZBTlpZX0lYd1I4S29TbmstVFR4d2ZMeVVTYzR4UjloNEtlZjl3ZW9TcGtrb0haTVJmMTgyWmtBVzRUY3RCczM1dVc3SV8xMk5iNDh3TC1yUGZ6SkdDRkhwZHZRZlRRUEhrZVlsTThZZzNrajFra0F0SW1rQ2NOeDY2ZHphekdaUGRPVmZ4Z1VKZXlleFJHOWQ2WHIyVWZ2ajl0N1Nn?oc=5",
+          "summary": "El Deutsche Bank, exbanco de Caputo y Bausili, se benefició con las operaciones del oro argentino Página|12",
+          "published": "2026-10-17T23:01:00+00:00",
           "source": "Página/12",
           "source_url": "https://www.pagina12.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -157,10 +157,10 @@
           "source_image": "https://www.pagina12.com.ar/resizer/v2/https%3A%2F%2Fwww.pagina12.com.ar%2Fresources%2Fp12logo.svg?auth=811d0fc63a912d1f8dc56b650f3a0054e089ac9c81bfee069a62717e10cbb54a&width=1200"
         },
         {
-          "title": "Milei y Sturzenegger avanzan con el vaciamiento del Estado: abrieron nuevos retiros voluntarios - Página|12",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQelBibXJCZE9MLTE3ZlJ5ZFJVS3AzbVhteUVPSjFFXzBPR3lBckNiUjZpendrZHNiQUgzSVc2RVVhUlUycDItak9WM3ZGYkpZS1hTMXRWb1c1aVg3XzdoV05UV1VJT2p6UFBsU3ExbndUVFhJTk9JMGxNY05iVHh2NVVlX3JKbWdmOHdDUm0xb3VwbjlIcHJyZ2xEOUZrYldLbUJnYUxkM1ZSb0ZHQl9SNFN4WXg1Nk9nWVRETmdPTHpKTlZrdEtSdmEyX0NBTjg?oc=5",
-          "summary": "Milei y Sturzenegger avanzan con el vaciamiento del Estado: abrieron nuevos retiros voluntarios Página|12",
-          "published": "2026-10-19T13:29:29+00:00",
+          "title": "Dos enviados de Trump llegan a la Argentina para controlar que todo marcha acorde al plan - Página|12",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORkJXbHRsSXFsQkRxR3FsZTVPZkw5ZnIxdXNlM2k2c2ZfbHdYaFBwVGkzMk5YQ3VRd2JtNDZyZU9zNS1BVXRhbFpHd3NQUmljcGxTekthT2FSQUF0ZUtjRWhkbDF4QlZKWnpGZG5UVXVaQUx2ZHZOV2RTY3lqSEstYnVmQndaU3piRkhnQTE2UkVtYUs2dDc1N3IzOUQ1bFJDZUpFVmlWUUVnOHk3ejlFTVZxWVhPVEpjbHhobTFKVnA4M3owcE9Qdw?oc=5",
+          "summary": "Dos enviados de Trump llegan a la Argentina para controlar que todo marcha acorde al plan Página|12",
+          "published": "2026-10-18T23:01:00+00:00",
           "source": "Página/12",
           "source_url": "https://www.pagina12.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
