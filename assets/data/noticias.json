@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T01:29:51.045510+00:00",
+  "updated_at": "2026-10-23T07:29:53.102187+00:00",
   "status": "partial",
   "description": "Titulares y enlaces; el contenido completo permanece en el medio original.",
   "groups": [
@@ -53,32 +53,32 @@
       "homepage": "https://www.lapiramide.net/",
       "items": [
         {
+          "title": "Recomendaciones por alerta meteorológico",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUFJNNl9mTU8xY0VQaGdvSmxnZXRGWFFCVldTdkZhUW5tQmdSQnJXNzZLN0VfSWg1ckRyV05NUTZOaGw1SHJrMktORDVvZjY2UHY1a1hkbVlzR2IxcWh0aE5TN0lqT1ZLRkNQYm01Mk43elh4TU94NFd5ZkxCN2NDSlpzNkZ0VGpINEdHMWNnYlJ2eURNNmRmb1h30gGfAUFVX3lxTE9SUDJlcEdlU19sbW96SGotUUpMSG0wdjExSHpBemJxQzZBcUU0OTNrbGNZcHZwOExLRHREWXZTaUd5YnpFQkVqYUd4WkxRUXBoSjFxVGl0TEJ0eFd5REhCSTVhN2E1dlFOTlZLNFMwREtra0VUakNBZVlzMjZFem1VZF9aTkRtcWVzb0EzbjlVZGRvQ1pqV3hzbzZBdjhRSQ?oc=5",
+          "summary": "Recomendaciones por alerta meteorológico La Pirámide",
+          "published": "2026-10-22T16:55:51+00:00",
+          "source": "La Pirámide",
+          "source_url": "https://www.lapiramide.net/",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source_logo": "https://www.lapiramide.net/images/custom/favicon/favicon.ico?_v=v3-27",
+          "source_image": "https://www.lapiramide.net/images/custom/logo-social.png?_v=v3-27"
+        },
+        {
+          "title": "Fúnebres",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAwWWxTd0toUnFlb2hpdzJkQmI5OG45YnN6Q3V0d0NhVTY5emE4VW1jYzhDSnppYTJrUVBSa3Qwdkh3dDZuVVIxNVI2TQ?oc=5",
+          "summary": "Fúnebres La Pirámide",
+          "published": "2025-12-31T13:40:41+00:00",
+          "source": "La Pirámide",
+          "source_url": "https://www.lapiramide.net/",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source_logo": "https://www.lapiramide.net/images/custom/favicon/favicon.ico?_v=v3-27",
+          "source_image": "https://www.lapiramide.net/images/custom/logo-social.png?_v=v3-27"
+        },
+        {
           "title": "Este martes recolectarán medicamentos vencidos o en desuso",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQUFBYS1hUXVZQkIyS29nRFZpVmFITFV5ODlHQXBVMTlfTk13ZjM0UnR1R2xlWHlhdWZja3kwSXZETEJhRW1uUFBrZlJmZjJiTl9abi1qaUUtUkZ3dVhZLUtPaVYyTEpnUW40TEpZRXRTbkFYWkh4ak1FSnV5WlVvaEoyTHhxYlFYUllRb2tQcXU0YV9pbkYyZktDeUZoTEhOS1dEX3pacDFZQ1RmUzlqYnVn0gG3AUFVX3lxTE4zOWktNTJHRkEzOUNzOFJ4Z0pOZFI3cHBLc0pxMlJVMVV3TzljM2VVUGVOYlhxcE1sbG0wNTRIZTZVS1l3T05XWlJKQVRfeHZyZVhkeDZnQS1XUGZDTXpDMVV1SlBhSHJZOGo3OVFsdC03TFU1ZUtnaEMyWDVZaHlqTEVUYjV0VVlDU2RLT09qTkg4MlRoN3NFdm5HbDhfX1dZbVpyTW0wNk5uUXBNWE9rekpLWGk3cw?oc=5",
           "summary": "Este martes recolectarán medicamentos vencidos o en desuso La Pirámide",
           "published": "2026-10-19T20:32:55+00:00",
-          "source": "La Pirámide",
-          "source_url": "https://www.lapiramide.net/",
-          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "source_logo": "https://www.lapiramide.net/images/custom/favicon/favicon.ico?_v=v3-27",
-          "source_image": "https://www.lapiramide.net/images/custom/logo-social.png?_v=v3-27"
-        },
-        {
-          "title": "Una joven de San Justo representará a la UNER en un encuentro científico internacional",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRHExUVV6T19UUnVtbFhrYkF6dUQ4T25aVFVLQ0lxZ0J0TmxGMWl5REplcVdrMElsSng5ZHJzZEpzaDVsdGRGUGdZTE9VM1A1bklLSDQ1MFlrSHo5alVIakY2el9tVkhOOTBIcmllTmplSDFlMXVqblJySjFLaWlCX0lsWFF6VzFFcUxkVXJNLUFPT0wxZFZRa1lrSTVCUXhfUVUyVDJRWWlpWjJmdy1mRkpZV3pNWFBqS2ZtWHN2RWhXQVVmMnY1Yjh3M082MTR1QUhnQWFOQdIB3AFBVV95cUxOVU5TWk5vdVlNclNXMWRJdU9TelBXajVna2JPOXNuYTdlYTA4YUYybUh0TXpxaXJPNWZwb2ZlWkJLWTZmRXJFRDNONUgzVlcyclhiZE0xUjN0TGVIei1pUW14ckZPNFpWb3VsMWxoZU9mMDJhNTJPX1d6ZXRES2hDSjNGaFE0anZOQmdiR3k2bHlLVG1fY2V3SEY4SThpTkwtYktnZ2N0WWRiUmNMdk5FR2NXX3kzWXc4R0ZMamRCdW9VTUhwNS1WQ3F5WmppbkR4M0IxZmVjSTZOZXBw?oc=5",
-          "summary": "Una joven de San Justo representará a la UNER en un encuentro científico internacional La Pirámide",
-          "published": "2026-10-21T20:48:24+00:00",
-          "source": "La Pirámide",
-          "source_url": "https://www.lapiramide.net/",
-          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "source_logo": "https://www.lapiramide.net/images/custom/favicon/favicon.ico?_v=v3-27",
-          "source_image": "https://www.lapiramide.net/images/custom/logo-social.png?_v=v3-27"
-        },
-        {
-          "title": "El Galpón Solidario compartió una jornada de peluquería, solidaridad y trabajo comunitario",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTHF5eDJCbDhXem52RFR0NEJlMWFDNUE5TXo2NjVsb2x6ZlJoUXpKYkJ2eDhyOEhOeWdycjFOdkdkX0s4RFIwYmxDWktCZUYyak43bUNuUEIyb21fQmUzbXVRekFPbGlkaEpfY0xyOTJGSXk3cnFacFdiUGl3djVhR09OMjJmQ2FXTURET29NSnJfOHB6ZHdhNHM2NmV6MlFoY1o1UGZMVnlacDFtcDhRakRUVmtReXhmR2NPRk9ueVczeFphTl9yRUV5RFk2S2JVQk9temtDRnlwUnfSAeABQVVfeXFMT3JOejZndHl2anRabXoyOWtXb3JXU0Q0WU9KMm9WNmhlRkN2RThYY2JuOUE2dEE5cXd5c1ZiRjNJczBVQXNqZFM5bWhXeXJpRXBncmczcm1xVEhHZ25Dbkw5d096N29vT2ZjQjV0WmFiNm9ZWTVMcHFEUWttWjZjNUVPeWFpZXZGZkNRZU1VWkJxWEczMjlFVnVTdG4tSFNxQ3pQN01LSmMtWWJRbVZkUkkzcUxJNWg2TTRpWTFwU3loNFVfMGo0SmlhaFNPUmJaWjNjUUFSbEpSY3JKalRaVVE?oc=5",
-          "summary": "El Galpón Solidario compartió una jornada de peluquería, solidaridad y trabajo comunitario La Pirámide",
-          "published": "2026-10-21T15:28:00+00:00",
           "source": "La Pirámide",
           "source_url": "https://www.lapiramide.net/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -106,10 +106,10 @@
           "source_image": "https://www.r2820.com/images/custom/logo-social.jpg?_v=v3-45"
         },
         {
-          "title": "ANSES: cuándo cobran jubilados y beneficiarios de asignaciones en noviembre con aumento",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaWpHNVFycTM0cnJ3VzcxWEhiSXVEd1dWcnlxVlFUdWUxS2lsRTMtLXhwQ2ZTbEJVaU42VmlGTGFpRWo0RDh3bFNRSFR1LWNMR2Izekw2Q0RYTVNSMm1NcjFBMHJmYzc5amFBVTNENW1MbTUyeEdUS3hDRVJFWXliRERqTVE1bThTUENwQkZRMnk5WXllTkg4bHNuN3pha1pDUlVwVlliazhuWTRoMEZnSElnYkdRYk1Oc29UeVpMSXlod1dNMEhjWWExTkg1aVhu0gHWAUFVX3lxTFBXbGZaV0l2YlB1Y3FlR1JlS3ZLdnpFVEZVcUppQlhtSlp0Q0FfQlh1em1uT1BvUlFlVHJPaV9oeXhiVWh5ZUdFZUpqbTNNR3JIdXljTGdzWXVna0Qzd3lIRlY2LTBRcGJQZmJZYk5fTTNlNUVtRnRMN0NRZVdMOGFsWDRuc2l0ZmR5Q3Q0QTQ2RDg2NGFTeDVkbnZMV3Uza2d3ckQ3cHBET21DSUV0dFFuNndwMWNxN1RObl8tT0NCWHQ0a3Y4UXZwV1NLLU02ai0xcjBwUHc?oc=5",
-          "summary": "ANSES: cuándo cobran jubilados y beneficiarios de asignaciones en noviembre con aumento R2820",
-          "published": "2026-10-16T23:55:20+00:00",
+          "title": "Camila Gómez Gusalli debutó en el Mundial de Canotaje con sus compañeros de hinchada",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcnpkalgtbmJzUkRTbGpWN1pIWWd0XzB0YnhDNUhjUGw2Y0V4QlZSd2FDdmVGVU1SMzQyenRfOEoyOFJ3bVBUU3BwX1FFVGFvN0RSM01yeTNrQk5UcU9sbkkxVDY3SFNJNEhCZFlRbVpEX25PeHR6UGZrcktINUN2WHNEbjRhZmg1QS1PaXpiVHlrLV9VN1gwVFI3NUJwSTV0dGtuWUpfZ24zY3Jhc0owUEZ2V2xWOUxQVkhjNTZNZG1LcUJwODRKYVp3N01Hd9IB0wFBVV95cUxQRERaaTR6d0hobUZYeE43cnVEVnFzN3d4OG9XRi1VMnVtS1lQS2w1MV9Vdk1IQlVoQlVtY0FkbVdSdHg3dlpnOHg4UWQyOWJqU0lQaHFVX3lKRWE3ZHYxWmY1R1BZelE0NDM1Z05JQV94M0ZESm9wLUIzRkJ3bHpZUkRVY0l0ckt5SEk4RzlVSUNvNDRYZkVNN0wtWXhWZE51M09aS01BVWc4OHlCMElabkRtNmtkN25LbkNtZUtLSzYwWF9TUmJRWXNjbHBRZVJwMmZV?oc=5",
+          "summary": "Camila Gómez Gusalli debutó en el Mundial de Canotaje con sus compañeros de hinchada R2820",
+          "published": "2026-10-22T21:25:43+00:00",
           "source": "R2820",
           "source_url": "https://www.r2820.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -126,10 +126,10 @@
       "homepage": "https://www.elonce.com/",
       "items": [
         {
-          "title": "Personal municipal rescató a la perra \"Olivia\" de un desagüe - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVE5oTUlLYnpCeDY0eXpmU0lWUThoMFNlcGFzX2FWSjdPSGNUbUMzWmxYRy1IVkt6NGR3eEV2ZVlOLWs4ZU5NeFYyYnJ3YUc2SVJjczdkVExsZE05X083cjJEakEzZzhfX2g5T1VET0JPT0hQLXJLVl9wR252S2JlZ1lEejhoOFZCYWZwb3VNYnVNTWsyc3FCRHhDV1Z4X21BbkE?oc=5",
-          "summary": "Personal municipal rescató a la perra \"Olivia\" de un desagüe Elonce.com",
-          "published": "2026-10-22T22:51:09+00:00",
+          "title": "Caso Santiago Reisenauer: reabrieron la investigación por su muerte y su familia reclama justicia - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVHBJSUotbG8wSkdaTU1pY0JmV1E3NGRIQ20yMWJEYngwRVNBUmVab2hIOE5LcGhpNTFhNGRyVlUtVGtxbG5JOTc5aVNXR0VvZXktWjBrMUFMU2FFaWJsQmVlSVRVNW5mN0FsM0Q0a05HZ0tFOVhubllNVVpUR25sUk1QNENBUl9KdnV2b204S214OC1pb1dIb3dqZFRFUdIBlAFBVV95cUxNNHJnOXJ3akpFYWpsRUhjMkZaSkdPX2dEbG5iLXNDMENNaDI1MGVjdFFDZ3VXdzFZZVBiaTF1OVpJNEJJUE9xbXRuZVp4R0g2QnB4Qi1zbWZTd1lNZGtidTZQQWIzQm9wQVZ0Q19sbnptWS1kc2I1XzNrVm0yenA3ejRfWVRRTHp4bmFWelV5eTg0QWdM?oc=5",
+          "summary": "Caso Santiago Reisenauer: reabrieron la investigación por su muerte y su familia reclama justicia Elonce.com",
+          "published": "2026-10-23T00:45:37+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -168,10 +168,10 @@
           "source_image": "https://www.pagina12.com.ar/resizer/v2/https%3A%2F%2Fwww.pagina12.com.ar%2Fresources%2Fp12logo.svg?auth=811d0fc63a912d1f8dc56b650f3a0054e089ac9c81bfee069a62717e10cbb54a&width=1200"
         },
         {
-          "title": "“Estúpidos incompetentes zurdos empobrecedores”: Milei llevó a España sus insultos - Página|12",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWEhmTVp6NnNGeWE1Y3Z2VDJXZFhUMktzR1VEOVZJaVJuMHhUalNsdFBsN0F5T0VrcUN1RVJuUGEwOEZGbldweDBVbTMwYXlHUERsNjZhR0FmTWhkRGJJcWlkSlpOVHBLaERGSzVnYjdaWWk4d3BTMlBkLXBVNUJDNi1WVDg5SXVuRC1rUHBlbUk3cUtZWjZYWVk1aU9uM25XeExIenJtUFlzU2poWl9sTVpud3JOX0ppZG44?oc=5",
-          "summary": "“Estúpidos incompetentes zurdos empobrecedores”: Milei llevó a España sus insultos Página|12",
-          "published": "2026-10-21T13:04:45+00:00",
+          "title": "Se derrumbó la imagen de Milei tras burlarse de la gente que no llega a fin de mes - Página|12",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQU3gyV2hGZEdpeTBQcUx2UHdpc29ybl9PSVBWaS1TdEhmUXJ5aURFNmlwNEl5RVJEM3o2YTFZQU9Yb3RldzlCSG90N2dKZ1dSdW84TUxGS2lNdmgwWXI0OWJLUy0zbXc1MVNiTDd6Um4xelI3U3NGX1N5UEdUMUM1Q1ZzZzdHYTJ6WWg4MzZ0U054RndTVUVKLVJ3UUVOaDJfNjBFcnoteVBnRlJqbFhRY3NobW9DcV85OHZ3V2Jqdw?oc=5",
+          "summary": "Se derrumbó la imagen de Milei tras burlarse de la gente que no llega a fin de mes Página|12",
+          "published": "2026-10-22T14:36:33+00:00",
           "source": "Página/12",
           "source_url": "https://www.pagina12.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
