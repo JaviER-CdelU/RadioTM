@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T22:08:19.936109+00:00",
+  "updated_at": "2026-10-24T00:40:32.618393+00:00",
   "status": "partial",
   "description": "Titulares y enlaces; el contenido completo permanece en el medio original.",
   "groups": [
@@ -53,6 +53,17 @@
       "homepage": "https://www.lapiramide.net/",
       "items": [
         {
+          "title": "Intentó abrir el baúl de un auto y escapó al ser advertido por un policía",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZjZ1U3g0dXNBSU1pZ0o0ZWozMkl2ZUxyWHpORGVyM2RnVVE2UzNkTmJZbmRwUVR5Ujd0Rkp1QlVlVFNzdmdxeTBqQ3Nqb05RNGxvQS1uRXlMX25HUnJhSVE0aW5uWWREaVJRVmFpamFtVDd6VmhQOVZDc3loWG0wdFhmU3lGRWFGbEYwQ0ZNQjJsYkViMTNmRmtvamFYek1DYVBFMzBVckZUYktWRnY3MHFvZjBhd3RYQktzV0VRVy1CREVxRGfSAcsBQVVfeXFMTTU4YjdBakFsdC02dGZsMWI3SldKUndwanh4SzFNSWIyUmhCc1AxV3NVUjV5ZDNONW00MVFObjZ1Z1NGR2xUNU1Yc09NR0NjTlNqcmFEQUhxV0o5anJiSW8zMzRKRmxuY3JwMGZaSTRlRlNBbTlnSThaMVhlQkl4OXpjYUJ0T1pKNnBJLWZ4VXQtZFI4NlJUcHJEY1JhZE9STDJMV2xRM0c2dkJGVzE1dDFlaDFJZXJmby1KaFhtd3lPbF8zRVEtSHNVRTA?oc=5",
+          "summary": "Intentó abrir el baúl de un auto y escapó al ser advertido por un policía La Pirámide",
+          "published": "2026-10-23T15:24:51+00:00",
+          "source": "La Pirámide",
+          "source_url": "https://www.lapiramide.net/",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source_logo": "https://www.lapiramide.net/images/custom/favicon/favicon.ico?_v=v3-27",
+          "source_image": "https://www.lapiramide.net/images/custom/logo-social.png?_v=v3-27"
+        },
+        {
           "title": "Emanuel Noir podría interpretar el Himno de Concepción del Uruguay en el acto por el aniversario de Urquiza",
           "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNeWd0S0hxYVJNR3NOMGd4YmdSYWFkN2lGN0FhZE1iek9Zenl0RFl4eWktUi10LTlwaUMxNnA0Yk5mRF85R2stbmZMeGlCeXV6M2pGWHdKd3NLcmxyU1FHTE12TmxEa2o0dk8ycm1kYUJhS0dJYWZMVlRZQ0ZMbnNadF9wMEhqa3MxOHVybGk3SUh6MzFKVldkc0dhNWZWWE1aSXZYREhpanNsMzJKUGhoRTZibG9GMjV6RnMtZDNwTFNXUkVDSnNKWlJYT3dhM2lydWtmOFJkaHdtU09vWTR1YTlqb3pJWlpHSHl5QllNajhaREnSAfgBQVVfeXFMT0p6b2F2VW94WjE3c3pnU1NSUTczT0RWTmMxMHpQZHZTUWdmaTFpa0NsRFN2WkR0eGw4RVlFNzJEa1E2NFdsNXhYY19YMlBWd0ZTQXc0dnRvZ283U01Da0dpX3drVnRKWjVFc2ZSZUQyajUzNk0wdzJtTE9oN0ZhMjRyU3lUTm92d1U0dGlNdEp0MGRxaHJyQ1A3ODVEWHVwSVZnUkpJVkR5SGRyd2prZ3Vvb0RUSUV1RXM0RnFtWGFvd2pTM0w2VlZZdk54MVZYS0VPR0l3UjVuekRndkJTYVBXTjgtdUZINzJENFh5YlkzOUo1V2JsZEI?oc=5",
           "summary": "Emanuel Noir podría interpretar el Himno de Concepción del Uruguay en el acto por el aniversario de Urquiza La Pirámide",
@@ -68,17 +79,6 @@
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUFJNNl9mTU8xY0VQaGdvSmxnZXRGWFFCVldTdkZhUW5tQmdSQnJXNzZLN0VfSWg1ckRyV05NUTZOaGw1SHJrMktORDVvZjY2UHY1a1hkbVlzR2IxcWh0aE5TN0lqT1ZLRkNQYm01Mk43elh4TU94NFd5ZkxCN2NDSlpzNkZ0VGpINEdHMWNnYlJ2eURNNmRmb1h30gGfAUFVX3lxTE9SUDJlcEdlU19sbW96SGotUUpMSG0wdjExSHpBemJxQzZBcUU0OTNrbGNZcHZwOExLRHREWXZTaUd5YnpFQkVqYUd4WkxRUXBoSjFxVGl0TEJ0eFd5REhCSTVhN2E1dlFOTlZLNFMwREtra0VUakNBZVlzMjZFem1VZF9aTkRtcWVzb0EzbjlVZGRvQ1pqV3hzbzZBdjhRSQ?oc=5",
           "summary": "Recomendaciones por alerta meteorológico La Pirámide",
           "published": "2026-10-22T16:55:51+00:00",
-          "source": "La Pirámide",
-          "source_url": "https://www.lapiramide.net/",
-          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "source_logo": "https://www.lapiramide.net/images/custom/favicon/favicon.ico?_v=v3-27",
-          "source_image": "https://www.lapiramide.net/images/custom/logo-social.png?_v=v3-27"
-        },
-        {
-          "title": "Fúnebres",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAwWWxTd0toUnFlb2hpdzJkQmI5OG45YnN6Q3V0d0NhVTY5emE4VW1jYzhDSnppYTJrUVBSa3Qwdkh3dDZuVVIxNVI2TQ?oc=5",
-          "summary": "Fúnebres La Pirámide",
-          "published": "2025-12-31T13:40:41+00:00",
           "source": "La Pirámide",
           "source_url": "https://www.lapiramide.net/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -137,10 +137,10 @@
           "source_image": "https://www.elonce.com/galeria/sitio/marca-de-agua4-jpg.jpg"
         },
         {
-          "title": "Mamis Hockey +55: las Princess conquistaron su tercera Copa de Oro consecutiva - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZzJLYVAyZlVVRmZVNW5VZThUOFp0MzNJekhLSEZhbjlYMWJiZmxrcEl1dHdGYi1SeXhYT0Y3dXBaa0g4SG01SzNMRFQ4Yl9yUVJ0VDIzdlg4YWZCQldkT0JEWEYzQzdyOXlYR05yMjcxb2xzWkdXWVdwWHgtVkdNY0hjQ0g5RmNQUS1jd1JvUlAyenhRcE81c3paMHZjMHBoQ2tJSHJFdHpQRnQ5VnNfX0x30gGrAUFVX3lxTFBndWpWeWV4VHlpVHlCcTlxSnEwYzVNQS0xM0RTV2VldUp1aHlCOHFyeG1tQTFlV190QlNRNl9VcU1UTTl1c0laSnF5V2tCMWVmWjEwQ3hyTHQxXzd5X0VfZG94V0tYaFpoMWdLb1pOUXRsMERUMVdkY1hMOEN3LTNudVB1VnExSllib0J1VERWeTFyc1ltWEVXRk9jNmpheGtFN2c0UGdlUHMzQQ?oc=5",
-          "summary": "Mamis Hockey +55: las Princess conquistaron su tercera Copa de Oro consecutiva Elonce.com",
-          "published": "2026-10-23T21:07:24+00:00",
+          "title": "Se fracturó ambos tobillos en un accidente laboral y necesita ayuda para operarse - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUmJPZ0tINFM3WnN1T1k0WkhQQlR4a3dXeHMtV0hmazlob29QMDZGVFVhbjlPV2RYRHJoREk4bi1hUmFMOEd1Z09XaG9yak85YnpuVTVpR2RsSVlPUUlkOHFFU1ZSMmxOOVViR0dEWC1YZzZCaFhBODVTUVJ2Sy1leDBjZU5NZXJvSUdqckdiak1ub01kUXMtVmRSeTlXSnRhZGRxRWFhVzUtMXhJUFVuT0RFU2Vad9IBsgFBVV95cUxQOFBrYVJBMXNSY3U2RXJXem9QY1RxekNnQWx0VVNLMUgwWTd4aDNRZE1qcV81R3NrU1hxb0tKay1memxZQzhiYi1PLUVlYng3RU9nalVTN3JkaGk5SEU4dnpqd25oMGtHRDh2ZDdyOGl5bUdZWDNDbjB2al9fcWhUcDUyR0M1eV9uUHpoVS14bkV4ZGdYR2dLZThPd0tTbi1sdmlORXFnRGtQX191WkZrQlpR?oc=5",
+          "summary": "Se fracturó ambos tobillos en un accidente laboral y necesita ayuda para operarse Elonce.com",
+          "published": "2026-10-23T22:23:21+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
