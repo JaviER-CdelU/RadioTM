@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T16:15:21.120573+00:00",
+  "updated_at": "2026-10-25T19:04:40.168548+00:00",
   "status": "partial",
   "description": "Titulares y enlaces; el contenido completo permanece en el medio original.",
   "groups": [
@@ -10,17 +10,6 @@
       "type": "Web",
       "homepage": "https://lacalle.com.ar/",
       "items": [
-        {
-          "title": "Distinguieron a deportistas entrerrianos por su actuación en Santa Fe 2026 - lacalle.com.ar",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcUVVaGpmWXl5VnplZXZvLXBXLXlzN3BnOG8xTEdkaWgzeFBsUUZhdmpqeGZqZWJaT1FMR2d3ZWpoNlFkQi1PNDUxVnhUTTJsYnJfYkRyd21jQzhKRGV0S2lITlhIcExzbHV6MUxPczQtTC1PUGVqZ1J2Qzh4N0hhaEU2TkROUVFvZzF1LVktdW9YVUhBUlA4cjN6MVdoZW8?oc=5",
-          "summary": "Distinguieron a deportistas entrerrianos por su actuación en Santa Fe 2026 lacalle.com.ar",
-          "published": "2026-10-21T22:00:26+00:00",
-          "source": "Diario La Calle",
-          "source_url": "https://lacalle.com.ar/",
-          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
-          "source_image": ""
-        },
         {
           "title": "Región Centro: Frigerio, Llaryora y Pullaro reclamaron más infraestructura y competitividad - lacalle.com.ar",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNXF3QWVfT1NDVHFTa1lSRGdoWllhMWtISk1PVXFnX3V5dHZuYUZkU1l2Ykt5bk9IdkpLUXl5T2hCYkh4Y1l1NFJYN3NRMEFFVkNJQ1QyRVBqMVNHaVpFcE83RlhJbExwcVhGY1lwR3ltWnFVLS1fZkdCblhaYi1sUWViWThEaXpwZDdtZUtCWjNTSjdZc1VDQlJHMGwtQXhlSi1kRTUxXzFIcTJsSm9sMDNNSQ?oc=5",
@@ -33,10 +22,21 @@
           "source_image": ""
         },
         {
-          "title": "Historiadores analizaron el legado de Urquiza en el Colegio del Uruguay - lacalle.com.ar",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVzV0LVVDTUVXN24wTUNWMGhCeEg0bFNnYVZscWlHS1dyUk1zLWkyYzFidXhxU0RJSkVZeWptYUFBdUczZHIzdnpXZzc0VlQyV1ZkRnpKN1VrS2t3U1MzZ0Mxd0lMeW5MUWpLVjlUSzBnWllhQjdQbmZUUGlNUWdBRlg1MWYxWXFsMGlKZVpMRk1sQmo3MGV4cm95VQ?oc=5",
-          "summary": "Historiadores analizaron el legado de Urquiza en el Colegio del Uruguay lacalle.com.ar",
-          "published": "2026-10-23T10:57:32+00:00",
+          "title": "DIARIO LA CALLE | El Diario de Concepción del Uruguay - lacalle.com.ar",
+          "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1YZTVnN184M1lOZmp0YlI5c2JYLVNJRDBtbXNXa00tRkRmcWpWS3Q5NUY1N3J5cjlDaEdj?oc=5",
+          "summary": "DIARIO LA CALLE | El Diario de Concepción del Uruguay lacalle.com.ar",
+          "published": "2018-10-23T21:03:39+00:00",
+          "source": "Diario La Calle",
+          "source_url": "https://lacalle.com.ar/",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
+          "source_image": ""
+        },
+        {
+          "title": "La Casa de Bernay fue presentada como Sitio de Memoria en jornadas nacionales - lacalle.com.ar",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOG5fVlRZV2NiSEwzYWNpYWRadnNfLXM4SVdWUzlYV1Rva09wTFpYSVhyU2lDUG5XUEFXSUFtWDFaRzZCUDhrVVpYeUJTSUJ0b3NQVVd5dllKbE5SUDBVUktoalBoV2pkMk5zTTd3c2tRZ3plV2g1Z2IyN1ZTNHQybldKYWpQVlNVUHBKZmlub1ZLNGNVbnIzMFBzd3pTVFh6Nno0?oc=5",
+          "summary": "La Casa de Bernay fue presentada como Sitio de Memoria en jornadas nacionales lacalle.com.ar",
+          "published": "2026-10-11T22:44:27+00:00",
           "source": "Diario La Calle",
           "source_url": "https://lacalle.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -56,7 +56,7 @@
           "title": "Cuatro personas que volvían del Mundial de Canotaje en Gualeguaychú sufrieron un vuelco en la 14",
           "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdWtLS1ExQ0pnS1dHLU1EX3VpX01TVHZBMk1OQ1RCbDQxcDA0eWtMMkVVclhqa0hKMXJERGtPY0tHd001S3plVmcyTXhHOUZUajJJTjQyaklnLWZCdFN3UUtwVTkzTTBNSXBzdHF6ZmtRVnl4UmU1bXlzYV9XbXUyWDZzQjY5UTliaGRzQjN4SXhlOW85cDgtLXpMQjJ1LUlBbFEtMlRwbm4zRGZkeXg5MF9kUXdYSkd0VWlPMENpYmVEQVl6cEFiR3RsTmJLVlRVM3NGU0FhcnR3OVl1dUNsTkpDZFHSAeoBQVVfeXFMTmVDWVJxejVGcGwwa2JIcklWOHBYT0NzZmhIU01iUnJENXhWbnpDNlVtTzY3MGNfbEFkUlJ5dlpqUzFLWXQ2SnZfYmd1aWR5d1RCUnZvTUIzSmJyYWdiS0ZUZ3NtQXM2a1dpNTZBWlhIRlpNZW5wSVN3TXhZdFVib2puN2d5cTl6TTdGMmFacmRMa3V6VTk3S2pSRnR0Umc0Z2NjV1RCcXhLcFVuSDB3RDlwLVFUaWtJZWlMeVhFdld5RkNOZ0F4S202V1lYVFJaTjNjMmxNVHp0TmM4T1puUThuTFQtUFNJVmtn?oc=5",
           "summary": "Cuatro personas que volvían del Mundial de Canotaje en Gualeguaychú sufrieron un vuelco en la 14 La Pirámide",
-          "published": "2026-10-25T11:28:11+00:00",
+          "published": "2026-10-25T13:22:05+00:00",
           "source": "La Pirámide",
           "source_url": "https://www.lapiramide.net/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -64,10 +64,10 @@
           "source_image": "https://www.lapiramide.net/images/custom/logo-social.png?_v=v3-27"
         },
         {
-          "title": "Emotivo momento en \"La Juntada de los Artistas\": Lauti recibió los mensajes de su familia durante el programa",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOdmtqOG0waGkxTkFyX1JpWkk0OUZKcXhyeDVQb1VsM3VldDhqaUJUTW44WTNaMUNWcjBTTUw2SzJBNC1tcUN2bzl3QXQzOXh5RmdWTHM2YXJnX0ZjOGJQV1RZVW0xZURtS3JhRUM3eDlJMUc1czRGdUgzTjBoeXV2TTU3MmV5MnFCWmVPZWdvSkFwWkNfVHZoRzgtUVJVSXBpN0I2Sjgxb2lQLVY1TEx5Z0RoRzM1ZElIY3BZVmlSUTFJVTV2aEptOFd1UF83WTU5VHBndFdaVnNJZ3NCYmlVZ0l0ZHRJVlRZUF9GVFlfTEJvZ9IB9wFBVV95cUxQb0syVGtkRmpTeFU1U2xReEV5QzFsYjdiU2R5VHJtamR2amdST3Zld2dkam1sejRvaHhzSlFsT0NabjRzdncwbV9zVXZKWDZzLWJxdFJfTmFlSTZGNEZDaHU1cVZNc1kxUXBWRXFBd3FJNUhUMmRUSGlLMF9xeV9fS3BhQ3lMY2pTdGFGaFFIdG9XV0VwYVBMODhsbm8tTG9aRGlYMFJPcmhKd2Q1ZThwUTRpcThHTzNhOU1CRlJVR0JmTGV6dy1xZmg5eG1LYTJGcXB4SXRHSXFrYUVjNjJxZ3Z4azA4cG1EbWVtOG1EQkR4X0NRZVA4?oc=5",
-          "summary": "Emotivo momento en \"La Juntada de los Artistas\": Lauti recibió los mensajes de su familia durante el programa La Pirámide",
-          "published": "2026-10-25T14:58:11+00:00",
+          "title": "El Juancho, cantante local que fusiona cumbia con urbano",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOW5BMm84YUJ1ZHg5ZEV3RmRfNG55OElxejltaUFpMVVpSU9UOVB2NFBVNDRfcHp5bU9QY1oxcE9idzZEcEJ0QmFrLWhYdjBZQ29JNGlGc2pheURRbVlLZzRmQWN5cWpfYTk2UWt6MkdkN1AzUXlldFJtQWs4aEtnQjlUUDhoLXdDTVN6YnB5LUhWU1RWV3cxYTktX3c1RlpEMVBGZWFvTjRaYWpvTVHSAbMBQVVfeXFMTlZDZ1YzTWxYejBuV3R3YUM1a3dkVmlpazdtekxlVEhha0w5YVgzVUlYM0l1Q1hVNFItOWdZRHNNQzJaYUg0TjJKY2lwblpnT1phVXdjUnMxdElpbU1sNTJEeEpIWlBxcjdHbW9wcXVmQWZRNXZnRUVLRmVaaENwNnJZX09IOHFjalotMmNLWDZxQ1JmcUtjY3dhVlp6NXBnc0FTVlZBQ3lwM1lQbTBPck9tUmc?oc=5",
+          "summary": "El Juancho, cantante local que fusiona cumbia con urbano La Pirámide",
+          "published": "2026-10-25T17:08:43+00:00",
           "source": "La Pirámide",
           "source_url": "https://www.lapiramide.net/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -126,10 +126,10 @@
       "homepage": "https://www.elonce.com/",
       "items": [
         {
-          "title": "Derrumbe en un bar de Paraná: confirmaron el estado de salud de los hospitalizados - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa0JBS2cteXMzTFREaHlyY0NnckJwa2FPYUZqZll3NmxTMGtIRHNVekllMnBQWnFXTWFzWHdZSTk2R2FlTlE5VXF4T2NPeWJkeFdHUnZBN0R4UEZsMXVWelhfVVhONF9YcWFaOFprM0dDbEdKQ1NpYjk2bmpySmdpc2NmamJ4enRHc1RsNDJtQUFZOGR5emZtQnF1WHFOVmhXUW15RE96ckcxb3E1b0tKc0tkb2xkd9IBsgFBVV95cUxPQ1h4NXBtSWNxWTg3cHNqUDJ0WUhSdVNaMEwwR0F1aTNyVVRUU1hPb3d2NkdDbHRnRFd5S0xCU0VDY0psb3d3RExlQkZWSjNXd2oweUU4QnRid19aVjFjZ0NkNXRrdjdFLWwwWDJhTEZ6OWdsVVk2S3pYRGNNY3BQSWdyNnlCazZDYUNFYUc5YjZiOWZfV3pJdUZYQkZvb05NQ0p2QWZ4WVVOLWFlRThfMV9R?oc=5",
-          "summary": "Derrumbe en un bar de Paraná: confirmaron el estado de salud de los hospitalizados Elonce.com",
-          "published": "2026-10-24T13:21:41+00:00",
+          "title": "El bar Las Piedras se pronunció tras el derrumbe del entrepiso: \"Asumimos este momento con responsabilidad\" - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQlg4RHU0T1RFMlQxeDBZaHNtdURzZGcwdWJfOGZwbW8xUHEzVTM1Ry1QcE8xV1JyRHJoZ0VYUlA1U0ttUVlRYzZXcG9KR0t3MkVDQ0g5a29fSkprZGpvQWtfTlc0Z1RxR1Z3MWxWd2dPeVVrVjdDRF9JTnlJUjRDVFF0MHNMbnVtZHVMYTZVVXRWOFYxQWN4SUc2eTJkb3pFTHdHeVhxMXVIVDFQLUZJOXg2QmhfbnJDbTNybGNOdUxVMnIzMTlkYXJ0TEhORVA1b29OStIB0AFBVV95cUxPbnVTck0tUU1pWk1hWWltYUZXR0w1MHpBaVdSYmRtNjdjbDc4VXFTQ3ZHZUlaSWVHLThrYWYtN1h1N0JlN0ZheW1tVnl0NV8xcWlrNEQtZFlrSnNwd0RUMmxOSGhpbWpMS0NNZGRkejF5RWo2VmJFQWQybVdYdy0wbW8tbV9uQk1GVE1qUEtESi1zMzhjSzFSVkt5Q2xvcmRvSXpuSkZHQk1rcEFTcTBGREJhcllVeEh5cmFhMG9Dc1hQSFd6T0Z2UnpDM1JMZHBq?oc=5",
+          "summary": "El bar Las Piedras se pronunció tras el derrumbe del entrepiso: \"Asumimos este momento con responsabilidad\" Elonce.com",
+          "published": "2026-10-25T00:37:13+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -137,10 +137,10 @@
           "source_image": "https://www.elonce.com/galeria/sitio/marca-de-agua4-jpg.jpg"
         },
         {
-          "title": "El bar Las Piedras se pronunció tras el derrumbe del entrepiso: \"Asumimos este momento con responsabilidad\" - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQlg4RHU0T1RFMlQxeDBZaHNtdURzZGcwdWJfOGZwbW8xUHEzVTM1Ry1QcE8xV1JyRHJoZ0VYUlA1U0ttUVlRYzZXcG9KR0t3MkVDQ0g5a29fSkprZGpvQWtfTlc0Z1RxR1Z3MWxWd2dPeVVrVjdDRF9JTnlJUjRDVFF0MHNMbnVtZHVMYTZVVXRWOFYxQWN4SUc2eTJkb3pFTHdHeVhxMXVIVDFQLUZJOXg2QmhfbnJDbTNybGNOdUxVMnIzMTlkYXJ0TEhORVA1b29OStIB0AFBVV95cUxPbnVTck0tUU1pWk1hWWltYUZXR0w1MHpBaVdSYmRtNjdjbDc4VXFTQ3ZHZUlaSWVHLThrYWYtN1h1N0JlN0ZheW1tVnl0NV8xcWlrNEQtZFlrSnNwd0RUMmxOSGhpbWpMS0NNZGRkejF5RWo2VmJFQWQybVdYdy0wbW8tbV9uQk1GVE1qUEtESi1zMzhjSzFSVkt5Q2xvcmRvSXpuSkZHQk1rcEFTcTBGREJhcllVeEh5cmFhMG9Dc1hQSFd6T0Z2UnpDM1JMZHBq?oc=5",
-          "summary": "El bar Las Piedras se pronunció tras el derrumbe del entrepiso: \"Asumimos este momento con responsabilidad\" Elonce.com",
-          "published": "2026-10-25T00:37:13+00:00",
+          "title": "Derrumbe en un bar de Paraná: confirmaron el estado de salud de los hospitalizados - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa0JBS2cteXMzTFREaHlyY0NnckJwa2FPYUZqZll3NmxTMGtIRHNVekllMnBQWnFXTWFzWHdZSTk2R2FlTlE5VXF4T2NPeWJkeFdHUnZBN0R4UEZsMXVWelhfVVhONF9YcWFaOFprM0dDbEdKQ1NpYjk2bmpySmdpc2NmamJ4enRHc1RsNDJtQUFZOGR5emZtQnF1WHFOVmhXUW15RE96ckcxb3E1b0tKc0tkb2xkd9IBsgFBVV95cUxPQ1h4NXBtSWNxWTg3cHNqUDJ0WUhSdVNaMEwwR0F1aTNyVVRUU1hPb3d2NkdDbHRnRFd5S0xCU0VDY0psb3d3RExlQkZWSjNXd2oweUU4QnRid19aVjFjZ0NkNXRrdjdFLWwwWDJhTEZ6OWdsVVk2S3pYRGNNY3BQSWdyNnlCazZDYUNFYUc5YjZiOWZfV3pJdUZYQkZvb05NQ0p2QWZ4WVVOLWFlRThfMV9R?oc=5",
+          "summary": "Derrumbe en un bar de Paraná: confirmaron el estado de salud de los hospitalizados Elonce.com",
+          "published": "2026-10-24T13:21:41+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
