@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T19:04:40.168548+00:00",
+  "updated_at": "2026-10-25T21:46:05.422655+00:00",
   "status": "partial",
   "description": "Titulares y enlaces; el contenido completo permanece en el medio original.",
   "groups": [
@@ -53,17 +53,6 @@
       "homepage": "https://www.lapiramide.net/",
       "items": [
         {
-          "title": "Cuatro personas que volvían del Mundial de Canotaje en Gualeguaychú sufrieron un vuelco en la 14",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdWtLS1ExQ0pnS1dHLU1EX3VpX01TVHZBMk1OQ1RCbDQxcDA0eWtMMkVVclhqa0hKMXJERGtPY0tHd001S3plVmcyTXhHOUZUajJJTjQyaklnLWZCdFN3UUtwVTkzTTBNSXBzdHF6ZmtRVnl4UmU1bXlzYV9XbXUyWDZzQjY5UTliaGRzQjN4SXhlOW85cDgtLXpMQjJ1LUlBbFEtMlRwbm4zRGZkeXg5MF9kUXdYSkd0VWlPMENpYmVEQVl6cEFiR3RsTmJLVlRVM3NGU0FhcnR3OVl1dUNsTkpDZFHSAeoBQVVfeXFMTmVDWVJxejVGcGwwa2JIcklWOHBYT0NzZmhIU01iUnJENXhWbnpDNlVtTzY3MGNfbEFkUlJ5dlpqUzFLWXQ2SnZfYmd1aWR5d1RCUnZvTUIzSmJyYWdiS0ZUZ3NtQXM2a1dpNTZBWlhIRlpNZW5wSVN3TXhZdFVib2puN2d5cTl6TTdGMmFacmRMa3V6VTk3S2pSRnR0Umc0Z2NjV1RCcXhLcFVuSDB3RDlwLVFUaWtJZWlMeVhFdld5RkNOZ0F4S202V1lYVFJaTjNjMmxNVHp0TmM4T1puUThuTFQtUFNJVmtn?oc=5",
-          "summary": "Cuatro personas que volvían del Mundial de Canotaje en Gualeguaychú sufrieron un vuelco en la 14 La Pirámide",
-          "published": "2026-10-25T13:22:05+00:00",
-          "source": "La Pirámide",
-          "source_url": "https://www.lapiramide.net/",
-          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "source_logo": "https://www.lapiramide.net/images/custom/favicon/favicon.ico?_v=v3-27",
-          "source_image": "https://www.lapiramide.net/images/custom/logo-social.png?_v=v3-27"
-        },
-        {
           "title": "El Juancho, cantante local que fusiona cumbia con urbano",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOW5BMm84YUJ1ZHg5ZEV3RmRfNG55OElxejltaUFpMVVpSU9UOVB2NFBVNDRfcHp5bU9QY1oxcE9idzZEcEJ0QmFrLWhYdjBZQ29JNGlGc2pheURRbVlLZzRmQWN5cWpfYTk2UWt6MkdkN1AzUXlldFJtQWs4aEtnQjlUUDhoLXdDTVN6YnB5LUhWU1RWV3cxYTktX3c1RlpEMVBGZWFvTjRaYWpvTVHSAbMBQVVfeXFMTlZDZ1YzTWxYejBuV3R3YUM1a3dkVmlpazdtekxlVEhha0w5YVgzVUlYM0l1Q1hVNFItOWdZRHNNQzJaYUg0TjJKY2lwblpnT1phVXdjUnMxdElpbU1sNTJEeEpIWlBxcjdHbW9wcXVmQWZRNXZnRUVLRmVaaENwNnJZX09IOHFjalotMmNLWDZxQ1JmcUtjY3dhVlp6NXBnc0FTVlZBQ3lwM1lQbTBPck9tUmc?oc=5",
           "summary": "El Juancho, cantante local que fusiona cumbia con urbano La Pirámide",
@@ -75,10 +64,21 @@
           "source_image": "https://www.lapiramide.net/images/custom/logo-social.png?_v=v3-27"
         },
         {
-          "title": "El histórico sable de Justo José de Urquiza fue exhibido en el Colegio del Uruguay",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRTJRZU5lTFVIelFKdEFqTlBDcF9FWTl6Y3ByeWM1aEZwNFZCVVNFNlhHRFo5Wm5zdFpyQXQyUTZqb2MwSmFCYmtCNWJ3NDJLLTJTMGNRWFotU21FRVdOY2hMR2x1V21EOW5wcXY4Z3QtSmFDQS0tbF93cVlZRGk4OURnd2dwdHVEVW1XSjJKZ0h3dFBDTXZQSndsMEZjSUowcmwxVGg2S0d4bUcwYXR6MGRKeVZTNE5aeGctMF81Z29OeXAzSG4xdXRFazFRTjdvcGfSAdcBQVVfeXFMTXJ3YVMySHdNQi10cUgyWjNMWExJN3RVb21OOEVhR2ZFOEU1WDMybTRGNF9hMzZ6S1ZTQnUxdXgyWEJPUmxNZElNX0RlZmRzUmI1M0daVWx5VTRqMnBwZjJzYnpXMUdhdThtSVFubEVYMTVqaGE4dFlYUUE3WmNzc3p2NXFYLVpEc1d4TW9qVzE0clFxNHRiZV9xTWxiNWdQVmlxM25iZmJLN0FwOTdyc19OaWNRczBXZ05ZU1VTWVFSYi14OFZMVms3eHpoc0dnYVAzS05hdDA?oc=5",
-          "summary": "El histórico sable de Justo José de Urquiza fue exhibido en el Colegio del Uruguay La Pirámide",
-          "published": "2026-10-24T14:20:51+00:00",
+          "title": "Policiales",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5kTjd6ZFduRnFOLTJ6M0hRbW5EQkliZy1wcHBGeXZKTkdvU2JsTGl2TGduZUdRaEFVb2hhUmRwckEwZmo4a2ptVmFERmdadw?oc=5",
+          "summary": "Policiales La Pirámide",
+          "published": "2025-12-30T18:56:29+00:00",
+          "source": "La Pirámide",
+          "source_url": "https://www.lapiramide.net/",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source_logo": "https://www.lapiramide.net/images/custom/favicon/favicon.ico?_v=v3-27",
+          "source_image": "https://www.lapiramide.net/images/custom/logo-social.png?_v=v3-27"
+        },
+        {
+          "title": "Una joven de San Justo representará a la UNER en un encuentro científico internacional",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRHExUVV6T19UUnVtbFhrYkF6dUQ4T25aVFVLQ0lxZ0J0TmxGMWl5REplcVdrMElsSng5ZHJzZEpzaDVsdGRGUGdZTE9VM1A1bklLSDQ1MFlrSHo5alVIakY2el9tVkhOOTBIcmllTmplSDFlMXVqblJySjFLaWlCX0lsWFF6VzFFcUxkVXJNLUFPT0wxZFZRa1lrSTVCUXhfUVUyVDJRWWlpWjJmdy1mRkpZV3pNWFBqS2ZtWHN2RWhXQVVmMnY1Yjh3M082MTR1QUhnQWFOQdIB3AFBVV95cUxOVU5TWk5vdVlNclNXMWRJdU9TelBXajVna2JPOXNuYTdlYTA4YUYybUh0TXpxaXJPNWZwb2ZlWkJLWTZmRXJFRDNONUgzVlcyclhiZE0xUjN0TGVIei1pUW14ckZPNFpWb3VsMWxoZU9mMDJhNTJPX1d6ZXRES2hDSjNGaFE0anZOQmdiR3k2bHlLVG1fY2V3SEY4SThpTkwtYktnZ2N0WWRiUmNMdk5FR2NXX3kzWXc4R0ZMamRCdW9VTUhwNS1WQ3F5WmppbkR4M0IxZmVjSTZOZXBw?oc=5",
+          "summary": "Una joven de San Justo representará a la UNER en un encuentro científico internacional La Pirámide",
+          "published": "2026-10-21T20:48:24+00:00",
           "source": "La Pirámide",
           "source_url": "https://www.lapiramide.net/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -137,10 +137,10 @@
           "source_image": "https://www.elonce.com/galeria/sitio/marca-de-agua4-jpg.jpg"
         },
         {
-          "title": "Derrumbe en un bar de Paraná: confirmaron el estado de salud de los hospitalizados - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa0JBS2cteXMzTFREaHlyY0NnckJwa2FPYUZqZll3NmxTMGtIRHNVekllMnBQWnFXTWFzWHdZSTk2R2FlTlE5VXF4T2NPeWJkeFdHUnZBN0R4UEZsMXVWelhfVVhONF9YcWFaOFprM0dDbEdKQ1NpYjk2bmpySmdpc2NmamJ4enRHc1RsNDJtQUFZOGR5emZtQnF1WHFOVmhXUW15RE96ckcxb3E1b0tKc0tkb2xkd9IBsgFBVV95cUxPQ1h4NXBtSWNxWTg3cHNqUDJ0WUhSdVNaMEwwR0F1aTNyVVRUU1hPb3d2NkdDbHRnRFd5S0xCU0VDY0psb3d3RExlQkZWSjNXd2oweUU4QnRid19aVjFjZ0NkNXRrdjdFLWwwWDJhTEZ6OWdsVVk2S3pYRGNNY3BQSWdyNnlCazZDYUNFYUc5YjZiOWZfV3pJdUZYQkZvb05NQ0p2QWZ4WVVOLWFlRThfMV9R?oc=5",
-          "summary": "Derrumbe en un bar de Paraná: confirmaron el estado de salud de los hospitalizados Elonce.com",
-          "published": "2026-10-24T13:21:41+00:00",
+          "title": "Con el objetivo de sumar para mantener la categoría, Patronato recibe a Agropecuario: empata 0 a 0 - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMTBzYm4wT0lndVpBNlFZaG4xVGI5QU5mZWdjOG1hT0hHMTVTMHBoV1N0TzdrbEJNQ1h6a3FUblVPWlZ1ajZyVGlJNzloUGZwdUl6LWR1MDJ0NHFlR28weXk0UjVlV0NXb1FkRi1lRkpsRkhvbHNXZHR5ODgxcnczVWhKU0RlcnE0R3hHaVpUdlJzZWdIdjk2R3V5bmtqcnYwa3I0YnNUZWtodDMxUUNxM2oxX1N6UWFBYVNoZ05ETWNwc252cWhQcmtUQjXSAcYBQVVfeXFMUE1nZklpdXgxMHhBREZXSEFKUmRYZ1NEZzhiSktlbEhqWFB0LVo5bXI0WWx3ZFRyS1V4eXdjLWhDMHVCZE1aVVk3NHpseV96dnJiNGMtUXpZamFGWDBCUnp5TGdoaWxpN0NsLW1hcDREVlpra2R3blFucGhfck5nWG5zYXIxdS1tcW9PSWllVGxxaVZXSjd4ejFHOTRlY0JHeG9XSHVWY1pRZmFGOGU3MzFnLUo3RUkyWjhEa3otWVVYS2RqV2lB?oc=5",
+          "summary": "Con el objetivo de sumar para mantener la categoría, Patronato recibe a Agropecuario: empata 0 a 0 Elonce.com",
+          "published": "2026-10-25T18:50:01+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -157,10 +157,10 @@
       "homepage": "https://www.pagina12.com.ar/",
       "items": [
         {
-          "title": "Universitarios llevaron al Papa una denuncia contra Milei - Página|12",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaTNDLUp4d3B4eENaUHVuWndqZVdPaS1hM0tXUnVkNk1zU3VLczlqZHFIWHRKcEQ1VjF3OEo2bXFoUWt5YTk5YTV5NHpLM2FmMVpIRURFaTM4MzljdjNfLU9wanF6WktfTHpDNWQ0bGVyel9WamUzYV9ab01YYU1KU3h3bmI5V1hwdUtWU09Ic1ZpS2hhRVh4M3lGRG1yUQ?oc=5",
-          "summary": "Universitarios llevaron al Papa una denuncia contra Milei Página|12",
-          "published": "2026-10-23T23:01:00+00:00",
+          "title": "No hay mejor Charly que García - Página|12",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1QNFNqTWJzTWlNeEdncmxoNzJUb0J1ejBhSElraWxwQi0xVzY0Ri02TkhWQ0F2VC1iU04xVndQVVdLV09qejFfMmRaZHRvOHRUUXA3QnlsSHIwalNZUXVYN2FyVmNpdENxWHE5c0I3dDJpeUp1bjlKN2FB?oc=5",
+          "summary": "No hay mejor Charly que García Página|12",
+          "published": "2026-10-24T23:01:00+00:00",
           "source": "Página/12",
           "source_url": "https://www.pagina12.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -168,10 +168,10 @@
           "source_image": "https://www.pagina12.com.ar/resizer/v2/https%3A%2F%2Fwww.pagina12.com.ar%2Fresources%2Fp12logo.svg?auth=811d0fc63a912d1f8dc56b650f3a0054e089ac9c81bfee069a62717e10cbb54a&width=1200"
         },
         {
-          "title": "Se derrumbó la imagen de Milei tras burlarse de la gente que no llega a fin de mes - Página|12",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQU3gyV2hGZEdpeTBQcUx2UHdpc29ybl9PSVBWaS1TdEhmUXJ5aURFNmlwNEl5RVJEM3o2YTFZQU9Yb3RldzlCSG90N2dKZ1dSdW84TUxGS2lNdmgwWXI0OWJLUy0zbXc1MVNiTDd6Um4xelI3U3NGX1N5UEdUMUM1Q1ZzZzdHYTJ6WWg4MzZ0U054RndTVUVKLVJ3UUVOaDJfNjBFcnoteVBnRlJqbFhRY3NobW9DcV85OHZ3V2Jqdw?oc=5",
-          "summary": "Se derrumbó la imagen de Milei tras burlarse de la gente que no llega a fin de mes Página|12",
-          "published": "2026-10-22T14:36:33+00:00",
+          "title": "Inquietudes, resquemores y expectativas por la palabra de León XIV durante su visita al país - Página|12",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZzBweW5MTEhFRkhObFA2SDBtQWpFZVNid1l5WS1lSVRBeVhaQW1CMWx1QWRMMUdqelNIMGpFeWFtWVlGeVNIeWE3d3NSbUcwMGxTbEhEeVFWRXNDX1oxQ0s2a1pvSGZMQTQ4RTltQXJ6RDd1SEJESHFvQk9jNGFCZ2VtTWNTTkpFUVRLNzhCa091NWxXdWZzd01jbjBEUVNXZXVXY1A1QTJfcDhWdWhPS3Z5UE1wSklHdmtXSGNDRWR0bUJpNFkxZzlDdw?oc=5",
+          "summary": "Inquietudes, resquemores y expectativas por la palabra de León XIV durante su visita al país Página|12",
+          "published": "2026-10-24T23:01:00+00:00",
           "source": "Página/12",
           "source_url": "https://www.pagina12.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
