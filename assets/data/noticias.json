@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T19:17:29.447740+00:00",
+  "updated_at": "2026-10-26T23:51:31.842197+00:00",
   "status": "partial",
   "description": "Titulares y enlaces; el contenido completo permanece en el medio original.",
   "groups": [
@@ -53,17 +53,6 @@
       "homepage": "https://www.lapiramide.net/",
       "items": [
         {
-          "title": "La Policía recuperó herramientas robadas de un galpón tras dos denuncias de la víctima",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPU0hFWkFUNXJDMzZNTERxMEFFdFNtNEhtZkRpSFlKTGtmSEszS2NCY0VUZWtFTnZPZnpOeTRnRGRqWlhZN2lISGJnMTZhaVBmUWlvNWhGZHVBazBQOUtnT3FtaXpUTF9ydTJOV192azV2QXgzOHNoRnFWaFNmWW1iS21TdWt4QkdfdGpSU0x4ZGh2cnBramE2MkppVkdsa0JxZDhkSkFUUVNSUHdZZEpUdXhHZkNNSFlkU2dYelp3aW1CMGFWQVJaV1RlTloxVUNJa1hNZnlhZ9IB3AFBVV95cUxOdEtVcWl3WWFuRVJoRVU2MV80MWI5WVViT2l2dWh1emxOMU03ekNuc3VWeTdNZ3djb3lCMHNhQXdtV2lBbXViWmFSdWk1LVNuZERtMFFNOGw3WFN3Y3kxWEFxZ2V3bHFFTXRHSTJNOWxMcWFJdzFmcF8wTEdxUWotUHVya2tpRzdtYTJhNjgzNHViSWtoUzZfOFVvZklhTzlTMWFoWThUMUxxd0k1bmFxSHZOTnlYam1QUldBV29ZRUxsWjROMTZmR1BFQmx2aEgyNnBkUWR6enJGY3pJ?oc=5",
-          "summary": "La Policía recuperó herramientas robadas de un galpón tras dos denuncias de la víctima La Pirámide",
-          "published": "2026-10-26T01:51:19+00:00",
-          "source": "La Pirámide",
-          "source_url": "https://www.lapiramide.net/",
-          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "source_logo": "https://www.lapiramide.net/images/custom/favicon/favicon.ico?_v=v3-27",
-          "source_image": "https://www.lapiramide.net/images/custom/logo-social.png?_v=v3-27"
-        },
-        {
           "title": "Buscan a una joven de 18 años desaparecida en Gualeguay",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM0Z6T2tKRTlBRnZRRUxvcmF6aEtqSXhFVzVhZ0RBWEN5aHY3aVlZbnlTRXQ1dEdLT1pYVzItUURSX3JCZTRGRmVPR3Y4ZmpUZjBJRVpOdzZ1VEkyZnZKX0hXa1hidmd2b2paLUh3RHNvVkpkcEZlM1NMQjFySmgyZmNWaFdpTGYyQzNsbGV2RXlTSlAxSkhlME1udDlJYkdyeW1jcHFsekNhbkt5SFHSAbMBQVVfeXFMTzUwcjRJWHVObUg2YWQ3S3N5SC12aGJnY054dFFWd0hiWEkyX0E0V19qZk5jTUhrWVhrRWpYWThyRzdVamI4YzNvVHQzR0FzUHhYclpqNVNrVm84eGprMVlpWWhiWXBWTHZ5NlBtQkR0cEFZZGJ4TlBuejRnMk44RWFHRnNPaFJreU5mQmNkQkVXRFUtYzBRWkMwMUpCVmhzYU9wUm1FNmdPQjdHZDhYR1hRYWs?oc=5",
           "summary": "Buscan a una joven de 18 años desaparecida en Gualeguay La Pirámide",
@@ -84,6 +73,17 @@
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
           "source_logo": "https://www.lapiramide.net/images/custom/favicon/favicon.ico?_v=v3-27",
           "source_image": "https://www.lapiramide.net/images/custom/logo-social.png?_v=v3-27"
+        },
+        {
+          "title": "Con una concurrencia masiva, el Movimiento Derecho al Futuro realiza su primer Plenario en Concepción del Uruguay",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNTVF1RWhueTRBNFc3R09CbXM4cnlKZ2x0NzI2bXVZOUpyQTZTTnpKY2lzTkh5MnBLV19WbnN6ZDJJUGRibERGaW5jUkV0UG9Lb1dpTVhDVVRkZzBXVk5ERzFmZkx4ZUwydmZ1R1BYZnRHbnFNbUhmcDBtbGlaS21xRWhTek1GWFgtZXpJTTRMLWE5NjhxelFDNEg3WFNBVkZ6Y1k3S1F2Q1FWWEdObUZZSFRJclZ1YWhJb3JkQzk3aEQzSWNfb0xNVVdhYzVIME1YRndLcklhUzY2TVpLQjdDSnJEVHZXclByMGNuc0E3amlEOUZHclFXeGFR0gH_AUFVX3lxTE10bVZsNjhmZ3ZXZzkxMWpIX0VYOGhRY29udXJkTzFnQlJFQ3hBS1lsTnRIcThmbjlWQkdnczdjTnhfcHlDaHVmZWFNd0dISklFSGVadGJjSGJyckhzMWg4MmUwbVdrTEtzNWNEekczdmE5Zk1EUmd6bWNseTV6NXV4cTI5M0tTeTEzZkFQZzZmdVE5N210azVvcGpFR1F0TUVYLUxXSkpJLWlmWlVmbTI5ZmNGM0pZSWlfNHFaMm95ak9fRlhtRGQ3N193OGR4S05Wb3RXUnRCYS01VGstdHhIa19rS212cDJUcWRBc3huUmlfTFdXY29nSmJWdVA3WQ?oc=5",
+          "summary": "Con una concurrencia masiva, el Movimiento Derecho al Futuro realiza su primer Plenario en Concepción del Uruguay La Pirámide",
+          "published": "2026-10-24T15:24:57+00:00",
+          "source": "La Pirámide",
+          "source_url": "https://www.lapiramide.net/",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source_logo": "https://www.lapiramide.net/images/custom/favicon/favicon.ico?_v=v3-27",
+          "source_image": "https://www.lapiramide.net/images/custom/logo-social.png?_v=v3-27"
         }
       ]
     },
@@ -95,10 +95,10 @@
       "homepage": "https://www.r2820.com/",
       "items": [
         {
-          "title": "Fraude fiscal con granos: 23 detenidos y un allanamiento en Villaguay",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTHdJT2FaanZnSXdlMlRrblVFT1JWTF9QU19UVk1zeGtjV1JYdUJYSnJJOGQza0RScWJicHI5ZEw2SzBQcmlGVVpQc2g5M2RpMWxOTHJ0cExlWTE3MmR6c01yekFTcTM3QUpPaDd1UzkxVS1SNllaYXQ0a3hMLVN5OUtxY1dBdk5wWTJQVkdVMngtdm5RVDRhUjRxdnJjOHNmczlPQjdNVEp2MU9HeG9DbEJ5Rk9nX0o00gG-AUFVX3lxTFA3dEVON0pfSkxDOThQYTA0SUo3TjJjb29ka1BMX1VUWVlMcXNiZlQtck5rbVZZM3cwenZaQ29VV0diY1hSZkNPZ3BWUXVXNVRaS0pFd3M3N1hpZDJQUWVvZ3QtLWw2Tk9qOU1DQ3d6SVV2Q0c0RU1jYy1sZFl6cXJtWjlRMkhpRC1PRmxZZDBWQVlvZHNBR1p5MGluSm9sT0M1MVpTZXVTRGt5R1pUNlZrX3ZDeEFqZjZPRkMxdGc?oc=5",
-          "summary": "Fraude fiscal con granos: 23 detenidos y un allanamiento en Villaguay R2820",
-          "published": "2026-10-25T14:52:14+00:00",
+          "title": "Robo en un kiosco frente al Hospital Centenario: las cámaras registraron todo",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUlJUZmxrNXVmRDN3OWczSXF2VVVNeERTc2dkalU4ZHJmbHRJNlBjb2lVOEhLdkRnUUY0alhyVTk1dnBhXzVxQ1VmTFE4ZTRjejdBUm5PWS03RWlZMmtBRXc5dVVlMGxGTU40NDBiTnlUUkRULVM5Qmd1c2hONWZReGZCRkEwOGZxR0hRb1puZm54MHQwRzlRUzl0VUtFcWo0V25tTGtxNWxRODFGNUIzeUd2d3MxNE01WGk0cS1JODZYazjSAcgBQVVfeXFMUGRFa0ZmeGNMTGFCNEVUbkg2dnYtUTNFYnVtTmE0WnFkM3o4bzFZMGVZaC1OSGtTeFlXMG1wRkdxaGdSdm1xX2swWlVydzlDTEVFSG9yMzhyVDBlZE5tR3lUaEdiNXBQNm0xV2dzMWk0Z3d4RE1RUkRGb2JjcUhmTW5KZi16Z1liNVN1TWZPSDN0U212RHc3cXBOZFpGUjFQM1lkVGhITlF6Qm1GTVdIcThvSDFINm1EYXVJT1haUGxZa2pnN2drQ0M?oc=5",
+          "summary": "Robo en un kiosco frente al Hospital Centenario: las cámaras registraron todo R2820",
+          "published": "2026-10-25T03:07:07+00:00",
           "source": "R2820",
           "source_url": "https://www.r2820.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -106,10 +106,10 @@
           "source_image": "https://www.r2820.com/images/custom/logo-social.jpg?_v=v3-45"
         },
         {
-          "title": "Robo en un kiosco frente al Hospital Centenario: las cámaras registraron todo",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUlJUZmxrNXVmRDN3OWczSXF2VVVNeERTc2dkalU4ZHJmbHRJNlBjb2lVOEhLdkRnUUY0alhyVTk1dnBhXzVxQ1VmTFE4ZTRjejdBUm5PWS03RWlZMmtBRXc5dVVlMGxGTU40NDBiTnlUUkRULVM5Qmd1c2hONWZReGZCRkEwOGZxR0hRb1puZm54MHQwRzlRUzl0VUtFcWo0V25tTGtxNWxRODFGNUIzeUd2d3MxNE01WGk0cS1JODZYazjSAcgBQVVfeXFMUGRFa0ZmeGNMTGFCNEVUbkg2dnYtUTNFYnVtTmE0WnFkM3o4bzFZMGVZaC1OSGtTeFlXMG1wRkdxaGdSdm1xX2swWlVydzlDTEVFSG9yMzhyVDBlZE5tR3lUaEdiNXBQNm0xV2dzMWk0Z3d4RE1RUkRGb2JjcUhmTW5KZi16Z1liNVN1TWZPSDN0U212RHc3cXBOZFpGUjFQM1lkVGhITlF6Qm1GTVdIcThvSDFINm1EYXVJT1haUGxZa2pnN2drQ0M?oc=5",
-          "summary": "Robo en un kiosco frente al Hospital Centenario: las cámaras registraron todo R2820",
-          "published": "2026-10-25T03:07:07+00:00",
+          "title": "Fraude fiscal con granos: 23 detenidos y un allanamiento en Villaguay",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTHdJT2FaanZnSXdlMlRrblVFT1JWTF9QU19UVk1zeGtjV1JYdUJYSnJJOGQza0RScWJicHI5ZEw2SzBQcmlGVVpQc2g5M2RpMWxOTHJ0cExlWTE3MmR6c01yekFTcTM3QUpPaDd1UzkxVS1SNllaYXQ0a3hMLVN5OUtxY1dBdk5wWTJQVkdVMngtdm5RVDRhUjRxdnJjOHNmczlPQjdNVEp2MU9HeG9DbEJ5Rk9nX0o00gG-AUFVX3lxTFA3dEVON0pfSkxDOThQYTA0SUo3TjJjb29ka1BMX1VUWVlMcXNiZlQtck5rbVZZM3cwenZaQ29VV0diY1hSZkNPZ3BWUXVXNVRaS0pFd3M3N1hpZDJQUWVvZ3QtLWw2Tk9qOU1DQ3d6SVV2Q0c0RU1jYy1sZFl6cXJtWjlRMkhpRC1PRmxZZDBWQVlvZHNBR1p5MGluSm9sT0M1MVpTZXVTRGt5R1pUNlZrX3ZDeEFqZjZPRkMxdGc?oc=5",
+          "summary": "Fraude fiscal con granos: 23 detenidos y un allanamiento en Villaguay R2820",
+          "published": "2026-10-25T14:52:14+00:00",
           "source": "R2820",
           "source_url": "https://www.r2820.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -126,10 +126,10 @@
       "homepage": "https://www.elonce.com/",
       "items": [
         {
-          "title": "Promulgaron en Entre Ríos la ley que restringe el ingreso de deudores alimentarios a eventos y casinos - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQX0wza0N3Z3U2b0tVbVVUMXNET09DRGNJQi13R0FzVHBKMWtMcjFhRGRMemFTb09CamZyV3JYcnVZbTZBQTZpUkg3djJpdC00MzJ4V29vdkZFcGNCaUNNUkR5WG1pcmYtRXRiNWd3dGJ3SjluaEt1M1hHX0VFdkw4Y1IwRWY3WEJGdmpJVmhwbDItSE1YRE5zOEhKZjNOUnpTN3Jac3RsWC1VaE95N3JoM0pHcm9xWkhPZXp1Vjh1TWMtUG1kOGVLOVJKVk9ORG9QTHJRX9IBzgFBVV95cUxQRUR1R0dkNWpkdWppUnVhQklrc0tDd2dPMjhpZzI0WmRtMHpxaDZCelNvMFE0cVZtZlE0YWNLY2JBdDZKSjJUd2daZGZrbUJrQl9yNW5JWmhCZTlKM2lkajZVZGdSREg2blZ6NE1YRnVmaFJxaWRuRWpfeVU5Nm8wT2Q5alA1SE9oMldWcWQwa2pJdnFLanFfam1jTDlMdk8xck9aeXkxbVZJUzY1U3Y4d0F4WU9ZUmdXWVVNR09nMlU3QnJ1dWlaREZCQ2pHdw?oc=5",
-          "summary": "Promulgaron en Entre Ríos la ley que restringe el ingreso de deudores alimentarios a eventos y casinos Elonce.com",
-          "published": "2026-10-26T12:47:35+00:00",
+          "title": "Crece la demanda de carreras tecnológicas y lanzarán una tecnicatura en videojuegos en UADER - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVmlER1pRZ09CZnZmZnRwNnZBQ2M4SXlvcVN2RkZsbzdJUExnOWxGZm5jcnUyYVZqX2tiZkN6d3JGeWwtY1B1RHkxZXZod1RXM00wT1RNVlhPWWpXZXVveW1DUGVVVUFHQzJhazEzcjNuUlo4QmhDLTNjQ21ra3RGclV4c2t4Mm1RU1ZTbkhmVzRXSXZxbF8wcWZfRkpsVTYzdG5hcWRKeDlYR09LYU9DaDR0dVE3ZFBUODNzeFZwV1lkZFRpb2o3LTgxZGVTOHZTY0huUNIBwAFBVV95cUxQX3BRZ04yWWJlNFJjc2RJMk95dHhzTmptWGIyekRiaHlQUk1KSDFNek50Z21NMTB1NDd6bThXM3FibExoM1lpZDNCRUgwYWc4UUEzS1dmVnBlYmM0YzFFd3hYQUdNOUpIY1NTRWpvOFczZkZWVThLNGdhWEdKdEc4NXRVRVVuaVNtQThHai0xM3p6c0RpRlBRWDN0T1NIWXZLUHNsUWlPckQ4MjNmX09iUmFMalJQWi15LXR1QXFXWjE?oc=5",
+          "summary": "Crece la demanda de carreras tecnológicas y lanzarán una tecnicatura en videojuegos en UADER Elonce.com",
+          "published": "2026-10-26T22:18:00+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -137,10 +137,10 @@
           "source_image": "https://www.elonce.com/galeria/sitio/marca-de-agua4-jpg.jpg"
         },
         {
-          "title": "Colectivos urbanos: la nueva línea S funcionará con una una frecuencia “de entre 25 y 30 minutos” - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcE9xQU5jWDc2cG5zdnNUYVVVUXlFbG9lVXV2RWg0SVRfODhQeGJxOFh1ay1Vd1g3d2lXNHozTUVWdDQ3czZnN3JmcXJSeEFtd3dOUWlHVEFLTGpBdWNxWVVNcWxhczVjdWZtYkJvNVM2Y2dnczZRTmNtdTlXRVlWTmpPRjMwUUVaSmZodkNWZkJJY0Y1RTZBRm9OQ2R0dk1FZUFKSE1HRFVGTlBTYUhDV0tNMHhQdlE3MjVFME5jTdIBuwFBVV95cUxOeERzRVU3TXpad1NDOFJrTXBVeFhWelpNSDN4clFockpSZ1d1U1BWUEpKNlBTcHpldnlCR0RRWXdMU0oyd0ZrZFlBMnl0V1FFRkE0Zk5ZbktjaHJRTmZsVjdNWGNVTldZMndFRHlUaWxwQWlyV2dPYVVuTjVDWFlwUWRXSXZPVzhNNGEzdU81dVVyM2NzSzBsSkdDdjBhdU0wR2R6Y1ByX2ZzU3J5Q2h1TXNUOVZGWWVvQTFB?oc=5",
-          "summary": "Colectivos urbanos: la nueva línea S funcionará con una una frecuencia “de entre 25 y 30 minutos” Elonce.com",
-          "published": "2026-10-26T16:27:46+00:00",
+          "title": "Plagas del maíz: alertan por el gusano cogollero y recomiendan intensificar los controles - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUFB0cXNKdEVQNVp5NUlsTjNoWE5JUmlOOEZTNUxHS3pPU2tDZTBnaFRpRDdXcWszSWh6VjY2OUptaWZ3VksxZE51LWo5R1pNNE1YTkhXc0lzQnIxMnlMcjdtOTltZ3RwdHMzc0NoZnJxMU9sb05SeGlGTzQ1WGNLVkF0OEU3cEJaXy1wZ3pyUDI5Rmp5RlZMOGdwYWdmTzEtZTFJdkdPNjNQY056bE8zQ1lpRFpkUHJSaXlUY0RwcUx6d9IBuwFBVV95cUxQWWZDU0hJM19Qbi02YVZUTHZ6Qzg0ci1ObWxwMHpnYVNyTmhRWkpDSjNBcEFRNFRMQlotcUFFYmJsenhuaWZReXZEcHdZNnRZQnVUUkRyQXhQTThYYzIzMi01N21FMm1Ca3BjVGNYVkJxUEpjVUdPUWRpeHQ4OVVOUTg2cGVWZlZ4QWNsLVc0ZHE3WjdHLUpQb1pxLU1SSXJDX2R1UTZEdHJFa2RkbGZBVlFjTmZTUWJ5YUhj?oc=5",
+          "summary": "Plagas del maíz: alertan por el gusano cogollero y recomiendan intensificar los controles Elonce.com",
+          "published": "2026-10-26T22:57:39+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
