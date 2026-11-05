@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T10:52:19.087479+00:00",
+  "updated_at": "2026-11-05T18:43:45.953249+00:00",
   "status": "partial",
   "description": "Titulares y enlaces; el contenido completo permanece en el medio original.",
   "groups": [
@@ -53,21 +53,10 @@
       "homepage": "https://www.lapiramide.net/",
       "items": [
         {
-          "title": "Un perito accidentológico explicó cómo se reconstruyen los siniestros viales y cuáles son las claves para prevenirlos",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPbDI1aS02LTZaYUpkVlI3Wm10SUY4ajFkUnB2ZEJhdnBDQnhCdk9GRHljZnByR0hkcTIwc0tYaUF4Wi1xRXkxV245S05hcUtLdmpVd1pHWENNLTBHZ3lldm5WNEh4WGVTNWx3QldJTVJ3TWVWOFh5R1M5Yk45WDQ5UnJwdmxQdXliVkFZUGlpMjVlcUxNYlBHSm1scDNYeVdyMEhULVR3RU82eVVjSFROQ21ncUFTRlJUVUI3QS00UkF1ZDZUZklJbTRIb1NKWDJEb29oUTF2R2FLMjFQWjAzUXZrQmpsbU95ZjFxeTJ5cVl3bmVPdUllOXNEZTVOdEJu0gGGAkFVX3lxTE84d1BpcXpQSlNUWmlVdV9vS1lNem50eG05ekNaTHZINzN4WlVkZm9pcVFIaGNCTHl6eUJOX3ZVOFlvanY5OUpFXzZtOWdVUndhSlI3LXBTOFlwSVBqMEl1Q2RBdHVjbmFDWjZmWnJhcGlwb1ZhSl9maHJHZVh3WDFOMUdBQWdWakZmWjc4YzFucWcyMWh1UHliVHVhZngyVzdvWXVYZ0ktRWowVGktaW9VS1VwTXNWVS1Yd3A2ekJfdlJmYTZ4cm1FaERYUW9TVVd4Um14WVNmS2xEYU9td2YwVGRoZGJudWlVX2pBc0VTbWJPYWhTcE1PTS1BdnNCQTVOc0FNLWc?oc=5",
-          "summary": "Un perito accidentológico explicó cómo se reconstruyen los siniestros viales y cuáles son las claves para prevenirlos La Pirámide",
-          "published": "2026-11-04T14:31:58+00:00",
-          "source": "La Pirámide",
-          "source_url": "https://www.lapiramide.net/",
-          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "source_logo": "https://www.lapiramide.net/images/custom/favicon/favicon.ico?_v=v3-27",
-          "source_image": "https://www.lapiramide.net/images/custom/logo-social.png?_v=v3-27"
-        },
-        {
-          "title": "Murió Daniel Bifulco, el humorista que conquistó al público con Los Jaimitos de VideoMatch",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMnZuZWZ0RHRhRl8ycXRPMWZqWTZDMUVMT0M3ZkhIdkxLek9YVzdNQWxzazcwOEFvRGlyQjFfNXhtUHlaaVJXNWVMbXhZWVpZLS1KbmtEdjh4UUR6bTF5a081Qm1iX0Q5cllycWg2S3N5M1J0czBUQlVBMFgzekNTeTZxZGMyR1pGMjNoV0RCYlc1R216QXd4aU9aSEstTXNnTUZvYkpaTVNwQXljSmp4c0FVc2M5Sk1scHhwSTlzM1BQZ3hrMkU4V2R3aUZmUmdWaF9GVGhTR2ZNYU3SAeABQVVfeXFMTmlCWTJucGtoODFaelNxd1pXSzgxUzN0TUFPMW1PSFYyNnhEZlRqSUlqVFBSTm5ESmJkYTBTMkJPeFM3VlZRYWRhNURybmlGZlhoejViT0lLN3R4UmlKdGh4OFNyc05fOHh5Q0w2S2VWZXcxdDVtNHFkQWw3Y1VJSHdQVDJMclF0dzVzcWgwSGJHNGJ5RWMxUktqWF9hZzZ2Vy1Ib0VQNU9NYTBqUURyNzJxR1l3V3ZXZ1U0RnFHSUFZM2N2MzdJUE5ZVjJIc0dpeEFmUEFJbm9QWkVFekE2c28?oc=5",
-          "summary": "Murió Daniel Bifulco, el humorista que conquistó al público con Los Jaimitos de VideoMatch La Pirámide",
-          "published": "2026-11-04T17:39:40+00:00",
+          "title": "Quini 6: tres apostadores de Entre Ríos ganaron más de $15 millones cada uno",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQa0Vfd2h4N1VKZ09VZnZUMXpCb0ltN085SktLN0JYQkxac0pKTThKd0RPdzg1R2NHZzhLTzBfanN3LVJsVG56VGhvcWk4b0ZBSncwZWpYeU5VOTU2NjVtOERhVVJzVzVaNkJFWEdIZlhXaE5yaHhIc1h1MWxtV0ZPVXBBRGE2VDAtckg3eUJjZE5DQ1VMU2ZidklpNVg3N01KdDhOV1kyS2JiVUJSMFdWZWdiWUo1cnk0TU40b1VxSUJBbVpQZG5V0gHMAUFVX3lxTE5IOE82VXlzYVhheW1FZVlNUHlLeXFTWUZrVzVoZUk3SERNLVFrdC1BWURiLUY5QVdGZjk2YW9TMFlFaE1SX0FSR1lKM2hqTE9XdEp0RThMT25VZENhQUxEZHRWNnNFSHVDQk1SdXNEaWJTcTA1SnlOcU5QWmVsdFZRaTJhVUYzakVJZkh0T3dBd19zN2Z1dnhLNnpmZnhjVzlhTGkxUTRZWWI4ZjcwbGdRS2l2azZtYVhaTnkwWERwZExMR0dUTFhVTlBpTA?oc=5",
+          "summary": "Quini 6: tres apostadores de Entre Ríos ganaron más de $15 millones cada uno La Pirámide",
+          "published": "2026-11-05T12:59:42+00:00",
           "source": "La Pirámide",
           "source_url": "https://www.lapiramide.net/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -84,6 +73,17 @@
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
           "source_logo": "https://www.lapiramide.net/images/custom/favicon/favicon.ico?_v=v3-27",
           "source_image": "https://www.lapiramide.net/images/custom/logo-social.png?_v=v3-27"
+        },
+        {
+          "title": "Trabajadores de Granja Tres Arroyos continúan la lucha y denuncian meses sin cobrar salarios ni indemnizaciones",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOT2dzZklNLUNYUmluN1kyNzY4V2pSbnNTUklLUkNfYVhUMnQ2cWdjYzVCZ2R0TmRaVktqSVVsRWM0dHlmWGdFT21ZZThrNmJzQjU3cTY4ZWE4NldrTWViMWlBOFRkZUJfMmpkUTB1MklVU0dGUm1oNWlDWk5SaHlZU0MyMU0yNWJhdVJibEZOLWh6Tkg2MnNfVG1LOGxWbTV1RGVrelNoU3hJckVKSWE5U3J4VFFlSDlpaWkxUk9mZ2YyZHFadmRiRF83NFVJN2J2X2ZjM2wwMHpGWVVGNEZIbTlINFNZVUp0U3k4Z3NjMWl1MnA0YXZBWtIB_gFBVV95cUxQSE9CU3BoNnBlVEJET3V3Y1dwVGY0QkNucTVoTlBBNFlrNmJuN2dtVWQtT3ZfVDg4YmJpV0UtUkpxbWlQbzZTOWlud2FkaTBzTTBnM1F3cFBZalBMRFBlT01MRmJtQU5MM3l3ZEc0cVM1M0M1WU1pRnFEdlBaaUd4Q181VVlucDUxcV9NVXpWUkVFVzc1dGUxbzNGUFNPX3VjNG9ZTlg3bDJhTm44ZUlWSTVraE96Y2w5d21pY1FScFZ1RzBEUnRQMUFRN1UtVlFET1hhcnZoeUdhYjVTUUxPRl9Uc0FmVDBROGRhRnE1VGFuVmc2Zk1fWHlBb3RqQQ?oc=5",
+          "summary": "Trabajadores de Granja Tres Arroyos continúan la lucha y denuncian meses sin cobrar salarios ni indemnizaciones La Pirámide",
+          "published": "2026-11-05T01:03:42+00:00",
+          "source": "La Pirámide",
+          "source_url": "https://www.lapiramide.net/",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source_logo": "https://www.lapiramide.net/images/custom/favicon/favicon.ico?_v=v3-27",
+          "source_image": "https://www.lapiramide.net/images/custom/logo-social.png?_v=v3-27"
         }
       ]
     },
@@ -95,10 +95,10 @@
       "homepage": "https://www.r2820.com/",
       "items": [
         {
-          "title": "“La peor decisión del gobierno fue disolver el IOSPER y crear OSER”",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOT2hEeHh5ckptYW5NQkY2RVNBSTFTeGd4VXZRZkEteE9RRi1qalh5dlF1RHVoTUhfWUdRSExBODJwTVhaSHBPNUNmQ29DeHBhZFFyVDNxVTQzZW9JSUVhcS1MSkhWMml5VHc3YzNvZ1NLTnRFYjY5cDRXMnFKSTM3VHVkeEliQXpfb3dXTHBjVllvd25GSTltLXAxblEwYkozLXAxVzZLVHBqOC1FRDBBbGNnM3HSAboBQVVfeXFMTnJrUFRIajlnTDRFbi1oZVpnZTVabDFkLTY0QW5PR3YycERNY2tkU1AzTHVxU0tZc2VHQTZFemNyYkUyWUdwUmRWTFRHcUpfYkh1WjlRc0NuNUE4dmZxTHVvTFpFNlV4TnpVSEp0RVN0TlFQYU9RUDJJN0JSRFRRQmJIdldGX1dSMXRBYk1nSVdOdE93UU9FYzNxSUNHXzhxZzZ1WVU2dlFUbFZMT3k1NWpqQVNPaUFSbi13?oc=5",
-          "summary": "“La peor decisión del gobierno fue disolver el IOSPER y crear OSER” R2820",
-          "published": "2026-11-04T01:42:09+00:00",
+          "title": "Bomberos Voluntarios Gualeguaychú se prepara para celebrar 60 años de historia",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPV1hFN1hvQnpGTDB0R0ZxdTd2X0ZyYU43SHQ0aHpPVkNkbjhKYXlpcG16bGN1YTNpc0JSc1NvTGg5QjdPbkdkWEc1cWstTFpadmNueWFoTFJ6MDY2dG5vdFJZajNGYW5rZW00TXZtdV80Yy10M0kxSzhfbUlCN2hfWk9RdEtSYjVwZXp2VkhDTlRmcDcwcVBWaExhQzhSMUZFQ2hIbkVvM29pcG96TjllLUFzTlpobm5rd3RoVFlwUktxRTlZOVHSAcsBQVVfeXFMTUl4UlR2TzdmYUFIbTl0MVl4WDM1U2ZuWnBMY2ZicThRWnBmYTYyam1Tc0FlaXF0WTlfTGh0QjNlOGg0d2VFWWxJeDFseENMX21nbXdpOV9BRTB5QkMxdFFxcFppbDIwaDFEWEdoaW9JSnFlTmtjRWRhQ0wxQVphbEY3MncxV2lTSWpHaGVlWG5URWlORmYxWDVWQUEwdTFuY21iaGYtakJpMGZDVDNzb011M2Nxc1NmZ0k3Sy05OE1QSGxUY2hqdHVOUGM?oc=5",
+          "summary": "Bomberos Voluntarios Gualeguaychú se prepara para celebrar 60 años de historia R2820",
+          "published": "2026-11-05T00:45:35+00:00",
           "source": "R2820",
           "source_url": "https://www.r2820.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -106,10 +106,10 @@
           "source_image": "https://www.r2820.com/images/custom/logo-social.jpg?_v=v3-45"
         },
         {
-          "title": "El auto de la Técnica 2 que competirá en el Desafío YPF tendrá un homenaje a héroes de Malvinas",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZThsZWRYN0hycV9qSTBCNkZLNjZBR044YzNjRVpSdXZYd19uWVBkTVhpN2w3QzF4S012X001amtkeW9Qb3I5Wkt6ZHdzZC1aUV9fbGtraEhuYzNoOHZGLU40eHZWMDJoVjQ2OHpSYVl2Ni1QX3VPVEs0MzdKU1E1cGZacnZSX2tKVzg3OVhBSm5KWWxNRzY3b0NuTVZQZ1k3STNHWFF6ekVjWG93cG5rZjl6VU15U09jMWJrV3dkQ2kweG9Pc0lYRENrMHlmd1FUMzhRS1Q2ZkVldURC0gHiAUFVX3lxTE1CY2tGSUJJRmtfTk1QLVJJTzA2elpaNUF4bUJtXzJVVGJoTXdLdmhQTlJzVEg4QVhfNC1oLUgzMFlIZzlTOTZzbUdiOGZObHcwZGhrR2hTcHBfRWtNWnBKUFdQUVBHWDFsQVhNMENzT0FvWUdIN2g1MHY1RzZ2SjJNUFpJdTJwbDRfOFFjTm1DUWl4UG12ZEE5TEhfeWdrOXNkZnNlSXBucmwyanRMWHNRcHlmVVd2dXRWX2N6NmhrM2t3WE1XbndOZFRXZHpfRXRlY1M4M3ZTSU03MGNEVEFsYXc?oc=5",
-          "summary": "El auto de la Técnica 2 que competirá en el Desafío YPF tendrá un homenaje a héroes de Malvinas R2820",
-          "published": "2026-11-04T15:23:08+00:00",
+          "title": "La Secretaría de Desarrollo Humano atenderá en su nueva sede de Rivadavia 845",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUFNoaTFwWFBGYmpkVlVlZHNVUHZSLVRTa3J6OTc5ZV90UTJJRzVMQ0duOGdTUktpT1lpVFdmX0VWelRHUDFQWGs4VHJOOEdmdk5wSDFxU2VoVFFJZjlSZXhaQUJ5RzNUMkFRMXJuREtleEd6dmNoR3ZOQkVPWFBlLTFPWjZoU2tEYUx3QmdKN2Nwc3hCUjBMSGMwT2pTc2x4TzNFM1hxVWY3ZWc2TDJCR0s2dm9pWnhOck9SelZYODdhdVRP0gHKAUFVX3lxTE9PV2UwbUd1aDJQV2FtSk5oc2Jac2FzczBUTnYzVG51alozZTE4RUwzM3FLYVFNYnE3UnVNcTgzNUJIb3BrdFNWUmtWOE1RSVE1TG5mNE1JalppRjRtcFNxUjloSVVIRURIOU85Q2sxVWtTWHNKVk1DdUtPeFk4Nlc5aDRTRDc1RVlZS1k2M2JaZUVaMFF5YTlpRTlOMUQ5NEhhalV0c2RXelFXdHA5bms4X0hGWTV0cVlGdXVXbkNEMnlBMDBxbDBwYVE?oc=5",
+          "summary": "La Secretaría de Desarrollo Humano atenderá en su nueva sede de Rivadavia 845 R2820",
+          "published": "2026-11-04T14:50:31+00:00",
           "source": "R2820",
           "source_url": "https://www.r2820.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -126,10 +126,10 @@
       "homepage": "https://www.elonce.com/",
       "items": [
         {
-          "title": "Salud en alerta: ATE convocó a una movilización y anunció medidas de fuerza en hospitales de Paraná - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOay1PdXE5TEtOTlJNT0pWV19wMkZCRzZibWJ4TU9yb1hfdm1qWlVXSnVlQlBCMWFIbG5OTlpKVDhQb1ZIWl9uQTVTcWtGbkx4bkxnOWNTSjFtTEJxOUhUY2FrRjBkb1MxVGF4YV9HZnowZXZkXzlDVVhwSE03MGhDXzBNa0dLYUgyOWNDbUhKMXVDZVNJcHYwblZlQ2hoSkM4eTJwNlhPYTM1bGNzQ3h3bU5HX1I2TUxENnM0OEs3NnFvNjh2SzVvQWVCcUY3VFBlbGU5T1R30gHPAUFVX3lxTE5ySUx5Smhsbl95UWtoQXlNUTAtcTdSc09WZzNEVzNKdG1KaXNqUjc2RnBYRVlVWU9rdGxDeDdmcW5uLTV6QlkxcnpvS0paZ21RUXJ3VnNLckZIWU1TWGNXeU9kTnVqWTQzVTVrbjVlTVJ5XzNsSVRyY1RONUpmUWhYVVMtdlVSdlNEWlp5ZHR5YThOOXBGdm13RGlxbDI2dDlfc3lObjV6al91TDhPd3E2bzhyM2xyckpKTGQtQUdTLWZRa0FxNF9iajBHQVVqUQ?oc=5",
-          "summary": "Salud en alerta: ATE convocó a una movilización y anunció medidas de fuerza en hospitales de Paraná Elonce.com",
-          "published": "2026-11-04T15:12:48+00:00",
+          "title": "Los medicamentos podrán venderse sin prospecto en papel: qué cambia desde noviembre - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd0VtRXdLTUx4N2pOU0xSVHI4LTVOV2tmX3dKZjdnWG50eGFwb0ZBRG5hcXdwYVBlbmgtZUs0THRIR2NCMkQ3S1laRl9rWnJTb0UxWHE5LWp3Vk1tYlU0MU5Qd1ZWdHlQNmZvMlAtYUloMDlrdTVEUFdkQ2lxZ1lYVUtwd1FpaEdJNmtZSFRPYVZCaVZFUXY5a3lfaTBxa2PSAZgBQVVfeXFMT0RjM29ObThCaGdVZUQtdkhjNDcwcmxQaDBFbFNQWW1hWG9UWmo2aFg5WUNyQmtaWEVBMUhEMUIxbEtJZGhfaGRIcGxwQzZpTHIyMEppeFczb05MRDRYQXhCdnFYTHg5NE5FMVljOUxUR1ZiM3ZKanhld3RQUjFxVjlFdTFFNzdubEtBUldSZGtqRmtLQldRUHQ?oc=5",
+          "summary": "Los medicamentos podrán venderse sin prospecto en papel: qué cambia desde noviembre Elonce.com",
+          "published": "2026-11-05T10:17:36+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -137,10 +137,10 @@
           "source_image": "https://www.elonce.com/galeria/sitio/marca-de-agua4-jpg.jpg"
         },
         {
-          "title": "Homicidio en Paraná: investigan si hubo un conflicto previo entre la víctima y su victimario - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQT3J4TGpacWctUHlxeDF6aGtaMGxwTTJYLUdWVWtxTlRqNE5Rc0FCM00yVGpWRVZ0ZWRJazhMTVFmaVRiX0JsX2dhck5TbFlzTFNlT3VLdDdsMGJOb0NKOThRSERGVWxwZUo1MUxCbjBTQWg2SVlMUk13N1NrWkVaVmMzd1lYTUtZTmpqUkVPTHQtc1NFNFc5a9IBjwFBVV95cUxPX2gwQ0N6ei1TM3NuZG15UjlHZFU1OGtmYkV2cjVfamxwV1FiVE11WkxoTEdtcWl2NU92ZU1ZQ19oSDBUeXJNeGZCV0tnbjRjVmVqY21kTkFPU2Z5TXU2dFJRa1YxMVNrakFNckZuaEltdlg5dXNlWlVJVWx4UnJyU3lNbm15YlZlQ0RQSDVTNA?oc=5",
-          "summary": "Homicidio en Paraná: investigan si hubo un conflicto previo entre la víctima y su victimario Elonce.com",
-          "published": "2026-11-05T09:21:51+00:00",
+          "title": "Cinco días sin bancos: cuándo vuelve la atención y qué operaciones se podrán realizar - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRmtyWXY1QURTTGtndy1EYmxRLU5VZDNPQy1rcHNEYkJ3bFZ2NDNuVHZCZ2dhUTZlMWxlMFB4Nm1ObThWQ28wSFFNcXB0OW5mQjVSUWhFRkhmMmpublNMTUUzOFE2N2ppRFNVX1FKd0R3LVk1Y01NdU16aFRDRzBFenpXRlN4cFpfbF9EVEJNU1V4dkUtUjVXelpJZUJDUHhINmfSAZsBQVVfeXFMTVFUdkVWMDFmT2UzcnFEYzNHZnNBQXRDZlBBeDlMaHVjQVJxX3k0Q0lrRXlqdU1Rc01vZFc5YWZrSzVkYWVQOWZ3YVRzdG1DUnRJZHFyNFlpVDBBNHkwVEFSbU1MaVRucF9fbzhQcXNiWG9YS1dOclRkcUFfZmhCYk9PcFN1ZWhTZ0pJVmFHVWtfeC1YUjFUM0pJWlk?oc=5",
+          "summary": "Cinco días sin bancos: cuándo vuelve la atención y qué operaciones se podrán realizar Elonce.com",
+          "published": "2026-11-05T12:37:16+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -157,10 +157,10 @@
       "homepage": "https://www.pagina12.com.ar/",
       "items": [
         {
-          "title": "Axel Kicillof y Máximo Kirchner se reunieron con sus coroneles en la previa al encuentro del Consejo del PJ - Página|12",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMkdVNUdYMjBaMHNLZmVjTHJtQlo2X2lqYWhONHZLSUkwRTlyOFNWWDA2WDhSS1FEVExkSTF6RUpjZ3RzME1GOEtTQlFzZVZYZkxSMUFJa0xPYVZGUmpScXdSM2I4ZEFFemhBWlNtbjlqNFAxaHlHdEpuQjlacVRZbzJ4SGhrYU9obmtJWktOaThXN0FCdmo2blNndFRwTGs1SHJvLUl6TjhmejZMZHgzUmw5cFVUUzBsVERhMkJEVTBGRU9YY1FsaFMzbWIxdXhvb0g5REkyS0E3MWtkY3Ayb2lR?oc=5",
-          "summary": "Axel Kicillof y Máximo Kirchner se reunieron con sus coroneles en la previa al encuentro del Consejo del PJ Página|12",
-          "published": "2026-11-03T20:13:00+00:00",
+          "title": "Trump va de salida - Página|12",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ydUpMbG4xMGh4WU1wdWxHck5NZ2RwRzhpWHVOSlV2eFdUX20tckdCbnBBeG41MTN4WTh2N2RYR0FJMzBBRnRCNGRhV2NMb3B3RzN2U0s3Szd0MllLQUhfVTJtZU9nM2lqZ0E?oc=5",
+          "summary": "Trump va de salida Página|12",
+          "published": "2026-11-04T22:50:42+00:00",
           "source": "Página/12",
           "source_url": "https://www.pagina12.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -168,10 +168,10 @@
           "source_image": "https://www.pagina12.com.ar/resizer/v2/https%3A%2F%2Fwww.pagina12.com.ar%2Fresources%2Fp12logo.svg?auth=811d0fc63a912d1f8dc56b650f3a0054e089ac9c81bfee069a62717e10cbb54a&width=1200"
         },
         {
-          "title": "En la calle solo hubo repudios a Milei - Página|12",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xeGdCc21RcEczNjRpUTdtUkxkcEx6cEVlVTV1RnVWcmlTM21lWG16RW1CaEJSZlp1NGxFUE52MXM1ek9NT2xYY3B3UGNSdG1Ub2l6RWJUdGltdHZjY0ZIOVBFbnJieTRJOFVLWmlFUlhwNjJHZVFWRWhn?oc=5",
-          "summary": "En la calle solo hubo repudios a Milei Página|12",
-          "published": "2026-11-04T05:38:12+00:00",
+          "title": "Cristiano Ronaldo anunció su retiro de la Selección de Portugal - Página|12",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWHE3YlpTQ05UYk85U0hFSE5uN3hxTFJEWkRLakwyY2tDT3ZQS0RZQXNqbHBFSnhTbkQ0NmVtU1czRjFmRFJ0dmRkWm1IcHBaQS15MzdoTlBPRG5uMUY2VC1GX0hNc012ODdNR2R3RUI2dE1nY2Y4c1NyUVQwWlozUEtmSmc2Q295VTRfQTFrVWJiaU1TdHZPLWZka3BxUlh5ZzJTU3dn?oc=5",
+          "summary": "Cristiano Ronaldo anunció su retiro de la Selección de Portugal Página|12",
+          "published": "2026-11-05T11:16:48+00:00",
           "source": "Página/12",
           "source_url": "https://www.pagina12.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
