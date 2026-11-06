@@ -2,15 +2,15 @@
   "port": "Concepción del Uruguay",
   "river": "Uruguay",
   "current": 4.1,
-  "previous": 4.3,
-  "variation": -0.2,
-  "trend": "BAJA",
-  "official_updated": "05/11/2026 00:00",
+  "previous": 4.1,
+  "variation": 0.0,
+  "trend": "ESTABLE",
+  "official_updated": "06/11/2026 00:00",
   "previous_updated": null,
   "alert": 5.3,
   "evacuation": 6.3,
   "source_url": "https://alerta.ina.gob.ar/a5/diario/reporte_diario",
   "source": "Instituto Nacional del Agua (INA)",
   "status": "ok",
-  "checked_at": "2026-11-05T15:44:39.390204+00:00"
+  "checked_at": "2026-11-06T17:22:27.352888+00:00"
 }
