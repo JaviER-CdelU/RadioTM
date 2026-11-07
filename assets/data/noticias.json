@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T20:53:13.332583+00:00",
+  "updated_at": "2026-11-07T00:55:34.374130+00:00",
   "status": "partial",
   "description": "Titulares y enlaces; el contenido completo permanece en el medio original.",
   "groups": [
@@ -10,6 +10,17 @@
       "type": "Web",
       "homepage": "https://lacalle.com.ar/",
       "items": [
+        {
+          "title": "El papa León XIV llega a Uruguay para iniciar una visita de tres días con actividades en Montevideo, Paysandú y Florida - lacalle.com.ar",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPekl1QXdGcmlLQjhiWTNzWTFUWVM5amI4bjc0TTRBSVNpU1hFU29qdDZaNlNCOHJIbEhadU1NR0hsSjdrMFR6dGJRZXo1TUFLNDNIZ2kydmFZeGk5V3ZkZ0JyRU53Z0NsZS02RGZ1dmk5REVzbDQwbTZfM1h0MF93RlJZZy1iSFI3VVBnVDZkdlBhSGlnaUNtdmJZczlLaHluUUhib1RXV1VzN0pwSWhKTGpyNVhRM1FrSnBDX251MUJnWlZJZ19URzdxb1JHVEljSWhkcE9kTFFwZw?oc=5",
+          "summary": "El papa León XIV llega a Uruguay para iniciar una visita de tres días con actividades en Montevideo, Paysandú y Florida lacalle.com.ar",
+          "published": "2026-11-06T10:37:20+00:00",
+          "source": "Diario La Calle",
+          "source_url": "https://lacalle.com.ar/",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
+          "source_image": ""
+        },
         {
           "title": "NÉSTOR GABRIEL MOSCATELLI Q.E.P.D. - lacalle.com.ar",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5oQkNrVG1sRHdfb2hNZWg5MXF1Wmx6cFRtdW4wYXduTXhxbjQ2WEV1Wll5Qk83VGRPM2JVb2t5NlNUWHRTM2dUb0hnLXQ4MTJKWEtOcFp5c2QxYmpCZmRmcHR4OTQzV1BU?oc=5",
@@ -26,17 +37,6 @@
           "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1YZTVnN184M1lOZmp0YlI5c2JYLVNJRDBtbXNXa00tRkRmcWpWS3Q5NUY1N3J5cjlDaEdj?oc=5",
           "summary": "DIARIO LA CALLE | El Diario de Concepción del Uruguay lacalle.com.ar",
           "published": "2018-10-23T21:03:39+00:00",
-          "source": "Diario La Calle",
-          "source_url": "https://lacalle.com.ar/",
-          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
-          "source_image": ""
-        },
-        {
-          "title": "La Casa de Bernay fue presentada como Sitio de Memoria en jornadas nacionales - lacalle.com.ar",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOG5fVlRZV2NiSEwzYWNpYWRadnNfLXM4SVdWUzlYV1Rva09wTFpYSVhyU2lDUG5XUEFXSUFtWDFaRzZCUDhrVVpYeUJTSUJ0b3NQVVd5dllKbE5SUDBVUktoalBoV2pkMk5zTTd3c2tRZ3plV2g1Z2IyN1ZTNHQybldKYWpQVlNVUHBKZmlub1ZLNGNVbnIzMFBzd3pTVFh6Nno0?oc=5",
-          "summary": "La Casa de Bernay fue presentada como Sitio de Memoria en jornadas nacionales lacalle.com.ar",
-          "published": "2026-10-11T22:44:27+00:00",
           "source": "Diario La Calle",
           "source_url": "https://lacalle.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -137,10 +137,10 @@
           "source_image": "https://www.elonce.com/galeria/sitio/marca-de-agua4-jpg.jpg"
         },
         {
-          "title": "Baile, deportes y alegría: así comenzó la 47ª Fiesta Nacional del Gurí Entrerriano en Bovril - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZzJlby1vTzVsak5LTmo4cXV2LUd6RHNONURIdU5jMlhjcUxKX0hsZXZzbmdrbmRLVHFfT2tfTk81Rl9hRG1LQUluQXczUWQzMTEtcURfWDFtY0c1bTRYUkM3VU8wTmF4bHItZ0R5WmFyamExcEVxVG1uei1jbHRmRS1LMHdKcUJwX2QzNkdJNkxKUmFXYmcweFFDamdGWTU2aHNQNlFEbUp4ZXAtM1dueWtINNIBrAFBVV95cUxPSEU4VUdtU0xPQlFVXzV1N003ZEZrcjhVQVpBTWJPZDZiV1MxYWxNR3AtVEpaZ1BkcWxMSzNiQ09DX2YzVDdxcFZLVE1LcjU3ZnNKemdoeC14dExnVlNBeVdGNHZaOGNjX3ItUU1maXJ4SlVHTTI3N2FhWWFyd1ZjTlRlcG1uVHhZQnJzWmNKTHRBVm1hYVh0U1BEVF80UFlmbGJyeDdsbGxuYmFJ?oc=5",
-          "summary": "Baile, deportes y alegría: así comenzó la 47ª Fiesta Nacional del Gurí Entrerriano en Bovril Elonce.com",
-          "published": "2026-11-06T18:09:38+00:00",
+          "title": "Comenzó la Fiesta Nacional de la Avicultura: shows, artistas y transmisión en vivo de Elonce - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWTlvQzZRLTFLZ29BRlh5dFkyWmRWWkdGc01IcFFVWXM3N0NxamFWZ2Q2YlJpS0xEdFVTWWxNOWN5TlBEdXJwZ20yTnZCTHYyT1JVQnhlUi1peDNvaGw0NHBvdUNfV1JFNTVlTWFQRmJHaUczREhydE14ZzQ1WEZvdWpmNTBNQ1E3SWJ0cnNNcEF0ZGtFcFQ3VGVSeTU0eEtFSy1wOWRTNVEtTVVkSTI2RVRVRWtZdE9sVUc4ZGVHS3prVFYt0gG-AUFVX3lxTE9MNEhadnZ2cF94UWhpejNtNzVSbFVkM0FQWGZUSHhuTlRXZGhxZTdEVTIwQVJjVEVMZ3dtQXJteVVGOVhxbzd5Y3FqOGZyWlZ1bUo0YjZhX0RwamNycmtMd1N6YzVMMjlrNnQ5VmF6anhZMzhpMEVsTGpwR2taX2pUTkRzUUFCQ2ZxTzNJVGZncTZoQU8wOWhBcmdvSVlhNnByNGtsQnYyTDN0RWF1NTIySk1NM2FqZUlOeFAtUlE?oc=5",
+          "summary": "Comenzó la Fiesta Nacional de la Avicultura: shows, artistas y transmisión en vivo de Elonce Elonce.com",
+          "published": "2026-11-06T22:31:37+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -157,10 +157,10 @@
       "homepage": "https://www.pagina12.com.ar/",
       "items": [
         {
-          "title": "Trump va de salida - Página|12",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ydUpMbG4xMGh4WU1wdWxHck5NZ2RwRzhpWHVOSlV2eFdUX20tckdCbnBBeG41MTN4WTh2N2RYR0FJMzBBRnRCNGRhV2NMb3B3RzN2U0s3Szd0MllLQUhfVTJtZU9nM2lqZ0E?oc=5",
-          "summary": "Trump va de salida Página|12",
-          "published": "2026-11-04T22:50:42+00:00",
+          "title": "“Ser exdetenido no es una etiqueta, es un compromiso con la memoria” - Página|12",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONDg3VWd5ZFVvTDFpUjZ3aU5rX0JBWFFHUHRtN1NrbVFmQzUwSWk5N2kyTFNFTnJicURWeHNKbkV1V0NKVHhXb1EwRS1TcW4wUFpmWVdLVnBwSklYeXVFTGFzSm9jem1Ma0pYR3RWX1FHRlAxNUJzdm5WRWpWZExGM3lNVFJOVTE2Z1R1eVZWZFMxeEFrcHhVbWpJMS1DNDR6VDJLYUVQc2Q?oc=5",
+          "summary": "“Ser exdetenido no es una etiqueta, es un compromiso con la memoria” Página|12",
+          "published": "2026-11-06T12:21:21+00:00",
           "source": "Página/12",
           "source_url": "https://www.pagina12.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -168,10 +168,10 @@
           "source_image": "https://www.pagina12.com.ar/resizer/v2/https%3A%2F%2Fwww.pagina12.com.ar%2Fresources%2Fp12logo.svg?auth=811d0fc63a912d1f8dc56b650f3a0054e089ac9c81bfee069a62717e10cbb54a&width=1200"
         },
         {
-          "title": "Triple femicidio de Florencio Varela: hallaron un video clave para la causa y ordenaron el secreto de sumario - Página|12",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYnhPREJCd05QenFKRThXLTA2SElfdXU5S3JKdW1fRTVaTW1hT2JuVHRMbm5wRnVXVjYzeVlWNm5zT1hTYTUyMXlmNFBTMlZDczJUeHNVc0V4ME9ReVFnTkxueHF6OXpCWWZMZU90MDNXYl9aeEU3MTdHeENGRi1QYWxxMktHcGNVZy1OWkF5VV9WZ2lLcl9JWEdLZUpOamRrOHpXZnNneWpxNVlVZ0FLMnEtdkN1bVEyX3pqVmxIODlQSjJGeWFCZm5kU1NVZWNDNkdCMjk1M2Y5dmJWVGpocDF3?oc=5",
-          "summary": "Triple femicidio de Florencio Varela: hallaron un video clave para la causa y ordenaron el secreto de sumario Página|12",
-          "published": "2026-11-04T14:54:42+00:00",
+          "title": "Plan imperialista en caída - Página|12",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1MGNWMFkzUXg4cmtKcHhJMjdGTktYbVRWY1otZXdZNWZUQlljSTdXTUszaTFURTVJSFhUcnlxeDl1Nl90cWhtMnp1RVRMTVNqd1R0a0lITG00bjd5b1BTVTlIMTlQeDlaNTFzRjFUOFdxYWZx?oc=5",
+          "summary": "Plan imperialista en caída Página|12",
+          "published": "2026-11-06T02:35:44+00:00",
           "source": "Página/12",
           "source_url": "https://www.pagina12.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
