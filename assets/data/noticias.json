@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T02:27:43.387901+00:00",
+  "updated_at": "2026-11-08T10:17:59.604487+00:00",
   "status": "partial",
   "description": "Titulares y enlaces; el contenido completo permanece en el medio original.",
   "groups": [
@@ -53,6 +53,17 @@
       "homepage": "https://www.lapiramide.net/",
       "items": [
         {
+          "title": "Los hinchas de Boca celebraron el título de la tabla anual en Plaza Ramírez",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeWhYZ1F5QThKamY1MzlwejZsbmtZOFRtaFlPQnptSUR5MFZCNWhoVGF5bTlmWVhyMWgtQVZ6bllHSC1VNV8tTXlPNHI3dHJFZFh5UjZvdGNuek5BWXlWUUZhTC1rT2gtb3YzVGZ6SmUzY1VMN1p4LTJ3b0dka3Z0bU1iemlzWV9UV2l1RjVCMDlXYWVuVFhsZXVPbjVfd1NjNUdVX1VHc1BBenNOMHZsbEQtMDNmZFFpdlM0TGZFWTdrSkZuTElrUtIBzgFBVV95cUxNd2xLVkk4WWtiR0xXc3NnNmdpVS1vcDJTajlRS05wN3otQlZLTzZSNVB0M0Nsank0a2dLcXBCeWs4UjdJRXdPaWY2X3VISW1GbG5WZ0pIS0Y1TFdUS0Y5LWl0d1lJQ0hwWWZOS3BTSmRIdW9jRmJ1THlLaDYwS0ZmTm5aTXUyRmpaNTRQVHFUY25JaC0tVzNFelY3cjF4TzZ4ZWlBcnlabnVuNm02R0U0TWlUUGNRMkw0MEhKRGpZYmdSQW1RMHAzdFE2VEhwZw?oc=5",
+          "summary": "Los hinchas de Boca celebraron el título de la tabla anual en Plaza Ramírez La Pirámide",
+          "published": "2026-11-08T01:03:51+00:00",
+          "source": "La Pirámide",
+          "source_url": "https://www.lapiramide.net/",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source_logo": "https://www.lapiramide.net/images/custom/favicon/favicon.ico?_v=v3-27",
+          "source_image": "https://www.lapiramide.net/images/custom/logo-social.png?_v=v3-27"
+        },
+        {
           "title": "Secuestraron una motocicleta durante un operativo policial en bulevar Los Constituyentes",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOREV5d0pwUzV6Zk9Udk1oX1pTanh6N21FV0pDTkhRa0RTSWYwbW02T2pKMDlKdGFaWnlkbnp5S0dxZElKeDNtazZ6TEZsak1DN2txSlNDeXMtWWloMXZ5aUtjeVRlVkZMVW02REN1bklmbENvTFgyOGVoR3Z3bG9ieTVuSmFpTmhDZkJoVWR1eFRfY2l5Y1JGdFBPVU1Xd0w2MkxtVm5vRld2RmRSWHhxOHBHeTg2ZFRBZTU5YnFyY3F3VVRZRmR6cUF2OVBFLXZVbzM1eE02ZDZiQdIB3wFBVV95cUxOZVVGcmpXR3UwWWlxVk10enNjMng4MEtmbkpvSDJZNVZqOVpMRm1sOU9XUGV2S2xFSlBoRGgzcVBhTUNEQTlFSF9FU2Rya2ZKV2NYamlOeXgtQzZMNkRyTHJ0dHNsdlhlVVZiT3BXRnBpeTY0M2hKMXhFSDRiWUFkOWxRSkRFdi1uWWFsMmdJQmVHUTNucTVmN0x4Mklra21TZjdLOHgxbUh0ZWZCd0l6X183M2RCVXVJaUUyT1dEUFZFRU1zZkx3NFpfQkd6X2d5c01sTDJDU0xKSWZLRlZN?oc=5",
           "summary": "Secuestraron una motocicleta durante un operativo policial en bulevar Los Constituyentes La Pirámide",
@@ -64,21 +75,10 @@
           "source_image": "https://www.lapiramide.net/images/custom/logo-social.png?_v=v3-27"
         },
         {
-          "title": "Quini 6: tres apostadores de Entre Ríos ganaron más de $15 millones cada uno",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQa0Vfd2h4N1VKZ09VZnZUMXpCb0ltN085SktLN0JYQkxac0pKTThKd0RPdzg1R2NHZzhLTzBfanN3LVJsVG56VGhvcWk4b0ZBSncwZWpYeU5VOTU2NjVtOERhVVJzVzVaNkJFWEdIZlhXaE5yaHhIc1h1MWxtV0ZPVXBBRGE2VDAtckg3eUJjZE5DQ1VMU2ZidklpNVg3N01KdDhOV1kyS2JiVUJSMFdWZWdiWUo1cnk0TU40b1VxSUJBbVpQZG5V0gHMAUFVX3lxTE5IOE82VXlzYVhheW1FZVlNUHlLeXFTWUZrVzVoZUk3SERNLVFrdC1BWURiLUY5QVdGZjk2YW9TMFlFaE1SX0FSR1lKM2hqTE9XdEp0RThMT25VZENhQUxEZHRWNnNFSHVDQk1SdXNEaWJTcTA1SnlOcU5QWmVsdFZRaTJhVUYzakVJZkh0T3dBd19zN2Z1dnhLNnpmZnhjVzlhTGkxUTRZWWI4ZjcwbGdRS2l2azZtYVhaTnkwWERwZExMR0dUTFhVTlBpTA?oc=5",
-          "summary": "Quini 6: tres apostadores de Entre Ríos ganaron más de $15 millones cada uno La Pirámide",
-          "published": "2026-11-05T12:59:42+00:00",
-          "source": "La Pirámide",
-          "source_url": "https://www.lapiramide.net/",
-          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "source_logo": "https://www.lapiramide.net/images/custom/favicon/favicon.ico?_v=v3-27",
-          "source_image": "https://www.lapiramide.net/images/custom/logo-social.png?_v=v3-27"
-        },
-        {
-          "title": "JOSE OSVALDO CABRERA (Pelusa) Q.E.P.D",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYjdua2tTQVJfMUZhcmR4WmxRM3N5ZGttN3JGc2YtRHVKMGtzbDdUaXh5Nm5TTVpDUkx0bTFOQ3V5ZDFFQ0NPZjBiWk8wcF83c05FUHNjZUhEcUQwUFprdmZkcmZobkNHdDczWDNpTlgtdTB4cWxmRUZuc0ZPNEw0OEdrbDE1d0xfNmh4c3NxUdIBlAFBVV95cUxQd2NPME4zRmNGMHlIbkZKX3hGTnV6aU9SZVlUSGZRZ1A4b3k1UDBKclkwRE50Vk84Q0l1Vy1PTl9yX0FPUDJlb05rSzZjZ0tfdnNSeUlNTER4aVhUZmxQMWFncmdoOTRBTjBiNGNCLURPX044ZmM5aExjb21oZXdFNGtKNllJaGNaMlVYRDRyeDk2Vzdu?oc=5",
-          "summary": "JOSE OSVALDO CABRERA (Pelusa) Q.E.P.D La Pirámide",
-          "published": "2026-11-06T16:33:47+00:00",
+          "title": "Un vehículo mal estacionado complica el tránsito en Alem y San Martín",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVTJMMkZjc2ZCR3NZM0s5Nm9PdkNOMllvWDE3U2laNjhpTnFsbTBkSnlXNTFSRmhzSnM2ZU90aThpT193aFFnVDYwUy1MTEpjQk5HX2V4alNLNDlwV0VJQkliR3FmR1dZbVEzNUNIX3hVejg3WFNPMVZPUXVfWU9LdVpadXlacmF4bWFPZkVCMV9EYUY1aXd5cktGaDQwNzRmd09Zd3V3WllSbzdZRWtSWXh6bXhOM19sU2dkQVhMc3TSAcYBQVVfeXFMUDEybkk3b29Zelk4TzdiTWt2LWtiaUhlYTA2b1RDaU05TmVReFBiMnNWX1BYYjVWRUlxN0NlMWsxOXVMakRLOUpPMkhVaHl5Vm1SUkNIMGsyYWNYMTJIT0Z0X1NPcGJmWGl6MUhfc296MWF6U00yMy1MRmFhNE8xVzIwT25tMXVMUFRUNk5QZDhHTWw2WGJWMHg0LUdMU1hvSTVSR0hBMlVfbG1tOUtJLTV5cHlZLUI5bnktdjNEYnVrSHlGa2pn?oc=5",
+          "summary": "Un vehículo mal estacionado complica el tránsito en Alem y San Martín La Pirámide",
+          "published": "2026-11-07T22:22:49+00:00",
           "source": "La Pirámide",
           "source_url": "https://www.lapiramide.net/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -126,10 +126,10 @@
       "homepage": "https://www.elonce.com/",
       "items": [
         {
-          "title": "Boca campeón: los hinchas celebraron el título en las calles de Paraná y Concordia - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbGYwNnhSblZCV2JYRTdTaGZDS1BsazBFVTdYX2ZudkljdUxnLVZjTTRxZHVMUmNqeVJZNFhXbVlsbV9fcExlSmNxV3o0RElHNzRwQ2FzX3ZmemhIVnp2MC1HZG5UMDR5ci1rS0FjMlZkZWE0dk5rMnBWa3lhNkttdEFJUlUxQ0pvN0EtNG1xQUg3a0F2aTNKMmNrWThZVDVPelk3enV1Uk9oYV9zZ0tUeERneUhGZ9IBsgFBVV95cUxPWkdVR0dzRHR1NWFaazZGUXlTZXVOLTJLS0lpYUticXVaSVMxR0ctRDdNamx3Z21WU3JNVnRrT2M1VnAtdnVTTVJ4UEoxZFZZT3JmclJoZ0d1WDNLQVhmNW1JX28tUnFtNWw2aV9jV2tvRFFBNDg4QVhuc2QtZGJhNWlxcHh6a2podmZ5UDY0YURCbENzNm4wcWltVlRHNE10c1lhV1JSQ2JTYnpvTk9Jc0VR?oc=5",
-          "summary": "Boca campeón: los hinchas celebraron el título en las calles de Paraná y Concordia Elonce.com",
-          "published": "2026-11-08T00:15:13+00:00",
+          "title": "Fiesta Nacional de la Avicultura: El Polaco cerró una noche de ritmos alemanes, cumbia y baile - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbXU3bEtVc2twbi1TS2JSak1NYzVNZmtrOFREbTk3eDZiTkFsV1VsbS16R0ljZFlKclJOVmZ4b2h1a0JHNjZpTjdoNy12UTE0Q004ZFhOQXlkQkZ0Z3A0bTNTRnJHcU5HbEFYclFTT3lscUNyXzdEdkJwWUlMcDV2YUcxZk5qVHphQlJ5bERfZjF4cFAwR2ZyWjFTZXloU0h4ZWlYVkZMaTZqWGh2RWRMNG94ZGpZWjJkUmFOZklQeTJxbFdaLXdR0gHAAUFVX3lxTFBVQlY4Mms4SlVBZWF0dVJiQlNCWWZMbkVuQ1VkeHd5aTNNZ004anJPdkRTU2hfUTFuMF9adVZrRnJIMnJmZ2xVVHVRZE1iWnEyZEk2b1ZFdEVubmNkcm9LWEJFT3hUT2xoUzlENTBSSUhvN2tpSGdmN0E1Y1E3TTZjbFFDOUhVN1cwVDJlcjZBNXVrSVVZSHVaMmdYVjdhT2JsdkIzQ2IwLXlrR2J1WnpUSkZVLXQ5cXBRR3lEYnlvTw?oc=5",
+          "summary": "Fiesta Nacional de la Avicultura: El Polaco cerró una noche de ritmos alemanes, cumbia y baile Elonce.com",
+          "published": "2026-11-08T05:15:43+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -137,10 +137,10 @@
           "source_image": "https://www.elonce.com/galeria/sitio/marca-de-agua4-jpg.jpg"
         },
         {
-          "title": "Femicidio de Micaela García: la querella pedirá perpetua para Pavón y aseguró que hay pruebas para condenarlo - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNc3RRWlg2c3czZUJoNzNxOV9FeEtkSUxQcHBiWnlITnhub1dSc1hzRy00TUpacVIwQ2JFZFk0aWFJMm4zNHB5Yzloa0FNby0teGlpM1J4Z1RIY1ByMlp5cEZrY051N3JLNW1LdnItNlUtbksxTHNxNlJxekNnZjhka3pWSnI4UmtiZG9xVk1MbTNSb1VHRmlMVTlOZUpsY0gwS0NEckRTeXRVUzVMVXNqT0hTbC1BcEZOLWwxV0hFTDBWbDRPUG1yZUN1YkJDRnJPbUhUeWw0ZEtGd3Bo0gHWAUFVX3lxTE9QVUx3ZDRZRzcxTEtjLWJfOXEwcmRjby1uOW15d0xxdGs4SUpPdUZma3FQNkxhaVhJcVVTalFjRXRPYjdfLWpXbmExLW1BZkFoU1N3M2lUTTkwTmZKLUdGclNhSmczbjhicEZyaS1xN0lkOUhPdTBSS3ZtSXhhTHBKaHZRUzVRTnVDYS05dzVnRlN0SnNjZk02aWY3b0tDbzVPMHBKRnBocDcxWWVDM3FzQm1YaVcyMHhrVllYVk45OEFlVThGVXB1Q3ZXMk5LSWcxaVA5LXc?oc=5",
-          "summary": "Femicidio de Micaela García: la querella pedirá perpetua para Pavón y aseguró que hay pruebas para condenarlo Elonce.com",
-          "published": "2026-11-07T17:44:44+00:00",
+          "title": "Fiesta Nacional de la Avicultura en Crespo: El Polaco cierra la segunda noche con sus animados clásicos - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU0lpR0YteGZQbHlSX0hEMnhZMUtQM0RjelBZcWhVNlM4SnNpS1h6dk9xU05nUXRyLUg1SkwwdHF3T3RfQUJkTmlBSjNFYlI5Zy1qMzk5bllIWHlLODBkUG11UTAyamU3ZWc1LTU3cjhkb2dGcDJOemhMZEt0MU5UcF9DV2k5U3hwQUNuaWFVbHRoczB2ZU9IZTJ6R01lM2c2NTF6VGdPRGw4ZmFMSlFwdGQyclhzeEstT0F2ZWk2ZGs5X3pB0gG-AUFVX3lxTE5qbklHOElWMFRzVWVKbGYxOXRRb2NsWEF1aE8tQmFnVGhTakd6dEhmRnJCNWtLelVPWlV2NXJYT1cwQ3B2c1BCb19JdW1SUnBkTnQtRnZZQ0pxN0NFeXpZdDh4ZXZPWk52bUFwVlZaSlhzVFBWUE5SUjZka0xsMWNLdEhfSWdYTHpFR09iUzVINHZteEN4OG5oN0xHUW5qeXJjdUlUNlZpMm9YUlV1Z0hFeGZYU1R1N1I5TEF5SlE?oc=5",
+          "summary": "Fiesta Nacional de la Avicultura en Crespo: El Polaco cierra la segunda noche con sus animados clásicos Elonce.com",
+          "published": "2026-11-07T23:39:05+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -157,10 +157,10 @@
       "homepage": "https://www.pagina12.com.ar/",
       "items": [
         {
-          "title": "Cristina Kirchner sigue liderando la imagen positiva - Página|12",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc2ZzX1dKOUxjNVJHYTRRdXc4Y3pVSGFwVk1ucWQ1alM5MjhwY0RrMjJjWXNTYXMwS25fNWlhaURNV1RuUlZpNF9pQVc0eXBQenE2VTdQWkxyQ1ZFamVRWmFrY2ZLekY5NjBsR0V4aGVsLVFmUUE4SHJyWFVMWGJTcnNrdWhHS2lwQ0k5Tmw0QUF6UEdWZklR?oc=5",
-          "summary": "Cristina Kirchner sigue liderando la imagen positiva Página|12",
-          "published": "2026-11-06T19:50:00+00:00",
+          "title": "León XIV llegará al país en un clima de tensión entre Milei y la jerarquía de la Iglesia católica - Página|12",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSVNHb1pjNlNxR0RkMFU5YWlhLXA5YVUwaUJUSnFveVQyb1dzcC1FeEdXeUcwOHVWdENwbkFKVXdwdDBqdW9WcTlUZnN2RXdsTVJ3ODBNZVhEdTlvVjJsM1NLeWZ0ZVFGeTBmZUg0akU3aHVGZTAzcGtfTVdDOGhIMk8zanFnT21KbjRyNkZVeWN3enMxak9RaFhRUGpHNkt1cEs4dWZKOU55VmRuRjNzX0ZSeF84VlVWYVlPRl9vTnQtdy1HZ3p4dk5KQjRHcjlKT3Q0?oc=5",
+          "summary": "León XIV llegará al país en un clima de tensión entre Milei y la jerarquía de la Iglesia católica Página|12",
+          "published": "2026-11-08T04:19:30+00:00",
           "source": "Página/12",
           "source_url": "https://www.pagina12.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -168,10 +168,10 @@
           "source_image": "https://www.pagina12.com.ar/resizer/v2/https%3A%2F%2Fwww.pagina12.com.ar%2Fresources%2Fp12logo.svg?auth=811d0fc63a912d1f8dc56b650f3a0054e089ac9c81bfee069a62717e10cbb54a&width=1200"
         },
         {
-          "title": "La odisea de Eliseo - Página|12",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1uNFVWSjZCd2RrTURxX09PZWRqWWJFak0tVGhUaExtZjhYVDVXUXVQUGlwaXVPeVB6NTk3SDNkbExfNldtUVlNTEVubFdYYlNEb1lXU1lGX1d6OFNSeE1SNGpybENlRUVtbll3?oc=5",
-          "summary": "La odisea de Eliseo Página|12",
-          "published": "2026-11-06T23:03:27+00:00",
+          "title": "“No tomen por idiota al pueblo” - Página|12",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE16N0ttdGMxVzNud3Uwa204OGZlWEpNTUNUVUp3U3B3b3ZUM0d5WTVLODNveUw1Rk5Ha2E2OGM3bE5lM0phZG1UTmhwQXk4U0NHTVJGbEVHOHh3MDhpUGtTVklCekdSZGswVlhjYXlFSXNxbXJ2VG9DMA?oc=5",
+          "summary": "“No tomen por idiota al pueblo” Página|12",
+          "published": "2026-11-06T21:42:39+00:00",
           "source": "Página/12",
           "source_url": "https://www.pagina12.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
