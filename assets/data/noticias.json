@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T11:03:20.430992+00:00",
+  "updated_at": "2026-11-12T18:54:12.231677+00:00",
   "status": "partial",
   "description": "Titulares y enlaces; el contenido completo permanece en el medio original.",
   "groups": [
@@ -10,17 +10,6 @@
       "type": "Web",
       "homepage": "https://lacalle.com.ar/",
       "items": [
-        {
-          "title": "La Casa de Bernay fue presentada como Sitio de Memoria en jornadas nacionales - lacalle.com.ar",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOG5fVlRZV2NiSEwzYWNpYWRadnNfLXM4SVdWUzlYV1Rva09wTFpYSVhyU2lDUG5XUEFXSUFtWDFaRzZCUDhrVVpYeUJTSUJ0b3NQVVd5dllKbE5SUDBVUktoalBoV2pkMk5zTTd3c2tRZ3plV2g1Z2IyN1ZTNHQybldKYWpQVlNVUHBKZmlub1ZLNGNVbnIzMFBzd3pTVFh6Nno0?oc=5",
-          "summary": "La Casa de Bernay fue presentada como Sitio de Memoria en jornadas nacionales lacalle.com.ar",
-          "published": "2026-10-11T22:44:27+00:00",
-          "source": "Diario La Calle",
-          "source_url": "https://lacalle.com.ar/",
-          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
-          "source_image": ""
-        },
         {
           "title": "Concepción del Uruguay continúa con las jornadas de salud mental en los barrios - lacalle.com.ar",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeTJSd2tOM0lFWndvODB2ZUNwanpRNThjUG50NUJOeEwyZHhDTVNaNUdYMk5GV0M3cEo3VEoySVhoRTU2eEVpa0RZMVdUeU90OTkxY1cwVTVXQ3QtYjMzUkxsQXoxUEc1T3IzWGVUdFZsZ3hHVkkwbjBvNWNMYXZTLWROY3NWdWFPcUZqUzNuVFc4ZV96R2pFdTNqNFd0SUJrakU4aEpn?oc=5",
@@ -37,6 +26,17 @@
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcTJsdXpKdFNrOWNqa043UFR5T2ZaeU94YWVqT2k1ejRsbmZPYVVoRGhPME50aTFJS1gxR2JXVGRKQ3NzSHM1clNIUXdVVGpWSkNLRnFpOXlyQVNRSTV6UGZSYXBQOWpOWE9FY3BNN2ZWLWpmMHZ1dG5QOHdQQ1pBaTN4akx3b0pBaWlhNUN3Uk9lQm0yeUlkYm9NN29VSS13RnFGQ1hKT0h0cVpm?oc=5",
           "summary": "“Noche de Velas”: una propuesta para redescubrir el patrimonio del Cementerio Municipal lacalle.com.ar",
           "published": "2026-10-11T22:41:41+00:00",
+          "source": "Diario La Calle",
+          "source_url": "https://lacalle.com.ar/",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
+          "source_image": ""
+        },
+        {
+          "title": "La Estudiantina 2026 entregó los premios a los cursos ganadores - lacalle.com.ar",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNV9JR3ppZ3BWckIyYldBeENKVDVjZjlSLUlwaFFTcUd4eHZlZ0hnOU9MYUZOa0VKdW4wbDhvWVdkOTMwRjctbUlwcTdNOUJiS0tqbWFfVmNkU0ZQZGlGWG5mSlJNaGgwVzZrQXVUSnBtT2lTMUx6LXN1Unc3N2xXRkEyV1FWTWVlWUd2NEdRUjA?oc=5",
+          "summary": "La Estudiantina 2026 entregó los premios a los cursos ganadores lacalle.com.ar",
+          "published": "2026-10-11T22:51:15+00:00",
           "source": "Diario La Calle",
           "source_url": "https://lacalle.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -106,10 +106,10 @@
           "source_image": "https://www.r2820.com/images/custom/logo-social.jpg?_v=v3-45"
         },
         {
-          "title": "Un policía se arrojó al río y salvó la vida de un joven en Plaza de Aguas",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOUVnZUlCOVpyT1NDbXgxMHBweUVMaHNoOFZ1SEJ5WTdzZjRsNlBNSE4tT1lwcnVHZ0VXbGliVXdHY0RWSXQ1QllVMF83MDdWNVhodWpmb2pDYjM5SXdxbTM3MEhtQm1vTjFnUnJoTVdaUElLeklfSWRTWXpONkVFY2tyN0w1TmIyZ0tzZERWSXFNWmxOeXdzT2M1bEc5b2s5My16SVZLUkdzUkY4dHZpbk1ta0NtbndTajFteXBpWdIBxAFBVV95cUxPLUM1VVFBNTRrT1BtVWhkcXVmZ050R0FuNXF6Z25OeGstU0pZNWoyVHVZMWFHTmpRemdwTEMwRVl1aW5LZllLdG9Bdm1BNlJzeHgwLXFzUFRaRktCc2hXVmkyS2FCWXJrcmkwWnZyM19rVTJVSGFqRERTbDA3TFMxZldfSDk4dlZkeG9aWEFCVTM5QUNSZVl4SzByU3IwUnNkVXB5N2pKeWUtSjltUXJXemZyaGJhOXFSaVhjeVdjNlkwLU1h?oc=5",
-          "summary": "Un policía se arrojó al río y salvó la vida de un joven en Plaza de Aguas R2820",
-          "published": "2026-11-10T00:52:30+00:00",
+          "title": "Un camerunés, un angoleño, una estafa, lo que el tiempo se llevó",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa01nWU9DY18xMEFpbHMxa3h5VmRXdDN4WEtsQmtEeDZTWVB3VnZ2QW9rX3dHQi1peHhWUHNIWFRhMTNVbUZaYmhqVEdJQ0tUTi1JZUl2MmE3R0RJSHRlNkV4dWhLZzFMMFFnQ0dlalpIcmNhVjZBV2dvNlNoZHlzMVVqNFdiVm1tUUhmaEhDQmZjYkdPVWdCcGVDMzNGVDhpQXR2d2hITGJuRW43WHVv0gG0AUFVX3lxTE1BdmVkYmhnMGxtbERzYmV6VUxxbGRXbzVJYi1QZUJhYWgxRkZmQjMtS2RHdG15UkhZS3dZdXlOcmZ6bXNtOTZpbU5tdlpvcHlWMzFRMDlheERnQ0VKQlI3MjNkQnA2ZDJROGN6MFJ1UllIenZUdDRleDktXzBFQlVWcnFHNG9nWWxMVUlDTXNXNzU1SEpaOWJUUEk2NzhkWGJiVmprLVFHZGtKNm1jaXMxUHljaw?oc=5",
+          "summary": "Un camerunés, un angoleño, una estafa, lo que el tiempo se llevó R2820",
+          "published": "2026-11-11T23:09:11+00:00",
           "source": "R2820",
           "source_url": "https://www.r2820.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -137,10 +137,10 @@
           "source_image": "https://www.elonce.com/galeria/sitio/marca-de-agua4-jpg.jpg"
         },
         {
-          "title": "El río Paraná superó el nivel de evacuación en cuatro localidades entrerrianas - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVkUxbU9WVldXc09iSlh1UlJ3aUFiOXozbmxGcVJWQ2xOS1JndlhPVWhqcnpJMzkzam9laDJBdm9fblp3NVc0c2s3QmFlSDd6Y1AyTkdRaEJEY3gtNzh5eWgwcjlwRHN2VFFMSW5KSmpXbG85Q0xuZFNKQ1pZUzZEQlJCSU1sUFpocE0yRXFBRHNaNDlhYXhIa05DeGtYQzjSAZgBQVVfeXFMT2U1VW1ZVTFqYlVNVGdZUFNkZDB1YklCT0UyTnVYNGpkeTJPZWZtZGJlb3NXV0F2ZVpIYmZ2QkZHd3JHb2ZIMGozanc3NnhhRkJQZTVIc01Fd3JPQ3dIQ2pjSHhJdkJYWVNKTEFHUDlnZ0NPTWZjN09ydDBJSDU4VkExcHQ1TmJsM05oX2kzdU1mbG92TjBraWQ?oc=5",
-          "summary": "El río Paraná superó el nivel de evacuación en cuatro localidades entrerrianas Elonce.com",
-          "published": "2026-11-12T10:28:17+00:00",
+          "title": "Más de 100 alumnos celebraron la tradición con bailes, juegos y una muestra artística - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcU4xOW41dWRXc2lrcEcyQVVIb2pLZGh4VTQ4WlIweFdJZFhtbEg3M2JMMHcxcUgtendHem9kVFlJTV91SlI0OThNN2ZVWXdUelV1ZDlRQ09KUzB3X3lwZEVuQkYzTlNrRjZJNnBublVoNE5EcmtMay05Y3JTU1V5T05HYTdpZnhGTEFnbEpsNXh3Wkp0WXJkQ2RFLVMxOE1Da2kwOHJnU2lLX1XSAZcBQVVfeXFMTWlnNEh2NjdxX2ZwWWdYM1hJR2ZlVGxlNXpQWm9ZRHlWcERTSWxZQnJwdkdobDYwSGJLQ0Q1M0ZHMElfVEpQeWE0b0Q5bEE0SWVsRjJ1ZURhQ3ZsWlFVRVNCZTBid1I1dHRlWlVmU1JDT3k1NzFUMnprekVxTExiTWNkUVRHTHF1QzlUZjJiNDFnalA3cHY5WQ?oc=5",
+          "summary": "Más de 100 alumnos celebraron la tradición con bailes, juegos y una muestra artística Elonce.com",
+          "published": "2026-11-12T14:01:54+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
