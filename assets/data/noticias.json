@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T20:28:29.572261+00:00",
+  "updated_at": "2026-11-17T03:51:13.644516+00:00",
   "status": "partial",
   "description": "Titulares y enlaces; el contenido completo permanece en el medio original.",
   "groups": [
@@ -10,17 +10,6 @@
       "type": "Web",
       "homepage": "https://lacalle.com.ar/",
       "items": [
-        {
-          "title": "Las carnicerías enfrentan una fuerte caída de ventas y los clientes reducen sus compras - lacalle.com.ar",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbGVlVlJaU2Utd292VFJ1UXQwNzZvaktYalgzQ3dQNFlaX19vTUl3eVlVRjZDakdPUDk0eUhtRERDRVlGb0U3cHp1MmZTQ3NwX1RWVWNaR1V0T2Y3YWRLQm4xUG53R005eW9ScDJDMTgwWDEwODF2cWIycjhRT3EtOEY3ZHFNVFJvM2ZMZlNELWI1YndsZlVKSmo0SHpVNW82YUtIRl9iR1FFOEx2NnVSMA?oc=5",
-          "summary": "Las carnicerías enfrentan una fuerte caída de ventas y los clientes reducen sus compras lacalle.com.ar",
-          "published": "2026-10-10T07:00:00+00:00",
-          "source": "Diario La Calle",
-          "source_url": "https://lacalle.com.ar/",
-          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
-          "source_image": ""
-        },
         {
           "title": "Concepción del Uruguay será sede del ciclo de charlas de Astronomía “Más allá de la luz” - lacalle.com.ar",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbkdKbXFCT08xWkFZVEN1OHgyc1ktcmlKRnRHOUw1ZG9EZHFLN3JJdF9SS2ttRHZZWWRIbnpuMWwzV1pCUnFUMUlFUk1rdXEyWFlCbW9DZ2lQeWtqeXlIOWs1ZnF2X0d6YnltcGh1ZTZuZ0dYVHk0Y3JndVhnNTdPMjRYUWlRQjRjSFFKbmxwY0xzNGN3TldWZ05pakJmMUZTazVmV1FXMlFVdVY0RzVR?oc=5",
@@ -39,7 +28,18 @@
           "published": "2018-10-23T21:03:39+00:00",
           "source": "Diario La Calle",
           "source_url": "https://lacalle.com.ar/",
-          "image": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
+          "source_image": ""
+        },
+        {
+          "title": "Concepción del Uruguay construirá una toma de agua alternativa con fondos municipales - lacalle.com.ar",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOM1E2Z1RXc2IyWF9nbDNST2RIMTlxMlVTMXFWZzFlVFZDU0pnR1dzYTZ4Mm4tM2Jxb0VjREdKelZacUFacDdGcXMtblAwbWJfMFhLSGx2bUlGU0wwQWlfWEVaRzVPQ2kzMlA5TTVybFB4Wk5uVmtaM0VzSEdEQmNYdF9oWG55dnI2UXhfbmlkaThzQ3BOUXN3aTBpd2RJRE5tdFF3Y05XR0JrRHZMcEE?oc=5",
+          "summary": "Concepción del Uruguay construirá una toma de agua alternativa con fondos municipales lacalle.com.ar",
+          "published": "2026-10-23T07:00:00+00:00",
+          "source": "Diario La Calle",
+          "source_url": "https://lacalle.com.ar/",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
           "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
           "source_image": ""
         }
@@ -53,10 +53,10 @@
       "homepage": "https://www.lapiramide.net/",
       "items": [
         {
-          "title": "Lanzan “Egresados Sportsman 2026” con un premio de $1.500.000 para la Promo 26",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeWc2MHNIODNpc2laaF9rVElkZjEtUUhHalVsQlVzTHRPLU1rWjRQb2pVdEZqS1g3eXNBbGNXWm41TjI5RXc5eDFBbG5fUWpQTERoeUJ3V1o3Z0ZCR29VdEtiOGtkSGJHYWlsS2dOVzZRUE5aLXRvZDJ6VHpMaGNNZUVfdnFiVjZXbU41MnFVMUdMeFI0VmFpN1pNaUR0YXpENWlVbTBVdDdWTmM2NXBkYU04S3lHd09NcWJUZWxCNXN6UmtkLXfSAcsBQVVfeXFMT21rZE9JUWcyWktDb1l2WTBpa3pHZGlEUmp0Q1ZpNE1IMHE2ZW5JRmw4WFhaSkFmMnNvajBKZF9yVjVOTjh6cGNxT3pzYV9GYUdrVEhneUc5ZVB1WkNqVVpPWjVwSHBxZVFjUGdmRFZmb0FtU0lzclhFczZyYl8tU3JrcWZVdzVqRDVoSlRkOWNBcnBhUTZzRjQwb0N3QXI1akhVamFQSUVjZnF3SHFFRGxKaHdCS0oxRGxsY0EweXE2cEo0Sm15ZS1Qc3M?oc=5",
-          "summary": "Lanzan “Egresados Sportsman 2026” con un premio de $1.500.000 para la Promo 26 La Pirámide",
-          "published": "2026-11-16T01:00:02+00:00",
+          "title": "Rige alerta amarilla por tormentas en todo Entre Ríos: prevén lluvias intensas y granizo",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUGw2bFp6a1psOHB6ODV3dHM4cUxnbmtSU29VbVZaUnRxd3V5SWZuWjdIZmFuS1FUdkRzem5oZEZHT1RIYzN3N1UwM0NfWEpCbHRXVWNQOVV2NXhwOGhVYnRjOFZ4TzM3aFFVZDFlbWZRWnROZmxMbnFKWFFCdWc5dFpmVjlENHp4NGNGYjRkeVE3SEhFTWQ2WUd2WGs4bkF2WHI0aWFoYjNNeGdZSFFoWUVEQTdaMkp5TnFyUHFqdFdiWlRuYlY2OUo3VUJ6QTFXM0U4c0dZclLSAd4BQVVfeXFMT3NvaWlORjhiZjN6bmZDVlQ0MEhxX0o2eDJRdWdwN3FsNnZvTl9BN0Z2Tl9jd1ZUUXNSaXhyWXEwZzVQTmRlb3F0ekdDZVZ0bHVfMExWU3g4QV9nUWs5VGpsX3hhdlYxRXhjd1l3TGV1Y1Z5dUZBZnhWT21vRUU3b3ZCQm95em9kcG5kT1d1bWhCSU9vclFkZm1nNlhkSTlwZ2szSWJuSDAzakg2d0JLVzh0SnVuU0JtYlBBckNkZ3JXc2pOenpQNVA5WWtrV1Q1RkJxRllzX2RDS0tKQnh3?oc=5",
+          "summary": "Rige alerta amarilla por tormentas en todo Entre Ríos: prevén lluvias intensas y granizo La Pirámide",
+          "published": "2026-11-17T02:03:09+00:00",
           "source": "La Pirámide",
           "source_url": "https://www.lapiramide.net/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -64,10 +64,10 @@
           "source_image": "https://www.lapiramide.net/images/custom/logo-social.png?_v=v3-27"
         },
         {
-          "title": "Comenzó a implementarse una Ventanilla Digital para permisos de construcción",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOU5ISDY3eWIzdGRqUC1WRGNwdFdzeUp3ZmFqYnppNnRVNmhCdi1ZRS1kWXA4cFJBWGhnWEtPVEJHX3c0SjRNSTdUY0lFdHJtWGVmaWo2RjZpRmxCM2VCbkJxQ3NXMmEzZU14MzQyeUtVbi1CR3NyZlVRcmUyczZyRXFNMk5IU2pZTWdpemVtM3IzWV85ZEtMZUlEcFZLNUNNdFl0MWZZVEhhRkZfN0tqdnNrTERnZXMzRG9LbUNYRzBhY04xcDAzeXJ30gHPAUFVX3lxTE9peFNZaDU2ZW5LTDBFUXpfN20yS1hIZ3ZQbFNIX2NXRGJIdG1weGtwYUJfOWpIYkF5cHI0WWx6V01RYXFtMFZNRHdMOUwxYWRreExjLUpSeVIwR1NzRkpHN0JXMWRxTUI1bWFoaDhhSTVXZnVBbUo4TUZ1bmdFbWFQeTlOcjd4Ukc1bFhUbUlQY21WejhTOGhCRl9zVWROMXpVRWE5bk52VE5rWWM5UVJ0TGkwZmQwY19DS1EwR0ZBa1FJV3J0SXc1bC1PSjBfQQ?oc=5",
-          "summary": "Comenzó a implementarse una Ventanilla Digital para permisos de construcción La Pirámide",
-          "published": "2026-11-15T17:30:57+00:00",
+          "title": "STIA suspendió la asamblea extraordinaria prevista para los trabajadores de La China",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUGpZVkdxQ0ZLd3ZvdWhnSldkLVdmNUhzdjFYbl9JcDB6MG1Cd094dzVBekxRUDZuMTRnRUxLYjNDSXY3d3FhVmZ1RlFsWWpiNzB0TXAwRmFkV0xPVko1cU9YVEJUNWNkZHR4anhNbnhHQ2s2dVphc1JnZHFVbGhuWG0tN2tFTXFLU2ljOTJFbE11anZKZ1ZVdlFBck5JeUQ3ODk0eFdneWhZVnpSanJnczVvZm55TmdPbzdFWlRKeXdpMUFkb3d3Y1pNQV9jZXA5R0xBVNIB2gFBVV95cUxNVlJlR1ZWVU1WT3VYM1FOZmJEcXJYd29sQ2xsZUpGT3hDQmxJNDMzR3pXeVkxX3ptME5BUUJ4NFpMaEI3ajlCWGNkcElYTE1JWUQ1bGFHV2o2ZVBoS2ZCSzZkN3c5dlBnRUhlQjVoUnFRaG00MEllZjQtQmp6dTVXaWJHN0hpcTFFQUE1azRNT3NheWw0RVV6MFZBcFRackhFSVN4bjJZOW9NY2ZrdV93YUlDNHJ1SElnY20ybXJsTnBqZ2gxOFBYc3dCX1JsWWpTaWd6dlNLdDVyUQ?oc=5",
+          "summary": "STIA suspendió la asamblea extraordinaria prevista para los trabajadores de La China La Pirámide",
+          "published": "2026-11-17T00:32:28+00:00",
           "source": "La Pirámide",
           "source_url": "https://www.lapiramide.net/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -75,10 +75,10 @@
           "source_image": "https://www.lapiramide.net/images/custom/logo-social.png?_v=v3-27"
         },
         {
-          "title": "Por UniónBat, Entre Ríos está quinta en el mapa de conflictividad laboral",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMjBRREtuaXNGM3pUbUZJVXhqLWdQNms3VUYxdElqeHJTU2I1YXJoU0FWOGNtako4T1o5azlLeGtsUFFfcEJpNnRBUE9XcmRLRGRaeDFJOGRiRTY2Y0RzLWxQMHZ6YlhqSGtNUERNbElNTUJhRVdWbWlmWUh3VjZuM1B5YUF4RE5HOTV2ZmZrV0JYZ244QUp5YUVqeWh3TVBoQkZxbkRrSm1sUmI5elQyS212QWhKWlhuZ0ZLLXVncE1QRl9B0gHKAUFVX3lxTE9qOXZfMVB4dDROSjYzek8zMDIxT1lNcHFrN0ZvakVRZFNCaU9hX1JpUUU4VVI2UzdMOHZhTDJQZTJMQ1UwSkJuaUJZczUtVGlGNDU0QV9yS2ZUVjE3bXpkeDdOYmdEdC11akk2T0pnSW9RQmdycmtnVkdWbjV5ay1VLUV2Y01VeFFRQTdTaGg2SVVpeE40bERGX0VwNUhNYm9ROFM5MHl5RlNMOHVKOXpPaXZoY0R3SlpSN3hBRlo2aTNlNzdYYll6SEE?oc=5",
-          "summary": "Por UniónBat, Entre Ríos está quinta en el mapa de conflictividad laboral La Pirámide",
-          "published": "2026-11-15T22:36:27+00:00",
+          "title": "Reclaman por falta de luminarias y preocupación por la inseguridad",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcXFvR01vdW1HR213QUpuaHFDdFB5TTlNckhJbHNZY09QZGJJa21JdWNnRV9tTUttdm5McnRISXYtNzV5aGdGVkMwS2lmQUpWRkVqTnVOV29ja1dZdDFZOUJvMHNsd1BTVHdUYk03RnQxMjJLQWRiNTlfZUU4YUFtLVNMcmtRR3MwazJhakdGa002c2cxdndCY0w4TGJBcm9SYWhCRTFvNnZzTlRFWllTS1JzcmlEamplUUEtTtIBwgFBVV95cUxQWldkalNpRHhlWmpXT25Bbjc4WDBUNUU2R3RGLVZQWEVGNk9QMDZoM0xKYlVKLXpkVUQ1Qi1hYUM0eVdiTDB5YkxVdmJ2NWh2eE4zY3dzUHlVaHB0MkhVWHBZTjJiNXNYZXU0cEs5bDg3UjI0anZhZmwwVkNUclRaeTFGakU0WWRRaWk5NGl2OWY4OEFGTFhSdS1EMTRLQkZWZnpSQXo5Qm80YUpiRXNFa2stbFcxU3VNTjV4RjFjd0ZfZw?oc=5",
+          "summary": "Reclaman por falta de luminarias y preocupación por la inseguridad La Pirámide",
+          "published": "2026-11-16T17:05:16+00:00",
           "source": "La Pirámide",
           "source_url": "https://www.lapiramide.net/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -95,10 +95,10 @@
       "homepage": "https://www.r2820.com/",
       "items": [
         {
-          "title": "Abrió la inscripción al Padrón de Electores Extranjeros",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZDJLZXItLWZYUXA0cmlWcERTQnpLMU80SlBEczJsTDR1T0RzTm8yS1c4V0pKNVVodDRqTDJRZkhSWmpENVdfa3lGOFF3Z2NLN0l5S3JyX3lVWlIzUU85aWZKbXQ4QzdqZTgzNi1vZlc3dVl5SzM0bE15TVpOdGNaNUR0ZXNRSk1jT0hJQl94VkxvSkJPdUtmT0xpVkloMC16a2RnbUJqUdIBrAFBVV95cUxNWktaek9ja09NaFdOQVczX1IyLWNRZzdsbGl5S1hBV243eG5WdXdDWVh3ZzE4ZWdwUWZxZmpISjBaTGg1NVgwZl9xbTM2OHNnbndzWUdySUwxSTJKWHNVMDIyRFV5T25sZ2pKT3VlMmtoeHZpY0JJcTRXVzRqdVZ6NXFvVGRjc0F1Z09MQkluOUpWNTZsVXY1Yjh3TmNfVk41a2phajF0NGR2akRO?oc=5",
-          "summary": "Abrió la inscripción al Padrón de Electores Extranjeros R2820",
-          "published": "2026-11-15T15:08:11+00:00",
+          "title": "Vuelve la Noche de las Heladerías: en Gualeguaychú habrá 2x1 en cuartos",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUEZIQ0xSWXpDLTRSMS1fVHh5VnMzRmlIcVdnUTFpZHZzNHBjc2plZ2hPYXRjempGelhuRm1weXNTMFBfS1UwMTRpRGlFenJRbWhwamZlZE53Q2tLT3hZSE10WlloY1pxdVdBcGNhbnRCTmtWN2lZT0RBNXlpcnFWQ0ZYQVNadXdjZ3BveFRjYTluUDIzVjFRNzlQX0pzOTEwUUppWlgwWU5OcnZQMGlKdjFialltNzV5LTZ30gHAAUFVX3lxTE5oMk5URXhMSzZNSjNucGlSVzlOTTlhaWFFMk5sdS1fZG9TcTJ1a0pZV3gwWGlHaWpfYXdmVFk0MnNrLUdrNHoxQzktRHNRZGxIdEZMSHhZZi1NT0syOWdmeWVnNnNKZUxJNFIwSW1pSURlLS13UGNrelNMZ21IcEo5YVd4dDdTdmdBSXZ0SWIwT3ZGa0dBMERTemIwLWQtREZKZkJUV1hNcUo3cFFBN1RNR2g0d3hfVS1DaWV4WmVIZQ?oc=5",
+          "summary": "Vuelve la Noche de las Heladerías: en Gualeguaychú habrá 2x1 en cuartos R2820",
+          "published": "2026-11-16T14:49:33+00:00",
           "source": "R2820",
           "source_url": "https://www.r2820.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -106,10 +106,10 @@
           "source_image": "https://www.r2820.com/images/custom/logo-social.jpg?_v=v3-45"
         },
         {
-          "title": "La Fiesta Nacional de la Playa de Río 2027 ya tiene fecha",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZTM3U01iRXptSWhVeFFrMTYweC1HcUZCUUhoQzRUM0VlUzN0ZFNKWl9iRVp2RF9FemR0cDhSc1pOTHhwT0ZSRElIUGU0SUs4RlRrY3JQUUN6MjF5MFFfbTNwMEFDaUlCQjVVYXRIM0FVOGFrdXp1d2JicVNaN2FZOENHQ3B4R2tTSE5BQjdoNHVuRTloWDlyaXZZTzh5VkI0Si1Da0JvWDMxQdIBrwFBVV95cUxPZDMzU01pRDhYckRwX1FYVDR6YmNUUUlobVZpZTFkTVFhTnViWm1Oa1pqYjZXWXlUY2tSdm5URWU0WElDalNtMVotRVNhRGlhdUVyMUZGb0RiV2xMV1pxNWlCRHJUWEwxdnp5R2E5NUZzRTE0SkZ5cGRZWktHV1lmbDF3dmc3eDktbEZTRjhjQUF2M2VaWmdERWtjdV9ETGJtM2g0bmd6UVFrZGdUVUNZ?oc=5",
-          "summary": "La Fiesta Nacional de la Playa de Río 2027 ya tiene fecha R2820",
-          "published": "2026-11-15T04:22:47+00:00",
+          "title": "\"Los resultados superaron con creces las expectativas\": las escuelas Nazareth y Camila Nievas celebraron su Muestra Anual",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOM1lwZGQ5TUVyMGFoS0puU2lzdVhKdVRTOHk1SkhDV0dLY1FRRmZibzlXbE9iVkJoZzZpVjlOYjdLX2hZa01YcHpYYUtTWWZkbTlhem1ES2E5UFp2VnNsMG45V3NWXy1nSUdIaGtWWFZtMnVrdXlRVDZ3TGNWUzV6WFVuMHlnc3QtVFNZeElubXNWaUs1UlV3dklaU2UySW9Db3FtWFU3UkdTdWNYSUdWMWZ3WG1ZQ0djSkJBMloxSEt0UFJZdVdBNFQ3Z0xvMERrTFByOGlfazloaE0zZC12NU51anVndXJKVXhJaEc3MmRjS3NRTlhMSXVMb9IBgAJBVV95cUxQWklOR1V3T3VXRW83cWpUWXc2TjZvZjNMYTlVTTJzU3hIY2dJaDBxYjJuTTZQVV9rMEdTQVI3UWlUVFBkLU5EUnhURkJ2NmZTOTJzZjQ1cm5jZW5QcG9YeDg0eFZBd0FJa1hScXZXelhxbDFpQ2doOVdscU42d0R5cGdXXzEydl9EcENGcnhNMzBqVDFFTWNTU2dubEtIMzBQMXc2azQ0MjdQdGVxTVFleEtQMTlzWFFsWHRNcnFxZ2o2RnhDM19selRMVTZJV0lQcDhydVFYbDRKQm5xRDVwWFBNUlZXc3NVVXEyS2t6V3VyM3dzRHpXT3llN1YwMmhs?oc=5",
+          "summary": "\"Los resultados superaron con creces las expectativas\": las escuelas Nazareth y Camila Nievas celebraron su Muestra Anual R2820",
+          "published": "2026-11-16T19:36:35+00:00",
           "source": "R2820",
           "source_url": "https://www.r2820.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -126,21 +126,21 @@
       "homepage": "https://www.elonce.com/",
       "items": [
         {
-          "title": "Murió el narcotraficante mexicano conocido como “El jefe de jefes” - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSEJxYUVLVVl6dTJlRGhzOENkYjJIb2NUNUlEYW1aUEhjRGNtRXppWUp5eDEwYlpwWGZnTjM0N09zcnZxeGdzOUVUOUR6RG9WUWY2aGUwNU05OUFrWEFqN0hYSEJFdTNWcWdQcjNWR0lqMUhNcy1LRFFTakZiWVhzVlF3Xy1wRUF3MXpTWXNpY1R4R0psckxfRHdQVGoyRENnLW01R0p3b3NFdWfSAZsBQVVfeXFMUC03ak1ac3hOcm9XZTlpWENGUFdUWjlYMlJOZlFLVDdOM1hRaUNqdWxNbWtlTG5qbmR5OGpRQUpFSWxkbjUxNklrUHZlVWhmU3pvOFVzbm1BR2loaGNpcUtoY3lRLVpNd3hMc2ZNTWlqcGpndkI0QUEteDNIQkRmM1N4NEUzYldxNTdwYjdBNHB4XzZlRXpOZHU4RTA?oc=5",
-          "summary": "Murió el narcotraficante mexicano conocido como “El jefe de jefes” Elonce.com",
-          "published": "2026-11-16T07:55:04+00:00",
+          "title": "Elecciones 2027: Taborda apoyó el desdoblamiento y planteó revisar la continuidad de las PASO - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRS1xVUlrckVNRDF6d3QtWDl0MU1weTE5UmZrMkRnbWE0cDVuZEdCbkFBdThSYmtWMlRpcjR1S3dEVHdWOWVkTUtQUFh2bG9hZDZTSWZTVWp5QklBYjZ4cDd1SkhXbHpodFhmY3Zkb1JVeWhidzNIN2ZmMFZoRk51dDNSX3V4bHU5d0dUM1poaWtFdHdmWFl1aVhlNEhDMERLZGMwUzhFb1Z6ZnlSSGF3WkF3U2ZMWlRmZTI4UHdyWEZsXzE4SVdV0gHAAUFVX3lxTFBFT0c4S1hIam80ei1Jckp5OUpobkxLczR3RkE1b0VrZVhHTmRtSU56dDJQbUlyelBkaWVlTFFtci1sQVdNbEJKVVVNMWFVc214S0RoTG94QzRuQkNBR0J0OHhiQXpFTF8yNTNvRFI1WEtXcGwzQVEtZWFNcDBEdm5SZDdwRHFsWDN0cmtHbHF6R0g4aFBsWWs5MlFWcVFiVTUza2xLUFRjOEVQeWpBT1NaQ29WNXdKTVVmTElWNkVPeA?oc=5",
+          "summary": "Elecciones 2027: Taborda apoyó el desdoblamiento y planteó revisar la continuidad de las PASO Elonce.com",
+          "published": "2026-11-17T01:55:28+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
-          "image": "https://www.elonce.com/galeria/sitio/marca-de-agua4-jpg.jpg",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
           "source_logo": "https://www.elonce.com/galeria/sitio/favicon.ico",
           "source_image": "https://www.elonce.com/galeria/sitio/marca-de-agua4-jpg.jpg"
         },
         {
-          "title": "Una emprendedora presentó un menú navideño para dos personas: qué incluye y cómo pedirlo - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUzNjVXdldWlQZUoyXzBLaV9rSUJNSVBpWWJMM016V295THAtbWU5NG5mVUxmOHhFOEVNUTBIQUtVbXNYM01ObFBOREpzQV9FS1l4TmxQNDkxajV1Y0thVHZnWkcxckQ5VDB3NGZpQXp6RkM2dnI2ckIxNDA4M0ZiR1VrTVhXVlV2cG4xMjVlOGZ3RUpNNHdzRHZOX1lpRmpxTmpvRWpWdml4TFpES3V1R29XOUtzdHR3WTJRd2FIOF_SAboBQVVfeXFMT2VCWGV5dklsRzFFRDd5dzVNNTBvOFVVeWJuRWg0TEZwTThqdzN3VVRtNTk1WWdoMWNVb1hhUEJNSUpSYWdDZDJTTGNtRXhmVTNSYUR2T1o1eW5EdFR0cEE1VjZ3Y1dQMjNwSUN1eTZqaXd5NldXRmU3MEV5Z0J2SDVVUVd3WGptbEpEWlZQQnJMSjJRaUtYUzlqUGM1NzM3R2ZCVXY0ZW91Z0U5bTV3SzU4ZGhmc0d4RzJ3?oc=5",
-          "summary": "Una emprendedora presentó un menú navideño para dos personas: qué incluye y cómo pedirlo Elonce.com",
-          "published": "2026-11-16T20:05:00+00:00",
+          "title": "Olla comunitaria en Puerto Sánchez: preparan 60 platos diarios para familias afectadas por la creciente - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUEZ1dUYwYUNkVTVMYXRvVkRuWmRnS0N0S3h0a0lGay1GSk9wR0UtT1J2ZFN4TDd6ZzBOWUJybGNGQld0Q1VfdHVOMThWeXUtT1A4eUZIT3BMeW1sMzBPb0xhbHptaUZacFFGdGdkN0FNNjBHRlcwaFItNi1oOExkdnJQQmdHQ010NG9qN0ZINENHNGxzVkdQLVpOUzd6Z2FHVUNrTWZwQXdRd2pjSzFUaVZ2eWdHakdESmhMYm9BZjVCdGZGNjZickJDSTBNaXF5YU1xZ3ZhTURSRkFzVUl2YnJ30gHOAUFVX3lxTE9ScVBYSnZKMHhWRnl3X2pxRFp2azNVTXptNkJJVmpSdEFaUGFBRDhOQkRtZkxKU3Q4ODROMFNGWDFSaVFmRDE1U2xjMWY1eFpmVVNmRVN4cWphNjk1ZmE5Z1JKY2RvcGp4YTBMOUtEUi1BMDU1MVYwSDg4M2VKQ0s3ODFWWDF6NTNYOGw4bk1uWURuU2MwZWpKTzF3aUJ2YVllcWlmcER3NXZDWU5ubkc1S1k2OWJkT3lxTkFYaGFYNTNTT1dLazBhWU84b3dn?oc=5",
+          "summary": "Olla comunitaria en Puerto Sánchez: preparan 60 platos diarios para familias afectadas por la creciente Elonce.com",
+          "published": "2026-11-17T01:20:11+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -157,10 +157,10 @@
       "homepage": "https://www.pagina12.com.ar/",
       "items": [
         {
-          "title": "Bullrich, entre “hundir el barco” y saltar a tiempo o jugar a pleno con Milei - Página|12",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNXzZ5bGI4RlNVRmx0NGR6M2lWS0ZFZWhDeHdNMm9iT00wNEltR1FKV2hZRXBpTTlscVF5Nk5la19XU1pJZldnbEpPUmNjSWhCUVVmYU5SY0pXT3pmdml4TmFpcE5sb0ZvNW1qUlNobS10c3NLbndCZEZZRk1BTjNwUmNaR2pPMzhwS1pEN2J0b1V1OHgwZU01eF9Pc01hUVg0NFdOX1F4b2lRNjRVbmQzZDNDc1k?oc=5",
-          "summary": "Bullrich, entre “hundir el barco” y saltar a tiempo o jugar a pleno con Milei Página|12",
-          "published": "2026-11-15T22:22:54+00:00",
+          "title": "Crecen los cierres de colegios privados - Página|12",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNN0Z1Z0JBVm5EZUx6aVFlUFdOYk92LUY3QWtpdDFxSzJ4SE9sMDNHdnVDM3JsT0xZRlRyNDFXaVlZT3hYZjZfemN0SVI4c2s4UWJHUzVhUTVncERtX1FxRFJtaTJKZHdKZzM1Y29jT2IyYWp1Y1VSYmhHX2c1MVhBcU1Xb2k0QQ?oc=5",
+          "summary": "Crecen los cierres de colegios privados Página|12",
+          "published": "2026-11-15T22:05:00+00:00",
           "source": "Página/12",
           "source_url": "https://www.pagina12.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -168,10 +168,10 @@
           "source_image": "https://www.pagina12.com.ar/resizer/v2/https%3A%2F%2Fwww.pagina12.com.ar%2Fresources%2Fp12logo.svg?auth=811d0fc63a912d1f8dc56b650f3a0054e089ac9c81bfee069a62717e10cbb54a&width=1200"
         },
         {
-          "title": "Meta deberá pagar una multa millonaria por incumplir un trato igualitario en las elecciones brasileñas - Página|12",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZGY2UDgtMllSaGRVNlkxTUQwTnVVRlhJZmtLU0U0UXhLdk9lSllVTzNMMVItQlVkUGQtS1NLMGc0VFdZLVZuVTlucXZ5ZHVHUnVyd3oyWkdOT2p5OGRVd2FPSWh3ekt3YmZHZFFlTlA1cXl1TzUwcjV1aVg3OHltc1BrMmlLbU83eGItT1Fqbkdhc2I3bmpmRWV6a3JxNjllcl9oQXNkWGZGX09CV3ZVYjJ5VnFUWkFuVVA4cFI1VQ?oc=5",
-          "summary": "Meta deberá pagar una multa millonaria por incumplir un trato igualitario en las elecciones brasileñas Página|12",
-          "published": "2026-11-11T22:30:39+00:00",
+          "title": "Bullrich, entre “hundir el barco” y saltar a tiempo o jugar a pleno con Milei - Página|12",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNXzZ5bGI4RlNVRmx0NGR6M2lWS0ZFZWhDeHdNMm9iT00wNEltR1FKV2hZRXBpTTlscVF5Nk5la19XU1pJZldnbEpPUmNjSWhCUVVmYU5SY0pXT3pmdml4TmFpcE5sb0ZvNW1qUlNobS10c3NLbndCZEZZRk1BTjNwUmNaR2pPMzhwS1pEN2J0b1V1OHgwZU01eF9Pc01hUVg0NFdOX1F4b2lRNjRVbmQzZDNDc1k?oc=5",
+          "summary": "Bullrich, entre “hundir el barco” y saltar a tiempo o jugar a pleno con Milei Página|12",
+          "published": "2026-11-15T22:22:54+00:00",
           "source": "Página/12",
           "source_url": "https://www.pagina12.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
