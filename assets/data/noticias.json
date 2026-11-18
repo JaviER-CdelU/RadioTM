@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T13:56:07.502901+00:00",
+  "updated_at": "2026-11-18T21:54:56.462373+00:00",
   "status": "partial",
   "description": "Titulares y enlaces; el contenido completo permanece en el medio original.",
   "groups": [
@@ -10,6 +10,17 @@
       "type": "Web",
       "homepage": "https://lacalle.com.ar/",
       "items": [
+        {
+          "title": "La UADER obtuvo la máxima acreditación para la Licenciatura en Sistemas de Información - lacalle.com.ar",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUkk1RGRxSXltSi1DQWUtSVdUbzBlWjdDeG9BQkJ5WlBaMWdzcnNyZHZicDgyLTh3X0UydEpRUnNYRjlPLVJlV1p5WHltNGk5UEhqMnVOOFRqOGFRZVcyNzN1emgyWTRZTHpCWEFVUlZEYk9TNzBXdExrRlZ3S2ZjVE54SVlSVTNoZ1VvZ3I1eDVjU0txcktfQTBIbVVjREQ1UmluYnAyU3NsSXYzNkQ4?oc=5",
+          "summary": "La UADER obtuvo la máxima acreditación para la Licenciatura en Sistemas de Información lacalle.com.ar",
+          "published": "2026-10-27T11:09:30+00:00",
+          "source": "Diario La Calle",
+          "source_url": "https://lacalle.com.ar/",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
+          "source_image": ""
+        },
         {
           "title": "DIARIO LA CALLE | El Diario de Concepción del Uruguay - lacalle.com.ar",
           "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1YZTVnN184M1lOZmp0YlI5c2JYLVNJRDBtbXNXa00tRkRmcWpWS3Q5NUY1N3J5cjlDaEdj?oc=5",
@@ -26,17 +37,6 @@
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZEFKRktFMlpudVhKV1A0U2lISnZ5dURVZWliNTR5UDZFTkozaEZnbnFBcHMxUUl1M2RUV1FjSDFrWTFkYkU4b0hVdEEyeldaX3JNRTAwU09IX25CamFxOHNUZUxVS3RQN3RjN1AxUUo1M0tiS3hLT0pnZGdmVFpmV0E1bUxJeHc4LU53MDVsRnJYMURCcTRiRXJzUk9jQXN2YzFlRUZ3?oc=5",
           "summary": "El Gobierno negocia cambios en el capítulo de discapacidad del Presupuesto 2027 lacalle.com.ar",
           "published": "2026-09-21T11:17:59+00:00",
-          "source": "Diario La Calle",
-          "source_url": "https://lacalle.com.ar/",
-          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
-          "source_image": ""
-        },
-        {
-          "title": "La Jefatura Departamental renovó su patio interno y reconoció a policías por sus logros académicos - lacalle.com.ar",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNc1l3ZkdMUnIxX1I0QlVTYXZnbjZOTE1XWFFCUzdVZ0FNN1R5Ml9RSDBvNU9BVldJMkxaSHI0NTY5Mk81eDJDUWh1NkFUaWtFbUNNV0dBZHdESHEwWW16OTlKOHZOTG1zMHd5YVpHNVF6VEV5MkY5ZGZjeEJObWVVNmJlVVR3M2ZLcFJ2MzJnY0Z1NUc4WDlnWlNQRl9OaXZ4NFNLX2p1OEZHZi1yVllYejFNaGJPSkFKb2xYR0d0OA?oc=5",
-          "summary": "La Jefatura Departamental renovó su patio interno y reconoció a policías por sus logros académicos lacalle.com.ar",
-          "published": "2026-09-22T22:57:56+00:00",
           "source": "Diario La Calle",
           "source_url": "https://lacalle.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -64,10 +64,10 @@
           "source_image": "https://www.lapiramide.net/images/custom/logo-social.png?_v=v3-27"
         },
         {
-          "title": "Bahillo se suma a la Noche de las Heladerías con una promoción 2x1",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVWFWbHZuVFJrZzVvZVpwVFFOY280bkRiVUZ6RkxScHFpdTZkT2phUEs3bThzaE5ZUzZEbUJkTTNKV1puS3VRVWlxTV9LdGFGS2hSVnJzYmE0MnJYVy1TbG9pb0pIZHpwV09QdXVfd1dJX3hNallxbTBVTjc3QlloaE5yLTBNaXBjcjF2VGd2eTVHc2VfRHV5ektud0tOc09KRHV3NmEydkJtWm5uRURCeHlscmpUbEd0TzdKNdIBwgFBVV95cUxOWGlNS3VXWGhXRUZGOENYdmRJT1ZTRDg3RWJ2SXAyejNkdUo2cVhodC1FMXNnWHRvM1o5eUpjcF84MjZETEpVWXFDWF9fSGF0a0tOS0FRdDlnZVh6Yzg4ZkQxOC1QNEo4OWlpYWF4ZGltVzdGVHNQMzE4ZkwyUUNRdlg2U3lZMVo3NW12eDNOZXc1c1BaOWZtczNPYVJIMVlMOEZaZHZ1SmpLOVNyczN3dVZoR240N0JEekJKSXJrbkVCdw?oc=5",
-          "summary": "Bahillo se suma a la Noche de las Heladerías con una promoción 2x1 La Pirámide",
-          "published": "2026-11-18T01:51:48+00:00",
+          "title": "Ana Lis Pitter contó su experiencia en \"Supervivencia al Desnudo\" en Haceme la Segunda",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSXpIWnFFdHktaTI4YV81S0dNNUMzd0JsbEcyM1JzcFFZLXdkaDJHbk9JaFBzc3NFWEh5U3lNeW56VVZjOTZxWWQ0eko0c3VPRk9uUTRJNHhqRENWMEEyQWVSX2VsUDJqNHpEd0VQRWN5RTJMclFpbzU5TnZ2U1J1QlN5bl9Oek8tdFhNdWN6N19uNmx0TmJKX1M4YWY2NUJhTnNwN01ZT0lmRWlTOFZkUlIwTThXRUdEUmtEOVRjMnFHWTFUZkQ2WkpDQVFVQlE4UFVnetIB2gFBVV95cUxPVHlDSE82bmE2aERmay15SzlTelViSEZYU19wZFIydm5kMmMyMjFCOWFJazBEdnl4RW9uUU1mdk5zdzFZWEdHbmQyemxSZnNtUjZhTGZuZE1qYTlEWHAtaUVjcFVzc1pzZzU5Rk1jeDNwTmoxRVBLSFZneTVwRVRTanFxU2pKeVFyVVZFbEJfYWcwNHVGaXhjV3A5RTdTY0E5X2xiQm9XV3NUeWlEU05TR2RZS3RCT2M5Rkc3N1AyYXNyTldqbjY1U1VTcHVfcE12WFhJT2NLN25adw?oc=5",
+          "summary": "Ana Lis Pitter contó su experiencia en \"Supervivencia al Desnudo\" en Haceme la Segunda La Pirámide",
+          "published": "2026-11-18T14:55:13+00:00",
           "source": "La Pirámide",
           "source_url": "https://www.lapiramide.net/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -75,10 +75,10 @@
           "source_image": "https://www.lapiramide.net/images/custom/logo-social.png?_v=v3-27"
         },
         {
-          "title": "Hallaron una urna funeraria con los presuntos restos de Crispín Velázquez en Entre Ríos",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUmpDZFprX1dKWHlDOUlDaTZSd2Y3eWVIZkV3SUxzeGtLTE9BZlZBekxwN1FvRDhyRWZEdkhHQVVZVEE5U1RhTFVnNUhYdHBRRGtHUnYtMTFyRVRfeGxxTVBhendjZzFTbkZVT3IwaFh1akVLaXgtLXZMSTVIQlpNSkpYQ2g1aXBGTldlNjBpSmd0NmVuMDVTMEYtZ1c2X1JLem1lMDVtenBFWWp2NU53Q1c5d3FxSXhzWHNsTkRHVm1wVno1WmVPd05MRS1SbG82N1NPUlFrclXSAd4BQVVfeXFMTVFsYmlEakFzam81UV9XY2pLM2RjOTcyZVU2S0pLY3IyTTBiSUVPRkhoZUdoS09EZHFIY281RHB6SUNaaUNkSFFlN0l5ZjFpUHlxbDhrVWx1d1JFTHItMDFxTTdJRmNycHhkZFBhckRzQVFnSGlGV01kUVZrRUxuaGZSSVpRUW5xMmZKelFBejJhamZaczZMYllzZjB5SFNobFVITjFjdTdmMEFIblNEdEFXZXAtMHRUVE01SENIOUpXM0Q4QjBpSmJxOEI2TWZlUkVDMDdwNUlUMnpabTl3?oc=5",
-          "summary": "Hallaron una urna funeraria con los presuntos restos de Crispín Velázquez en Entre Ríos La Pirámide",
-          "published": "2026-11-17T16:14:11+00:00",
+          "title": "Investigan la muerte de una mujer de 41 años en San José: hubo un allanamiento y secuestro de elementos",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQcEZlOVhxRk5ydlotRUFmZ2c0QUc1Z04yWEVPdW5KWDJnWHZrOWk1TFprM21jQ0MySzlrUm5XQk8zTTNpdndWLXBnYnQ3MFVQVEVJM3otNV93NWwwS2dsdnQ5YU1heVZ4ZUVsRWxwNHQ1QzdCcHduN0laM2Fzd0d3MXQ3ajhYalJFYnZQZHZfNnNzSFcwTWFDMVFGamNZT3ZUbEoyZjBOUWtHX1BFbDc5UTRtandSMDJwUFoxczZsT0s2aWNIYkp4bENwdzhwWUh2MDFqYnZIUXAzYU5sREtZNzcwVzNZUlljNnV4Z9IB8gFBVV95cUxNaXdQdVc1bV9Ic2NkWGYzLXRabVc5RXJnMUVLUmkwbTFuTV9McEVZOFFLNmI2OXBrTUV2OFhVNDhQd091OFRqaFVyd1ZhVWpXSURTTEExNWMtQkIzQXg0ekphc1h0aG9Za19raHUwcGZMckt4VEFTUU9OSmNYWkRHTmNBM0ZTdHkxejFrZHBDVnd2TUhDMkduUXlyZ1lzTGV3RHRnN1llaVNSRWV6WVpjZG1yNnRVeFpsdWpMa19VbHVXOTVobTB6MHkyT09Mb1RONmczYTNHYTZldjlRc0p5bkhPZmdOMjcycEY1Y2U4dk5vdw?oc=5",
+          "summary": "Investigan la muerte de una mujer de 41 años en San José: hubo un allanamiento y secuestro de elementos La Pirámide",
+          "published": "2026-11-18T00:14:17+00:00",
           "source": "La Pirámide",
           "source_url": "https://www.lapiramide.net/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -126,10 +126,10 @@
       "homepage": "https://www.elonce.com/",
       "items": [
         {
-          "title": "Instalaron carteles por fotomultas en transitada esquina de Paraná: cuándo comenzarían a cobrarlas - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxON2h6bEU4NmNBYTJuZWNVdjZBQnJZLU44RzBJSWxRY3c1NUVwQkp5c2pmMmh3b2hnTW5HcTlIbjl2enU0TXNQQ0JmUmRrZVU3a09wdmUyLUctREU0cWE1Ry1HQVN5LVlEMVVHOTc3dVZ0OW56SVNCeHNOdkZjem96TG1qcG1xSkxaelIzeXZKWVU3NTA0aVHSAZIBQVVfeXFMT2FEaGtsSnl1bkFjQ3lCaDhxNVVDS0NoU1VWZE1zM3Naam9kTGhzdUxlX21xM2Z2SHpJWGZfUmgwX0hqZU9TV2NVTzlxUEwxMlppN3dEVGZ5S2ZSNXNwZ25XT1NxenBySVdsVUpWX2FjSmt6MjBMR1pCLUdSWXB0SGJyYXphRWJERllIaGt1NlFLb2c?oc=5",
-          "summary": "Instalaron carteles por fotomultas en transitada esquina de Paraná: cuándo comenzarían a cobrarlas Elonce.com",
-          "published": "2026-11-18T11:16:22+00:00",
+          "title": "Crearán el primer cementerio público para mascotas del país: cuánto costará el servicio de cremación - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdDZ2YUZ3VE9vVjBXUndteTBSNEkyN1hYWS1sMWtNN2Vsb3FzYzFaV2xEWkVEOGdLVHl5MDQtQi1UYWJwLTB2SnFRMXUtM0dCNWtsV19ERWtiTHJTN3R5ZWRDUHVySlRaOUc2SWladTR2eVhERElLQkRvTXg0aFNwalpCV0h5RXprU3hfeUxYcXhoZnJNU0g4Vndsd2lfSVBwdDhnWUthZDd1RG1xU3ViemRCOWRjUmtxNU9QdHRrdWRneXVFd1VvWWZUM3pjT2RU0gHKAUFVX3lxTE80d3k0VjU3RVVlVlpmNHd5eWEzS3lkdU54QndWMlVzNjB5WVlPTmh5YWs5RUs1WHZRVkNKN1NNbjVyc0k5NW1pMmtGdkhUMjJ2dWhnX2Rod2QxMUJ2NzFsWjdvbGlLeWNVOGttVHUwN2dYSlF6Q3ltcTFwZFRUUURZQXdzb0lzS3QwSk9ZQTBSQm5Xd1JjaThHVndjNkY5TzZ4MjdHRzMyQi1xT0prOUN6RzdyNmRRQkZuVUdtOU4wV0xaM1hBbTVqOUE?oc=5",
+          "summary": "Crearán el primer cementerio público para mascotas del país: cuánto costará el servicio de cremación Elonce.com",
+          "published": "2026-11-18T18:46:25+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -137,10 +137,10 @@
           "source_image": "https://www.elonce.com/galeria/sitio/marca-de-agua4-jpg.jpg"
         },
         {
-          "title": "Profesionales de toda Entre Ríos participaron de una jornada sobre desarrollo infantil en Paraná - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYTBnTmNNVW52aXNBbm1vNDNPY1hmOWIxalZvblZfZzFFSEplTHU0WDBLV2hMUU5MRFQ4R3JRT29YTkhRNVZkTUszSzNHaWNGVnA2dkZVbHA2eDZQcWwzaFhuRVAyRzh3STg1SUcybnVXYVVEWmhJaW5qc2pkV0lKN0xqdHY2ZUo1anItSy1VX19kWThCMjh0enJsUHdJNy1lWmF6aGFoVU5jNU56WmtFMlV0cXBka18xMUxuT25HNFRBdENJZmR0eHdmaGRlS1ZiM2N5OTFSOENNd9IBxgFBVV95cUxNeXhVa3NGWGNTWHg1Q1o5dDRsYXk4QnNadVJNdFZHSWdzcWdNbHlnNEJoLXIyZEIzYzlpZmV1RmtETkdkbkhtTE16dVl0Z2cyZWlfOC1POXdfWDFhUl9DUTdDMGdJeWp2dDV1akZHN0hqQlQyTjU1V0JpcU1GTFZzdFJkczhIZFBrVHZkYUh3RE8xSkVXZ2U2VGI4cW9OMU5CN2VHN3ozeFMwd3NJTG9TUW9uejllVDVxRzNWaWh2SmJkd2ZqblE?oc=5",
-          "summary": "Profesionales de toda Entre Ríos participaron de una jornada sobre desarrollo infantil en Paraná Elonce.com",
-          "published": "2026-11-18T13:13:32+00:00",
+          "title": "Una delegación infantil de Santa Elena recorre Paraná y cumple el sueño de conocer la capital - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRDZkekJPRkU0N1ItN3l3RXBza3VSRWxRU05ZS2lCUWlWNHNHbmRKaktOVGROQmRKak9vZzBKR19veGhmbXFNZHdsZmVFR1FPXzQ2QmJRcTFheU1Yd09YVi12RlBXcXdXS1lBMVZkc0FqbHRVdU94cVVyamNua2JNSkIwLUpVN2JsX0FlSzhodHA4amYtQVNabHptZUpiLTZKVjh2aHItblJ2VV9nempWdWVkMjBpNGkwVWVVdWtXNktocnBHUXhGbU8yeGxOLWZ4bnpOVVBB0gHCAUFVX3lxTE1jOGRJTHFVaVg4NjBSSmZSTE1tNDhVTjk5cVZrSk8tVFNlZHhHR0VXbWRHQVljU2dOVzRaMUpURDBCeFhlRnEtNFJHaUlkVmE0T2NqZTF1dy1kbU8tbDlmbEhfVWZjdEZjZ19JM1lMdXVHZGdLUDZwMEJvTGRxYjFDcHFrTldtTVNwbnllZUpmNmo4MC1xNlBHdDh6bDA4amFiR2ZsdUQ1UWotdXROYV9aazFqdnhTdzRsUzA1SkE3Uk93?oc=5",
+          "summary": "Una delegación infantil de Santa Elena recorre Paraná y cumple el sueño de conocer la capital Elonce.com",
+          "published": "2026-11-18T21:22:21+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -168,10 +168,10 @@
           "source_image": "https://www.pagina12.com.ar/resizer/v2/https%3A%2F%2Fwww.pagina12.com.ar%2Fresources%2Fp12logo.svg?auth=811d0fc63a912d1f8dc56b650f3a0054e089ac9c81bfee069a62717e10cbb54a&width=1200"
         },
         {
-          "title": "Los consumidores no confían en el modelo Milei - Página|12",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeXVnaGs1cFphelctT00tbGE3S09LUUxaR0VtazFBRHlWYmxnU3Z2RTVEdE5tT1dZZ0JvMUVxWEI3S2tFVVRBT3lpZnRXR281TG5HcTN3MGpxNURNcVpIa2t1cTg1TW5zNFNPRHA0SDkwVG50NVpaT1VOQ21nSFFVeTNaNC03TkNGUEtuajdPaw?oc=5",
-          "summary": "Los consumidores no confían en el modelo Milei Página|12",
-          "published": "2026-11-17T17:45:37+00:00",
+          "title": "Desesperado por los votos, el oficialismo da marcha atrás con las colectoras - Página|12",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSUtHamVXdzREczVfb09fYWhETFV4Znd6UVlSZUdCcHJCQjRscXhEVndDOHVUa0QxRkFNQnFjX3NQOU00T3c4QlRVVEQ5dkNRUGQ4dTZrckcwN01iVUdGMjRVTVNNYXBkZ3VGaVYtS0c3THlSQmVnVXpNVWluRlFfbnpISE9YN0RXVUduRlFtcmQ4VkxuQ0FTbkNndjluMkR5eHBQTU9GRmNNYXZrc1NKa1k3TW05UQ?oc=5",
+          "summary": "Desesperado por los votos, el oficialismo da marcha atrás con las colectoras Página|12",
+          "published": "2026-11-18T16:54:58+00:00",
           "source": "Página/12",
           "source_url": "https://www.pagina12.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
