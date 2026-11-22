@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T11:19:48.253640+00:00",
+  "updated_at": "2026-11-22T19:36:30.641161+00:00",
   "status": "partial",
   "description": "Titulares y enlaces; el contenido completo permanece en el medio original.",
   "groups": [
@@ -53,10 +53,21 @@
       "homepage": "https://www.lapiramide.net/",
       "items": [
         {
-          "title": "Noticias de Concepción del Uruguay",
-          "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9YT3ZyZDZ1R3pyb1hPVXNFdFpzdld5V2R5T3RLZjVJZ2NQaVhGYUhKQVZTLXJKX19MWWw1X2d0S0k?oc=5",
-          "summary": "Noticias de Concepción del Uruguay La Pirámide",
-          "published": "2018-11-21T23:16:58+00:00",
+          "title": "JUAN LUIS CARDOZO Q.E.P.D",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNHBLTEVPMmhib2JUNmlKLW9RWUdDN3pnamZ2ejlUZ2xhS2FZU3ZOU2ZGWXMxU3lhQ0VoVHdIS0hjYndJdnduWVNVTFJnVTJ5LUJ5UklrQXhQLV9yNDFPMlJqb0JsUWRXTGJJR0RldjlUNllXRnZ3MGFOaUtVSUtscXhn0gGHAUFVX3lxTFA4TnRWa3FFNkFyRHBWMHhieFpDNE9wTldVM2tzYkszcjFLZTFFdVVQSm1kVXl2YVp4UFBtV0dseVNvWEt2YktJUHRxalJIa0Zfa0I1RVREaW4teS1wMEVYb3JsdGJ6eEVhUzJ5YzB0b05SMVNENnJsWE93VkYyazRnY296WVF4WQ?oc=5",
+          "summary": "JUAN LUIS CARDOZO Q.E.P.D La Pirámide",
+          "published": "2026-11-22T14:22:57+00:00",
+          "source": "La Pirámide",
+          "source_url": "https://www.lapiramide.net/",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source_logo": "https://www.lapiramide.net/images/custom/favicon/favicon.ico?_v=v3-27",
+          "source_image": "https://www.lapiramide.net/images/custom/logo-social.png?_v=v3-27"
+        },
+        {
+          "title": "Sr.Hugo Ricardo De Battista Q.E.P.D.",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWGk4bWwxQU5rdE54NFNqZzNVMUlXSnBTc1ItLWFCNEFaYWRDUjZfRU1VWS1WMjNTQXd5RnhHejJiLTV4aVhnWkhPNFVSR3IzU3d6dFgxNzJFdWY5WHJjY0tPcjFpRjQ0YmVnNXpqaEdwcEZuOTR3eV84M0VlZ2E3QzNIZWpscEVpRHlhNE9R0gGTAUFVX3lxTE94VzFVR1A3LXhZT2lpSnN2RkhBa2U4OEdkUHFYSFRRRmcyYnlPa2t5U2lBbEVLdUphVlhHS1NRVlRNRGlvSlljZ3hFMzduNVRGTENMZmxRaTB1U0NabmtMX3BvNlJpcHlPZWxUU3BRZ0w1Q3djQldicnB3Z0tMYTFYSVRWNWwxM19Ib0hyOTNCZlFuMA?oc=5",
+          "summary": "Sr.Hugo Ricardo De Battista Q.E.P.D. La Pirámide",
+          "published": "2026-11-22T12:19:36+00:00",
           "source": "La Pirámide",
           "source_url": "https://www.lapiramide.net/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -68,17 +79,6 @@
           "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVmUxV3NJNHlyYkJISDg2cWRucWhHR0NyQnFrNnBkcEkzOHg2S3UzdkExYy1DQWtKaDF3LXpXTWE5cElwbnRuYmxvc2tXNWRZVTFOVVNfdUxkZmpWUGxxMnVhdm1nbnZ6VVNtc0s0bHVEaUM4UjR2aWZoRjJQWEFNTmFmRzhjZFczblkwQlVyVHJ1dXdrMWU2STVFamMtOHdjS2NtcTMwS1NXdFcxLWRQZnN5cGpmcXRpcTVFcE10NHlfa0RqTGtUNTU3OXFzRUlSOU02eFVhV1g3XzAzdlFnZzdnQdIB6AFBVV95cUxPU2hTNk1WM2VhNHhrQThHbEZUTW5pVHNCZUJmYVVMTXRDNFRsNVF3eHRfYzFhNkJPa3BQdm94dVFXV2lxekdHTWY0aU5DTTkyUHlqa3c0QmNGaEdicHk4SzBkWDRWOFJaQVNTYTZvRm5BbE5iT0NoRmdEM3EtQnNhWnhxOFVwdV9JUHhTMC02QkpNVFJxZmNCYTlJQkozTUpIT0lmMVlCTGNiRXZxRzZCeVd3dzAwNi1hc0tpODltei1BV3k5S0dBWlpoYmRNcXBzRXh0VmRyN3lGUl9RREJwekJzcmtDbFZa?oc=5",
           "summary": "Juegos Uruguayenses para Adultos Mayores: inscripciones abiertas para las actividades artísticas La Pirámide",
           "published": "2026-11-21T23:00:33+00:00",
-          "source": "La Pirámide",
-          "source_url": "https://www.lapiramide.net/",
-          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "source_logo": "https://www.lapiramide.net/images/custom/favicon/favicon.ico?_v=v3-27",
-          "source_image": "https://www.lapiramide.net/images/custom/logo-social.png?_v=v3-27"
-        },
-        {
-          "title": "La EMAO realizará su Muestra Anual 2026 con música, arte y actividades para toda la familia",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPR21KYlBSUWw0OTVqcV9pTWhQdTU2STg2N1ByTzZJXzZWSENDcGxJX3EwV01uS2Z1cWM5dmlpVWFQUTY5aHdhRFRDMlNxWFNrXzhLaTBYaTNMWHh3S3E0UG9xTXVtUVc4eFVhZk95TzBVcWdSTzBYaHRpYk5sZU8yVmhSTm01a0Z3emt6dGlUUWVLM3RLYTltZmpzS0NncmZuVWNJUWM0d2RoRlFsM3YySjNEVHZrU3ZjcmxSOXhSM1hwRkRYUE1aLTJncGxiMkUzMTV1OHZGMW1xOVRY0gHiAUFVX3lxTFBoNjlxcEhMUkp5b0N2NTlPaGFFNmVoQzZkaVlWclN4aDVDZkxId25OeVZ2ekk4cEVQZU0xdE5lbDRpV2NhNjZlLThyTFR3NEFpWkY3UFJEYk9RZ01VdklyTnVPdDllUE04dGtlNGJ6Q05KZF82c0JZeWpla3FhbjZ2TWt6M1ZoWEIwZ0tMMlFJNmRZSk93UVlIdy1VYi01Nl9KZ1A2ZXB1VjZZbWh1MnRFZ3NqWWJqS2xfYWNydkplMHRQa05wTzJLSVZobjd0eE1BV05CYVpWWm9HZE96eUg3dWc?oc=5",
-          "summary": "La EMAO realizará su Muestra Anual 2026 con música, arte y actividades para toda la familia La Pirámide",
-          "published": "2026-11-20T00:26:30+00:00",
           "source": "La Pirámide",
           "source_url": "https://www.lapiramide.net/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -106,10 +106,10 @@
           "source_image": "https://www.r2820.com/images/custom/logo-social.jpg?_v=v3-45"
         },
         {
-          "title": "De Gualeguaychú a Barranquilla: Stefano cruzó fronteras para alentar a Boca en una final inolvidable",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPS1FjWVlXcTBUMElkT1Nwd1RHREpSdnEwY0Y2OTd6NmJTemppNXQwSnJKeFFwTnk0X0RfVTNDeFltdnU2QWJfSDctaWFhTVBnTjVVQmJ5ZU9adjJtdXhYc25KMjh6UF85dGxmZDFfZW9BSnFJck9UOWR3SnktSG1zbkFuY0J3MHJFdDFTaFZnOHRVOEkzVk56V0NaR1VyOUpUZUVTamJJeWMwYWs1WVhvYmZrQnpiaWpuSjhrVlpORm9hSXhMUTVtTlRpbmkyQ3pXMWF0Sm1fdlQydzNTTl90S1BR0gHnAUFVX3lxTE13dHFUQm14Mkkwdm00cHIzZGhmbmhRSXpPbmw0WnlFenROQk00ZmRCY2pVMWpTS25GU0NpWGJtUkRtMzNHbVFZV1A2dFhseXRwOHkzZmV2VURWVFViaklldHNnaE81LVlQNHE0UTVQZ1RmUVdXQ0VhZ0RkS2MwTmpMeUZFOTZsYTI5a3N3LVdmTHNnakJCZHJvYU4tRS10cGkzSE5oTWY3cElySVl3LVBMRnpyWjFOcHd2X2hKdGpRUGlUOHBMaFFrNnFZMG81Q2lrblVXMExUWGdrU2U2bWxka1MtVnJKUQ?oc=5",
-          "summary": "De Gualeguaychú a Barranquilla: Stefano cruzó fronteras para alentar a Boca en una final inolvidable R2820",
-          "published": "2026-11-21T17:40:04+00:00",
+          "title": "Una familia se salvó de milagro tras el incendio total de su camioneta en la Ruta 12",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPak94Zlh3MHEyOUlkb3NEUjZSUFduWTRfSW1iUThaLWpVV0R0aWltR0puMFRjODdQZ3owMHdabFBsekp1Vm80R1U4Nl8xWHBUSTRlTnVIbG5ZQ2xnM0dpVy1nNG9BOUJGbmxQRTc1eUpJZkVNcC1DalhXZ1pDaXBuMVBpMEVKblB4c1lvSzM1OFVaOFRmVXpQZUtYX1V4TUtnbHpVUzJid0RPLVdRdU1oNVVadzdjc21jUEE1Z0cwZkFfeW9scmw4OFVwNEtmUdIB0wFBVV95cUxONm5zc2F0eXRiRktBVE5zSFBzRkt4WnlRdDVVQUNFTXAzMHY3OEVSUTAtd0RGcW9vMTFXR1ExREl2ZjI1T0IyNm1vUEdkeEItN24yMENGWEhvRktLWFlYYjhQMGFhNlM5c0tlY250WWpxVUc4M2hWMUJvRmlpLXJqckYtbllGWF9jWXAwTUIxbVdtRnVVVUdZc3RNb3gzSWZvVzlnVzZIcG5aMzdBWVphSFBGSEVva1pCSkFVN0xWQmtMSHdJRjVYYlpkZTEzLVg3ZzRr?oc=5",
+          "summary": "Una familia se salvó de milagro tras el incendio total de su camioneta en la Ruta 12 R2820",
+          "published": "2026-11-22T00:48:34+00:00",
           "source": "R2820",
           "source_url": "https://www.r2820.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -126,10 +126,10 @@
       "homepage": "https://www.elonce.com/",
       "items": [
         {
-          "title": "Cesó la alerta por tormentas: se esperan jornadas estables y un marcado ascenso de temperatura - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ1dsc0hYZ3BTVWlCMU9fc2pTcWNLZGpqOEJjZzJhZ2lpd0JoaDlRN1h6blMxbHZyNG5SVkxUR29tSWF4aWQxUUZOeFZ5MDUtdzdVSWVJVXhXWEFQVEZDR0ppaEtHQVBicmxwX1hQdWZIRkJGZVpudnBpYjNsZ3VxazF2VUxRb29VUTdtd3BiSlZYYmEyNE1R0gGQAUFVX3lxTE9VQ3FWQzh2aEVjVDBoU015aTVHNHlOcy1kZ2dReUx3WDRsWTVqUjNNY2RsNHhFSGhvdmh0NHNwbTFxRU92X29TcG1fTEtvV0hxWVI0WDkwZXBhR0N1Tm1oNkhCV3hWWTd5dmhOYzNibXgxc2dibmZLaE1SVVpFLXc0RXRGZmtQY0ZmdmpmMmtCdA?oc=5",
-          "summary": "Cesó la alerta por tormentas: se esperan jornadas estables y un marcado ascenso de temperatura Elonce.com",
-          "published": "2026-11-22T10:25:58+00:00",
+          "title": "Humor - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGZEVsaWl2LU4yS29KdzJVT1ZyMUtFTlo0ME5mLWYtTHZWSnBzVl9pUmNZZ3FKY1RvQnJGaXV4RFVhZzQ4cVdGZHdJYkNPRWxwb2NR0gFQQVVfeXFMTmZnbFNJUlROX1JKb3YyOHJMZl9xVlRwUXZMX09CRTRXYkFEaUNIOXExa2dpUllkZjFWVU5QaW01NzFEZEdBSnZBanBaRWRHYkk?oc=5",
+          "summary": "Humor Elonce.com",
+          "published": "2026-11-22T17:05:26+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -137,10 +137,10 @@
           "source_image": "https://www.elonce.com/galeria/sitio/marca-de-agua4-jpg.jpg"
         },
         {
-          "title": "Boca campeón de la Copa Sudamericana: hinchas celebraron con un banderazo en Paraná - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZl9fdzBjQTBaRmhSeFlsQlpWY3QzZGxnSVNySTY1aVJkeGVqemMtY3hkYl9ZWTNRZVhaaVVCeWtPdlB4SnZPQnUtLTVjNWw3Vlk2cXg3djRVUTVISnpMMXVXZ3l4UVVSbTlJSEU2YjVRMHEzQ2VuMTdibGlzZEJ6MnBfVjdqNERXdzN1aGlKQVRfWDZhM1JMQ3BwckgxSXJ1a29BTGRSenNQc0l3YVRSSmVmTmNJS2RTR3fSAbMBQVVfeXFMTkNpRXNkVW5laGRfcGlhcHZ2LU5lcU4wOW9GOVhsMGVMdFJPSUR2VnVlU2hDM0xIcHRBdENNNmdsNV9pZ3FDQjhEOVR4cGNTN0oyeFd6T0o0bnFyVEVVN2Nmb1RwUVoxaktwcVpNY1pra3M2a2pLQnBQSXZVeVNVaTUyckhCQ1JlVHV2U1FRSnpVZjdWb1ItTHJSckM1VFUtVUswZHdqNjhrOHQ4MVNWTE9nRHc?oc=5",
-          "summary": "Boca campeón de la Copa Sudamericana: hinchas celebraron con un banderazo en Paraná Elonce.com",
-          "published": "2026-11-22T01:26:35+00:00",
+          "title": "Balearon a una mujer en Paraná y, en represalia, incendiaron el auto del padre del sospechoso - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNUNRTkZvQ0hEYXF3anRKNVhZdWFlX1hZZzNpMzh6UnUyWlB3Q0lmRVpxMzV3NjUxVk1vNmMxTm0yRDdlSVdnVEdIN1NacXVYWHdGTTdtRG1tM0V4UkVVZ1RYQ05iN0hzUGxHS0t6ZnVZdWlaanFoNXI1MmlvZXpWN3ZKQ2pnQmZBSXBBbHEzUWdGNENiZUHSAYwBQVVfeXFMT3ZDTmNkY1h1cHEwT1MzaW10anhveHlDcDVzYnRGWExfUFllWHNpVWRabVp6d2ZYYTZwZDMyYW1UaDNSWUF0RkFwcjRNaVBFcmMzOHowS2NhYWp6cC1leDdGUTlKU195cTVGcExobFBVdGdPRzdVek9vMXZaZ3ZnNm9ubWlyQmVpNllDZ0c?oc=5",
+          "summary": "Balearon a una mujer en Paraná y, en represalia, incendiaron el auto del padre del sospechoso Elonce.com",
+          "published": "2026-11-22T14:46:40+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -157,10 +157,10 @@
       "homepage": "https://www.pagina12.com.ar/",
       "items": [
         {
-          "title": "Página | 12: La otra mirada sobre Argentina y el mundo - Página|12",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1ZYmdKMGdXakY4LVM4RFZvNkY4ZG5ydEhyQU1KOWVONEhJMFZUTG9EaFgtRk9Ncl9JMlAxUE1PWVJMQQ?oc=5",
-          "summary": "Página | 12: La otra mirada sobre Argentina y el mundo Página|12",
-          "published": "2011-07-23T13:48:49+00:00",
+          "title": "El Gobierno sin control de la crisis financiera - Página|12",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYUctakk4YVBSUlhDdVVQLWRsMnFDWGl1bndCUjl5N1dwWFdXZ0thdUpkYUVmOVltaUZTTk5tWkZQMjRUcnp1MGZ5NEI2ZlF2dktKX3EtUUJSR1J4dEdIdWVXTVRHbkFCNGFtZW5hT3NZaWxldm1KeEtOR082R2Z2X29NYWd2SkFXblNXQ2x0WVY?oc=5",
+          "summary": "El Gobierno sin control de la crisis financiera Página|12",
+          "published": "2026-11-20T21:25:08+00:00",
           "source": "Página/12",
           "source_url": "https://www.pagina12.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -168,10 +168,10 @@
           "source_image": "https://www.pagina12.com.ar/resizer/v2/https%3A%2F%2Fwww.pagina12.com.ar%2Fresources%2Fp12logo.svg?auth=811d0fc63a912d1f8dc56b650f3a0054e089ac9c81bfee069a62717e10cbb54a&width=1200"
         },
         {
-          "title": "El Gobierno sin control de la crisis financiera - Página|12",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYUctakk4YVBSUlhDdVVQLWRsMnFDWGl1bndCUjl5N1dwWFdXZ0thdUpkYUVmOVltaUZTTk5tWkZQMjRUcnp1MGZ5NEI2ZlF2dktKX3EtUUJSR1J4dEdIdWVXTVRHbkFCNGFtZW5hT3NZaWxldm1KeEtOR082R2Z2X29NYWd2SkFXblNXQ2x0WVY?oc=5",
-          "summary": "El Gobierno sin control de la crisis financiera Página|12",
-          "published": "2026-11-20T21:25:08+00:00",
+          "title": "Aníbal Gordon, el terror detrás de Automotores Orletti - Página|12",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUllfUnhSeWI2ZDMwNGwwR1k0VWVMZmZNYkhXV0ZMb2hOTXlRN0ZvUFJDVE13amRqSGhSSk4ydzBFRTBhNWRHeVhnN1p3WEdEeTJYSVV6ckNfN1kxOERTMk0zXzlzUWdXdlBSVDQyYjc3X2RybC1BVG5pUWM1MG54NGdWcjR5cjF6MTJuaV9KbXRHSmRiWnloeQ?oc=5",
+          "summary": "Aníbal Gordon, el terror detrás de Automotores Orletti Página|12",
+          "published": "2026-11-20T21:58:46+00:00",
           "source": "Página/12",
           "source_url": "https://www.pagina12.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
