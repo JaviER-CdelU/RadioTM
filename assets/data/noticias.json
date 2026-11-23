@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T09:00:21.744132+00:00",
+  "updated_at": "2026-11-23T21:19:39.922887+00:00",
   "status": "partial",
   "description": "Titulares y enlaces; el contenido completo permanece en el medio original.",
   "groups": [
@@ -10,6 +10,17 @@
       "type": "Web",
       "homepage": "https://lacalle.com.ar/",
       "items": [
+        {
+          "title": "DIARIO LA CALLE | El Diario de Concepción del Uruguay - lacalle.com.ar",
+          "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1YZTVnN184M1lOZmp0YlI5c2JYLVNJRDBtbXNXa00tRkRmcWpWS3Q5NUY1N3J5cjlDaEdj?oc=5",
+          "summary": "DIARIO LA CALLE | El Diario de Concepción del Uruguay lacalle.com.ar",
+          "published": "2018-10-23T21:03:39+00:00",
+          "source": "Diario La Calle",
+          "source_url": "https://lacalle.com.ar/",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
+          "source_image": ""
+        },
         {
           "title": "Promulgaron la nueva ordenanza para el uso del estacionamiento exclusivo - Lacalle.com.ar",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOW5PMVN3ZkFFSzFTSTljVmhBbXpLZXM1LVdQZnA1OHhVM1BIa21MV1hyek1BV1dZMTd0d0xTLTZ3X21FNmJ5QW9TaDhuSkphVHFlaWpDbXhZUm5uZU9DenB2bWI1cHpXNjMtb2M5RGY0RWpZbHh1N19BN1RuZ1RjSS13QVZOZGctbFF1TDQ1RXl3Wmp4OFY3QzVwdw?oc=5",
@@ -26,17 +37,6 @@
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcTJsdXpKdFNrOWNqa043UFR5T2ZaeU94YWVqT2k1ejRsbmZPYVVoRGhPME50aTFJS1gxR2JXVGRKQ3NzSHM1clNIUXdVVGpWSkNLRnFpOXlyQVNRSTV6UGZSYXBQOWpOWE9FY3BNN2ZWLWpmMHZ1dG5QOHdQQ1pBaTN4akx3b0pBaWlhNUN3Uk9lQm0yeUlkYm9NN29VSS13RnFGQ1hKT0h0cVpm?oc=5",
           "summary": "“Noche de Velas”: una propuesta para redescubrir el patrimonio del Cementerio Municipal lacalle.com.ar",
           "published": "2026-10-11T07:00:00+00:00",
-          "source": "Diario La Calle",
-          "source_url": "https://lacalle.com.ar/",
-          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
-          "source_image": ""
-        },
-        {
-          "title": "DIARIO LA CALLE | El Diario de Concepción del Uruguay - lacalle.com.ar",
-          "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1YZTVnN184M1lOZmp0YlI5c2JYLVNJRDBtbXNXa00tRkRmcWpWS3Q5NUY1N3J5cjlDaEdj?oc=5",
-          "summary": "DIARIO LA CALLE | El Diario de Concepción del Uruguay lacalle.com.ar",
-          "published": "2018-10-23T21:03:39+00:00",
           "source": "Diario La Calle",
           "source_url": "https://lacalle.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -75,10 +75,10 @@
           "source_image": "https://www.lapiramide.net/images/custom/logo-social.png?_v=v3-27"
         },
         {
-          "title": "Citan a herederos y acreedores por una sucesión en Concepción del Uruguay",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxON2hjVk9CeXVDSHBLNlNyUWpvT3A5SzJwSGY1M2cxUFpvS051TDktNmxpVlgtWktIT3FJcUxLZFUxMXRiSXFOWGVTX2h2ZFk3WXdkYXZ1cmJLdERta0M4N2lJekFlSlRRUXlMQ2taaV9QajZxb0RMS0tTb3Vtb3d2SXE5RGtGS0lqY2lEUGxwbWVHZlRVTjhtaXd0LTNkMWF1b2xDVGdCa21KT21hVEVQc2E0WkhiNW9UUktQN1AwLUdVVk91VkHSAcsBQVVfeXFMTjJhQWd4RFhKR2pOaXc0X0xHQjFWaFFLMm5YMktSXzlzMXVDNVpsQ1NmNDFDZW5EaE5DQkttMXRwYTF6ZG1rbjhKWkpKeTBheFY2TUdEN051US1NMDlKNjYwcWZmcU14TFpLU1JCd0lFcGY5OTh0d1pQX2NTRXBOLWpfalQ3V0FtZkphY25ESGhtYjdiVXBodzh3OFN2UlI5d2c4b0lOX3NKQmNqdkkwT25Ic0pDWGdJVDBtcFR0NFo3cnFTQmszRGtQY0U?oc=5",
-          "summary": "Citan a herederos y acreedores por una sucesión en Concepción del Uruguay La Pirámide",
-          "published": "2026-11-23T02:01:08+00:00",
+          "title": "Boca campeón: los hinchas xeneizes celebraron en Plaza Ramírez",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcDlrMWhTc3RvbDFQNTA3Q2RURVp3ck0tb0wwOWdJSzlJSG9GNGppMnRYcTNkMmZDVEt5cVZqNzN2dnlzdW1hM0gyWVpkTnM5T2V3WXllOTM4ZlhxU2ZtZmJpNWJRNURKYi00dUtWS1ZERHhqbUJRN3RZYjF5UG1lWlJNV0pRM25EcmRuQzRBcGllb3pCVUlCbDN4WHh2X2ZxendtZ3FialdpVXdYYlZVYXhlUjhfUdIBuwFBVV95cUxPQzBhR0Nod3NpbGVIbG5OLTlTakFOLTN6d2pjay1kWHdvNEZqcko1YmhTQjEyOXo1ZXltNDN0dnVKZHdBVjQwXzkzNzFlY2w5RHlsX21rdU42QkVhWDU4VXNEX0ZYYlY3NUlTaFAzVF9mc3NDckYzRWlHTV9sREIxQTVaWkRPQmRQeHNDeGZRT29rR0hSUHlpRDlwekNPcllvWXl3WUZpOFg0ODVsMEhMaG83ZUdLcGhmMmZr?oc=5",
+          "summary": "Boca campeón: los hinchas xeneizes celebraron en Plaza Ramírez La Pirámide",
+          "published": "2026-11-22T13:41:52+00:00",
           "source": "La Pirámide",
           "source_url": "https://www.lapiramide.net/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -95,10 +95,10 @@
       "homepage": "https://www.r2820.com/",
       "items": [
         {
-          "title": "Cuchilla Redonda: incautaron fentanilo y medicamentos durante un control rutero",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOLURiV0VuellVLVVwdnNsTy0tOHRDQU5FTmVuRHBBRWMtSU8wVVdTR0NyNEN5MGk1N2FBUDg5akhGaDdIUE9pUTJyU2NlcW8wVnBEd25JUHVLVGVLV3hyX1lmS3VwMzZJUzEyNWk1ajVIeUpFMnk0SEFTYlJidm5GMWdYQnJnVldKdnpwa2g2dFh0dFpPcXVYUjYteHRsT1MtTGZTZWlmYjJHUXFGZENxdmtnN1hOMGNOTEQzZXF4N0pEVGF5VHfSAcsBQVVfeXFMTndad1BXelZQbmtjLVlIV25fdTFuWUQtbFN4akZ6MjZZRjRZazZLSi1IY1RJazJBM0JQRUxfQ0J2bnB0Rks5ZTY5ZzFCQ2tObHBhaTN1b3VXQ1d3LVJzMGJyejFJVE1ieDlDS25qOEpnVjQwbGVKWjNwWXhDQzQyVjl6ZnJnVFZPa0ZMZVdiT01KSnhxeXM1cTV6OTdOUTNDcWMyd2MwbzB1bGx3bWR2X05uQWh4WDJJaFhzMmtaMnF5MktQRG9rZTdQS28?oc=5",
-          "summary": "Cuchilla Redonda: incautaron fentanilo y medicamentos durante un control rutero R2820",
-          "published": "2026-11-21T17:52:05+00:00",
+          "title": "Larroque: por disposición municipal la policía retiró la carpa de los trabajadores de FADEMI",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNF91eEQxZDhPUmctcHlDNjZFX3VIVjJIWlh4WEQ2aDF4bXZ5YzFpR0t5dXRUcV9Vc2FPOHhtTGU2cWJCR3haamFVc0ZPOUhGSmFPb250QXo3eXgwbVZCNE1GSHNkLV9EbVVCcWhsTnF5MFkxQVZkSENiR01FZzFmTG8zRDF0RmZqb2lDbzRHTkNlbGdnaVYxOGFXc2lTbUFtZlNNYmF3ZkV1VUsySlJZejVhQ09zUFR5SzNLR3V5bG9GcENlTlVqLS11T0ZCY2wwQW5GbkNJNNIB3AFBVV95cUxPdkdjcHpZZzBOSW1iVGhQSGNhRjk4ZUFhdWFtWnFKZE1oZ2tNV1cxYjhUczM5TWFSQm9jN2o4enFCbWlQUXp3MHc4blBNMHlKU3ZOc2VrTGZ4YWpFTlJrRHdPN2Jmd1pfcXVLcEVKeGNxeWZ3R3JpLWtfY2lwcW5KXzI3NVpSRkJQMS1GOHlpQWhqcTF2WlhqWDlmME5keF9iZ3JkdG1MRFRxM3RmQ3Jnc29WUDBPaVRJRWVhOERza2UzLW1MZ21JcnR1ZGFIdGhYeVlqSHc4SmNpWXUz?oc=5",
+          "summary": "Larroque: por disposición municipal la policía retiró la carpa de los trabajadores de FADEMI R2820",
+          "published": "2026-11-23T01:55:09+00:00",
           "source": "R2820",
           "source_url": "https://www.r2820.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -106,10 +106,10 @@
           "source_image": "https://www.r2820.com/images/custom/logo-social.jpg?_v=v3-45"
         },
         {
-          "title": "La Sudamericana de Boca se festejó en la Costanera de Gualeguaychú a pura pirotecnia",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSmlndjZsZmREeVhPcG00bFR5ZXU1Y0w3SVVic09fc3hmU1FrRnpZbUQzbm1oN2wxdW9LV2J2V052TGhrQVhJdy03a0FkN05lMHJEams0VWxkQ3hDNTZvOTZmanZoZm5tYWFzNGZldC1waDRLQnF4eUlNbTBUMXhXOUVkUzVPRTZvcFMtQVVfTEswWDVpZ25UVmNNR3haNGo2bVE1LXlCWExxbzFsRXVOY2lzYUNjTDQ5Y2poWkhwOGJuVXo0eENDSUZHNnY0d9IB0wFBVV95cUxPdklDbFhLdzFKN2tiYmY2amVSbUVvS2lZQ2ZkalFta3FKaDY1YU5LbTVVQndEVGNLQmRvUHZuVXhYUFFDOUp2a2VIUkJVUld2YmJjSUlwNVRoRWp3NE5KTWFobXlrRkNiejlUWTFZelMzRFduNmtEQUlydm5mLVNIeVJhaTFDemRmYndxVVlYbjYzV1htVWRxR2VmSFNUMmppRUxMdEJBemNveGNGWG9SdU12WnRqWFpFN1RlQjhaOTMxVUdfSEUyWnd6QmlHVDJHLU5j?oc=5",
-          "summary": "La Sudamericana de Boca se festejó en la Costanera de Gualeguaychú a pura pirotecnia R2820",
-          "published": "2026-11-22T01:41:57+00:00",
+          "title": "Una familia se salvó de milagro tras el incendio total de su camioneta en la Ruta 12",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPak94Zlh3MHEyOUlkb3NEUjZSUFduWTRfSW1iUThaLWpVV0R0aWltR0puMFRjODdQZ3owMHdabFBsekp1Vm80R1U4Nl8xWHBUSTRlTnVIbG5ZQ2xnM0dpVy1nNG9BOUJGbmxQRTc1eUpJZkVNcC1DalhXZ1pDaXBuMVBpMEVKblB4c1lvSzM1OFVaOFRmVXpQZUtYX1V4TUtnbHpVUzJid0RPLVdRdU1oNVVadzdjc21jUEE1Z0cwZkFfeW9scmw4OFVwNEtmUdIB0wFBVV95cUxONm5zc2F0eXRiRktBVE5zSFBzRkt4WnlRdDVVQUNFTXAzMHY3OEVSUTAtd0RGcW9vMTFXR1ExREl2ZjI1T0IyNm1vUEdkeEItN24yMENGWEhvRktLWFlYYjhQMGFhNlM5c0tlY250WWpxVUc4M2hWMUJvRmlpLXJqckYtbllGWF9jWXAwTUIxbVdtRnVVVUdZc3RNb3gzSWZvVzlnVzZIcG5aMzdBWVphSFBGSEVva1pCSkFVN0xWQmtMSHdJRjVYYlpkZTEzLVg3ZzRr?oc=5",
+          "summary": "Una familia se salvó de milagro tras el incendio total de su camioneta en la Ruta 12 R2820",
+          "published": "2026-11-22T00:48:34+00:00",
           "source": "R2820",
           "source_url": "https://www.r2820.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -126,10 +126,10 @@
       "homepage": "https://www.elonce.com/",
       "items": [
         {
-          "title": "Balearon a una mujer en Paraná y, en represalia, incendiaron el auto del padre del sospechoso - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNUNRTkZvQ0hEYXF3anRKNVhZdWFlX1hZZzNpMzh6UnUyWlB3Q0lmRVpxMzV3NjUxVk1vNmMxTm0yRDdlSVdnVEdIN1NacXVYWHdGTTdtRG1tM0V4UkVVZ1RYQ05iN0hzUGxHS0t6ZnVZdWlaanFoNXI1MmlvZXpWN3ZKQ2pnQmZBSXBBbHEzUWdGNENiZUHSAYwBQVVfeXFMT3ZDTmNkY1h1cHEwT1MzaW10anhveHlDcDVzYnRGWExfUFllWHNpVWRabVp6d2ZYYTZwZDMyYW1UaDNSWUF0RkFwcjRNaVBFcmMzOHowS2NhYWp6cC1leDdGUTlKU195cTVGcExobFBVdGdPRzdVek9vMXZaZ3ZnNm9ubWlyQmVpNllDZ0c?oc=5",
-          "summary": "Balearon a una mujer en Paraná y, en represalia, incendiaron el auto del padre del sospechoso Elonce.com",
-          "published": "2026-11-22T14:46:40+00:00",
+          "title": "El Nacional de Slow Pitch femenino reunió a equipos de todo el país en Paraná - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMGNXcXdjOThFTTF6LXAwcGM5TGNkNXlyeXNlWHlWWUtKNUdRcTRXMWlwUVdleTgyNWtleTlfY19ZWEE2Z25mNmR6UHR1dG96LVB4dFVyNmJ3dkRlQXpJd205UkpDMDV2LVB0TEdkdHdUd2JTY0psOUphalNwWDBWeUZKMEpUT0ViQ3dGei1fdGUzSUVORk9PVjhKT0k5VXlncDJWVEdDWlZNUkpLRkNpV3FEZ9IBrAFBVV95cUxOWlFrcXhVTHhxOTU0NVVTdDNua1o3c0gtamJXelRmU3J0cWRHenJyRFd5ejNPb0VzVk9hNWw3NVk3STNWYWR6RGF3czcyVldINS1tY1MtWENxak9udVFNbGx6bFh0RlYwM2pkY05ickNZUHF6ZUEwX1hGdk1oVU5pcWt0QlVrb0RNTjV1TS02NzY0aXlXTnhiYkFZakdETlB6LVNCREZTMDFGTlp1?oc=5",
+          "summary": "El Nacional de Slow Pitch femenino reunió a equipos de todo el país en Paraná Elonce.com",
+          "published": "2026-11-23T18:29:00+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -137,10 +137,10 @@
           "source_image": "https://www.elonce.com/galeria/sitio/marca-de-agua4-jpg.jpg"
         },
         {
-          "title": "Humor - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGZEVsaWl2LU4yS29KdzJVT1ZyMUtFTlo0ME5mLWYtTHZWSnBzVl9pUmNZZ3FKY1RvQnJGaXV4RFVhZzQ4cVdGZHdJYkNPRWxwb2NR0gFQQVVfeXFMTmZnbFNJUlROX1JKb3YyOHJMZl9xVlRwUXZMX09CRTRXYkFEaUNIOXExa2dpUllkZjFWVU5QaW01NzFEZEdBSnZBanBaRWRHYkk?oc=5",
-          "summary": "Humor Elonce.com",
-          "published": "2026-11-22T17:05:26+00:00",
+          "title": "Más de 500 personas participaron del Encuentro Nacional de Teatro Comunitario - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOXRTYjZNRVFZWnZpQVVQUERWRGs1TVYxbWpkVGJib3lVSzIxX1djdnFrcEtueTVZQXlIcUZ5U29mZlMwcVdWOGJsWTM5YlRKTVI2Q0VJTUR1SXJudUlQQ0xCTDNjVHFUbGN0Q0ZSVEJraVlzZ1RRWjJXZFNLbE11UldkdDJXVGk0ZnNDY0RPOEktREhIdjVXT05yckswelozMlRsYVJ1aU9QWFUxTS1DR3BNUmdReDljYkxGZmJWbk3SAawBQVVfeXFMT1JDWk5LY2xOdmhZQWp6VEZrUjdXTHNPVG1mOUpOV3JucW00YjVMMk5jb0ExVWtoendDaVUzVU1IcXBPR2w2VnFlR0lod01JU1FHeC1XcUZHR0xVU1JxRF9idVZrNTdEYWJCQU5DNkNRMzh6d2NYaFhFckJwZTlIbzhoZmpZck9FX1hhTm15OC1jcGpPZWMwcWcyUkxVOHQ0ejVwOW9oTF9FVjA3cg?oc=5",
+          "summary": "Más de 500 personas participaron del Encuentro Nacional de Teatro Comunitario Elonce.com",
+          "published": "2026-11-23T17:27:00+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -157,10 +157,10 @@
       "homepage": "https://www.pagina12.com.ar/",
       "items": [
         {
-          "title": "Lógica de un cachetazo anunciado: Argentina se quedó sin ascenso en la Billie Jean King Cup - Página|12",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOX3JrWXhVcE54MDhhQm9seE4teFlNTWw3bFl6bHNKdmVmcDNlQkJzN2wtTFNUTmhQUGRRTzAtbVJiLU9tRmk3T1EtRUVJcUhsRzdGVThOeHgzTkNIaEVxYlpRNzl1aHFBUGhvSldRclRIZzFYMmI1ODJ3TEh6UzVDTUlFdlFHZS14Vjd1NEZfVV9qQVVZeTdUeHByaURKcEdrMWh0Q0Z6eWhGUEZBdGJrcTFhRHNxNXlDNlRNQnJkNEpHbVRwUUw1b3B3?oc=5",
-          "summary": "Lógica de un cachetazo anunciado: Argentina se quedó sin ascenso en la Billie Jean King Cup Página|12",
-          "published": "2026-11-22T21:33:28+00:00",
+          "title": "Aníbal Gordon, el terror detrás de Automotores Orletti - Página|12",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUllfUnhSeWI2ZDMwNGwwR1k0VWVMZmZNYkhXV0ZMb2hOTXlRN0ZvUFJDVE13amRqSGhSSk4ydzBFRTBhNWRHeVhnN1p3WEdEeTJYSVV6ckNfN1kxOERTMk0zXzlzUWdXdlBSVDQyYjc3X2RybC1BVG5pUWM1MG54NGdWcjR5cjF6MTJuaV9KbXRHSmRiWnloeQ?oc=5",
+          "summary": "Aníbal Gordon, el terror detrás de Automotores Orletti Página|12",
+          "published": "2026-11-20T21:58:46+00:00",
           "source": "Página/12",
           "source_url": "https://www.pagina12.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -168,10 +168,10 @@
           "source_image": "https://www.pagina12.com.ar/resizer/v2/https%3A%2F%2Fwww.pagina12.com.ar%2Fresources%2Fp12logo.svg?auth=811d0fc63a912d1f8dc56b650f3a0054e089ac9c81bfee069a62717e10cbb54a&width=1200"
         },
         {
-          "title": "Aníbal Gordon, el terror detrás de Automotores Orletti - Página|12",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUllfUnhSeWI2ZDMwNGwwR1k0VWVMZmZNYkhXV0ZMb2hOTXlRN0ZvUFJDVE13amRqSGhSSk4ydzBFRTBhNWRHeVhnN1p3WEdEeTJYSVV6ckNfN1kxOERTMk0zXzlzUWdXdlBSVDQyYjc3X2RybC1BVG5pUWM1MG54NGdWcjR5cjF6MTJuaV9KbXRHSmRiWnloeQ?oc=5",
-          "summary": "Aníbal Gordon, el terror detrás de Automotores Orletti Página|12",
-          "published": "2026-11-20T21:58:46+00:00",
+          "title": "Lógica de un cachetazo anunciado: Argentina se quedó sin ascenso en la Billie Jean King Cup - Página|12",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOX3JrWXhVcE54MDhhQm9seE4teFlNTWw3bFl6bHNKdmVmcDNlQkJzN2wtTFNUTmhQUGRRTzAtbVJiLU9tRmk3T1EtRUVJcUhsRzdGVThOeHgzTkNIaEVxYlpRNzl1aHFBUGhvSldRclRIZzFYMmI1ODJ3TEh6UzVDTUlFdlFHZS14Vjd1NEZfVV9qQVVZeTdUeHByaURKcEdrMWh0Q0Z6eWhGUEZBdGJrcTFhRHNxNXlDNlRNQnJkNEpHbVRwUUw1b3B3?oc=5",
+          "summary": "Lógica de un cachetazo anunciado: Argentina se quedó sin ascenso en la Billie Jean King Cup Página|12",
+          "published": "2026-11-22T21:33:28+00:00",
           "source": "Página/12",
           "source_url": "https://www.pagina12.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
