@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T15:11:56.284747+00:00",
+  "updated_at": "2026-11-26T23:50:15.513319+00:00",
   "status": "partial",
   "description": "Titulares y enlaces; el contenido completo permanece en el medio original.",
   "groups": [
@@ -10,6 +10,17 @@
       "type": "Web",
       "homepage": "https://lacalle.com.ar/",
       "items": [
+        {
+          "title": "La Nube puso en marcha un programa de capacitación para empresas locales - lacalle.com.ar",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU2Q2VXlDdS1oNWNzZEJ6a0lBYW94SGdUZUZaWWg1dFQ1N3U5ajkyb2wzLTR5cVlsRWprUEMtY0EzdEMtNmx2c21MTVpzaGlsakNtZDFoQnZCZl9uanZycE4xM1NwbzV3Ykp1Vy1uWHAxMlNySndCUTJUNjBXTVJrenZNWHYtUmZYa3VGOEUxQVoybHRQb2JNYTJGaTg?oc=5",
+          "summary": "La Nube puso en marcha un programa de capacitación para empresas locales lacalle.com.ar",
+          "published": "2026-11-26T18:34:49+00:00",
+          "source": "Diario La Calle",
+          "source_url": "https://lacalle.com.ar/",
+          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
+          "source_image": ""
+        },
         {
           "title": "El CGE ofrecerá una capacitación virtual sobre alfabetización en la formación docente - lacalle.com.ar",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdWFmc1diSmRpLS00Qzg1ZnhxV3BhaUhaM2pJWkJrVXlwTHIzV2pzbS02cWMzQ1ZCYkRYUThEbUZEZXpXT28xUi0yaFhaRG55U2s2Ylc2SGdYNi1oTU5kSGxRVGFfRFNFdjhlc3VqSzVyTWJXWFRIcy1kLVVPQl9uUXFNaC1MM1FScXBMVzU2cWxEeXBJT1c1bTdlQnoyN041SV9jVjM4UW1CX2dpZXc?oc=5",
@@ -26,17 +37,6 @@
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNm9ELXJ2VGFfUjNTWlpUMnl4bjE1QnhEa2c0eXNKSWhXTjVBVXplMlFaSjAtcWdfT29RWVFxd3dQMXYzY2ZQd0c3RHR5R0pJdjJHU1J6ZnllREpkdGRSN0hEQm1Zcmtvdk9GM0ZURUo0cnhJNzJ5RWZRT2VfV0Q2YTA2NVEtLVhNZjNjNHZjY19aSkNnQVBoVWNRaXlYcUR6WVlaZ2EyNDl6eTVISGZRUjBURQ?oc=5",
           "summary": "Se disputó la primera fecha del Campeonato de Ciclismo Nocturno en el Velódromo Municipal lacalle.com.ar",
           "published": "2026-11-25T10:23:14+00:00",
-          "source": "Diario La Calle",
-          "source_url": "https://lacalle.com.ar/",
-          "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-          "source_logo": "https://www.google.com/s2/favicons?domain=lacalle.com.ar&sz=128",
-          "source_image": ""
-        },
-        {
-          "title": "Concepción del Uruguay será sede de una jornada por los 20 años de la Ley de Educación Nacional - lacalle.com.ar",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc05yWVk5ck5pLWpaVUdBZDVaTVRPS09wRVYwNFZ2V3J3QS1TUDhKNTN3YnBjcXctMjcwdWZ0SHIyVy1qQ180Z0F0elROSGwxVWcteW5lTndVeUNnV3JuTDhLY3UybVJtSVdtMlRjMXltODMtQVFOSDNpSlpHWXhVZW82MkFWM1liRVRocmpTbkVid0JYVjZtOFhiLTFGNlUzMWlVU0RBMy11eWtuaU5ocVJITGhFQUJMVk1j?oc=5",
-          "summary": "Concepción del Uruguay será sede de una jornada por los 20 años de la Ley de Educación Nacional lacalle.com.ar",
-          "published": "2026-11-19T23:44:02+00:00",
           "source": "Diario La Calle",
           "source_url": "https://lacalle.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -64,10 +64,10 @@
           "source_image": "https://www.lapiramide.net/images/custom/logo-social.png?_v=v3-27"
         },
         {
-          "title": "25N: realizarán un homenaje a las víctimas de femicidio en el Cementerio de Concepción del Uruguay",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMGtxZE9nTG8ydFNDeWZtVzcwZm5lMXZYTjNlM2FXSllpUGw0Wm40SUtscEowLV9FUl91N1JvVmZ3aTZSaTZOaU5YMS1sbzItZFVYWEw5bFdoY2hQSGIzVXRGd2FsbXJSTi1fVzZXcXNIUTdEb1RyRUF3SG5aaWVReE41Q2VhR1RNWnMtUDhGLXIxQUdxNGJ6TkVjUzB4N1JSSFVZTGxEdWdDMWMxY2oxLVIwSEpfemhyYTRRWDd5R2RLRXNzcGl2NWwxVGNFdk9XbDFUQ2NtZGVWS3k2YWwtMW5COVQtUdIB6wFBVV95cUxNQUNET1d4bTI0RzNySy1SMmZZV2t0WjdaZDhBRFRrWEVHajNjeHpkMTBBZFRaRU13UU02YTdjblpQRzhvQ1M4cFMxa0RLME5Kc1NMX1R5ZjJLTXduLWg2TGFtRDRZdXVodG4ybXhRRHJVVFFEVXU0MkNoeW9OMkhaN21md0hZTUc2andLVVQtd2lsaHBITHhMZWZhcjZhMDFlaXl1aHlhdUtGdEVSaWxGSzJkRFhkR2Y1WW9yNnRFdmVYcXZralBRNXR4M2F3SFdIY0FsRFpqQUktTks3WnFKYmhDaVZFenJhdm9R?oc=5",
-          "summary": "25N: realizarán un homenaje a las víctimas de femicidio en el Cementerio de Concepción del Uruguay La Pirámide",
-          "published": "2026-11-22T22:57:28+00:00",
+          "title": "Rumbeando ×4 convocó a vecinos en el Multieventos por el 25N",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPamtRYnlxOXNtSGNRbjFsVmFfbWtDSDJNX0szWEJlcURCNktCUElERFliVVN0NURrcXNkSmowYXhldmFHeVJYN3JSekZORUJMcmJnbGpQcmpkb0dmM0hZLUJxWmZINlVxWGE1RWVvb2xjOWVnSU84V254M1d5bTRJbllYZl9xLWRjNzN5MGdjdU0yNUhKeGkwb0ZlVGlsWVN5Q2VKclNwZ0JwLVdfV0tUd01FRdIBuAFBVV95cUxNQVZyZFNMTjY4WlJTM3RIV2FET25ra0hRbHRlSzdlOGhybnI4Z0xFNDlLN1VybTFPMUlVQ09JSFhsR2E3WGdkSFIzdmNET3JVcTY5NzZfNnFkM3lSY0dNLTFSTjJtM0FGRnpFWmFKNkVpWGw1YVRQT3BzOHdqTXJJazBBSzcxVlpSV1MtbDE5V2hsQ01Zd1BBMGtPandaaGdWcFE2OUVDNVpva2wzbGw4M1hSUnNtd2lv?oc=5",
+          "summary": "Rumbeando ×4 convocó a vecinos en el Multieventos por el 25N La Pirámide",
+          "published": "2026-11-26T13:12:13+00:00",
           "source": "La Pirámide",
           "source_url": "https://www.lapiramide.net/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -75,10 +75,10 @@
           "source_image": "https://www.lapiramide.net/images/custom/logo-social.png?_v=v3-27"
         },
         {
-          "title": "El Municipio avanza con trabajos de limpieza y acondicionamiento en Itapé y Banco Pelay",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdmo2MHVGZ0hzWlBMLUFwZ3NHU1dKVHRhUTBnU1BJclQtRHV4RkZBcUdBRDl1YjhHXzZRQTNreHc2Q1RTaGY3b0hFc1lmeTdNWVBiekpNMWZSUjNSS3NWRmxpUWwyX1MwZVQ2Q1RsZTljbGN1b1lJa1JxbWZnbDRxSmlfeHRmZGZZdHJyZUxTZS1XWTdnaHNxRGI5ci1KVzg4cWdvVlpveVdFTmNvbkNkRkR4VFcyRmJ2cG1LaG1aOGNiVHVMMTE1dlJNb3doQXBLMTV0N2NwMHPSAd4BQVVfeXFMTXFEZkxwbVZfVkRYRWVXMXlEbm5kZFdyejd1M0Y4M3REeEg3cVlfUmJpZGpwcVg4bTR3aTNRTlJleUN0TW1zYk1vUkdRd0Jlc2pvdVBqeXpTdjNiRU81TFA2V2ZTZnk3OEFYejFLSXQ2MVVoYmMyakdoTGJ2LXFxMC1PQ2QxeVZrMFU4bDNxdFlMUGg3RFYtMGpxUExDSTZBZU50alJNM2tpeXdZRUpKTTQyV1l0c3JHWE52V1RhLW9fb1lfMWlHb1lHY3ZGd1VfZVZkNlVwMkdrNDdjd0hn?oc=5",
-          "summary": "El Municipio avanza con trabajos de limpieza y acondicionamiento en Itapé y Banco Pelay La Pirámide",
-          "published": "2026-11-25T19:22:25+00:00",
+          "title": "25N: realizarán un homenaje a las víctimas de femicidio en el Cementerio de Concepción del Uruguay",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMGtxZE9nTG8ydFNDeWZtVzcwZm5lMXZYTjNlM2FXSllpUGw0Wm40SUtscEowLV9FUl91N1JvVmZ3aTZSaTZOaU5YMS1sbzItZFVYWEw5bFdoY2hQSGIzVXRGd2FsbXJSTi1fVzZXcXNIUTdEb1RyRUF3SG5aaWVReE41Q2VhR1RNWnMtUDhGLXIxQUdxNGJ6TkVjUzB4N1JSSFVZTGxEdWdDMWMxY2oxLVIwSEpfemhyYTRRWDd5R2RLRXNzcGl2NWwxVGNFdk9XbDFUQ2NtZGVWS3k2YWwtMW5COVQtUdIB6wFBVV95cUxNQUNET1d4bTI0RzNySy1SMmZZV2t0WjdaZDhBRFRrWEVHajNjeHpkMTBBZFRaRU13UU02YTdjblpQRzhvQ1M4cFMxa0RLME5Kc1NMX1R5ZjJLTXduLWg2TGFtRDRZdXVodG4ybXhRRHJVVFFEVXU0MkNoeW9OMkhaN21md0hZTUc2andLVVQtd2lsaHBITHhMZWZhcjZhMDFlaXl1aHlhdUtGdEVSaWxGSzJkRFhkR2Y1WW9yNnRFdmVYcXZralBRNXR4M2F3SFdIY0FsRFpqQUktTks3WnFKYmhDaVZFenJhdm9R?oc=5",
+          "summary": "25N: realizarán un homenaje a las víctimas de femicidio en el Cementerio de Concepción del Uruguay La Pirámide",
+          "published": "2026-11-22T22:57:28+00:00",
           "source": "La Pirámide",
           "source_url": "https://www.lapiramide.net/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -95,10 +95,10 @@
       "homepage": "https://www.r2820.com/",
       "items": [
         {
-          "title": "En Gualeguaychú, YPF inaugura este jueves su quinta estación Black",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNS2c4d0JBQzhZM1hrekJPSFMxc3RLcGF6QXhpMDc2dnl4WndLZW5ORmN3MDFySDc4Zjl1cTdGb3NBNVZJUWEtMm5xWTRsRVJFSG9YUjhEREFiaWtkNUZXVlZtbXd6RTRkSEk1YnhPWkk1T1lWSnNMVjV1a3A3NUtWeGxtOGxuV1FrSlVGX1NRdzFPYWNBOFBKNmtjd1F5NXdYVVhXTGFKZjhBNzdUY083OEZ4N2PSAboBQVVfeXFMT2R3U1FleTVBUkNGWjUwLUFnYnlOVm1HT2RUNHk1cmpiR2hhcTBqUUU1NUp6Nk1TSS1FejlhSlhnRVdjTVZkeF9oZkd2WWs5LWRXSURrOHRpTHNKV000d1pvaXlmNkJlVFhhMVh3ME1xbk5nY2ZqR0prQm80MFdKNVRFRjNvRTNvWXI0Q2NDOFhKZVF4MnNfZDRmSEtUdkpyVUN2OENmQmVuY3JWOTJVRmpidHpvMWszcjVB?oc=5",
-          "summary": "En Gualeguaychú, YPF inaugura este jueves su quinta estación Black R2820",
-          "published": "2026-11-25T19:32:46+00:00",
+          "title": "Un gualeguaychuense apoya prohibir las terapias de conversión",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd1hKT29vaWo2enlHSlRaU0czSUhWd2YwajdJTElBaGRSejBKSElfZldJVzZybk9TM2pkV09oS2kxWnAtVEtJSjRoSHZyYTNNdGdsVU9qVi1uOWZmUkxiSGxIWGV4VW5TaHlzRnNwZFJ0V3V5S1ZJRnZGZG0tbWx5QUQteGl2Ym1zNmpQczZGM2FVUURBOXBlSTNacUNPOGU3VzRPT3NiN2hNUzg0TlZj0gG0AUFVX3lxTFBjaUFYM0tMTlhscC1SWEd3OUVtdkNHVUJ0LTJPanV6Q1dhSWlXRmRqQWpKZkFOWjVCbE91MWdmNzE2TjJaN2JfY0wzREdDUG43X25abFdPWDE3NXhtbjNqalNrZ0NnN1BlWFRwd3NZUEFMSlJpNXRLTEFUR21CYmhmTGc1ZDN0Q0tBQ0FPUHl0NjBZdUdMOFowcG00VEVsNENXMmlOa0tfWkU5LVpjYUx0NFpKMw?oc=5",
+          "summary": "Un gualeguaychuense apoya prohibir las terapias de conversión R2820",
+          "published": "2026-11-26T14:12:56+00:00",
           "source": "R2820",
           "source_url": "https://www.r2820.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -106,10 +106,10 @@
           "source_image": "https://www.r2820.com/images/custom/logo-social.jpg?_v=v3-45"
         },
         {
-          "title": "¿Por qué Kamarr abrirá el desfile del Carnaval 2027 en el Corsódromo?",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMzBsYkhJTUlWdXItSkFPY1dLSV9wMnEtZTlMelkyeEdEb1p3TTQtZmZjYkJYbXNLaGNRR3RsSFhPVHVfclJmS0Y4N0lkVl9YZk1RX3hfVUJXN2U1U085blROdVhkcHhJcGl1cTFKYWQxa0Y5T05aR3NXbE1lZ0FDWnVySjJaemJRRG9yZHQta0dwRno0OEprWXh5TzBpLUc4d0dtV3hsakJIaTg0RnhnWmlSQmNObjTSAbwBQVVfeXFMT3lkR0N6RkpDSjZaWVlkbENrUWJUeVlzZTRVOXN3Z3R4R21oTjllS1k2ck1mSkhlODA1VlFDZGJjeE9QM0lLd21jb3dFeklrdzMyYlFhMlY0aC16dFNKTHFvbEQ2MmkzNDZmQXhqWEtDdVRONDUtcVk0RUtKNzB6RUl1MFdYNFQxYUxHcnNnTHJRc1ZXVVNqVGM5YVBPUHhwNjYxSHdJVmJVbnVYMmU5OS1TSFBGTHFIdWcwWUQ?oc=5",
-          "summary": "¿Por qué Kamarr abrirá el desfile del Carnaval 2027 en el Corsódromo? R2820",
-          "published": "2026-11-25T11:15:45+00:00",
+          "title": "En Gualeguaychú, YPF inaugura este jueves su quinta estación Black",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNS2c4d0JBQzhZM1hrekJPSFMxc3RLcGF6QXhpMDc2dnl4WndLZW5ORmN3MDFySDc4Zjl1cTdGb3NBNVZJUWEtMm5xWTRsRVJFSG9YUjhEREFiaWtkNUZXVlZtbXd6RTRkSEk1YnhPWkk1T1lWSnNMVjV1a3A3NUtWeGxtOGxuV1FrSlVGX1NRdzFPYWNBOFBKNmtjd1F5NXdYVVhXTGFKZjhBNzdUY083OEZ4N2PSAboBQVVfeXFMT2R3U1FleTVBUkNGWjUwLUFnYnlOVm1HT2RUNHk1cmpiR2hhcTBqUUU1NUp6Nk1TSS1FejlhSlhnRVdjTVZkeF9oZkd2WWs5LWRXSURrOHRpTHNKV000d1pvaXlmNkJlVFhhMVh3ME1xbk5nY2ZqR0prQm80MFdKNVRFRjNvRTNvWXI0Q2NDOFhKZVF4MnNfZDRmSEtUdkpyVUN2OENmQmVuY3JWOTJVRmpidHpvMWszcjVB?oc=5",
+          "summary": "En Gualeguaychú, YPF inaugura este jueves su quinta estación Black R2820",
+          "published": "2026-11-25T19:32:46+00:00",
           "source": "R2820",
           "source_url": "https://www.r2820.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -126,10 +126,10 @@
       "homepage": "https://www.elonce.com/",
       "items": [
         {
-          "title": "Quini 6: un apostador ganó $1.100 millones en La Segunda - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWGFpd0c0TDNrVmZhVnZLNm5FWXJ0R3BUS01YY19qQllKQXhDTUpZWThmay1NQ2FGVG9OZk4tZ2hMblljRmpSNm40bXJLcTYweTZCU0FqQ2RLaUwtWGZZM1lDclgxVEVyOEd0NGJKUjBlandiYmttN2tHQUJpZUVXQTdtSjVIVlFydVl6ZkRDak5zUUJm0gGOAUFVX3lxTE83UWtBdTNuLWF6RmV3STRWRXc3VkN1bUVDYlVhYTRnSTRJbnlPbWt5LVNtSElSY1VCZE16X1J0bmR1d1BSZ29LQk55bTI2ZURQajhScV9qSnBRQmlMYmxVeXpnLUZTbzZhU0MxcGpRTlUzZnpRRWN1M0FXLXFpYmJlLXg0bzZSY0FaVGVTYlE?oc=5",
-          "summary": "Quini 6: un apostador ganó $1.100 millones en La Segunda Elonce.com",
-          "published": "2026-11-26T00:29:54+00:00",
+          "title": "El Municipio de Paraná dispuso un aumento salarial del 5% y un bono de $150.000 para enero - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSmNuY2NnQnYzZmhWMVlERzltSnp0ZVVUM1NTMjA2X0tKRnkyc2FScF9RXzlQbHVRSVQ1ZGUwVDNQTm5wZGRvRkc4bEFEMktRR25jUXBGMFN4T09WYlprdnQ3bW55VjdiRE5JR0xHR2oxb20wY0RRdnVCMFRHQ0dFQ1JITGNYMDQ3MGhFY3o5NlJoaFZjanIwU1Q3bEFWVDZFVkNpaFZRZmY1c3ZmQ0dpLWFidnFqVmpRcEpGNGYwMNIBuwFBVV95cUxOQ2FzRUVSY0VQVTd1SF9HNlFCVzhDM2F6SjhPcHdMWEZRamw0eFpxMHNOOXA4S0l0azdwcEVtSTRrYjBzay1xSm5MbHluaWpYeTVhOHlzTC1mZmwwZkhyWUJuWEo2WDFubHh0Q183WnRhWmVacWNZbFpxbWZSZG1HdWw2T0ZNVHhHV3IwdThERGt6MjdmMWV3TjF2Tm9IMDYxNndtMHV3UFV6Q0F3dWdBRUhJNDNOU2lBVmVB?oc=5",
+          "summary": "El Municipio de Paraná dispuso un aumento salarial del 5% y un bono de $150.000 para enero Elonce.com",
+          "published": "2026-11-26T17:29:18+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -137,10 +137,10 @@
           "source_image": "https://www.elonce.com/galeria/sitio/marca-de-agua4-jpg.jpg"
         },
         {
-          "title": "Joven paranaense perdió la vista, sufre intensos dolores y necesita ayuda para continuar con su tratamiento - Elonce.com",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeDFkaU5HWENHbEJfZ2VsX0dYTWc1NENCY0xpTlMyN0lSYWs4TmwwT05Cb092RGZFRGtJSmVvbW1ndGVpMVJFQUUwNGRGYkxhX3p5cGdqUF8xOTl0M01jdEFvYmRBd3IxWjJxN1ZtV2N3VGR1WWJYdS1wbkN6NHFrQUtUZElUOWxkYTVDQjF2VTRuRVN6Ym8wSmtyeWN5U1J4Vjltb0hrWlkxcUZZUjBwSk5VU2JZZV9BSkUzU05PT2VjMHBzZXphcWZsM3dMOEozMHJ3eEJyWdIB0wFBVV95cUxOOF96eG5pNnRyZVQ4WmVWS2NyWkFMU0ppUl95M0MyTzRwc1NQU3diVFlhY25kSm1TUE9rQmw2U3hPeDN6Si1TY3BlMFdmZm1LQ0p1QUhaenlQLVZPZkZCLWpLYlBramhNT2N0eldGdnVKa0ZDQVJiSGUyU2hWUlFhcHp6alU3aHRFTlhoZW9KQ2NTdmJNcHJfSkxDUExGTGVON1ZQYi14VlA1ZUZmWllKbGNiVFRmQTZGbmZtbUR3Y1h3TjkwYmcyQzZBMnhnVm9hTGVV?oc=5",
-          "summary": "Joven paranaense perdió la vista, sufre intensos dolores y necesita ayuda para continuar con su tratamiento Elonce.com",
-          "published": "2026-11-26T00:51:00+00:00",
+          "title": "El aeropuerto de Paraná duplicará su área de embarque para recibir más vuelos - Elonce.com",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMG5TVDQwOEtBY2NFVTh0TTV5R3Y0dmRTRUtsXzgtZFJUbXppTloyTUZHZWhmaTg2ODJsTUJqMzk3U09fZVlUa1JzV0ZhZHVyU2lKRzUzZnRJcFR1bXBxTkJscEJwYmF5RzVyVkxkZUY0ajhnYlYwVkt5UWNRQ25XeWdURWpidVp0TElXSjhqcmtCaDN5WWJwOEhn0gGTAUFVX3lxTE9mQ1I2cVN2YU9vQ29xM0gtSWtDSlE1RF80WWV3djlyQUZRaWF3Wl84dF9YNjhHN084SFRIZ2VTMWdobmZBZTBTMnN2N0VRM18xOWFDTDh4cVhjd0VoRks0ajI3aVVnYmJja2ZMZzJIWnQ1ZkFEZ3JtZUtvbVMzTE1tcEd6VE1pcTkyQ2Z2dlVFam1wQQ?oc=5",
+          "summary": "El aeropuerto de Paraná duplicará su área de embarque para recibir más vuelos Elonce.com",
+          "published": "2026-11-26T12:59:42+00:00",
           "source": "Elonce",
           "source_url": "https://www.elonce.com/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -157,10 +157,10 @@
       "homepage": "https://www.pagina12.com.ar/",
       "items": [
         {
-          "title": "Brasil retira definitivamente a su embajador y se profundiza el deterioro del vínculo con Argentina - Página|12",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYkhfOGhXN1o4TmRMbWIyNW5YV0dJRkREbzB1NlVUbXBqTHVpTVJlQVJNWjhmcmlTZUpkZEpvMDhsSnZQeEVBZTZwTk9WcFJkQVNHaWpmbWxMZWI2YUtYNk9IWGN3U0s4ekR3eUFzQ1l3QjFqclI3bVNaN18zV0lFcVpadTJIRlZOdy05bUxoV3A3Y3hZQzJ2aUx4Vml6b1ZqSXBXbkV1WG1NRHE0X3kzNHVqYmlybXgzeW9relc2VHhDZUUydHMtMTlfWmt4cjFpalNRRl9IblFvQQ?oc=5",
-          "summary": "Brasil retira definitivamente a su embajador y se profundiza el deterioro del vínculo con Argentina Página|12",
-          "published": "2026-11-24T23:42:08+00:00",
+          "title": "La trastienda de la Copa Davis 2016: el triángulo político que construyó la gesta - Página|12",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYVlkcEZDeS1VSUd4UEFmeEVXZTc5V2w2alBnU3FZQy1fSUZGZFlyWmYwdFd3V1M1N19RTXRwS2V2d0FEUXRDeGpycHRUbGZIVzNhMzJhMUVWOVk5Q1FBbmUyQTYzUjdPbG9LbS1Kb0prVy11anEzMkVPNzVZUldwSzdRdXd3bXlid1U5ZHNNTE9WYk45MzQ3TVdxTU5ONFJaUVJZWjNPSVVKWE9DZm9DU2gxdjNwSUJCNWFFRg?oc=5",
+          "summary": "La trastienda de la Copa Davis 2016: el triángulo político que construyó la gesta Página|12",
+          "published": "2026-11-25T19:13:33+00:00",
           "source": "Página/12",
           "source_url": "https://www.pagina12.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
@@ -168,10 +168,10 @@
           "source_image": "https://www.pagina12.com.ar/resizer/v2/https%3A%2F%2Fwww.pagina12.com.ar%2Fresources%2Fp12logo.svg?auth=811d0fc63a912d1f8dc56b650f3a0054e089ac9c81bfee069a62717e10cbb54a&width=1200"
         },
         {
-          "title": "Preservar el legado gráfico del Negro Fontanarrosa - Página|12",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVndpTm1JeWQtRlJ4U0kxcmxpazl0OWxQVDlkczF6MjVDRl9YZGIwNkl0andyeVRqM3JBN09vQ3VEdWdzZmg3b2pRSXV1ZWVqQmd4RW9UYjJZYmlnaXdSS0lsc0tiWmE5dWxqckJUbnBDYTR3aFlPTDJlQmZXRkhPVVpRTG41dDlGTnFUVEY4SUozTVlK?oc=5",
-          "summary": "Preservar el legado gráfico del Negro Fontanarrosa Página|12",
-          "published": "2026-11-24T22:01:00+00:00",
+          "title": "Cristina Kirchner compartió un posteo que desmiente una supuesta frase suya publicada en Clarín - Página|12",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOLTZYMmtJRWJoOHVlaDNRSjgyR3E4cVluWWZTTUpWRTl4ZUJpM2FDUDNoenZ4V3l5dVhocFdEZndiTkpHU1RGbnJUajZTSU1NMFBONkVLZ29pTFUwSTUtUVZEY1NzT1R0RGg4VGNHX0F3ZDdHX1V6eG9OLUhJbXNIX0Y1UTRoRDROdGpvOXZpZWtfSHJmNHEzUko3SVlMZEEyV3dWMWdNMlVBZ25sMFAyVEtiY3RwNVl4dDdreVpPTUNKZ29YREJ2OEFOMWxvdy1B?oc=5",
+          "summary": "Cristina Kirchner compartió un posteo que desmiente una supuesta frase suya publicada en Clarín Página|12",
+          "published": "2026-11-22T23:54:41+00:00",
           "source": "Página/12",
           "source_url": "https://www.pagina12.com.ar/",
           "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
